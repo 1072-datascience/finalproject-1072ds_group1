@@ -4,11 +4,12 @@
 * < name, student ID1 >
 * < name, student ID2 >
 * < name, student ID3 >
+* ...
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
 
-### demo 
+### Demo 
 You should provide an example commend to reproduce your result
 ```R
 Rscript code/your_script.R --input data/training --output results/performance.tsv
@@ -43,3 +44,10 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
   * precision, recall, R-square
 * Is your improvement significant?
 * What is the challenge part of your project?
+
+## Reference
+* Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
+* Packages you use
+* Related publication
+
+
