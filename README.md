@@ -1,10 +1,10 @@
 # < Title of your final project >
 
 ### Groups
-* < name, student ID1 >
-* < name, student ID2 >
-* < name, student ID3 >
-* ...
+* 李柏彥, 107753033
+* 劉上銓, 105703030
+* 黃子恒, 105703031
+* 陳則明, 105703053
 
 ### Goal
 A breif introduction about your project, i.e., what is your goal?
