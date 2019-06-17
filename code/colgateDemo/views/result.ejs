@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        <%= title %>
+    </title>
+    <link rel='stylesheet' href='/stylesheets/result_style.css' />
+</head>
+
+<body>
+    <form method="get" action="/home">
+      <h1>
+          <%= name %>
+      </h1>
+      <h2>This is the result after our prediction, hope this can help you ~~</h2>
+      <table style="width:100%">
+          <tr>
+              <th>GRE</th>
+              <th>TOEFL</th>
+              <th>University Rating</th>
+              <th>SOP</th>
+              <th>LOR</th>
+              <th>CGPA</th>
+              <th>RESEARCH</th>
+          </tr>
+          <tr>
+              <td><%= GRE %></td>
+              <td><%= TOEFL %></td>
+              <td><%= University_Rating %></td>
+              <td><%= SOP %></td>
+              <td><%= LOR %></td>
+              <td><%= CGPA %></td>
+              <td><%= RESEARCH %></td>
+          </tr>
+      </table>
+      <h2> Chance of Admit : <%= admission %></h2>
+      <input type="submit" value="submit again">
+    </form>
+    <form method="get" action="/">
+      <input type="submit" value="logout">
+    </form>
+</body>
+
+</html>

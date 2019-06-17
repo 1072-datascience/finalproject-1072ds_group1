@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>sign up</title>
+    <link rel='stylesheet' href='/stylesheets/index_style.css' />
+  </head>
+  <body>
+    <form method="post" action="/create">
+      <h1>create a new account</h1>
+      <h1><%= message %></h1>
+      <p>
+        name：<input type="text" id="username" name="username" /><br/>
+        password：<input type="password" id="password" name="password" />
+      </p>
+      <input type="submit" value="confirm">
+    </form>
+    <form method="get" action="/">
+      <input type="submit" value="return">
+    </form>
+  </body>
+</html>

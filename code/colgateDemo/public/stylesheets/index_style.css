@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url('/images/ucla.png') , url('/images/background_school.jpg') ;
+  background-position: right top , center; /* Center the image */
+  background-repeat: no-repeat , no-repeat; /* Do not repeat the image */
+  background-size: 200px 200px , cover; /* Resize the background image to cover the entire container */
+  height: 70vh;
+  
+}
+
+a {
+  color: #00B7FF;
+}
+
+form {
+	width: 25%;
+	padding: 15px 1em;
+	/*padding bottom: 0;*/
+	background: rgba(255,255,255,0.8); 
+}
