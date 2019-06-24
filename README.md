@@ -1,13 +1,13 @@
-# < Title of your final project >
+# 申請 UCLA 錄取率預測
 
-### Groups
+### Groups Member
 * 李柏彥, 107753033
 * 劉上銓, 105703030
 * 黃子恒, 105703031
 * 陳則明, 105703053
 
 ### Goal
-A breif introduction about your project, i.e., what is your goal?
+預測申請者錄取UCLA研究所的機率
 
 ### Demo 
 You should provide an example commend to reproduce your result
