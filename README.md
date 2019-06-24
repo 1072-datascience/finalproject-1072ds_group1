@@ -1,10 +1,12 @@
 # Graduate Admission
 
 ### Groups Member
-* 李柏彥, 107753033
-* 劉上銓, 105703030
-* 黃子恒, 105703031
-* 陳則明, 105703053
+| 姓名 | 學號 |
+|:-----:|:------:|
+|李柏彥|107753033|
+|劉上銓|105703030|
+|黃子恒|105703031|
+|陳則明|105703053|
 
 ### Goal
 預測來自印度的 UCLA 研究所申請者被錄取的機率
@@ -80,7 +82,7 @@ Here is our demo website link.
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__) -->
 * Packages you use
   * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar
-  * sklearn, pandas, numpy, matplotlib 
+  * sklearn, pandas, numpy, matplotlib, jieba, WordCloud 
 <!-- * Related publications -->
 
 
