@@ -39,17 +39,17 @@ Here is our demo website link.
 
 ### code
 * Which model do you use?
-1. For regression
-  * Random Forest Regressor
-  * Linear Regression
-  * Decision Tree Regressor
-  * SVR
-  * Ridge Regression
-2. For classification
-  * SVM
-  * Random Forest
-  * Decision Tree
-  * Gaussian Naive Bayes
+  * For regression
+    * Random Forest Regressor
+    * Linear Regression
+    * Decision Tree Regressor
+    * SVR
+    * Ridge Regression
+  * For classification
+    * SVM
+    * Random Forest
+    * Decision Tree
+    * Gaussian Naive Bayes
 
 
 <!-- * What is a null model for comparison? -->
@@ -58,15 +58,15 @@ Here is our demo website link.
 
 ### results
 * Which metric do you use 
-1. For regression
-  * RMSE
-  * MAE
-  * R-square
-2. For classification
-  * accuracy
-  * precision
-  * recall
-  * f1-score
+  * For regression
+    * RMSE
+    * MAE
+    * R-square
+  * For classification
+    * accuracy
+    * precision
+    * recall
+    * f1-score
 <!-- * Is your improvement significant?
 * What is the challenge part of your project?
   * processing
@@ -76,7 +76,8 @@ Here is our demo website link.
 <!--
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__) -->
 * Packages you use
-  * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar, sklearn, pandas, numpy, matplotlib 
+  * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar
+  * sklearn, pandas, numpy, matplotlib 
 <!-- * Related publications -->
 
 
