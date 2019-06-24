@@ -1,4 +1,4 @@
-# 申請 UCLA 錄取率預測
+# Graduate Admission
 
 ### Groups Member
 * 李柏彥, 107753033
@@ -7,52 +7,76 @@
 * 陳則明, 105703053
 
 ### Goal
-預測申請者錄取UCLA研究所的機率
+預測來自印度的 UCLA 研究所申請者被錄取的機率
 
 ### Demo 
+<!--
 You should provide an example commend to reproduce your result
 ```R
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
+-->
 
-* any on-line visualization Shiny.io [WEBSITE](https://zihengh1.shinyapps.io/graduate_admissions/)
+* Online visualization Shiny.io 
+Here is our demo website link.
+[Website](https://zihengh1.shinyapps.io/graduate_admissions/)
+
 ## Folder organization and its related information
 
 ### docs
-* Your presentation, 1072_datascience_FP_<yourID|groupName>.ppt/pptx/pdf, by **Jun. 25**
+* [Presentation](./docs/Group1_presentation.pptx)
 * Any related document for the final project
-  * papers
-  * software user guide
+  * [Proposal](./docs/proposal.pdf) -- describe more about the data and visualization
+  * [Proposal2](./docs/proposal2.pdf) -- describe text mining process
+  * [Proposal3](./docs/proposal3.pdf) -- describe cluster process
 
 ### data
-
-* Source : Kaggle https://www.kaggle.com/mohansacharya/graduate-admissions
+* Source : [Kaggle DataSet](https://www.kaggle.com/mohansacharya/graduate-admissions)
 * Input format : .csv
 * Any preprocessing?
-  * 將非連續資料轉成dummy variable
-  * Scale Value
+  * Data Normalization
+  * Separate into 2 different parts to classify
 
 ### code
-
-* Which method do you use?
-  * Random Forest
+* Which model do you use?
+1. For regression
+  * Random Forest Regressor
   * Linear Regression
-  * Decisiov Tree
+  * Decision Tree Regressor
+  * SVR
+  * Ridge Regression
+2. For classification
   * SVM
-* What is a null model for comparison?
+  * Random Forest
+  * Decision Tree
+  * Gaussian Naive Bayes
+
+
+<!-- * What is a null model for comparison? -->
 * How do your perform evaluation? ie. Cross-validation, or extra separated data
+  * split data into 2 part (training 0.7 and testing 0.3)   
 
 ### results
-
 * Which metric do you use 
-  * precision, recall, R-square
-* Is your improvement significant?
+1. For regression
+  * RMSE
+  * MAE
+  * R-square
+2. For classification
+  * accuracy
+  * precision
+  * recall
+  * f1-score
+<!-- * Is your improvement significant?
 * What is the challenge part of your project?
   * processing
+-->
 
 ## Reference
-* Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
+<!--
+* Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__) -->
 * Packages you use
-* Related publications
+  * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar, sklearn, pandas, numpy, matplotlib 
+<!-- * Related publications -->
 
 
