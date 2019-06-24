@@ -14,6 +14,9 @@ You should provide an example commend to reproduce your result
 ```R
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
+```python
+python3 test.py
+```
 * any on-line visualization
 
 ## Folder organization and its related information
