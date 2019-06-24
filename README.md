@@ -9,9 +9,9 @@
 |陳則明|105703053|
 
 ### Goal
-預測來自印度的 UCLA 研究所申請者被錄取的機率
-申請國外 Top30 碩班的 Prototype
-![Top30 Map](./docs/PLOT/college_map.png =300x200)
+- 預測來自印度的 UCLA 研究所申請者被錄取的機率
+- 申請國外 Top30 碩班的 Prototype
+![Top30 Map](./docs/PLOT/college_map.png)
 
 
 ### Demo 
