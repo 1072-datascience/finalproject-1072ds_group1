@@ -16,7 +16,7 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 ```
 
 * any on-line visualization Shiny.io website
- [SHINY.IO](https://zihengh1.shinyapps.io/graduate_admissions/)
+  [WEBSITE](https://zihengh1.shinyapps.io/graduate_admissions/)
 ## Folder organization and its related information
 
 ### docs
