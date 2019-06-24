@@ -26,15 +26,19 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ### data
 
-* Source
-* Input format
+* Source : Kaggle https://www.kaggle.com/mohansacharya/graduate-admissions
+* Input format : .csv
 * Any preprocessing?
-  * Handle missing data
-  * Scale value
+  * 將非連續資料轉成dummy variable
+  * Scale Value
 
 ### code
 
 * Which method do you use?
+  * Random Forest
+  * Linear Regression
+  * Decisiov Tree
+  * SVM
 * What is a null model for comparison?
 * How do your perform evaluation? ie. Cross-validation, or extra separated data
 
@@ -44,6 +48,7 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
   * precision, recall, R-square
 * Is your improvement significant?
 * What is the challenge part of your project?
+  * processing
 
 ## Reference
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__)
