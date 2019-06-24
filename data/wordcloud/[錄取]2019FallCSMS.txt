@@ -1,0 +1,123 @@
+
+從四月初收到最後一間的通知信後，也宣告申請季的結束，也希望我寫的這篇文章能幫助
+所有要申請的同學，讓大家在未來申請到dream school.
+
+Programs: Computer Science/Software Engineering MS.
+
+Admission:
+UIUC MCS 3/16
+UCLA CS MS 2/21
+CMU-SV ECE Software Engineering MS 3/2
+USC CS MS(General/ Software Engineering) 1/20
+UCI Software Engineering MS (3/29)
+
+Rejection
+Gatech CS/Cybersecurity MS (4/2, 3/14)
+UW-Madison MS/Phd (2/12)
+UMich CSE MS (4/10)
+UCSD CSE MS (4/3)
+RICE MCS (4/3)
+
+Decision: UCLA CS MS
+
+Background:
+NTHU CS B.S.
+GPA: 4.09/4.3
+Ranking: Class:3/41 Department?: 7/126
+
+Test Score
+GRE: V159 Q169 AWA4.0
+TOEFL: 98 R(28) L(23) S(22) W(25)
+
+Work Experience
+Chunghwa Telecom Laboratories Intern (2 Months)
+
+Awards
+Presidential Award 書卷獎*3
+EECS College Scholarship 電資院獎學金
+
+Letters of Recommendation
+專題教授
+軟工修課教授
+導師兼修課教授
+實習主管
+
+TOEFL GRE
+
+Toefl,我托福不是什麼好例子，畢竟我考了三次都沒破百，不過UC 系列的學校對於托福
+要求並沒有很高，e.g. ucla 87 ucsd 85 但是還是建議大家TOEFL 越考越高，盡可能破
+百，托福我補過sk2 字神，我覺得兩家各有千秋，主要還是建議大家練習TPO, 找口說寫
+作讀書會練習
+
+GRE，我滿推薦Mason GRE, Mason能在每個週末短暫的時間，用有效率方法論的教GRE填空
+字彙計量，並且加上mason 讀書會練習寫作的幫忙，讓我考到滿高的成績。
+
+WHY Software Engineering
+Software engineering is the application of engineering to the development of s
+oftware in a systematic method.
+我在大學立志要朝software engineering，應該是從我在大三下修系上教授的軟體工程，
+在堂課內容主要教授軟體工程概論，軟體對比程式是怎麼開發的，從需求分析設計測試維
+護每個階段是如何實施，軟體開發方法(e.g. scrum)等等，並且這堂課好處是會去很企業
+參訪,我對軟體工程的興趣也就是從這堂開始，未來志向想去做PM,QA之類的。
+
+之後也修過其他有關的課程同時也研究相關的書籍像是 brook 的人月神話 還有研究一下
+當今的軟體工程的顯學如 DevOps, CI/CD 等等的。也有去軟體公司訪談調查他們軟體專
+案的開發方法，最後在我大四下，找到中華電信的實習，在中華電信Cloud Computing 部
+門，從每天daily scrum, retrospective meeting 到scrum 人員佈置，實際去體驗scrum
+流程，對於軟體工程算是有基本的認知
+
+CV SOP
+
+寫SOP 一定是文件中最複雜，最難的部分，畢竟SOP 沒有一個既定的格式，可能寫得非常
+活，以我的SOP 為例，
+
+第一段
+先從我在種花電信實習對於我大學軟體工程領域的反思為故事開頭，帶出我未來想在soft
+ware engineering 做什麼，軟體工程的工具開發等等，論述我未來的方向。接著說我為
+什麼要選擇這個program?, 這個program 能讓我未來"作甚麼"，達到什麼樣的人生目標，
+像我想去雲端公司做software quality assurance engineer, DevOp Engineer 之類的
+
+第二段
+簡述大學對於軟體工程的所學，著重"我自己的想法"，同時各個領域也對跟domain knowl
+edge 結合，像是data analysis 可以運用在 software defect prediction，cloud comp
+uting, docker container，都可和軟工結合，像是CI/CD jenkins。
+
+第三段
+第二段的延伸，簡述大學research experience 專題，和他們對於軟體工程有什麼樣的幫
+助，同時論述實習是如何不只在學術上，實際上學習全面的軟體工程技術，並且了解到軟
+體工程目前的趨勢。
+
+第四五段
+簡述入取學校後，修課的狀況，從軟體工程為出發，軟體工程在很多雲端服務的公司e.g.
+amazon google 實踐，所以雲端相關的勢必很重要，像是Web Applications, Computer
+Security, and Database Systems。並且在AI 世代的潮潮流下，AI 技術勢必能對軟工有
+幫助，所以會去修Introduction to Machine Learning。 最後想跟哪個教授做project，
+想要做什麼樣的project，這部分我見同學可以去官網教授list找，網站多半照研究領域
+來，以軟體工程來講，多半分在programming language and software engineering?, 或
+是software system.
+
+第六段
+吹捧學校，講他是全美屬一屬二的program, 同時講這個program 能吸引到全世界的頂尖
+人才，認識同學也是不錯的吹捧
+
+第七段
+最後回到未來career goal，講你在這個program 能學到什麼，能讓你達成什麼樣的人生
+目標，這個program is the best fit for me.
+
+Conclusion
+
+在目前大CS 時代下，CS 領域不管是國內外都是非常熱門，競爭相當激烈，以top 20 以
+內學校為例，GPA>3.8/4.3, G320, T100, 盡可能達標，並在學期中進lab 研究, 寒暑假
+去實習，同時如果有作品可以整理一下放在網路上，我推薦大家可以技能樹點個web, 用
+寫個人網站介紹自己，一來可以接觸web development e.g. react django ，一來要部署
+網站也會接觸到雲端服務aws gcp甚至docker 等等，對於提升自己CS 技能有相當大的幫
+助。
+
+這裡要感謝大一工科系和所有在清大認識的同學陪伴我大學生活，現在念NYU, UCSD,CMU
+的朋友給我申請學校的意見，Enlight 的Tina 幫助我升學文件和給予建議，SK2,Mason
+幫助我刷GT, 最後也要感謝studyabroad 幫助我過的板友，希望未來大家都能申請到自己
+心目中的學校。?[K
+
+如果對申請還有想更細部的了解可以到我的medium 來看。
+https://medium.com/@ruchou_29186
+

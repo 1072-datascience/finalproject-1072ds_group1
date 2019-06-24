@@ -1,0 +1,72 @@
+
+因為我在台灣目前是讀藥學系的學生
+其實跟neuroscience 並不是很熟悉
+可是又覺得這個領域蠻有趣的也希望可以跟我所學的藥學知識做結合
+
+但是我本來只是想申請ms degree
+因為大學沒有實驗室相關經歷
+但看到rotation program覺得蠻有彈性的
+但是這個program 是phD
+所以想更深入訊問前輩有關這個兩個program的問題※ 引述《FRAXIS (喔喔)》之銘言：
+: Admission:
+:     Phd in Computer Science, Dartmouth College
+:     Scholarship 17352/year
+: Rejection:
+:     MIT, Stanford(連MS都拒絕), CMU, Berkeley, GIT, Cornell, Harvard,
+:     U Chicago, U Maryland, Brown University, Columbia, Northwestern, Rutgers
+: Decision:
+:     Dartmouth College 也只有這一家..
+: Background:
+:     M.A. (Computer Science) 2007, NTHU GPA:4.0
+:     B.S. (Computer Science) 2005, NCCU GPA:3.73
+: Test Score:
+: TOEFL 109 R:29 L:30 S:23 W:27           09/12/2009
+: GRE   V:520 67% Q:800 94% AWA:3.5 23%   10/24/2009
+: SGRE  CS:850 93%                        11/07/2009
+: Work Experience:
+: RA, Institute of Information Science, Academia Sinica 12/2009 - 06/2010
+: RA, Genomics Research Center, Academia Sinica         12/2008 - 06/2010
+: 96-1資訊預官
+: TA * 4
+: Publications:
+: 國內小研討會 * 2
+: Honors & Awards:
+: 2003 ACM/ICPC 高雄賽區, 92全國大專軟體設計競賽 (名次太後面，應該沒甚麼用）
+: 書卷獎 * 1
+: Certification:
+: 一張乙級和三張丙級等沒甚麼用的技術士證照
+: Solid第三代DNA定序機受訓證明
+: Recommendation:
+: 研究所指導老師, 當過他TA的助理教授, 大學專題指導老師
+: 心得:
+: 因為是當兵的時候才想要出國，所以GPA、著作和經歷都沒辦法改變了。
+: 看著同梯有些大學生都已經去國外念博士班兩年了，
+: 自己去年申請一次七間全部都被拒絕，今年申請十四間也只有上一間..
+: 既然TOEFL和GRE都比不上版上的眾強者，所以就不獻醜了。
+: 只分享一些在網路上找到的資源。
+: SOP部份可以參考許多教授的建議 Computer Science類的
+: http://vonahn.blogspot.com/2009/12/advice-on-grad-school-applications.html
+: CMU教授寫的
+: http://matt-welsh.blogspot.com/2009/12/how-to-get-into-grad-school.html
+: Harvard教授寫的
+: http://3dpancakes.typepad.com/ernie/2009/12/reading-phd-applications.html
+: UIUC教授寫的
+: http://www.cs.umd.edu/Grad/sop.shtml 寫的很酸..
+: http://www.ece.cmu.edu/~mabdelm/statement-of-purpose-tips.html
+: http://www-2.cs.cmu.edu/~harchol/gradschooltalk.pdf
+: 下面這些是比較一般性的建議
+: http://www.accepted.com/grad/personalstatement.aspx
+: http://grad.berkeley.edu/admissions/state_purpose.shtml
+: https://career.berkeley.edu/Grad/GradStatement.stm
+: 範例
+: http://people.csail.mit.edu/mip/docs/phd-application05/statement.pdf
+: 此人念MIT EECS
+: 履歷部份可以參考
+: The Elements of Resume Style （中譯為履歷王）
+: 裡面介紹了一些求職用履歷的寫法，跟學術的履歷還是有點不同。
+: 書中列了很多履歷不該使用的抽象且模糊的單字，可以拿來檢查自己的
+: SOP，而他也有列了一些可以使用的單字拿來參考。
+: 如果跟我一樣是打算研究Theoretical Computer Science的可以上
+: Theory Annoucements http://dmatheorynet.blogspot.com/
+: 找找看哪邊的老師正缺人。
+

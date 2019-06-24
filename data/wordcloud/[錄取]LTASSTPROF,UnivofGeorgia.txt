@@ -1,0 +1,188 @@
+
+我在 2016 到 2017 年找了兩個博後 -
+德國馬普數學所 (Max-Planck Institute for Mathematics in Bonn) 1 年, 和
+美國喬治亞大學 (University of Georgia) 2+1 年,
+
+在這期間蒐集了許多資源, 除了比較會被台灣人知道的美國經驗以外, 我在訪問
+德英法...等國學術機構時也得到了一些資訊. 覺得只有自己和少數朋友知道也太
+可惜了, 因此做了這個頁面分享心得:
+
+http://guests.mpim-bonn.mpg.de/cjlai/postdoc.html
+
+歡迎各方先進和我聯繫 (cjlai@mpim-bonn.mpg.de) 補充資料.
+──────────────────────────────────
+以下為 BBS 版
+──────────────────────────────────
+
+一 前言
+
+數學博士後粗分研究取向和教學取向兩種, 研究取向的職位每年大概要教 3 ~
+4 門課(學期制), 有額外資助的職位可以教更少, 少數研究機構甚至不須教書;
+教學取向的職位則每年需要教 5 門課以上. 兩種在申請時的準備方向會很不一
+樣 - 如果你的資料看起來就是要走研究路線的, 那教學取向的職位通常不會認
+真對待你的申請, 反之亦然. 以下我只(能夠)分享研究取向的申請經驗:
+
+每個國家的申請流程稍微有些不同. 但是需要準備的核心文件大致相同, 包含:
+
+1. Cover letter
+2. Research statement (RS)
+3. Teaching statement (TS)
+4. Resume / CV
+5. Letter of Recommendation
+
+重要程度是 5 >>>> 2 > 1 = 3 = 4.
+
+而一年的時程大概是:
+
+8月:  開始寫 RS/TS/CV, 更新網站
+9月:  瀏覽 MathJobs … 等工作網站, 看看各系的師資狀況決定自己是否申請/
+要找誰當老闆. 找人寫推薦信.
+10月: 改好申請文件.
+11月後: 申請! 持續關心 MathJobs 貼出的新工作, 研究看看是否申請.
+
+博後申請結果通常會在 1 ~ 5 月出來.
+
+以下我將
+[A] 提供準備這些文件的心得與我覺得有用的資源.
+[B] 簡述不同國家的工作申請概況.
+
+[A1] Cover letter
+
+Cover letter 基本上只是個形式. 在一頁內簡單說明來意, 會包括:
+
+1. 自己要申請什麼職位
+2. 想要跟的老闆/能理解你的工作的人
+3. 簡述自己的學術背景/教學經驗
+4. 推薦信人選
+
+基本上會做一個原型, 再依照不同的申請客製.
+
+範例1: Ben Webster
+http://people.virginia.edu/~btw4e/cover-MIT.pdf
+範例2: Chun-Ju Lai
+http://guests.mpim-bonn.mpg.de/cjlai/res/cover.pdf
+
+[A2] Research statement (RS)
+
+這算是準備申請文件的重頭戲了, 你需要簡述你感興趣的研究主題, 說服
+讀者這些問題是有意思的, 而且你有方法做, 並且能和當地研究團隊互動.
+多數申請者會寫四到八頁 (含參考文獻), 但有些地方會要求至多兩頁.
+
+範例1: Ben Webster
+http://people.virginia.edu/~btw4e/research.pdf
+範例2: Laura Rider
+http://www-math.mit.edu/~laurajoy/researchstatement.pdf
+範例3: Daniel Tubbenhauer
+http://www.math.uni-bonn.de/people/dtubben/research-2016.pdf
+
+[A3] Teaching statement (TS)
+
+對於教學導向的工作相當重要, 但是對於學術導向的工作來說, 兩頁以內
+就綽綽有餘了, 而且 TS 寫再怎麼好都難以幫你取得學術導向的工作, 你
+需要的就是寫一些全宇宙都會認為是對的陳述, 但求不扣分.
+
+範例1: Ben Webster
+http://people.virginia.edu/~btw4e/teaching.pdf
+範例2: Laura Rider
+http://www-math.mit.edu/~laurajoy/TPS-new.pdf
+範例3: Daniel Tubbenhauer
+http://www.math.uni-bonn.de/people/dtubben/teaching.pdf
+
+[A4] Resume / CV
+
+不太需要特別花什麼心思, 就做得和多數人一樣即可, 主要呈現的部分是
+publication, 如果想營造積極參與學術的形象, 可以把參加過的研討會/
+訪問機會都寫進去.
+
+範例1: Ben Webster
+http://people.virginia.edu/~btw4e/CV-2006.pdf
+範例2: Chun-Ju Lai
+http://guests.mpim-bonn.mpg.de/cjlai/res/resume.pdf
+
+[A5] Letter of Recommendation
+
+推薦信的人選建議還是要跟老闆討論過, 畢竟圈內人才知道誰寫的比較有
+用. 盡量不要全部的信都來自同一個地方, 所以在二三年級參加研討會/
+知名學者來自己學校訪問時, 盡可能要讓你想找他寫推薦信的教授留下好
+印象. 不過這說來簡單, 讓人留下好印象的關鍵還是在你的研究要做得好.
+
+不過, 其實找沒有見過面的人寫也不是不常發生. 老闆可能會知道有誰寫
+信特別有力, 你也可以嘗試聯絡對方, 提一下你的成果, 對方看了覺得你
+行的話也有可能幫你寫推薦信的.
+
+另外, 有些研究作得很好的數學家不見得會很積極的幫你寫好, 找人寫之
+前最好先到處聊聊.
+
+[B] 各國工作申請概況
+
+簡單的說, 找工作大部分的時間都在看 MathJobs, 這是美國數學會建置
+的數學版的 104 人力銀行, 美加的工作都會在 MathJobs 上宣傳, 資料
+都準備好的話去按個幾分鐘就完成申請了. 這個系統可以省下教授們很多
+時間 - 所有的推薦信只需要上傳一次!
+
+要注意的是許多職位 tag 沒有標好, 如果你瀏覽工作選擇 by types,
+只看 non tenure-track faculty 和 postdoctral 的話可能會漏掉職缺
+- 有些好職缺不知為何會被放在 other 裡面;
+
+如果用 sort by deadline 的話, 也有些工作沒有在系統上設定好
+deadline 以致不會被你看到. 所以我建議還是用 sort by postdate
+一個一個看.
+
+美加的多數工作都寫 "歡迎所有方向的申請者". 少數會指定研究方向,
+也有少數口是心非, 明明想招某個方向的人卻不明白寫出來.
+
+教學取向的工作通常會希望你參加美國數學會每年一月辦的 JMM(Joint
+Mathematics Meeting), 會中會有攤位可以給申請者/雇主配對面試. 但
+是研究取向的工作就不是很必要參加 JMM - 至少我兩年都沒有去.
+
+其他洲的職位有一部分也可以透過 MathJobs 申請, 但多半只是透過
+MathJobs 宣傳 - 完整申請還是必須要去它們自己的網站, 也必須自行通
+知教授們上傳/另外寄推薦信. 不在 MathJobs 上宣傳的工作也不少, 可
+以參考:
+
+* Jobs.ac.uk: 華威大學建置的英國學術工作網站
+http://www.jobs.ac.uk
+* Jobs|EMS: 歐洲數學會建置的數學工作網站
+http://www.euro-math-soc.eu/jobs
+* fdlist: 德國比勒費爾德大學為有限維代數表現理論學家所建立的郵件
+群組, 訂閱後能收到一些會議訊息/職位廣告.
+https://www.math.uni-bielefeld.de/~fdlist/
+
+而法國的工作就相對資訊不流通, 只能靠口耳相傳來知道誰下一個年度有錢
+招博士後, 這部分的資訊大部份需要靠老闆/參加研討會/和所上的人聊天.
+
+其他語系國家的工作機會通常都有自己的網站, 可以去參考 Math jobs wiki:
+https://goo.gl/D9NlaL
+
+但是這樣的工作網站大概有二十個就是了...
+
+整體來說歐洲/澳洲的工作會比較限定, 通常是某個教授要做一個特定方
+向裡他有興趣的特定問題, 申請了一個計畫的錢以後用來聘博後, 因此大
+部分的工作適合的申請者都很少. 只有少數的研究機構會比較廣泛的招人.
+比較有機會的大概是研究機構, 可以參考:
+
+* 德國馬克斯普朗克數學所(MPIM)
+https://www.mpim-bonn.mpg.de/
+* 法國高等科學研究所(IHES)
+https://www.ihes.fr/
+
+[C] 實用資源
+
+1. A Mathematician’s Survival Guide: Graduate School and Early
+Career Development
+http://bookstore.ams.org/gscm
+
+2. Purdue Online Writing Lab
+https://owl.english.purdue.edu/owl/
+
+3. The Chronicle of Higher Education Forum
+http://www.chronicle.com/forums/index.php/board,49.0.html
+
+--
+在馬橋，與「他」近意的詞還有「渠」。
+區別僅在於「他」是遠處的人，相當於那個他；  我想找的是他，但只能找到渠。
+「渠」是眼前的人，近處的人，相當於這個他。  我不能不逃離渠，又沒有辦法忘記他。
+
+　　　　馬橋語言明智地區分他與渠，指示了遠在和近在的巨大差別。
+　　　指示了事實與描述的巨大差別，局外描述與現場事實的巨大差別。
+

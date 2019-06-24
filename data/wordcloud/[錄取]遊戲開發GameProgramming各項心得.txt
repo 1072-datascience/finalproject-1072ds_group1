@@ -1,0 +1,213 @@
+
+原本的天文領域圈子小, 如果認出我的請不要認親 Q_Q
+本篇以轉換領域心得加上自己在申請的過程中的研究, 可能包含一些自己個人意見
+若以真實世界有所出入請大家多參考其他人的心得...
+
+Program:
+
+MS in Game development or interactive entertainment (programming track)
+
+Interest:
+
+Game Engine Programming
+Artificial Intelligence
+Computer Graphics (最近在玩一些rendering)
+
+
+Admission:
+University of Utah Entertainment Art & Engineering (EAE, 決定去了)
+Southern Methodist University Guildhall (SMU)
+Depaul University Computer Game Development
+
+Rejection:
+No
+
+Pending:
+Florida Interactive Entertainment Academy at UCF (FIEA)
+Rochester Institute of Technology (Game Design and Development)
+UCSD (CS)
+USC (CS)
+Ohio State University (CS)
+
+Background:
+
+National Kaohsiung Normal University (BS in Physics)
+GPA 3.82/4.0 (undergraduate)
+
+National Taiwan University (MS in Astrophysics)
+GPA 3.72/4.3 (graduate)
+
+GRE V145 Q166 AWA 3.0
+TOEFL - 86 - S21 W20 R25 L20
+
+Honor:
+大學德育獎 (畢業生代表)
+佛光山獎學金
+
+Publication:
+1 SCI paper (submitted, 被Reviewer退回來好多次...e04)
+
+Research Experience:
+Research Assistant at ASIAA for 1yrs
+Summer intern at NTNU and ASIAA (for Astronomy and Astrophysics)
+
+Game Jam Experience:
+2次Fukushima & Faust Game Jam
+1次Global Game Jam
+
+Computer Skills:
+C/C++ (研究所的Simulation & Calculation and 大部分的遊戲Project)
+Python (在研究助理期間用Python設計一個望遠鏡資料庫的搜尋與資料處理引擎)
+Unity (作品集內有附上一個Unity陽春作品 用C#寫)
+
+申請前心得:
+
+原本要申請Physics的PhD的小廢廢
+但是在當研究助理的期間自己發生了一些事情, 請了一個長假回家休息,
+後來覺得自己不是PhD那一塊料就放棄念PhD的念頭了XD.
+老師知道了以後介紹了成大太空中心的工作給我以後, 待遇跟穩定性真的很好.
+自己很掙扎之後還是拒絕了...
+我再次跟老師表達了想出國唸書的想法, 老師覺得我程式能力還不錯
+如果不是真的真的真的很喜歡天文物理可以試試看轉換方向.
+想到原本在實驗室做的那些Simulation跟遊戲原理很像(Real-time Simulation)
+加上老師的建議以及自己興趣
+最後就決定往Animation & Computer Game Development發展了.
+
+申請中心得:
+
+選學校的時候花很多時間一個一個看, 個人覺得這很重要.
+OSU, UCSD and USC 的CS還沒收到任何通知, 所以我不作太多評論.
+但是要申請USC的同學GRE盡量考高一點.
+可以多送幾次GRE成績讓他們可以挑高的成績看.
+例如150/170 and 170/150 兩次都送就等於340滿分.
+托福成績不看, 但是沒到門檻就是要上課.
+
+Depaul University的話要把成績單送去他們指定的機構認證.
+申請難度不高. 非本科系會給一些introduction的課程.
+課程內容也很豐富. 如果想往更CS方向發展的人也可以考慮看看.
+
+
+我自己在申請的時候則是把EAE FIEA SMU當成自己的目標學校
+
+這三個學校都要求看作品集, 所以我先講作品集好了
+基本上我的作品集都很簡單 (因為當初的我沒有太多的專業經驗)
+就是想辦法把幾個以前自己喜歡玩的遊戲做一個山寨版的就對了.
+
+參考影片:
+有點像格鬥天王:
+https://www.youtube.com/watch?v=Sv0BKL_iudE
+本來要做成太空戰士的遊戲, 後來變益智遊戲了:
+https://www.youtube.com/watch?v=iF3RhGi_v_s
+打地鼠:(主要著重在一些演算法DFS & BFS跟STL的應用)
+https://www.youtube.com/watch?v=zc1WGW5TZSo
+
+以上都是用C++ and SDL 加上網路上找的貼圖做出來的.
+另外有個用Unity做的陽春版雷電 但是沒錄影片就不放了.
+
+有些作品集的小重點:
+1. 用C++做, 幾乎老師都想看一些C++的作品, 最好是可以有”互動”的
+2. 老師們會想看你怎麼設計一些class and template
+3. 變數命名要有意義  可讀性
+4. 怎麼樣讓程式碼全部一起”動”起來
+
+
+SMU的學校有要求兩題題目
+其中一個是霍夫曼編碼, 我覺得不是太困難, 上網查一下理論用c++寫出來就可以了.
+另一個Resource Manager就是打地鼠的背後運作原理XD 只是我把它圖形化而已.
+
+
+英文&口試:
+看我成績就知道英文真的不太行Q_Q 所以想考高分的請參考專版心得.
+(個人認為GRE不是太重要...)
+另外在PTT爬文找到已經在這些學校念的學長, 並且有聯絡上小聊一下
+托福破100的他們都沒有口試直接拿Offer.
+當然小弟我沒有破百就要口試了
+(是說口試都要開視訊這點倒讓我有點意外)
+
+FIEA口試:
+介紹一下你自己
+為什麼選擇我們學校?
+你有Team Work的經驗嗎?
+程式碼是自己學的嗎?
+有任何其他問題嗎?
+問我是不是要去睡覺了?
+
+(我說可能先喝杯啤酒慶祝一下吧, 很緊張
+面試官大笑說不必太緊張, 真的是很隨性的聊天)
+
+雖然我覺得整個過程聊天氣氛很好, 可是為什麼一直沒給Offer  T.T
+
+EAE口試:
+
+介紹一下自己  特別是你的背景(物理) 老師似乎是對我的背景很感興趣...
+為什麼選擇我們學校?
+有沒有一些Team work的經驗?
+程式碼是自己學的嗎?怎麼學? (老師說他覺得我的code寫得很好, 來這邊學習後會更好XD)
+你最喜歡玩什麼樣類型的遊戲? (閒聊)
+
+老師最後補一句通常面試完兩個禮拜內會有結果, 如果沒結果可以跟他聯絡.
+
+SMU: 無口試直接錄取
+
+人格特質很重要 (樂觀自信)
+基本上我覺得自我介紹是一個很重要的開場白, 如果像我容易緊張的要多多練習一下
+兩個口試老師似乎都很注重人格特質? 希望是個開朗跟樂觀的人這樣ＸＤ
+可能跟遊戲業要常常溝通合作有關? 剛好面試的那陣子自信一直爆棚, 所以還不錯.
+還一直跟EAE的老師聊最近在玩steam上的遊戲(7 days to die)
+一直提到“團隊合作”殺殭屍. 怎麼跟其他玩家交流這樣.
+
+同學有說基本上有口試就是會錄取了?只是要確定你是不是真的會講英文...
+所以英文成績不夠好的不要擔心, 面試時好好表現還是有機會. 重點是要有自信, 樂觀！
+
+動機很重要
+老師們都會想知道為什麼你會想念, 為什麼你會選他們學校.
+我的準備方式就是要好好看學校網站的介紹
+一方面你可以了解這間學校提供的是不是你想要的.
+看網站的過程中就是你在面試學校.
+不管是每個track提供的課程或是上課方式都可以看一下.
+也可以順便找已經去唸書的前輩問一下細節, 很有幫助.
+
+
+Team Work經驗很重要
+我推薦有想申請的前輩後輩們可以多多參加Game Jam的活動（48小時內做一款遊戲）
+一方面可以洗點團隊合作的經歷, 二方面可以多認識其他人.
+強烈推薦有機會一定要多多參加.
+像我參加Global Game Jam的晚上還趕快跑回來跟EAE的老師面試,
+結果老師也說他們那邊也正在舉辦GGJ. 所以也是有閒聊一下.
+
+
+作品集很重要
+就像其他科系要看研究成果一樣, 你的作品集直接代表你的能力
+另外的部分我倒是很意外, 因為我並非科班出身
+只是自己上網找資料邊看邊做, 並沒有覺得自己很厲害...
+給老師稱讚的時候我也是很意外,因為沒什麼自信所以無法給太多意見
+就是參照我作品集部分的心得就是了.
+
+申請後心得:
+
+沒意外決定去EAE了. 問過系辦人員, 該系是有OPT-extension的.
+另外主要是不想太侷限在Game dev. 如果可以做一些Animation也不錯.
+面試老師說可能工作機會沒德州加州多, 但是迪士尼跟EA在猶他州也是有合作.
+加上Utah的圖學好像很強, 所以就決定去EAE了.
+
+PTT上已經在SMU念的幾位前輩幫我很多, 常常站內信回答我很多問題
+真的非常感謝他. 德州工作機會多, 該系有OPT-extension
+但是沒暑假+學費貴讓我也一直很掙扎...
+
+FIEA則是16個月的課程外加沒暑假, 上課環境那些是我最喜歡的.
+但是一直沒通知我, 雖然我非常厚臉皮覺得我應該會上啊Q_Q
+
+另外我參加過許多Game Jam以後, 跟很多前輩聊天過後, 發現確實遊戲業不太看學歷的.
+但是我花越多時間去了解這個產業以後
+發現裡面所需要的軟體工程的技術門檻卻完全不低啊...
+也覺得遊戲業不是也是軟體工程的一部分嗎?
+也一直疑惑為什麼大家覺得遊戲業學歷不重要
+自己讀了一些AI and Graphics領域發現甚至門檻極高...
+雖然能力跟學歷不能完全畫上等號沒錯...
+
+希望畢業以後有機會可以貢獻所學. 為台灣動畫遊戲業盡一份心力.
+有疑問的前輩後輩們可以推文留言, 我看到有沒回答到的問題會盡量補充.
+如果其他學校有再放榜也會陸續修改. 謝謝.
+
+感謝我所有的朋友, 家人, 你們都是我最棒的支柱.
+

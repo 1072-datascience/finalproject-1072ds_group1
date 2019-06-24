@@ -1,0 +1,99 @@
+
+從瑞士回國後，也在留學版潛水了兩年，自已也來分享一下轉領域的心得。
+
+Admission:
+Georgia Tech MS-HCI IC track 2/26
+
+Rejection
+University of Washington 2/14
+University of Texas at Austin MSIS 2/20
+
+Pending
+University of Maryland HCIM Withdraw
+University of Michigan MSI HCI specilzation
+
+ Education Background
+Ecole hoteliere de Lausanne BSC Hospitality Management 2012-2016
+GPA 5.0/6.0
+
+ Test Score
+GRE V152 Q168 AWA 3.0 2018/01
+
+ Award
+Learning department award for research and analytical skill graduation project
+(1 out 50 teams)
+
+ Professional experience 
+restaurant intern at International hotel in Taipei (6month)
+Summer intern in BIG four accounting firm in Taipei (1month)
+Cofounder assistant/sales intern at a Swiss startup in Shanghai (6month)
+ Extracurricular
+校園大使
+創業社成員
+城浪台北區成員
+
+ LOR
+外交部大使 (替代役)
+大學教授
+瑞士startup創辦人
+
+ 起因
+從小在國際學校讀書，本來打算去美國讀CS，但後來對hotel有興趣+哥哥已在美國讀CS
+，就決定去歐洲看看。在瑞士，一直對tech的東西有興趣+沒有很喜歡hotel，大三實習
+就跑去一家當地的QR code startup。當時在上海辦公室，因為沒有設計師，我就幫老闆
+做了app的wireframe和負責QA Testing。自己一直想轉領域CS之類的，但又想結合大學的
+東西，覺得information science和HCI比較適合，似乎很歡迎跨領域的人。
+
+跟版上的相比，自己其實背景超弱的，大學是有hotel major幾乎沒有選修。有點後悔選
+EHL這件大學, 很雷，UT Austin不承認他的學歷......不是被拒絕是不給我機會....
+
+客觀地覺得自己上其他學校的機率不高，沒有太多經驗，就打算拼背景特殊和SOP的轉折。
+
+
+ 托福
+國際學校的訓練很夠，有跟朋友拿了補習班講義來看，練了一些寫作題。
+
+ GRE 
+服役時，去上MasonGRE，做了蠻多的reading和數學
+自己Verbal分數靠reading有150+，就懶得背單字(不要學)
+蠻後悔awa 沒有練，太久沒寫作文還是有差，不能亂掰 UW 就是因為AWA太低而拒絕我...
+
+ SOP 
+一開始寫的很亂，後來發現真的要找認識的朋友幫忙，剛好我服役的室友是UC Berkeley
+傳播系，從小在美國長大，邏輯很強。大概聊了兩個禮拜，才有不錯的東西出來。
+大家真的要提早寫SOP，我拖到最後一刻。
+
+1 從小在酒店式公寓長大，後來去了最後的hotel school (80)
+2 通過standard operating procedure發現了旅客資訊的重要性 (75)
+3 在大學的畢業project進一步利用information來改變旅館業的 (150)
+" I came to see that working smart, rather than working hard, is the key to
+quality customer service"
+4 稍微總結上一段的東西和講為何需要information (60)
+"Through SBP and my internship, I have witnessed how information management
+can shape the decision-making process of hoteliers and open doors to create
+more personalized, customer-oriented experiences for guests. Seeing
+information science’s potential business applications have stoked my
+passion for the field. It is apparent that the next step for pursing my
+goal is to fill the gaps in my knowledge."
+5 做project遇到的難處和在每個學校能學到的課 （200）
+6 Conclusion (60)
+
+ Personal Statement
+這邊要找到自己的特色，我是強調讀hotel大學情感方面的東西,需要跟你的SOP互補，
+可以重複但是不同面向。
+1 因為住hotel，很喜歡hotel的service，所以自己也想給其他人home like經驗(100)
+2 高中去做志工，幫別人蓋房子 延續home like  （100）
+3 所以去讀了hotel 大學 繼續強調home like的概念 (200)
+"Through my pursuit of providing a “home” for others, I’ve developed...."
+
+ Editing 
+除了  给
+外交役的室友看，之後還給了我哥(Ivy league畢業的）、台大外文系的神人朋友
+、專業的潤稿shau.ru.lin@gmail.com (真的很厲害，品質很穩定，價格便宜。)
+
+ Others
+大家真的要早一點考GRE和TOEFL，提醒推薦人記得上傳LOR，寫SOP和PS，準備作品集。
+最重要的是選適合自己的學校投，沒有不要你的school，只有不match的～～
+能錄取Georgia tech真的是很意外，自己技術底子不強，設計也沒學很多。
+如果有任何問題的話，歡迎來信，自己當初申請的時候完全找不到hotel轉HCI的
+

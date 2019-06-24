@@ -1,0 +1,116 @@
+
+Program: CS PhD (learning theory or theoretical computer science)
+
+Admission:
+UCSC 2年保證. 第1年fellowship
+UCSD TA, RA, fellowship各1 qtr
+還有幾間興趣沒那麼大已經拒絕offer的
+(可惜當初沒有申請UCSB，要不然就有機會集滿BCD)
+
+Rejection: CMU, UPenn, Austin, UIUC...
+
+Pending:   GaTech, TTIC (這個時間點可以看成拒絕了)
+
+Others: Waterloo (declined campus visit invitation)
+
+Education:
+
+BS: NCU CS
+Overall GPA: 3.61/4.0; Major GPA:3.75/4.0
+    (Rank: 5/44)
+
+MS: NCTU CS
+GPA: 3.85
+(Rank: 8/128)
+
+Work Experience:
+某財團法人研發替代役(軟體開發為主) 2009/08~2013/02
+在家幫女朋友顧貓     2013/02~now
+
+Test scores:
+GRE(新制) V165/Q169/4.0 (2011.12)
+TOEFL R30/L29/S22/W27 total 108 (二戰2012.06)
+R29/L28/S19/W27 total 103 (一戰2012.03)
+(speaking不太好)
+
+Publications:
+Elsevier旗下某理論期刊 x2 (1st author x1, 2nd author x1)
+都是唸碩士時期投出
+
+Recommendation:
+碩士指導、碩士授課、碩論committee member、大學專題
+
+感想:
+
+研發替代役工作三年
+懷念研究時永遠有層出不窮的新問題和想法
+決心念博班
+
+當初只根據興趣選校，學校名單M型化，CS排名集中在50上下和top 20
+20-40區塊幾乎中空
+結果排名40後的橫掃，top 20除了UCSD全軍覆沒
+
+申請前的自我評估:
+優點
+1.有論文，發表在還ok的journal
+2.standardized tests
+缺點
+1.大學GPA不怎麼樣(for top 20 schools)，而且有些重要主科分數蠻難看的
+2.以實作為主沒碰研究的三年研發替代役對想做theory的人來說是扣分而不是加分
+3.對CS來說，conference>journal
+
+這次申請事後反省起來
+我覺得我作對的事
+1.GRE考得不錯，特別是改用新制後沒有機經大家成績大幅縮水的現在
+但可惜CS PhD不太管GRE XD
+2.很認真的蒐集學校和教授資料，至少不會讓人覺得是隨便申請
+
+沒做好的事
+1.SOP寫得太窄，想作的事寫得太specific，應該寫到theory這層
+而不是更細下去到研究題目的層次。畢竟是申請PhD不是postdoc啊!
+2.申請太多間
+
+現在看來是UCSC和UCSD二選一
+UCSC優點
+1.研究領域很合，已找好未來的指導教授，所以我很明確知道未來要作什麼
+2.聯絡的教授很熱心，UC系列CS很少看到給2年約
+3.理論上可以比較早畢業 (median: 4.8 yrs)
+4.校園非常漂亮，但要小心山獅
+
+UCSD優點
+1.better reputation
+2.theory group比較大 => 比較完整的訓練和課程
+3.校內房租比較便宜
+4.SD的氣候舉世無匹
+
+UCSD今年比較特殊的是
+要作theory的是被整個theory group推薦和錄取
+不像其他領域比較明確的知道可能的advisor是誰
+去campus visit時教授的口徑都很一致: 等你來了再談advisor這檔事
+增加了點不確定性
+
+總之
+兩所我都蠻喜歡的
+這個禮拜會決定要去哪
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc) 
+◆ From: 61.227.243.99
+推 HSPHHPM2HP:非常恭喜!!看到在家幫女朋友顧貓不禁會心一笑.          03/28 11:37
+推 k24618099:恭喜!! 同校推~ 大學GPA不低... 我們系才慘...           03/28 11:40
+→ k24618099:XD                                                    03/28 11:40
+推 eric20000:看你的領域 UCSC的教授該不會是Manfred吧 他超強         03/28 12:11
+→ jparry:是的 這也是為什麼我會想去UCSC                            03/28 12:13
+推 eric20000:不過UCSD假如能跟到Sanjoy的話也是不錯                  03/28 12:17
+→ jparry:Sanjoy: 等你來了再慢慢聊 啾咪 ^.<                        03/28 12:28
+推 aznchat100:中央推一個 你GRE都這麼變態 居然還被REJECT這麼多QQ    03/28 12:34
+→ jparry:GRE過標就好，沒太多加分效果 (至少對CS PhD來說)           03/28 13:03
+推 aznchat100:門檻多少阿?所以主要看paper gpa??                     03/28 14:23
+推 theWANDERER:                                                    03/28 14:40
+→ jparry:通常沒有硬門檻 Q接近170 V>150應該就很夠用了吧?           03/28 16:15
+推 frank11118:好強  恭喜                                           03/28 18:01
+→ james11022:變態的分數                                           03/28 20:54
+推 iamchile:研替推！恭喜！                                         03/28 21:39
+推 Organizer:cong                                                  03/29 00:56
+推 hcsoso:theory 生力軍! 恭喜!                                     03/30 13:02
+推 ooknight:恭喜阿,歡迎來UCSC! 話說我只看過bobcat就是了,浣熊很多   04/01 08:54

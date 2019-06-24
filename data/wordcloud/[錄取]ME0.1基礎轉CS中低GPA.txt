@@ -1,0 +1,102 @@
+
+中低GPA、機械轉CS
+雖然在大三時就決定出國念書，但當時是以出國唸機械為主，畢業後偶然到中研院做CS方
+面的研究決定轉CS，之前CS有關的課程只有大一修過工程電腦程式。
+
+Program:
+MS in CS for 2018 Fall
+
+Background:
+NSYSU ME BS (2012~2016)
+Overall GPA: 3.42/4.3
+Last60  GPA: 4.15/4.3
+沒有修資工課
+
+Rejection:
+USC CS (Scientists & Engineers)
+UMich CSE
+GaTech CS
+Rice CS
+Columbia CS
+NYU CS (Courant)
+UW-Madison CS (PMP)
+Rochester CS
+UPenn MCIT
+NEU CS (Align)
+Emory CS
+Brandeis CS
+Syracuse CS
+UTD CS
+
+Admission:
+TAMU MSCS (Decision)
+IIT CS
+
+Test Score:
+GRE: 320 V150 Q170 AW3.0
+TOEFL: 101 R26 L26 S23 W26
+
+Work Experience:
+中研院RA (2017/05-2018/06) 做Computer Vision相關研究
+
+Publication:
+1 * 1st author top conference paper (IJCAI)
+1 * 1st author top conference workshop paper (CVPRW)
+1 * 1st author second-tier conference paper (ICIP)
+
+在申請學校時都只是submit的狀態，所以我只寫成Research Experience後面附註正在sub
+mit。
+
+Honors:
+書卷獎*3
+
+Letter of Recommendation:
+中山機械系主任*1
+中山機械導師*1
+中研院老闆*1
+
+
+
+自知履歷不是太好，申請結果也是不意外的一堆拒信，版上有很多神人轉CS的文，我想就
+選校和修課來補充。
+
+選校:
+我想補充幾個排名還好但評價不錯的學校
+
+UTD CS:
+學費便宜，但轉CS申請的話要補修8門課，幾乎是2個學期的時間，看板上之前的文章似乎
+申請難度不大，但我還是被拒了XD
+這間大家都當保底校來申請，難度也漸漸提高。
+
+Brandeis CS:
+有特別收轉CS的program，學費貴，但有錄取幾乎都會發獎學金，學院好像比較小，地點
+近Boston，我有詢問我的教授(之前讀MIT)，對這間的評價不錯。
+
+IIT CS:
+轉CS需要補修3門課，而且不能一學期直接修這三門，必須先修過其中一門基礎課，才可
+以再修另一門進階課。
+
+需要注意的是這三間都是先到先審，鼓勵大家可以早點提交，不要拖到Deadline才交，太
+晚交收完人可能就不會發AD了。
+
+修課:
+對於轉CS來說，趕快修完CS的基礎課真的非常重要(可以利用隨班附讀)，很多學校都規定
+必須要修過CS基礎課才可以申請，即使不強制規定你要有修過CS基礎課，等申請到了還是
+要花時間和金錢補修，因此還是在台灣隨班附讀比較實在。
+
+找工作 vs 隨班附讀:
+如果想要利用時間增加自己的履歷，應該會面臨著要花時間隨班附讀，還是增加工作經驗
+，對於申請來說還是把CS課程修高分比較有利，況且一個0基礎轉CS的人要找到相關的工
+作也很難，如果是研究型的工作，要在短期內發paper並不是一件可以保證的事情，而如
+果沒有發paper，對於申請的幫助有限。
+
+我自己當初是選擇研究助理的工作，即使我在申請學校前送出paper，還是要等它審一段
+時間，所以當時只寫成Research Experience，對申請幫助不大，但這份工作讓我學到了
+很多修課之外的事情，對於我個人的幫助是很大的。
+
+最後能上TAMU小弟真的很開心，收到時還一直確認有沒有寄錯，自己認為比較突出的地方
+只有書卷獎和推薦信，推薦信三封都是認識強推，中研院的老闆也針對我研究上的成果幫
+我寫好話，以上是小弟ME轉CS的申請結果，分享給大家。
+
+
+

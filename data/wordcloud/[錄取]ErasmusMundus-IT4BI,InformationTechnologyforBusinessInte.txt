@@ -1,0 +1,182 @@
+
+感謝留學版,尤其是
+提供許多資訊的zsguo, 幫助我決定要讀的學程
+不收費幫我改Cover letter的jigga, 使它脫胎換骨
+提供領域訊息的JimmyHou,
+互改托福作文跟口說的amy34022,
+多年前給我鼓勵的snaredrum
+--
+
+Admission:  Erasmus Mundus-
+Information Technologies for Business Intelligence
+(with Erasmus Mundus Scholarship, 2月通知)
+
+第一學期
+UniversitLibre de Bruxelles:
+Master of Science in Computer science and engineering
+
+第二學期
+UniversitFrancois Rabelais Tours:
+Master Sciences et technologies, mention Informatique,
+specialite Systemes d'information pour l'aide la decision
+
+第三學期三選一
+TU Berlin: Master of Science in Informatik
+
+Universitat Politecnica de Catalunya :
+Master Degree in Information Technology
+
+Ecole Centrale Paris:
+Master Sciences de l'ingnieur, mention Mathematiques appliques
+sciences de l'information, spcialitIngnierie des connaissance
+
+
+Rejection:  1.Erasmus Mundus-IT4BI doctorate
+(托福門檻110, 時間只夠我一戰並且挑戰失敗)
+
+2.Erasmus Mundus-
+Data Mining and Knowledge Management
+(2月初通知Skype面試, 拿到別的offer主動告知學校放棄面試)
+
+Decision:   Erasmus Mundus-
+Information Technologies for Business Intelligence
+
+Scholarship includes:
+-Tuition fees(16000€).
+-Transportation for installment(8000€).
+-Monthly allocation for living and housing
+(1000€/month, during 24 months).
+-Insurances.
+
+Background: BA in NTUST 管理學士班, GPA 3.6 (double major)
+MS in NCTU, GPA 3.9
+(BA跟MS的學分大多為Statistics, Database和Business Process)
+
+Test Score: TOEFL  89 (25/22/20/22) (時間只夠挑戰一次)
+
+Work Experience:
+1.義務役少尉
+2.助教
+3.網管
+
+Publications:
+人因工程專題
+資料庫碩士論文
+
+Qualifications:
+None
+
+Recommendation:
+大學資料結構教授、程式語言教授、人因工程專題教授
+
+Extracurricular Activities:
+1.微客海外志工
+2.吉他社
+3.系籃、系桌
+4.台大真理堂弱勢兒童陪讀
+
+--
+出國動機
+
+很想工作賺錢定下來
+偏偏就自己所知, 這個領域的工作在台灣還不太好發展
+
+在時間急迫下, 少準備GRE能省點時間
+就給自己一點時間出去看看吧
+
+--
+選學程
+
+和美國相比, 歐洲的學位好像沒那麼厲害, 尤其在CS領域
+那為什麼去歐洲?
+
+我想看看歐洲文化, 有獎學金又能不增加家裡經濟負擔
+
+有查過CMU的BIDS學程和Big Data論壇列的學程, 比較偏好這個學程
+因為database, statistics, business process以外的課程我不希望再碰到
+(例如Algorithm, 不想再上一輪Cormen, 瀏海會被搔頭搔光)
+若是因為transaction management 或query optimization
+要複習hash table或computation complexity, 還能愉悅接受
+
+一些課程:
+Advance Database: active, temporal, spatial database
+Databse System Architechture: relational algebra, query processor
+Data Warehouses: OLAP, materialzing cube
+Decison Engineering: game theory, operations research
+Advance Data Warehouse: ETL, data quality
+XML, Information Retrieval, Data minining
+等10門必修課, 外加每學期1門語言課程
+
+5門選修課從15門選修課選擇
+Machine Learning, Database Engine, Distributed Database,
+Visual Analytics(設計dashboard)等等
+
+DMKM的學校組成有Paris 6 不過課程我比較不喜歡
+它著重statistics和data mining, database的部分不多
+加上個人認為學程網頁做得好, 表示該學程資源較多
+所以告知DMKM放棄skype面試
+而博班托福門檻為110 想當然被刷掉
+決心還未準備好被發現了(笑)
+
+--
+
+準備
+蒐集資訊後有三種選擇
+1.美國CS碩
+需要GRE和$$, 基礎科目要再修一次, 但$景看好
+
+2.德國CS碩(參閱DAAD)
+需要GRE和$, 再修基礎科目
+
+3.Erasmus Mundus
+大多不需GRE和$, 沒基礎科目
+
+能省下GRE時間又能養活自己的EM就成為最好的選擇
+
+--
+時間表
+
+4月之前   蒐集留學資訊, 處理學校的課業和雜事
+
+4月       寫cover letter(大多描述讀該領域後自己的優勢所在)
+
+8月       完成碩論, 準備托福
+
+9月       考托福
+
+10月      入伍, 並在入伍前準備好所有文件
+
+11月      托福成績出來後寄文件給學校, 兩次休假搞定
+
+隔年2月   收到錄取通知
+
+--
+後記
+
+專題老師給的建議
+
+他說    他從來沒想過會出國拿PhD
+工作以後發現他想要的職位, 永遠也拿不到
+於是出國讀碩士, 後來發現機會很好, 又讀了博士
+
+十幾年後, 你會發現不管你做哪個選擇
+你都能走到你想要的終點
+那時回頭看你走過的路, 一切都值得
+
+沉浮了五年的留學夢, 終於成功
+
+--
+推 Organizer:cong                                                  10/04 04:46
+推 seeking214:EM獎學金耶，恭喜你!                                  10/04 07:49
+推 shinew13:恭喜~ 我都沒拿到錢orz...                               10/04 09:00
+推 crosstime:恭喜你啊 謝謝分享                                     10/04 10:06
+推 matita:恭喜!                                                    10/04 15:01
+推 x200504:EM獎學金!!好厲害喔!!恭喜恭喜!                           10/04 19:34
+推 odintoby:Erasmus mundus 校友會歡迎你!                           10/05 17:21
+→ odintoby:最近我們有一些活動歡迎你一起來參加                     10/05 17:22
+有機會的話一定
+推 JimmyHou:Hey congrats, but do i know you!?                      10/06 05:29
+當時寄的信都回復的很仔細, 很感謝, 你的錄取文更是棒
+推 daylily425:恭喜申請到EM優~ & welcome to Belgium                 10/06 07:02
+推 JimmyHou:oh, I see, let's keep in touch. Good luck!             10/07 00:24
+※ 編輯: vity (140.112.77.33), 12/13/2016 02:29:46

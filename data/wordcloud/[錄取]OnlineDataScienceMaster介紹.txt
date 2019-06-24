@@ -1,0 +1,177 @@
+
+Admission:
+University of Edinburgh - Msc. in Data, Innovation and Technology
+University of Glasgow - Msc. in Data Analytics
+
+Pending:
+Georgia Tech - M.S. in Analytics (春季班)
+Indiana University (IUB) - M.S. in Data Science (明年秋季班)
+
+Decision:
+Waiting for GT or will choose Edinburgh
+
+Background:
+NCCU IMBA/ESCP Europe MiM Double Degree - 4.0/4.0
+UW-Seattle M.S. in Industrial Engineering -  3.62/4.0
+NCKU B.S. in Civil Engineering - 72/100
+
+工作經驗:
+Fortune 100 美國車廠 - Sr. Product Planning (1 year, 現職, Locate在上海)
+- Program Manager (2 years, Locate在台灣)
+神教 - Strategy Planning Engineer (1.5 year, 台灣)
+Boeing - Intern IE (0.5 year, Seattle)
+
+Reason to Study:
+
+大家看到應該會很奇怪為什麼我都拿了好幾個碩士還想要在職進修
+
+其實主要是因為工作沒有之前在台灣那麼忙
+
+除了晚上常常要跟北美開會下班算是很準時的
+
+想要給自己增加一些技能
+
+然後正好公司在推動轉型 大數據的團隊一個接一個成立
+
+想說我自己以前念IE也是碰過不少
+
+那我網路上上課或許可以幫助自己跟那些團隊溝通
+
+結果Data Camp越上越有興趣
+
+本來想說上上UW網課拿個certificate
+
+不過後來發現GT新的Analytics master program居然只要一萬美不到
+
+比很多certificate還便宜 在EDX上的課還可以抵學分
+
+完全就是適合我這種念來打發時間的(?)
+
+然後我就開始搜尋一下還有沒有類似的program
+
+
+選校:
+
+因為已經有碩士了 工作我也很喜歡沒有想說利用這轉職幹嘛的
+
+所以我用復旦大數據碩士的學費當標準
+
+只找整個program加起來兩萬以下的
+
+學校不要太爛就好XD
+
+想說我分四年慢慢念一年五千也不是很貴
+
+以下列出幾間我覺得還不錯的
+
+
+Georgia Tech (under 10K USD)
+
+我覺得課程最好也最便宜
+
+畢業證書跟在校生一樣
+
+不過錄取率大概15%
+
+而且幾乎都是名校畢業競爭很大
+
+課程涵蓋商業分析到電腦工作各式各樣專項
+
+https://pe.gatech.edu/master-science-degrees/online-master-science-analytics
+
+
+IUB (21K)
+
+CS開的學程
+
+這間其實有點爆預算
+
+不過因為很自由沒有必修課
+
+我可以根據公司發展選擇課程
+
+所以也申請了一下
+
+重點是系辦回信超快
+
+學費也只有on Campus一半
+
+學位也跟在校生一樣
+
+https://www.soic.indiana.edu/graduate/degrees/data-science/
+
+
+UIUC (19K)
+
+CS碩士
+
+太偏coding所以我放棄 (入學要求很高)
+
+CS底的可以參考
+
+http://cs.illinois.edu/admissions/graduate/faqs/mcs-ds-faqs
+
+
+U of Edin. (11K GBP)
+
+稍微生物統計 (可以選生統方向)
+
+課程較為傳統偏數理統計
+
+我覺得有點無聊XD
+
+但是因為愛丁堡超漂亮我很想畢業典禮可以再去一次
+
+所以也有投 (?)
+
+公司裡面校友也不少也是原因就是
+
+證書跟on Campus一樣
+
+免申請費 世界排名也OK
+
+http://www.ed.ac.uk/data-science/postgraduate
+
+
+Glasgow (10K GBP)
+
+其實就是統計系的一個組
+
+課程我覺得還OK
+
+今年剛剛launch
+
+因為學校漂亮到爆申請的
+
+證書跟on Campus一樣
+
+系上也很support
+
+免申請費
+
+http://www.gla.ac.uk/postgraduate/taught/dataanalyticsonline/
+
+
+以上這些課程雖然是online的
+
+但是要求跟on Campus一樣
+
+然後又很便宜 (重點XD)
+
+我覺得蠻適合像我這種背景的
+
+不過如果是第一碩士還是建議去念on Campus的啦
+
+畢竟跟學校的interaction還有對學校的認同感online課程沒法提供給你
+
+
+另外如果你有點閒錢沒處花
+
+可以申請UCB/Columbia/NWU/NYU/Brandies這幾所
+
+我之前看他們課程也都做得非常棒
+
+但是60K USD起我直接pass就是 XD
+
+希望有幫助到大家啦
+

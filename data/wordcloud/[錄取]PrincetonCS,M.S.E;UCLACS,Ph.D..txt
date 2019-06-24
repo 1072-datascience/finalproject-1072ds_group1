@@ -1,0 +1,248 @@
+
+Admission:
+
+UCLA, Ph.D.2/16 (Tuition Waiver, RA/19099 per academic yr)
+
+Columbia University, MS      2/17
+
+CMU, MS3/6 ( Scholarship/5000 Total)
+
+Princeton University, MS     3/27(Tuition Waiver, RA/23650 per acaemic yr)
+
+
+All Computer Science except CMU(MSIT-IS)
+
+
+
+Rejection:
+
+Stanford University
+
+UC Berkeley
+
+UIUC
+
+U Michigan-Ann Arbor
+
+U Washington
+
+UCSB
+
+Brown University
+
+
+
+Pending:
+
+Harvard University
+
+UT-Austin
+
+Georgia Tech
+
+USC
+
+
+
+Decision:
+
+Princeton University
+
+
+
+Background:
+
+B.S. National Chung Chen University, MIS (2007~2011)
+
+Completed Information Security Program
+
+
+
+GPA:
+
+Overall: 3.67; Major: 3.80; Last 60: 4.00
+
+
+此GPA為美化版，也就是若被當的科目有重修，則只算重修的科目
+
+正確的GPA大概在3.3左右
+
+
+註:
+
+本人大一上學期慘遭二一，六科必修被當了五科。大一下也被當了一科，大二許多科
+
+目都只有低空飛過。
+
+
+
+
+GRE(舊制機考 07/19/2011):
+
+V/720, Q/800 AWA 4.0
+
+
+
+TOEFL (IBT 2011/8/28):
+
+R:30 L:26 S:27 W:24 Total: 107
+
+
+
+Publication:
+
+Chen-Yuan Ku, Yi-Chang Lee, Yi-Hsien Lin and Yi-Wen Chang, A Detection Method
+for Replication Attack in Wireless Sensor Networks, Proc. of the
+International Conference on Human-centric Computing 2011 and Embedded and
+Multimedia Computing 2011, Springer LNEE 2011, Volume 102, pp.235-244, August
+2011.
+
+(另有一篇Ready to go, aiming submitting to IEEE Sensor)
+
+
+
+Letters of Recommendation:
+
+1 from Management Information System professor
+(專題指導教授、合作發表paper的教授)
+
+1 from Computer Science professor
+(資工專題指導教授、合作一篇有關Smartphone Malware的survey paper)
+
+1 from Communication Engineering professor
+
+
+
+Work Experience:
+
+1.Serve as a second lieutenant as part of mandatory military service
+
+
+2.Intern at National Center for High-Performance Computing
+
+
+3.Co-Founder of Guan Chen Co., Ltd.
+
+
+
+Honors:
+
+Presidential Award x 4
+
+First Prize in Information Management Department Project Exhibition
+
+Elite Athlete, National Chung Cheng University
+
+
+
+Extracurricular Activities:
+
+Deputy Captain of Varsity Tennis Team
+
+Gold Medal in 2011 National Intercollegiate Athletic Games (Tennis)
+
+Bronze Medal in 2010 National Intercollegiate Athletic Games (Tennis)
+
+Silver Medal in 2009 National Intercollegiate Athletic Games (Tennis)
+
+Bronze Medal in 2008 National Intercollegiate Athletic Games (Tennis)
+
+
+
+心得:
+
+自己是在要升大三時決定要出國唸研究所，那時才第一次去教務處印了有GPA的成績單。
+看到印著2.89我愣了好一會，心裡想著這樣還有機會申請到好學校嗎?
+
+思考了很久，確定了自己真的想出國，那接下來的路就很清楚。首先，接下來兩年的成績
+要夠漂亮，且不能有任何失誤，畢竟我認為GPA不是絕對，重要的是成績單必須要反映出
+你學習的資質、在某些重要學科的表現、以及學習的穩定度。接著，要思考自己還能做些
+什麼來為自己加分?
+
+我的策略很簡單
+
+第一是要Focus，因為畢竟是要去唸研究所，應該要確定自己的興趣了
+，因此我後兩年不管在修課或是發paper或是做專題方面，都非常specific在security。
+
+第二是要積極，因此我很主動的找自己的專題指導教授以及一名資工系的教授寫paper。
+並且請他們在推薦信中特別強調這一點。
+
+第三，由於我是唸資訊管理，怕Computer Science教授認為我能力不足，因此也去修了資
+工系和通工所的課，並且把成績弄到很漂亮。
+
+
+策略擬定之後，剩下的就是執行面了，但這確也是最難的。因為大一大二的不努力，我
+還要做專題，寫paper。有時候都會有想放棄的念頭，想說乾脆就考台灣的研究所就好了
+，何必這麼累? 不過有這種念頭時，自己就會去看看自己夢想中學校的網站，聽聽那些
+大師的演講，再思考自己決定出國的初衷，就又會有動力了。
+
+
+關於GRE、托福或是申請文件，我想版上已經有提供許多資訊，我就不再贅述。
+但是我要給大家一個建議，就是一定要先主動聯絡教授!你永遠不知道自己會走什麼狗
+屎運，哪個教授看你就是順眼，或是剛好要來台灣。
+
+像我寄信給Princeton的教授，表示我對他的研究很有興趣，希望可以和他一起做研究，
+他剛好發現我是台灣人，而他剛
+剛好要來台灣參加一個conference，便說我可以去找他。我也才能有機會當面向他推
+銷我自己。不過在聯絡教授前一定要充分的做好功課，把自己準備充分，不然可能
+只會有反效果。
+
+在這邊真的要鼓勵那些GPA不夠高，或覺得自己現階段條件不夠好的，如果真的確定要出國
+，那做就對了，一定會有機會，只是看你願意花多少功夫罷了。
+
+最後要感謝自己親友、老師的幫忙，當初在我身邊一直陪著我的前女友，很細心專業
+，給我許多協助的美麗代辦Sophie，以及這個版所提供的許多有用資訊。希望大家都可以
+申請到自己理想的學校。
+
+
+更詳細的內容會持續更新在：
+http://cyyang7.pixnet.net/blog
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc)
+◆ From: 114.36.176.50
+推 transferking:恭喜!                                              04/08 17:00
+推 heymei0421:可以問一下您的4年總平均(百分制)多少嗎?謝謝QQ         04/08 17:24
+→ cool2961:80.62                                                  04/08 17:37
+推 danny2000tw:恭喜！ 請問都是申請 CS MS 嗎？                      04/08 17:40
+→ cool2961:UCLA因為教授希望我申請Ph.D所以是Ph.D                   04/08 17:41
+推 selfabuse:CONGRATS!!!!                                          04/08 17:45
+推 diva:你的speaking好高啊                                         04/08 17:52
+※ 編輯: cool2961        來自: 220.137.144.98       (04/08 18:52)
+→ Basicer:恭喜!! 你英文好厲害! 請問你有美國籍嗎?                  04/08 18:56
+推 ztdxqa:看到大家大學就可以發paper 回頭看看自己QQ                 04/08 19:23
+推 xiaoyang:被21還可以三年畢業 強                                  04/08 20:19
+推 kuiper2000:paper太強大有加分～                                  04/08 20:19
+推 ulamaca:恭喜!不好意思問一下，2009-2011您是兩年畢業嗎??          04/08 21:08
+※ 編輯: cool2961        來自: 220.137.144.98       (04/08 21:19)
+→ cool2961:抱歉讓大家誤會了...我是四年畢業，不小心打錯            04/08 21:20
+推 APE36:why not decision CMU?                                     04/08 21:58
+推 AllenHuang:恭喜!                                                04/08 22:09
+推 answertw:可能錢少吧 而且Princeton講出來嚇死人                   04/08 22:10
+→ cool2961:我CMU申請的不是正統的Computer Science                  04/08 22:11
+推 kevinlin311:恭喜!  你的英文好強!!                               04/08 22:12
+推 lontano:為何申請CS的人這麼多?我身邊也有一票同學申請美國CS       04/08 23:45
+推 lontano:anyway恭喜你申請上dreamschool                           04/08 23:56
+推 leitheflash:強阿！！！  榮幸能夠跟你一起申請學校 = )            04/08 23:58
+推 tough0225:可以請問原PO的CV上寫的GPA是有美化過的嗎XD?            04/09 00:04
+推 lingualedwin:中正人推 太強大了                                  04/09 00:11
+推 scafi:GPA美化過....                                             04/09 00:13
+→ cool2961:是，overall的GPA是填美化過的                           04/09 00:27
+→ cool2961:但有些學校申請系統會註明GPA計算方式，就會照他們的算    04/09 00:29
+推 devilqxect:想請問為什麼GPA可以只填重修的,如果沒重修呢?@@        04/09 00:31
+推 answertw:這就是小技巧吧~不用那麼說一是一                        04/09 00:35
+→ cool2961:沒重修的話就一定得填原本的                             04/09 00:41
+推 tough0225:嗯感謝原PO回答!!  恭喜你 :)                           04/09 00:54
+推 Organizer:cong                                                  04/09 03:24
+推 george31708:每個學校成績單不一樣，以寄出去的成績單為準。所以，  04/09 05:30
+→ george31708:你就算隨便寫個4.0到admission那邊還是會被重算。      04/09 05:31
+→ hotcoolrick:請問原PO 4次的書券是在哪4次啊??                     04/09 15:59
+→ hotcoolrick:Princeton MS還有獎學金真威呢!是否方便請問原PO是用   04/09 16:03
+→ hotcoolrick:台灣國籍申請嗎? 多謝回答^^                          04/09 16:03
+※ 編輯: cool2961        來自: 114.36.176.50        (04/09 16:27)
+→ cool2961:是用台灣國籍                                           04/09 16:28
+→ cool2961:最後四次                                               04/09 16:39
+推 ooox:congrats!!!                                                04/09 17:22
+推 h50114:恭喜!!                                                   04/11 19:45
+推 leitheflash:推美麗代辦Sophie = P                                04/13 23:12

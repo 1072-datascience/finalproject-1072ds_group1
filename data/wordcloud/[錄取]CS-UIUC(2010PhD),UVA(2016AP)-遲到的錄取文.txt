@@ -1,0 +1,121 @@
+
+前言:
+
+當年潛水看了學長們的經驗分享，受益匪淺。錄取後，苦於在當兵，一拖再拖就忘
+了回饋自己的經驗。五年後的畢業前夕，希望將當年的申請經驗及博士生涯的感觸與大
+家分享。
+
+現況：
+
+畢業於UIUC，明年在微軟做一年postdoc後，2016秋季會加入
+computer science department, University of Virginia當助理教授
+( 見個人網頁: http://kwchang.net )。
+
+我不常上PTT，有問題請寄kw@kwchang.net
+
+五年前(2010) 申請的結果及履歷
+
+Program:
+
+CS PhD, Fall 2010
+
+Research Area:
+Computer science – machine learning and natural language processing.
+
+
+Admission:
+University of Illinois at Urbana-Champaign, PhD with RAship
+University of Wisconsin-Madison, PhD with RAship or TAship
+Carnegie Mellon University, MS LTI
+
+
+Rejection:
+MIT, Stanford, CMU, Berkley, Cornell, UW, Princeton, Columbia, UCSD
+
+Background:
+MS, NTU CSIE (2007-2009), rank 1st
+BS, NTU CSIE (2003-2007), rank 3rd
+BS, NTU EE (2004-2007, dual degree)
+
+Decision:
+University of Illinois at Urbana-Champaign, PhD
+
+Test Score:
+TOEFL: 101 (口說20), GRE 忘了(UI不參考)…
+
+Publications:
+2x journal papers,
+2x conference papers,
+2x journal papers in submission,
+1x conference short paper, 2x workshop papers.
+
+Awards and Honors:
+教育部留獎; Presidential Award x 5; Master thesis award,
+TAAI, 一些程式競賽小獎跟獎學金
+
+Research experience:
+大二開始進入ML實驗室做專題至研究所畢業，大三與另外一位教授做一年語音處理的專題
+
+Working experience:
+Internship at Google (2008)
+
+Recommendation Letters:
+1 from NTUCS 大二-研二指導教授
+1 from NTUCS/NTUEE 大三專題指導教授
+1 from Yahoo! senior researcher (co-author).
+
+五年後的今天
+
+請看我的網頁：http://kwchang.net
+以及CV：http://bilbo.cs.illinois.edu/~kchang10/cv-Kai_Wei_Chang.pdf
+
+
+申請經驗及建議 (常被提到的就不贅述了):
+
+- 履歷上的資訊要詳實別試圖混淆。例如，如果會議論文是出現在workshop, short
+track, demo, PhD symposium，最好註明清楚。 教授會仔細研究想收的學生的履歷 (對
+他來說這是至少五年的投資)，如果發現履歷不如預期，觀感會不好。
+
+- 有些學校的州政府對TA的英文口說有要求，因此托福口說成績很重要
+(請別跟我打聽有關UI的招生訊息，基於保密協定無法透漏)。
+
+- 有些教授或是申請教職的人會把Research statement 放在網路上，寫SOP時可以參考他
+們如何描述自己的研究，避免寫得太深奧或說太多小細節。(當然SOP跟Research
+statement的寫法不一樣，但是可以學習如何表達亮點。)
+
+有關攻讀博士的建議：
+
+- 我老闆每年都會跟新收的學生說這句話: “This is your PhD”。 聽了五年後我的理解
+是: a) 你要為你自己負責；  b) 這是你的PhD，你有權利規劃你想學想做的； c) 這是
+PhD program，目標不是完成老闆指定的工作，不是投稿，不是跟人比較，而是利用這幾
+年充實、培養自己成為researcher。
+
+- 每個人適合的指導教授不同，挑選跟自己品味相同的老闆很重要。有些教授喜歡參與細
+節，有些教授特別注重知識，有些教授注重實用，有些教授喜歡潮流，有些喜歡理論。這
+無所謂好壞，每個人都有自己成功跟喜歡的研究方式，要學習在學術批判的同時互相欣賞
+。
+
+- 承上，你不一定要跟你的教授一樣。好的教授能包容與因材施教(如果遇到的教授不是
+如此，想辦法聰明的跟他討論)。不論如何，做你覺得對的事，雖然很多時候教授比較有
+經驗，講的是對的方向，但是別忘了這是你的PhD，你有權力跟義務去找尋自己的方向。
+
+- 放眼看機會。博士班中有很多學習機會( e.g., 修課、實習、與其他教授、同學合作)
+。提早想好自己的方向跟目標有助於抓取機會。雖然很多時候很難提早想好目標(e.g.,
+畢業論文題目、想找的工作型態)，但是目標越早確定，越有助於培養自己。
+
+- 隨時問自己為什麼。為什麼要投這篇paper? 為什麼要修這門課? 答案不應該是
+"老闆建議的"。PhD很漫長，失去目標會越做越不開心，隨時看看自己當時寫的SOP，
+莫忘初衷。另外，多爭取 fellowship的機會，增加履歷，也逼迫自己總結過去的研究
+跟展望未來。
+
+- 這一路中你會聽到很多建議，仔細思考會發現很多是衝突的，
+最終要靠自己想好自己的方向，畢竟這是你的PhD。
+
+找工作的建議
+網路上可以找到很多心得，強調一點 – 提早準備。推薦
+一個找教職的blog: http://theprofessorisin.com。
+
+小廣告
+UVa 這一兩年新招了許多ML/AI/data science方向相關的教授
+歡迎有興趣做相關方向研究的同學跟我聯絡。
+

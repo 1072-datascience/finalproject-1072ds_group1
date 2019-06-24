@@ -1,0 +1,185 @@
+
+
+Admission:
+Ph.D in Computer Music, UCSD, fall 2013 with 4 yrs full scholarship(TA/RA)
+
+Rejection:
+NYU, Georgia Tech, McGill, Stanford, Dartmouth
+
+Academic Record:
+MM in Music Technology, NYU. GPA 3.6
+
+Test Score:
+GRE V: 150 Q: 162 AW: 3.5
+
+Publication:
+Master`s Thesis
+
+Recommendation Letters:
+Thesis Advisor
+Program Director (NYU music technology)
+Program Associate Director (NYU music technology)
+
+Working Experience:
+Digital Signal Theory Tutor, Music Technolgoy, NYU
+Music Information Retrieval Tutor, Music Technology, NYU
+Max/MSP Tutor, Music Technology, NYU
+Composition/Interactive Media Design for Performing Art
+
+---------------------------------------------------
+(申請碩士的資料可以在 #1BiRRtnw 找到)
+
+因為在出國前就希望在美國念完書之後能至少在國外工作五到十年，
+
+所以在開始念碩士的時候就考量到公費的義務限制而有想念博士的念頭。
+
+不過一開始其實什麼都不懂，對Music Technology下面的子領域也都不了解，
+
+在經過第一年碩士班大量的paper reading之後，
+
+（每個禮拜5~6篇，寫1~2篇摘要）
+
+發現自己的興趣是 music information retrieval，
+
+就開始了漫長的準備論文跟申請的不歸路。
+
+
+
+因為一開始就有意識到自己想申請博士，
+
+所以也蠻快就意識到自己欠缺很多核心的知識，技術跟資歷。
+
+沒跟過研究，沒寫過paper，
+
+念碩士之前沒寫過程式，
+
+大學主修既不是CS，也不是EE甚至還不是Music。
+
+想一想也沒有什麼可以速成彌補的方式，該補的就是要補。
+
+
+
+第一件事情是找到碩論指導教授，
+
+還記得第二個學期(2011 spring)，
+
+第一次去指導教授的office hour跟他談論文的想法的時候，
+
+被狠狠狂電，
+
+『You have no idea what you are talking about.』
+
+不過從那之後我就每個禮拜都去報到，都去被電一下，就這樣維持了四個學期。
+
+2011 fall 修他的課，一定坐最前面，
+
+暑假就把舊的slides抓下來念完，
+
+每個禮拜一定把下個禮拜上課的內容先搞懂，reference的paper都看完，
+
+準備好延伸的問題，
+
+上課每個他問全班的問題都回答，下課去問延伸的問題，
+
+每個作業都做超過要求。
+
+學期末的時候去問他下一個學期能不能跟著他做independent study，
+
+終於有得到肯定的回覆，開始討論題目然後被要求進度。
+
+之後兩個學期一個學期是independent study，一個是寫論文。
+
+
+
+第二件事情是開始參與系上的research group meeting，
+
+MIR 的 research group幾乎全部都是博士生，
+
+從我開始參與之後到現在，固定參與的碩士生只有我一個而已。
+
+一開始在meeting的時候真的不知道要講什麼，
+
+常常提很蠢的問題，或講出自以為的理解或想法，
+
+但是在group meeting裡慢慢吸收到很多有形無形的東西，
+
+例如怎麼論述自己的觀點，這個領域目前的state of the art，
+
+看paper要看些什麼，怎麼樣有建設性的criticize別人的paper或研究，
+
+不同的子領域之間有哪些不同的前提，考量跟關注的重點。
+
+
+
+第三件事情是去外系把自己不足但必要的課修起來。
+
+經過考量之後覺得自己系上的一些選修其實對自己申請幫助並不大，
+
+就把時間跟資源拿去修CS跟Math的課。
+
+
+
+最後一件事情是在intern跟專注在學校之間做選擇，
+
+其實這個選擇賭注很大，因為intern的經驗對申請博士班其實可能會有幫助，
+
+然後專注在學校，有可能成績再好也沒辦法反應你到底會什麼。
+
+不過我最後選擇專注在學校，把成績維持好，論文寫好，
+
+在系上爭取當Tutor一方面練習自己的英語語文溝通能力，
+
+另一方面逼迫自己把這些領域的知識真的搞懂，
+
+然後也是某個程度上的證明我有這些領域的知識。
+
+
+
+最後在申請的時候其實我在學術上只完成了自己的碩論而已，
+
+沒有任何別的研究成績，課堂上的project也就是project的規模而已。
+
+我自己回想申請的過程跟衡量自己的portfolio看起來到底如何，
+
+得到的結論是我的advisor一定真的有幫我好好的寫推薦信，
+
+（我常開玩笑說他一定覺得我太煩了，每個禮拜都死纏爛打糾纏他不放。）
+
+讓我覺得真的很感謝有遇到貴人，也慶幸我專注在學校的決定從結果看不算做錯。
+
+聯絡學校的過程倒是沒有特別值得分享的事情，
+
+都有聯絡想跟的教授，幾乎大部分的回應都提到這個領域funding很少，
+
+所以很難講，不確定會不會收人。
+
+---------------------------------------------------------------------
+
+要特別感謝NYU的吳學長，在我剛進program的時候就給我很多寶貴的意見與支持。
+
+也感謝留學版的各位提供的各式資訊與討論，
+
+從四年多前開始準備考公費到申請碩士，到留學生活申請博士，
+
+在這個版上獲益良多。這篇心得打著打著好像也沒有什麼重點，
+
+不管是對於NYU music technology或相關資訊有興趣的人都可以寫信給我，
+
+一定會盡量幫忙！
+
+
+
+
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc) 
+◆ From: 24.90.10.92
+推 NormalX:大推學長！真材實料又內斂的學者素養！系上人都超尊敬他!   04/25 12:49
+推 star1327p:原po好認真好有心，恭喜囉！                            04/25 12:54
+推 ron0908:推推  超級認真的原PO                                    04/25 14:20
+推 cpt:恭喜! San Diego是個好地方                                   04/25 14:39
+推 Organizer:cong                                                  04/26 01:35
+推 XSML:Let's go~                                                  04/27 21:11
+推 Utah1:簡直大帥了.....只能從後面大力地推入                       05/28 04:29

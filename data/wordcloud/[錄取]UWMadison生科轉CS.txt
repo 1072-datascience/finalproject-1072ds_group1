@@ -1,0 +1,177 @@
+
+#生科/生物/bio 轉 電腦科學/CS
+#中GPA
+#無研究經驗 無發表
+#隨班附讀
+#有工作經驗
+
+
+----前言----
+
+在申請學校和轉專業的過程中參考了版上不少文章才讓我有現在的成績，因此希望能做一
+點點回饋。內容寫得不好或有誤的地方還請大家指正。
+不論是不是和我一樣從生科轉CS，爬了近幾年的文後總結出轉CS的攻略就是:
+1. 如果還在學把本科GPA顧好
+2. 把CS幾大基礎課修一修，如果還在學就選修，畢業了就隨班附讀
+3. GRE過320，TOEFL過100
+4. 將轉專業的過程動機在SOP裡寫的流暢有說服力
+5. 做好選校策略
+6. 多申請幾間
+7. 有相關工作經驗可能有加分
+如果以上七龍珠集齊，我認為在這競爭激烈的大CS時代要錄取個純CS的program還是很有
+機會的。
+
+
+----錄取成績----
+
+申請領域：Computer Science
+- Decision:
+UW Madion CS PMP
+
+- Admission:
+UW Madion CS PMP
+NEU CS-Align MS
+UCDavis CS MS
+UTD CS MS
+
+- Rejection:
+NYU Courant CS MS
+RICE CS MCS
+UCI CS MCS
+UCI CS MSCS
+UMASS CS MS
+SBU CS MS
+USC CS37 MS
+USC DI MS
+UCSD CSE MS
+JHU MSE MS
+NEU CS MS
+
+
+----個人背景----
+
+1. Education:
+- NCTU BS of Science in Biological Science and Technology 生科系, 2010-2014
+GPA: 3.78/4.3
+Relevant Coursework:
+Introduction to Computer Science
+Calculus I & II
+
+- Chalmers University of Technology, 2014 spring
+GPA: 3.5/5
+Exchange Student
+
+- NTUST 隨班附讀, 2017 Fall
+GPA: 4.3/4.3
+Relevant Coursework:
+Computer Organization
+
+- NTUT 隨班附讀, 2017 Fall
+GPA: 96.7/100
+Relevant Coursework:
+Object-Oriented Programming
+Data Structure
+Discrete Mathematics
+
+- TTU 隨班附讀, 2017 Fall
+GPA: 4.0/4.0
+Relevant Coursework:
+Algorithms
+Operating Systems
+
+2. Test Scores
+- GRE: 326 V158 Q168 AW3.5
+- TOEFL: 107 (R30 L30 S22 W25)
+
+3. Publications:
+無
+
+4. Research Experience:
+無
+
+5. Work Experience:
+- Software Engineer (FT) for 1y
+利用C++ 做device integration
+
+6. Recommendation:
+- 交大專題教授 (生科系)
+- 公司主管
+- 北科大修課教授 (資工系)
+- 北科大修課教授 (電子系)
+
+
+----相關文件----
+
+1. GRE:
+因為不想花時間蒐集整理考試的資料所以google了一下就決定去補習班了，連結為我
+的心得文。
+https://www.ptt.cc/bbs/GRE/M.1508749100.A.512.html
+
+2. TOEFL:
+建議先考完GRE再來考TOEFL，以我的經驗來看，考完GRE後TOEFL的閱讀與寫作準備起
+來輕鬆許多。
+聽力拜交換學生的經驗所賜，準備起來也是比較沒有壓力，重點是要學一下怎麼記筆
+記。
+口說總覺得與其是考英語能力倒不如說是考臨場的嘴砲，嘴砲練起來到國外似乎也是
+挺有用的，而且重點是有把時間講完而不是內容的可信度跟真實性，所以收起木訥老
+實開始打嘴砲吧。
+
+3. SOP:
+我個人的架構大概是：
+- 目標學系與想進入此科系的目的
+- 大概提一下大學時生科專題內容
+- 交換與替代役經歷
+- 工作經歷與完成的工作內容
+- 小結一下至今的人生為何讓我想念CS
+- 隨班附讀與針對不同校系的客製化內容
+- 生涯規劃
+想辦法把大學之後的每段經歷跟CS有關係的部分特別提出，然後從中得到某些啟發，
+同時回答到學校對SOP提出的問題。像我一樣轉科系的SOP在網路上還是比較難找到可以參
+考的範例，所以只有單純的潤稿是不太夠的，需要有人給予建議做內容的修改，不論是一
+起申請的同學或者是過去已經申請上的學長姊還是專業的顧問我覺得都會比單純的修改文
+句來的有幫助，以我個人來說我請了送佛的Austin老師針對我的SOP、resume、推薦信提
+供建議，尤其我的SOP從一開始的初稿到最後的完成版本之間大概修改了五次，最後的版
+本比起一開始顯得目標明確的多，連貫性也更好，整體的架構也更完整，因此建議寫完的
+SOP，送出之前一定要給人看過。
+
+----隨班附讀----
+從我周遭以及網路上的資訊來看，隨班附讀的價值應該是大於複數年份的工作經驗，而且
+也能因此找到CS科系的老師幫忙寫推薦信，所以幾大CS基礎課建議還是修一下比較好，像
+是:
+- Data Structures
+- Algorithms
+- Programming language
+- Discrete Mathematics
+- Linear Algebra
+- Computer Networks
+- Computer Organization
+- Operating Systems
+
+就我所知台北開放隨班附讀的學校有:
+- 台科大
+- 北科大
+- 師大
+- 輔大
+- 大同
+我修過的課裡面台科大跟北科大是蠻推薦的，老師人都很好，教的內容也很實在，值得注
+意的一點是如果要隨班附讀會比較建議挑春季班跟暑修，這樣能在申請季之前就拿到成績
+單，如果是上秋季班的話，拿到成績單的時間都已經是二月多了，然而有很多CS的好學校
+申請截止時間都在12月、1月左右，以我自己的戰績來看，所有2月之前就截止的學校，即
+便我遞交了申請之後再寄信去補隨班附讀的成績單，還是一間都沒有上，由此可見成績單
+用補交的方式還是不大建議。
+
+
+----總結----
+在申請的過程中量化成績絕對是很重要的一環，畢竟每年申請的人數越來越多，從學校的
+角度來看，只審查成績達到門檻的申請者絕對會輕鬆不少，雖然說也許不是每間學校都這
+樣做，但身為轉科系的我們把隨班附讀的GPA弄高，GRE、TOEFL考高一點我認為也是展現
+出誠意的一種方式，也會讓我們的申請更有競爭力一點。
+最後感謝我的爸媽願意支持我出國念書，感謝大學專題教授願意幫忙一個要換跑道的學
+生寫推薦信，感謝北科大的教授願意撥冗推薦一個的外校生，感謝前主管一年來的指導還
+有推薦信，感謝Austin在最忙的申請季被我多次騷擾，感謝我的國中同學即使在美國很忙
+有時差還是不厭其煩回答我的問題。
+最後，在申請的路上受了許多幫助，有時也會覺得我是不是問了太多問題會不會讓對方覺
+得很煩，要是有多點人可以諮詢，分散一點被問問題的煩躁就好了，因此，如果有需要幫
+忙的地方，害怕自己的熟人覺得太煩，也歡迎站內信與我聯繫，我可以幫你的朋友分憂解
+勞。
+

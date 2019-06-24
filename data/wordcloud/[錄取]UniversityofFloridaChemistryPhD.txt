@@ -1,0 +1,165 @@
+
+--申請結果--
+
+##Admission
+
+University of Florida (2/1, tuition-waived, stipend + fellowship 27000/year)
+New York University (2/9, tuition-waived, stipend + fellowship 29850/year)
+
+##Rejection”s”
+
+University of Chicago (1/5)
+Emory University (1/12 Wait List, 4/16 Rejection)
+Princeton University (1/31)
+Stanford University (2/2)
+Northwestern University (2/5)
+University of Michigan at Ann Arbor (2/6)
+University of North Carolina at Chapel Hill (2/6)
+Yale University (2/12)
+University of Pennsylvania (2/13)
+Caltech (2/23)
+Scripps (3/28)
+University of Wisconsin-Madison (4/3)
+University of California, Berkeley (4/5)
+University of California, Irvine (4/16)
+
+##Decision
+
+University of Florida
+
+##Background
+
+NCTU Applied Chemistry Bachelor (2012-2016) GPA: 3.4/4.3 Major: 3.56/4.3 Major
+in Organic Chemistry (20 credits): 4.21/4.3
+NCTU Applied Chemistry Master (2016-2018) GPA: 3.87/4.3
+
+TOEFL:
+一戰(2015.09.12) R27 L23 S19 W20 Total 89
+二戰(2018.09.08) R30 L27 S22 W24 Total 103
+
+GRE:
+一戰(2018.11.03), V146 Q170 AW3.0
+二戰(2018.12.02), V150 Q168 AW3.0
+
+sGRE:
+Chemistry, 770 (72%)
+
+##Research Experience
+
+Undergraduate
+Jul 2014 - Sep 2015, NCTU on the synthesis of organic solar cell materials
+Feb 2016 – May 2016, Hong Kong University of Science & Technology on natural
+product synthesis
+
+Graduate
+Jul 2016 – Mar 2018, NCTU on transition-metal catalysis & natural product syn
+thesis
+Apr 2018 – Jun 2018, Gakushuin University (學習院大學), Tokyo, on asymmetric
+catalysis
+
+Research Assistant
+Sep 2018 – Jan 2019, NCTU on natural product synthesis
+
+##Publication
+Journal of Organic Chemistry (1st of 2), 2018
+Chemical Communication (1st of 3), Jan 2019
+（申請時剛丟出去，後來一月初有跟系辦通知被accept了）
+
+##Letter of Recommendation
+碩士班指導教授:全寫，最強力的
+大學專題指導教授:全寫，跟老師還滿熟的，即使不夠強力應該也不到差
+學習院大學教授/系上日本教授:不想造成兩位沒那麼熟的日本老師困擾，因此讓他們各上
+傳八間
+
+##Honor/Award
+畢業論文優秀獎
+
+——————————————————-
+
+從studyabroad版得到很多幫助，發這篇錄取文當作回饋這個版
+因為每個人申請的條件不一樣，所以希望讓條件跟我相去不遠的人可以以此作為參考。
+
+##時程安排
+Chemistry PhD Program的申請截止日大多是落在12/1-15之間，因此最好是前一年就開始
+準備各項考試，給自己足夠多的時間做充分準備，也給自己有考二戰甚至三戰的時間，CV
+跟SOP大概三四個月前開始用就差不多。我自己
+的時程安排絕對不是好的示範，大家可以看看就好，不過如果你是臨時想申請且時間所剩
+不多的人，我的時程表可以給你參考時間掐最緊要怎麼抓。
+
+6月申請兵役半年緩徵
+7/31 碩士班畢業
+8/1 – 8/31 TOEFL補習班衝刺班
+9月開始研究助理
+9/8 托福考試
+9/1 – 10/31 GRE補習班
+10/27 subject GRE考試
+11/3 GRE考試(一戰V146 Q170 AW3.0)
+12/2 GRE考試(二戰V150 Q168 AW3.0)
+1/23 – 5/9 國軍online
+7月出國
+
+##TOEFL/GRE/sGRE
+
+因為三年前為了推甄研究所以及去香港當交換學生，透過自習考了第一次托福後大概知道
+自己的弱項(口說&寫作)，於是選擇能短期補強的衝刺班，最後順利取得自己還算滿意的
+分數，但是還是強烈建議大家要把口說拉高，不少學校對口說都有硬門檻，例如UC Irvin
+e口說要26分，如果沒過硬門檻的話，學校基本上不會理你。GRE為了考過320這個傳說的
+門檻我考了兩次，雖然第二次考試成績在截止日之後才出來(12/14)，其實學校都還是會
+願意收，他們大概一月才開始發布通知，12月出來的成績透過ETS傳到學校，學校的系統
+都仍然會收到並且更新資料。Subject GRE注意台灣一年只有一次，所以最好是前一
+年就先考，這樣如果考差的話當年還有一次機會，如果想要進頂尖學校勢必也要把這個考
+高，這樣可以有機會又一個參數也勝過別人。
+
+##選校定位
+
+在這個項目我真的要感謝版上好心的前輩們，要不是在申請前發了一篇文章選校文，我今
+年真的全軍覆沒。在所有申請資料裡面明顯的GPA是我最大的弱點，起初憑著研究經驗
+成果可以蓋過GPA的想法把選校選得太天真，在前輩們的建議下新增保底的University of
+Florida和New York University，最後這兩間也是唯二錄取的，因此我相信對學校而
+言GPA絕對是在評斷一個學生是否適合唸PhD很重要的參數。建議大家在選校時可以先從過
+去的錄取文尋找自己的定位。
+
+##Statement of Purpose (SOP)
+
+這個環節也是我認為做得不夠好的一部份，在這邊可以再給大家一個”錯誤”的示範，我
+在第一段表達了我對有機化學以及學術研究的高度興趣，中間部分則是描述所有的研究經
+歷如何激起我對有機化學哪些領域產生興趣以及做了哪些東西，這個部份做錯的地方是我
+只是把CV上的研究
+經歷文字化而已，內容會看起來過於冗長，我應該描述這些經歷如何磨練我成為一個High
+-Qualified的研究人員，例如如何解決實驗中遇到的困難，一些可以展現出自己獨特性質
+的內容。最後一段則是寫未來我希望從事哪些領域的研究，藉此希望能吸引一些教授們的
+注意。如果可以的話，最好是再增加一些針對學校客製化的內容，例如這個Program哪些
+制度特別吸引你，以及你的哪些特質會非常適合這個Program的制度。
+
+##Personal History Statement (自傳)
+
+這個自傳大概只是提了甚麼契機激發我對研究的興趣，再來我的Personality會很適合成
+為一位PhD Candidate，以及我的國際交流經驗能讓我在美國唸PhD沒有任何太大的問題。
+
+##推薦信
+
+碩士班指導教授: 我最要感謝的人，讓我在他的麾下發了兩篇Publications，在精神和實
+質上也給我最大的幫助，推薦信是四封中最強力的。
+
+大學專題指導教授: 在大學專題做了快兩年，另外修過兩門課都拿A+，而且老師對於我要
+出國這件事也一直很鼓勵，會不時地關心我，推薦信相信就算不是最強的，一定也是一封
+好推薦信。
+
+學習院大學的教授: 由我代寫。說實話只認識三個月也沒做出好成果，實在很難讓對方寫
+出一封好推薦信，因此雖然老師非常大咖，推薦信內容卻很罐頭。
+
+系上日本教授: 由我代寫他做修改。這位教授是跟我碩士班老闆的合作教授，我修過他的
+課，他也當過我的口委，在內容上相對上可以寫得豐富一點，所以內容應該可以稱得上尚
+可。
+
+##總言
+
+最後選擇University of Florida的主因有1.比較多位Faculty可以選2.氣候宜人3.物價低
+廉。
+
+我要謝謝這一路上幫助我的老師們、一起奮鬥的朋友們，你們一步步地帶著我到達這個階
+段，沒有你們我應該已經死在沙場上了。雖然申請的結果不如理想，但最後唸完後的未來
+是自己決定的!
+
+真的很感謝大家的幫忙，祝大家心想事成以及未來的學弟妹們申請順利!
+

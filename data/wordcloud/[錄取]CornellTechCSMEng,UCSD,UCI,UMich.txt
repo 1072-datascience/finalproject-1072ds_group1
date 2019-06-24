@@ -1,0 +1,201 @@
+
+Program:
+CS, HCI MS/MEng Fall 2015
+
+
+Admission:
+UCSD CSE ME
+1/28
+Cornell Tech CS MEng   2/26 interview, 3/4 admitted
+UMich MSHCI
+3/18
+UCI ICS MS
+3/25
+
+
+Rejection:
+Brown CS ScM
+2/17
+GaTech MSHCI
+3/5
+UW HCDE MS
+3/12
+UC Berkeley EECS MEng  3/13
+UIUC MCS
+3/16
+Stanford CS MS
+3/18
+UCLA CS MS
+4/10
+
+
+Pending:
+CMU SV MSSE
+UMaryland CS MS
+
+
+Decision:
+Cornell Tech CS MEng (with 1w Scholarship)
+
+
+Education:
+BS NTHU Physics (2009) (大一)
+BS NTUEE (2010~2014) (大二轉學+延畢)
+Overall GPA: 3.59/4.3
+Last 60 GPA: 3.86/4.3
+CS Related GPA: 4.03/4.3 (11門大學部、8門研究所的課)
+
+
+Test Scores:
+GRE: V/Q/AWA  151/169/3.0 (2014/4)
+151/168/3.0 (2013/12)
+
+TOEFL: R28 L27 S22 W25 = 102 (2014/3)
+
+
+Research Experience:
+台大語音實驗室 3學期
+台大行動人機介面實驗室 3學期
+
+
+Publication:
+UIST full paper 4th author
+CHI short paper 3rd author
+
+
+Work Experience:
+二兵@海巡署資安防護中心
+VUSE 你來說我來畫，非正式的前端intern (幫宣傳XD http://vuse.tw/)
+
+
+Awards:
+UIST Student Innovation Contest 1st creativity award
+
+
+Letters of Recommendation:
+2 from NTU EE (導師、專題教授)
+2 from NTU CSIE (專題教授、修課教授)
+
+
+經驗分享:
+
+1.面試
+Cornell Tech 不管是IS還是CS目前看起來都是有面試的。
+跟面試過的同學(5個樣本)討論的感覺是他們會很針對每個人有不同的面試方向，
+出結果的時間也不太一定，有當下直接口頭給AD的，也有像我是隔將近一週的，
+也有兩週後被拒絕的 QQ
+
+面試我的是個年輕教授，也是做HCI，跟我專題的領域還蠻合的，
+三十分鐘裡面主要是自我介紹，還有閒聊我UIST和CHI的兩個 project，和閒聊她做的
+project，沒有問任何 technical 的問題，然後就是我問了一些問題:
+
+1. 面試前有針對教授看了一下，發現她有開 HCI 相關的 seminar，就問了一下 MEng的
+學生能不能參加，回答是說可以也很歡迎。
+
+
+2. 聊天的過程她有提到她實驗室在收學生，我很訝異的問MEng這種工作導向又只有九個
+月的，怎麼能兼顧研究?
+
+她的回答是說在那邊他們想要做的事情並不是我所想的學術導向和就業導向互不相容
+，而是希望能夠把學術帶到業界去，然後說做事情很自由，她們會盡力幫助我們完成
+我們想做的事。
+
+
+3. 目前校區主要就是CS背景+MBA，所以問了關於有沒有設計背景的人的問題
+
+她說她們目前的確是比較沒有設計背景的人和program，但是現在整個校區還在強烈
+的變化當中，或許之後會想辦法解決。
+
+
+2. Cornell Tech 我目前接收到的訊息
+
+。今年是CS MEng第三屆
+IS CM 第二屆
+IS HL 第一屆
+
+。有人寫信去問好像又說是不能修Ithaca的課，CS也不能延畢(一定是九個月就要閃人了)
+
+。目前這個 program 給我的感覺，和從他們 kickoff events 時的側錄影片
+我覺得這真的是一個獨一無二的 program，有別於一些比較喇賽性質的分校，這邊給
+我的感覺是精銳盡出，由不想受縛於傳統封閉教育的教授們領銜，program網站上的教
+授自介幾乎都有一小段Why Cornell Tech的 section，差不多也都看得出強烈的創新
+求變的態度，甚至很多同時也是各種公司的創辦人之類的。
+
+。有一位教授說: You are here not just to get yet another program, or achieve
+yet another milestone. You are here to do something great.
+我覺得是在我掙扎選校的時候打動我的一句話，一種要起飛的感覺 XDrz
+
+。不過當然也非常有可能只是宣傳做得很好，教授們也很會喇賽 XD
+而且畢竟是有一些缺點無法忽視，無法實習、修不到扎實的硬課、基礎課等等
+最後在 UCSD 和他之間真的是非常痛苦的掙扎了一下
+不過還是賭性堅強的選擇了這個不太一樣的 program
+希望明年有機會再分享的時候是快樂的 XDrz
+
+
+3.選 program
+我覺得這個是超重要，有很多方法可以做
+我覺得我應該要做但沒有作的有:
+
+1. 申請前沒有先想辦法找一些已經在那邊讀書的朋友聊聊
+否則像這次這次陸續放榜後就覺得有些HCI相關的program其實跟我想像的不太一樣
+
+2. CMU一開始沒有研究得很清楚，就只申請了一個SV MSSE，早知道可以只交錢不用多
+浪費推薦信就多申請幾個了
+
+我覺得比較少人知道可以這麼做的有:
+
+1. 之前在做專題的時候因為看了不少 paper，實驗室也有風氣會去看作者是誰、在哪個
+學校哪個實驗室，讓我在選學校的時候大概有一些sense。
+
+2. 分享一下ACM Digital Library 有針對學校發的paper的一些統計資訊
+Ex. Cornell:
+http://dl.acm.org/inst_page.cfm?id=60007776&CFID=665342398&CFTOKEN=90366097
+
+或是針對 conference 的統計資訊
+Ex. SIGCHI:
+http://dl.acm.org/sig.cfm?id=SP923&CFID=665342398&CFTOKEN=90366097
+
+不失為一個客觀的選校參考指標，尤其是未來想做研究的應該可以參考一下
+
+3. 是說後來常常用 Quora 找資訊，覺得非常好用，
+他是個類似奇摩知識加的東西，但是品質好超級多。
+
+
+4.轉CS
+從大一在物理系修普物普化
+大二轉到電機系修了電子電路電磁工數
+大三才開始接觸比較專業一點跟研究所、工作相關的課
+總覺得已經太晚，台大電機系的十大領域中撇開比較沒興趣的半導體、電波、光電等
+嘗試了通訊類、控制類、ICS、CS
+覺得CS好像比較好玩，國外也很夯很適合出國讀研究所找工作
+但英文考試都還沒考，於是毅然決定延畢一年
+並且在大四大五的時候狂修資工系的課和做專題
+幸好最後運氣很好的跟超屌的學長們做出了一些成果，也有了比賽的經歷
+再加上累積起來的CS課 (資結、演算法、系統程式、OS、高等程式設計、ML、Design
+Pattern 之類的)
+然後又很幸運的抽籤抽到了海巡署，又剛好進到一個title超好聽的資安防護小組
+算是有了一個個人覺得還算完整的 background
+
+
+總結:
+雖然一方面覺得極度幸運能夠被Cornell Tech 收進去
+但另一方面對剩下來的結果感覺就還好而已
+UCSD 剛好在擴招收了一堆台大的學生，搭上了一個順風車
+UCI 的系統感覺超級硬，幾個朋友莫名其妙的就突然被說少了文件，就完全不考慮了 Orz
+UMich 也是收了好多台灣學生的感覺
+
+但是接下來的幾個目標的 CS MS (Brown, UIUC, UCLA, UTAustin)原本以為很有機會的都
+沒有上
+或許是他們真的會很用力的看 SOP，因為我SOP都是朝未來想修課創業工作方面去寫
+而不是想要做研究的那種，大概是被覺得不 match 之類吧。
+
+最後要幫我女朋友抱怨一下，也給之後的人一個參考
+一開始二月初的時候UCSD EE MS 從department 的角度給了她一個非正式的AD
+中間還曾經寄信去問甚麼時候才會收到正式的AD，還被回了罐頭信
+結果一個半月後學校硬生生的把AD收回，說是不接受EE雙碩士......
+真的是十分憤怒，幸好她在AD被收回前就決定去其他學校了 Orz
+
+最後的最後，大三以來真的是從留學版上獲得了許多寶貴資訊，
+希望這篇心得文也能夠幫助到需要的人。
+
+

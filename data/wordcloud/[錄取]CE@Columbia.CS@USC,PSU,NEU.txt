@@ -1,0 +1,79 @@
+
+Program:
+16 Spring, CS/CE MS
+
+Admission:
+Columbia CE MS
+USC CS MS
+PSU CS MS
+NEU CS MS
+NYU-Poly CS MS
+WPI CS MS (with TA and 10 credits free for each semester)
+
+Rejection:
+NYU CS MS
+BU CS MS
+
+Pending:
+CMU ECE MS @Pitt
+
+Education:
+NCTU CS BS (GPA: 3.3x, last-60: 3.7)
+NTHU CS MS (GPA: 4.0)
+
+Test Scores:
+GRE:
+一戰：V156/Q161/AWA3.0
+二戰：V151/Q169/AWA3.0
+Toefl:
+一戰：R28 L27 S22 W23
+二戰：R30 L30 S24 W24
+
+Publications:
+1 ACM Conference paper, 1st author
+
+Work Experiences:
+4yrs Software Engineer in an IC design house
+TA @NTHU
+
+求助:
+原本已經決定去USC了, 沒想到最後關頭忽然收到哥大的CE
+讓我頓時陷入兩難, 目標是留下來在美國軟體大公司做碼農
+以下是兩校的比較, 希望各位大大能幫忙解惑..
+
+USC CS
+pros:
+位處加州, 找工作地緣好
+兩年的program, 所以春季班也能實習
+一學期只要修兩門課, 應該有很多時間刷題
+cons:
+治安太差
+一屆人數太多, 不確定每個人的資源會不會因而變少
+離老婆在的紐約很遠
+
+Columbia CE
+pros:
+修課幾乎可以選得和哥大CS一樣
+課程似乎更扎實點
+老婆的學校在紐約, 自己也更喜歡紐約這座城市
+cons:
+program長度1.5年, 春季班無法實習
+找CS工作地緣關係不如加州
+CE的名字對找純軟的工作有影響嗎?
+第一年每學期要上四門課, 怕沒力刷題了...
+
+＝＝＝＝＝
+最後附上一點申請的心得:
+因為大一玩太開心了，造成這悲劇的大學GPA, 看完版上的文章後便開始非常悲觀.
+原本對自己的定位是top 50左右能上一間就要放鞭炮了(我都投到top 90了XD)
+身為一個在科技產業消耗殆盡的大叔, 要一邊工作一邊準備英文考試,
+加上又因為重複碩士很多學校不能投或者被質疑, 能有今天的結果真的已經非常感激了！
+
+在此想勉勵在留學之路上和我一樣低GPA的同學，特別目標是越來越困難的CS領域的人
+過去的失誤無法改變, 但是你能從現在開始努力!
+扣掉GPA, 其他每個指標都是你能加分的機會.
+英文, publication, project, 工作經驗...等,
+都是能讓我們與眾不同的地方, 千萬不要妄自菲薄以GPA看一切.
+不要沈溺在過去的失敗, 盡力做好自己能做的,
+想去的學校就勇敢的投, 上帝一定會為你開啟另一扇窗!
+

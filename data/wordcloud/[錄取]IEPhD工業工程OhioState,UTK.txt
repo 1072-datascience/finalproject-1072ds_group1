@@ -1,0 +1,122 @@
+
+
+Program:
+
+2015 Fall PhD in Industrial Engineering/Operations Research
+
+Research Interest:
+
+Mixed Integer Programming, Computational Optimization, Production
+Planning
+
+Admission:
+
+University of Tennessee, Knoxville 2014/12/12
+The Ohio State University 2015/5/7
+
+Rejection:
+Lehigh University
+Clemson University
+    Rensselaer Polytechnic Institute
+Purdue University
+University of Pittsburgh
+University of South Florida
+
+Background:
+M.S. Industrial Engineering (with thesis), Arizona State
+University
+Bachelor of Business Administration, Soochow University
+
+Publication:
+In preparation to submit my research to a journal
+
+LOR:
+1 from master thesis co-adviser (Dept. Industrial Engineering)
+1 from master thesis co-adviser (Dept. Supply Chain Management)
+1 from master course instructor (Final grade = 97, A+)
+
+Academic Experience:
+Math Tutor for undergrad-level Calculus, Statistics, ASU
+Teaching Associate for grad-level Deterministic Operations
+Research, ASU
+
+經驗分享
+
+時間過得很快，兩年前在這裡發了碩士的錄取文，現在又回來留學版分享自
+己的申請經驗，希望能提供一些訊息跟幫助給大家。
+
+我的考試成績都跟兩年前一樣沒有更新，因為寫論文還要修課跟改作業已經
+用去我所有時間了，如果你願意犧牲一些學校不申請，那麼不重考托福是沒
+有關係的，比方說我放棄了UW, USC跟Rutgers，因為這些系所都措辭肯定的
+回信告訴我不送托福的話連審都不會審，而Purdue則是跟我說東西還是會送
+進committee手裡，但是會註記說我即將會有US Degree但沒有送托福進去。
+最好的建議是提早看清楚博班申請要求跟碩一升碩二時的暑假去刷新一次
+
+其實我剛唸碩士時，還不確定自己要不要繼續念博士班，只知道自己很喜歡
+OR，想要學習更多理論跟應用，也希望將來的工作能夠運用這些知識去解決
+現實世界的問題，但不知道自己喜不喜歡做研究，所以我的規劃是選擇寫論
+文去驗證自己喜不喜歡這件事 。 要找老師一起做研究首先自己的本分一定
+要做足，上課下課問問題努力拿A是不用說的，能夠讓老師至少對你有點印象
+。我第一學期上完課後寒假寄了信給老師表達希望能夠有機會幫老師做點東
+西，約見面聊天時我也很誠實地告知雖然有讀博士班的想法，但是是商學背
+景沒有做過研究的經驗也不是很了解博士班應具備什麼樣的能力。老師說他
+希望找的學生是至少熟練一種程式語言然後線性代數裡面每個定理都要有辦
+法證出來，目前手上沒有適合我的project…….當時從研究室走出來時汗流
+浹背，覺得自己真是癡人說夢。後來五月有個供應鏈的老師要找他一起做排
+程的研究，便聯絡問我有沒有興趣，我就這樣子找到兩位共同指導老師變成
+了thesis option的學生。事後老師說我當時上課的case study跟project的
+寫作有達到他的初步標準，另外還給我了Teaching Associate是因為看我作
+業寫得還不錯，我當時都沒有想到這些應做的本分會給我這些機會。
+
+而做研究的過程，讓我確定我自己是想走這條路的，跟著一個好的老師你可
+以學習到非常多事情，我很感謝老師讓我去做computational還有一些比較理
+論的比方說像valid inequalities跟model reformulation的東西，最重要的
+是做學術研究該有的態度，我原本是希望能繼續跟著這個老師念上去的，畢
+竟AZ的冬天非常舒服，離LA跟Vegas也很近，生活費沒有像加州這麼高，系上
+博班的學長姐placement也都不錯， 但是我的指導老師此時卻得知沒有拿到
+Tenure，要離開學校去灣區工作了，這條路就此斷掉，其他感興趣方向的老
+師不是忙做行政很久沒做研究，不然就是即將休一年長假。雖然感到很可惜
+，老師在這一學期人在灣區還是時時刻刻追著我論文跟投稿的進度，在申請
+PhD也給了我很多意見跟選校指導。
+
+由於前面已經有兩次申請的經驗，申請的材料推薦信都有好好的控制在
+12/15以前弄好， 修課寫論文跟改作業申請這些事一起來的時候沒規劃好真
+的會崩潰（我差一點要崩潰）。UTK很快就發給我AD後緊接著一路就是
+Rejection，其中RIT這一家學校聽說GRE的AWA是卡4.0，根據我收到拒信的速
+度，我覺得是可信的，因為12月還沒到底我就被拒了，沒有過Graduate
+School的篩選。OSU跟Lehigh一直到四月都還是pending的狀態，我已經假設
+被默默地拒絕，開始投履歷找工作，後來收到Lehigh的正式拒信心裡真的很
+難過， 五月初OSU的系秘寄信給我說他們一直沒辦法看到我的申請材料，被
+Graduate School擋下來，如果我還想申請的話請去跟他們聯絡看看是怎麼回
+事，一聯絡才發現Graduate School以為我沒有US Degree必須送托福成績才
+擋下來，把這個問題修正跟系秘重新聯絡後，我順便趁機會把已經完成的論
+文草稿寄過去，後來收到錄取時有一種難以置信的感覺……
+
+有些人會把PhD當作留美的跳板，跟哪個老師還有做什麼研究方向都不在意，
+只要有錢可以留下來就好，我覺得這並不適用於我，我是非常興趣導向學習
+的人，高中我一開始就是社會組，指考數學乙沒有及格，大學也不是本科系
+，但是當我發現自己喜歡OR時（真的要感謝我大學的OR老師，是他開啟了我
+這一扇窗），我花很多時間看理工科用的書跟開放式課程自學，做研究的過
+程中也有過想要解決一個問題可以整晚在電腦前看paper 跟coding不睡覺到
+早上，然後最後解決的時候非常高興跟老師寫信報告後再昏過去的經驗，我
+很確定這是我喜歡的東西我想做的事情，只要找到自己的方向，堅持下去，
+沒有必要讓過去限制自己。我很喜歡IE系主任跟我分享的格言，在這邊也
+跟大家分享：
+
+Nothing in the world can take the place of Persistence.
+Talent will not; nothing is more common than unsuccessful men with
+talent. Genius will not; unrewarded genius is almost a proverb.
+Education will not; the world is full of educated derelicts.
+Persistence and determination alone are omnipotent. The slogan “
+Press On” has solved and always will solve the problems of the
+human race.
+– Calvin Coolidge, the 30th President of the U.S
+
+「世上沒有東西可以取代堅持。才華不能，沒有東西比有才華但沒成功的人
+更普遍。天才不能，未得回報的天才幾乎已成格言。教育不能，這世上充斥
+著有學問的遊民。單是堅持及決心已是萬能。『繼續下去』這個標語已解決
+並將永遠解決人類的問題。」
+
+即將要踏進PhD的世界，雖然很緊張但是很期待要面對的挑戰，把自己能做到
+的部分做到最好，永遠要對自己有信心，祝各位板友申請順利。
+

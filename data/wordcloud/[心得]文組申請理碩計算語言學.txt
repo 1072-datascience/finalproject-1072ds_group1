@@ -1,0 +1,38 @@
+
+標題全名應該是：文組申請理碩 計算語言學 Computational Linguistics
+
+有鑒於板上關於計算語言學這塊的心得極少，當初在爬文也是找得很辛苦，希望可以來和
+大家分享我的申請心得和相關背景。
+
+申請學校及科系 (未請代辦):
+University of North Carolina at Chapel Hill - MA in Linguistics
+University of Arizona – MS in Human Language Technology
+Indiana University Bloomington – MS in Computational Linguistics
+University of Colorado Boulder – MS in Computational Linguistics (CLASIC)
+University of Rochester – MS in Computational Linguistics
+University of Texas at Austin – (PhD)MA in Linguistics w/ Concentration in Comp
+
+背景:
+私立大學外文系畢業 General GPA 3.42
+IELTS裸考 (2018/07/28): OVERALL 7.5/L 9/R 8.5/S 6.5/W 6.5
+GRE (2018/08/18): V 157/Q 165/AWA 4.0
+除了英文之外，同時還有三年西語及一年半日語的基礎。
+授親自幫我寫的，有waive掉FERPA rights。
+
+工作經驗:
+大學畢業後做了近兩年的辦公室工作，主要處理國際貿易（消費性電子產品業），工作內
+容包含擔任中英翻譯及口譯，接待各國廠商。
+
+
+計算語言學算是滿新的領域，結合computer science + linguistics，和natural langua
+ge processing有九分近，但NLP比較偏著重computer science，CL比較偏著重linguistic
+s。（NLP領域在版上一定有許多高手，若說法有誤請不吝指教。）
+身為『純文組』生的我本身沒有任何寫程式的背景，由於對語言學非常有興趣，但是當教
+授或研究人員又不是我有興趣的職業，所以決定試著轉換跑道接觸看看新的領域。
+當初收集資料時目標是想念Master of Science，但由於美國研究所在語言學這塊大多都
+是博士班，且有提供Computational Linguistics program的學校更是少，東篩西選之下
+選擇了上面這六間學校。
+會申請UNC的MA是因為擔心自己沒有足夠的程式語言背景，所以想說至少申請一間心目中
+
+以上。
+

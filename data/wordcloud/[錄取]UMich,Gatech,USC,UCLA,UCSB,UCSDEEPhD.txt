@@ -1,0 +1,182 @@
+
+
+Program:
+
+2014 Fall PhD in EE/ECE/EECS
+
+
+Research Interest:
+
+Analog/RF IC Designs
+
+
+Accept:
+
+USC EE PhD(w/ 2 years Fellowship + 2 years RA/TA)
+UMich, Ann Arbor EE PhD  (w/ 5 years Fellowship+RA)
+Gatech EECS PhD(w/ 5 years RA/TA+Fellowship)
+UCLA EE PhD(w/ First year Fellowship)
+UCSB EE PhD(w/ 5 years TA+RA)
+ UCSD EE PhD(w/o funding)
+
+Stanford EE MS(w/o funding)
+Columbia EECS MS(w/o funding)
+
+Reject:
+
+UC Berkeley EECS MS/PhD
+MIT EECS PhD
+UIUC ECE MS
+Caltech EE PhD
+
+Decision:
+
+UMich, Ann Arbor
+
+Background:
+
+NTUEE BS (Overall GPA: 3.87/4.0, Major GPA: 3.96/4.0)
+
+Test Score
+
+Toefl: 105
+GRE:  V152 Q170 AWA 3.0
+
+Recommendation Letters:
+
+3 from NTUEE faculty
+
+Publication
+
+1 IEEE Conference 1st Author (Submitted, but later rejected)
+
+Honors & Awards:
+
+Member of Phi-Tau-Phi
+Undergraduate Research Scholarship from NSC
+Research Creativity Award from NSC
+First Prize, NTUEE Undergraduate Outstanding Reports of Special Projects
+Presidential Award x1
+Research Assistance (with funding)
+
+心得
+
+板上的錄取文對於Analog/RF IC的實在很少，如果對於這領域有興趣的人，歡迎
+ 板上的錄取文對於Analog/RF IC的實在很少，如果對於這領域有興趣的人，歡迎
+站內信給我，我們再多討論interview以及準備的過程。
+
+留學申請一路走來要感謝的人太多了，將我遇到的狀況記錄下來，提供給未來
+同樣有著留學夢的人繼續努力!
+
+1. 選校
+我認為這是整個申請流程中最重要的一環，雖然大家可能都是拿USNEWS照著排名
+一路排下來，這對MS可能比較適用。如果要念PhD的人，我建議是不單要找到學校，還
+要先進去學校網頁看看他們的faculty是不是真的適合自己，至少找到約2~3位符合興趣
+的老師，另外要注意老師還有沒有收學生。這部分可以找朋友一起做功課，互相討論才
+不會覺得很多很繁雜。
+(可以用Excel把每間學校的老師及申請狀況記下來)
+因為通常在申請表格中會請你填入想要跟的老師，這時候千萬不能亂填!!
+
+2. SOP
+這部分網路上有各式各樣的教學，我針對自己和潤稿討論後的寫法做說明。
+首先，PhD的SOP要強調的不是how strong you are，而是要讓教授感受到
+how can you do in my group。
+
+我是分成 1)修課成績 ... 證明我的background足以支持我的PhD Program
+2)專題研究 ... 證明我有做研究的能力及熱忱，最好能把在這之中所面臨到的困難、解決方法以及學到的東西交待一下
+到的困難、解決方法以及學到的東西交待一下
+3)未來期許 ... 因為我很懶，這部分為了要達到快速客製化，我內容主要寫說能夠加入OO實驗室和優秀同儕合作，一定能讓我的能力徹底發揮，然後再把有興趣的老師寫上去，到時候客製化時，只要修改最後一段即可!
+
+
+
+SOP要寫好實在是一件不容易的事情，而這部分的爭議性也很大，因為很多人會說
+教授也不太會仔細看，但就我的經驗，到了interview前，有些老師會認真地看過，因此
+這部分不能馬虎。我是給Topadmit改，費用雖然高了一些，但是品質真的滿好的，可以
+來回一次。
+
+3. CV
+無疑地，這肯定是申請過程中最重要的一部分，但是到了要申請時應該也固定了。
+把所有能寫的、有得過獎的、甚至如果是大學畢業但有修過研究所的課程都可以列上來，
+至於一些社團活動...真的對於理工背景者申請來說沒什麼太大用處...可以考慮不寫。
+這部分我除了將自己做過的專題以及Honor列出來外，全部都有加上細項說明
+(類似paper的abstract)，並且用黑體標示出重點，重點讓人一目了然。
+
+4. 推薦信
+這部分建議盡量在7~8月份開始和老師詢問，到了9月申請系統開放以後，趕快申請
+帳號，寄發推薦信request，然後開始等待老師submit。要特別注意有些學校是要等你
+submit申請表格後才會寄發推薦信request給老師(Ex:Columbia Uni.)。
+三封推薦信盡量分配給 1) 修課高分or期末project讓他印象深刻的老師2) 專題指導老師_1
+
+對於大學生而言，我想要找到三封推薦信真的是一件很困難的事情。因此可以多找
+大學導師聊聊，最好讓他都有掌握到你平時的狀況，這樣要寫推薦信也才不會那麼尷尬。
+我很幸運是在大學跟了兩位老師做專題，都分別有一些成果，因此老師們都願意幫我
+寫所有學校的推薦信，最後一封我是找了一位剛退休的老師，也是帶領我走入類比IC的
+老師。
+在這裡要重申一下，找大咖老師寫推薦信多少會有幫助，可是不一定就真的能有如
+神助地拿到一大堆offer，修行造化還是端看個人表現!
+
+5. 套詞
+相信很多人會有這個疑問，到底寫信去給老師有沒有幫助? 我想多少是有的，可是
+不用拼命寫，更不用花很多時間心力在老師有無回覆上面，因為95%的信都會石沉大海，
+除非你真的是超級OP，老師一看就愛上你。我USC和Gatech面試時，都有跟老師說我曾經
+寄信給他們，結果反應都是"It might be stuck in my spam-box!"所以真的不用花太多
+心力在上面! submit後就安心地等待結果吧!!
+
+6. Interview
+這部分會因學校而異，我有收到UMich, Gatech, USC, UCLA, UCSB這幾所的interview
+，有老師會真的拿著你的成績單和CV一項一項跟你確認，也有老師會直接在電話中出題目
+考試，但是只要別太緊張，一點點小錯誤老師都可以接受的。
+其中，最常被問到的問題大概有以下幾點，供大家參考:
+1) What was the challenge in your previous research?
+how did you solve it?
+
+2) Why do you want to study PhD? (經典老問題XD)
+
+3) Briefly introduced your research.
+
+4) Have you already decided topics in your PhD?
+
+5) Do you have any questions?
+(自備一些問題吧,ex: funding, lab meeting, research resources, etc.)
+
+7. 總結
+其實我的成績在NTUEE並不算頂好，自認比別人加倍地努力才能有今天的成果，
+在準備這些申請資料時，最好能找幾個戰友一起討論、篩選學校，彼此互相加油打氣，
+會讓你走在留學這條路上不孤單。畢竟，過來人都會有感觸，尤其對於需要當兵的
+男生們，放假回來就是在處理這些申請的事情，從9月忙到12月，常常會有乾脆全部直接
+submit的衝動，也會有不知道自己為什麼要申請那麼多學校來搞死自己的感覺。
+但是最後這些苦，都會在2~3月放榜時，化成最甜美的果實，一種被肯定的感覺。
+BTW，能不找代辦盡量不要找，我在政校受訓時，聽聞太多太多代辦的醜聞，已經是個
+要念PhD的人，如果連申請學校這種事情都無法自行處理、嫌麻煩，那這樣可能還需要
+多加磨練才足以在國外生存。
+
+給那些繼續準備踏上留學路的人一個大大的讚，加油!!
+申請上了不是結束，而是人生另一段旅程的開始，要以更積極的心態來面對未知的未來，
+拓展自己的視野，莫忘初衷。
+
+8. 感謝
+
+最先要感謝的就是專題帶領我的Lonick學長，你真的很強!是你讓我見識到做學問
+的態度，未來希望能有機會繼續討論電路!雖然最後paper沒上，可是這一年多真的收穫
+很多!!感謝CCSam學長提供我很多關於留學的資訊，給我鼓勵，很可惜最後沒辦法去UCB
+相見QQ
+
+感謝呂老師、吳老師在我專題上的指導，因為有你們的支持，我才漸漸認識並愛上
+這個領域。感謝汪老師，利用假日時間和我談了許多關於出國念書的理念以及經驗，
+並且鼓勵我要讓自己往更多元的方向發展，也因此讓我決定要去UMich拿PhD。
+
+感謝爸媽還有我弟的支持，在deadline前常常聽我自言自語碎碎念，被我逼著看了
+一改再改的CV和SOP。放榜期間，還要聽我描述每次interview的情形，雖然你們聽不懂
+可是我知道你們的心情和我一樣雀躍，有你們的鼓勵，我相信我未來一定能在國外闖出
+一片天!
+
+最後感謝我的女朋友，謝謝妳容忍我這接近一整年的忙碌，還要陪著我考托福GRE，
+常常放假出來約會都是被我拉去咖啡廳弄我的申請資料，不然就是我整日待在實驗室
+繼續完成我的paper和晶片量測，弄到晚上還會收到妳送來的咖啡，真的很窩心、讓我
+又重新充滿鬥志。謝謝妳願意在我人生中最重要的時刻給我支持，當我被GRE打擊到快
+信心崩潰時給我鼓舞，當我收到UCB的Rejection時給我加油，告訴我還有其他很好的學
+校。現在換妳要準備考試申請學校，就由我來給妳鼓勵和支持，加油，相信我們最後一
+定可以都有好的結果!!
+
+
+

@@ -1,0 +1,137 @@
+
+我上了一間我原本根本沒有申請的學校
+然後我有申請的學校一間都沒上...然後我就因此發現了主動聯絡教授的重要性，
+所以發了這篇心得文，想提醒未來要申請的人，主動聯絡教授真的很重要
+
+就像在美國找工作要主動積極，要自己主動寄信給有興趣的公司或主管懇求面試
+而不用付學費又能領薪水還要繳稅的PhD studentship，不也是一種工作嗎
+所以找美國的PhD studentship當然也跟找工作一樣要主動積極
+尤其是跟我一樣，一看就知道根本不可能有Fellowship送上門的人...
+我太晚領悟到這點，太晚開始主動聯絡有興趣的教授，
+所以最後上了一間原本我根本沒申請的學校...
+
+Program:
+2014 Fall PhD in  1. Computational and Applied Mathematics
+2. Mechanical Engineering
+
+Admission:
+George Washington University,
+PhD in Mechanical and Aerospace Engineering (full funding)
+
+Rejection:
+NU, Engineering, Science ,and Applied Mathematics, PhD
+UT Austin, Computational Science, Engineering, and Mathematics, PhD
+University of Washington, Applied Mathematics, PhD
+University of Chicago, Computer Science, Computational Math., PhD
+Princeton University, Applied and Computational Math., PhD
+UM, Mechanical Engineering, PhD
+CMU, Mechanical Engineering, PhD
+WU in St.Louis, Mechanical Engineering, PhD
+
+Pending(其實就是無消無息...):
+Rice University, Computational and Applied Mathematics, PhD
+Boston University, Mechanical Engineering, PhD
+
+Decision:
+George Washington University
+
+Background:
+NTU, ME, MS, 2012, GPA: 4.22/4.30, Ranking: 2/18
+NTHU, PME, BS, 2008, GPA: 74/100, Ranking: 27/50
+
+Test Scores:
+GRE: V150 Q167 AWA3.5
+TOEFL: 97
+
+Publication:
+Int. J. of Heat and Mass Transfer * 2 ( 1 1st author, 1 2nd author)
+CFD Conference * 1 (1st author)
+
+Honors and Award,
+Honorable Mention, 2012 CFD Paper Competition
+
+Letters of Recommencdation:
+1 from my advisor during MS study
+1 from a professor in Institute of Applied Mechanics, NTU
+1 from my boss in former company
+
+Working Experience:
+大學專任助教 * 9個月, until now
+軟體公司工程師 * 1年
+試車員 * 半年
+陸軍履帶型車輛保修士 * 1年
+餐廳工讀生 * 6年
+撞球場小弟 * 1年
+幫老師洗錢的大學部兼職研究助理 * 2年
+=====================================================================
+感言＆心得：
+
+看我背景就知道大學都在打工跟玩樂蹺課中度過，要不是我對台灣這種填鴨式考試還算有
+天份，每次期中期末考前一晚臨陣磨槍也還勉強有點光亮，不然我可能連準時畢業都有疑
+問。
+
+可是我當兵時，每次休假跟當時正在念研究所的同學吃飯，聽他們講他們的研究，就覺得
+會做研究好像很厲害一樣，就讓我好想做研究。所以我就很天真的去考了研究所跟念碩士
+。碩士研究數值方法跟CFD，沒想到一研究竟然對這些東西產生極大的興趣，所以碩士畢
+業前我很想要繼續念博班。
+
+但是台灣念博班要繳學費，所以我碩士畢業時打算先工作三年存夠了學費，再回來學
+校念博士。當時沒想過出國唸書，因為我沒錢，當時也不知道在美國念博士不用花自己什
+麼錢。沒想到在前公司工作才半年，就被公司派駐到美國，派駐期間逛了幾間美國大學，
+深深受到震撼，覺得這才叫大學阿！！所以讓我有種很想到美國唸書的欲望，於是做了點
+研究後發現竟然到美國念PhD通常都不用花什麼錢？！所以開始不想在台灣念博士了
+
+因為派駐結束回台灣已經去年夏天了，所以一切都很趕，趕快辭了職，隨便找了一份可以
+有時間準備英文又薪水cp值還不錯的學校工作，然後補習考GRE，再準考托福。一切都很
+趕，我到去年10月左右才開始看要投哪些學校，11月開始準備sop跟cv，然後幾乎都是
+12/15申請deadline當天才submit。
+
+因為我很喜歡研究數值方法，所以就都傻傻的投了一堆應用數學系，當時都沒想過我沒有
+應數背景，又是外國人，要申請上應數PhD非常困難。當時真的沒做什麼功課，都是看到
+有興趣的就投了，都覺的有興趣有熱忱最重要，不足的背景再自學補充就好。想當然爾，
+結果就是2月就開始收到rejection了。
+
+當收到不知道第幾封rejection時，我突然緊張了，意識到申請美國學校好像也沒那麼容
+易，平常都被ptt鄉民一堆錄取心得文洗腦，以為隨便投個十間也至少會隨便上個一間；
+以為有研究成果跟publication，其他資料就都不重要；以為我碩士班做數值，在業界工
+作也是開發數值軟體，經驗豐富是優質即戰力，應數至少會賽到個一間。但是我就是真的
+幾乎全軍覆沒了。
+
+當時很緊張，趕快主動寄信聯絡還未放榜的Boston University一位我超級有興趣的教授
+，沒想到該教授竟然被George Washington University高薪挖角了，但是教授說他對我有
+興趣，所以面試完後就給了我offer，然後走後門去處理後續的行政手續，所以最後我就
+上了這間我一開始不但沒申請，還連聽都沒聽過的George Washington University..
+
+所以說，我現在真的覺的主動聯絡教授很重要，因為在美國找PhD studentship就跟找工
+作一樣，所以要主動積極。當然我想如果是那種背景超好的申請者，應該不需要主動積極
+也會有fellowship送上門。但是我想這個板上有更多更多潛水的申請者，都是跟我一樣只
+是凡人..
+
+我當時曾經很掙扎要不要去GW念，因為GW的機械排名跟我想要的排名有不小落差，對於我
+這種台灣土生土長或多或少帶有名校思維的島國宅來說，要放下名校思維真的很困難，但
+是我又真的對那位教授的研究很有興趣。最後是我看起來也只有這間學校能念了，而且這
+教授給我的每月生活費高得嚇人，所以現在已經蠻接受這件事實了。
+
+以上， 真心希望大家申請時踴躍主動聯絡教授，就算對方不回信或婉拒了，也不要因此
+退縮不敢再繼續聯絡。找PhD缺真的跟找工作一樣，想要好工作，就要主動出擊，而不
+是用104丟了履歷後就傻傻的在家等HR電話...
+
+補充一下我的sop：
+
+因為我有申請的都落榜，所以我sop僅供參考...
+第一段說我為什麼喜歡計算科學
+第二段講我碩士研究內容、專長、成果
+第三段講我前一份工作的研究成果，因為我前一份工作也是跟計算科學範疇
+第四段講為何我想念博士班，以及講我想做的題目及目前我對這題目的規劃、構想
+第五段講雖然我不是應用數學背景出身，但是我自己自修及旁聽了哪些應數相關課程，
+證明我是真的有心想念應數
+第六段結論
+會這樣安排是因為有教授跟我說美國教授其實也都是在找即戰力，
+所以建議把做過的事及已經會的技能都寫在第二三段，讓他們第一開始就看到我的能力
+然後因為時間有點趕，最後的版本沒有找強者或專業人士幫我看，我就直接submit了
+
+另外就是有人說我有可能是因為都是在deadline前一天才申請，所以都全軍覆沒
+但是誰也不知道真正落榜原因，所以都僅供參考
+
+然後西北(NU)的應數系主任寄信跟我說他們基本上不收外國人，所以不用去嘗試了
+（但是他竟然是等我報名費都繳了，才跟我說這件事...)

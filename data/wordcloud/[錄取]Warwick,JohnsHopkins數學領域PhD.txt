@@ -1,0 +1,202 @@
+
+當初在板上找資料的時候總覺得數學領域的文章好少，剛好有機會就多留點東西補充這部
+分。
+(這篇是借用上一篇去JHU的板友的文章，複製貼上可能排版不太順，請各位包含。)
+
+Program
+2014 Fall 數學/應數/統計 PhD
+因為我要念的是機率論，所以才會申請到統計系，我其實沒有要念統計。
+
+Application Status
+
+Admission: Statistics, University of Warwick
+(conditional admission，要求英文考試過門檻)
+Applied Mathematics & Statistics, The Johns Hopkins University
+(TA,$22000, full tuition)
+
+Rejection:     stat, UCLA
+math, NYU
+appl math, Yale
+appl math, Brown
+stat, Purdue
+stat, UNC
+math, Indiana
+math, Utah
+math, NCSU
+
+Interview: stat, Warwick (Skype)
+嚴格說起來不是面試，只是對我有興趣的教授和我聊聊他手上的題目。
+
+Background
+Research Trainee, Institute of Mathematics, Academia Sinica, 2013-2014
+Master of Science, Department of Mathematics, NTU, 2010-2013
+GPA 4.04/4.3
+Bachelor of Science, Department of Mathematics, NTU, 2005-2009
+Overall GPA 3.63/4.0  Major GPA 3.90/4.0  Class rank ?/?
+
+Test Scores
+
+GRE: V140(10%)  Q168(96%)  AWA3(14%)  (2012/07)
+sGRE(math): 860(90%) (2011/11)
+TOEFL: 82 R26/L20/S18/W18 (2013/11)
+
+借用上一位版友的話：語言測驗的分數可能是我被一大票學校拒絕的重要原因
+
+
+Recommendation
+
+1 from advisor in NTU
+2 from advisor in Sinica
+
+
+Research Experience
+
+Research Trainee (2013/07-2014/06)
+Master's student (2010/09-2013/06)
+
+
+Working Experience
+
+Teaching Assistant, National Taiwan University
+Probability Theory (II), 2014 spring(申請學校的時候還沒有)
+Probability Theory (I), 2012 fall
+Introduction to Probability, 2012 spring
+Geometry, 2011 fall
+
+Honors
+
+Scholarship of Studying Aboard, Ministry of Education, Taiwan, 2013
+就是教育部公費留學，不過對找工作不利就放棄了
+
+Dean’s Award, National Taiwan University, 2009
+Awarded to graduating students in the top 10%
+院長獎，我一直以為是10%，剛剛才知道是5%...
+
+Presidential Award, National Taiwan University, 2006
+Awarded to students in the top 5% per year
+這是書卷獎
+
+
+Extracurricular Activities
+
+我在CV沒提到這部分，只有SOP寫了一句在夏令營教過高中生數學。
+
+
+Publication and presentation
+Lee, Chu-Chi. A tutorial course on Marchenko-Pastur Law in random matrix
+theory: (1) Wishart matrix, TIMS Seminar in Statistical Methodology
+(2012-13), Taida Institute for Mathematical Sciences(TIMS), Taipei, Taiwan,
+Dec 13, 2013.
+
+Lee, Chu-Chi. A tutorial course on Marchenko-Pastur Law in random matrix
+theory: (2) Sample covariance matrices I, TIMS Seminar in Statistical
+Methodology (2012-13), Taida Institute for Mathematical Sciences(TIMS),
+Taipei, Taiwan, Dec 27, 2013.
+
+Lee, Chu-Chi. A tutorial course on Marchenko-Pastur Law in random matrix
+theory: (3) Sample covariance matrices II, TIMS Seminar in Statistical
+Methodology (2012-13), Taida Institute for Mathematical Sciences(TIMS),
+Taipei, Taiwan, Dec 30, 2013.
+
+說穿了就是seminar的地方換到TIMS而已，至於發表當然是沒有啦
+
+--
+
+仔細看考試的時間可以看得出來，我其實到了研究所才有打算出國。大學的時候
+一直傻傻的覺得數學家一定都是怪物才做得出來課本上這麼漂亮的結果，自己這麼弱一定
+只能當個民間數學家orz，到了當兵的時候才想通其實沒這麼恐怖。
+
+因為大學的時候沒打算要出國，所以修課我都是看心情在修，只有數學系的課會
+認真上課、寫作業，普物、通識都被當過，還有一門課直接拿零分，所以GPA就那樣了，大
+學時期沒什麼參考價值。
+
+研究所的時候因為老師給分比較寬所以GPA會比較好看，但是研究經驗也很難累積
+，當其他系的同學們在大三大四就已經開始分組討論論文、上台發表自己看法的時候，數
+學系的研究生才剛開始上台報告論文，而且都還只是重複論文的內容而已，發表不出什麼
+新的想法，數學系學生在研究經驗方面實在很難拿出東西來。
+
+真的比較可以準備的就是英文考試和推薦信了，多參加seminar或是當助教，和老
+師多一些接觸老師真的想幫我們寫推薦信才有東西可以寫，光是修課成績好不太容易寫出
+有力的推薦信，畢竟我們通常不會有研究成果。
+
+--
+
+考試
+
+公費留學
+這個我會把之前公費的那篇的補完。今年開始好像是數理化學群共用名額，其他
+科的考古題我沒看過，不過數學的考古題簡直簡單到不能再簡單了，說不定共用名額對數
+學系的有利。
+
+英文考試看分數就知道我基本上沒花多少心思準備，這邊看看就好。
+
+GRE
+GRE我補來欣，因為我沒背單字，所以不知道單字準不準，但是那時候可能剛換新
+制，老方的題庫還不準，我模擬考靠閱讀測驗有到150，但是實際考試的時候題目難很多，
+只考到140。
+寫作我上謝忠理的課，我覺得謝老師上課除了花很多時間賣弄英文之外其實滿有
+幫助的，可以幫大家節省時間搞懂AWA到底要考什麼。考試的時後我就用國中英文把自己的
+分析寫一寫，中規中矩地拿個三分。
+
+sGRE
+數學sGRE都是一些沒營養的題目，就是把速度練起來而已，我想台灣學生準備這
+種考試應該很有經驗，只是聽說這幾年的題目敘述變長了，變相在考閱讀能力的樣子。
+
+TOEFL
+我買了5000字來背，結果背不到幾百個字，可能我沒找到對的方法吧。TPO寫了三
+五回，閱讀靠之前GRE的底還算勉強，其他三門就慘不忍睹了。
+
+
+選學校
+
+我去年準備論文的時候有申請過一次，那時候完全搞不清楚狀況。我要念機率，
+但是USNEWS的子領域沒有機率，我只好照著排名一間學校一間學校的看有沒有人做機率，
+遇到沒有照研究領域排教授的只好一個一個看研究領域。光是看有沒有教授做機率就看得
+頭昏眼花，完全沒想到有的學校還有應數系和統計系，所以漏了很多學校。
+因為去年整理的資料錯誤很多，所以今年我重新找學校，有了經驗之後就比較容
+易上手了，當然現在看還是漏洞百出，如果有板友需要我可以寄過去。因為做機率的學校
+不算多，top60超過三四個做機率的大概不到20間，所以基本上沒什麼喜歡不喜歡的，我把
+托福沒過標準的刪一刪就丟了。
+有時候老師說某間學校機率不錯可能是二十年前很強，但是現在都退光光沒人做
+機率了，所以問老師只能當參考而已，還是要自己去看過系上網站。
+
+
+Statement of Purpose
+
+去年我看了xination的SOP教學，可能對我來說太複雜了，細節看懂、整體沒概念
+，後來就拿朋友的SOP來改，改得亂七八糟，畫虎不成反類犬。
+今年看了30天上名校的SOP解說之後才豁然開朗，他來來去去就是一個重點，就算
+是猴子也能把握住了。不過我實在是沒有研究成果也沒研究經驗，只能盡可能地吹噓自己
+的成績和熱情，說穿了就是打嘴砲。
+至於客制化SOP我就沒做了，只有每個學校的名子改改。
+
+
+CV
+
+因為之前看研究領域的時候看了很多CV，大致上有些概念，我看到大部分的CV和
+一般CV教學的範本會有點不同，參考不同領域CV的時候可能要注意一下。最後我隨便找了
+一篇CV照著格式調整編排的順序，把SOP著墨比較多的往前排。
+
+
+聯絡教授
+
+我沒寫信給申請學校的教授過，一來我連老師CV上論文的標題都看不懂，二來回
+信率似乎頗低。但是暑假的時候我有和Warwick來中研院訪問的老師談過我的碩士論文，老
+師看起來很有興趣的樣子，後來也上了。如果系上有訪問學者不妨去聊聊有關演講的問題
+(如果有對方有給演講的話)或是談談自己做的東西，說不定教授會對你有興趣。
+
+填資料
+我用excel整理了每個學校的要求和注意事項，比如deadline或要不要寄成績單之
+類的，另外線上填表格的時候可以把填的資料另外整理在excel中，之後填其他學校可以直
+接複製貼上，例如住址、推薦者、考試成績和日期等等。
+
+--
+
+因為公費剛好夠英國讀書，我原本打算去Warwick，但是托福我實在沒把握在期限內考到
+規定的分數，所以還是放棄了。英文太低真的很難申請，三月的時候收拒絕信收到都麻木
+了，剛收到JHU錄取信的時候，我找半天找不到regrat才發現原來這封不是拒絕信...
+不曉得是不是刻板印象，好像我認識的數學系英文都不太好，如果想出國真的要早點開始
+讀英文，還有多和老師交流，讓老師多認識你。
+
+最後，感謝老師們、親友以及版上的各位。
+

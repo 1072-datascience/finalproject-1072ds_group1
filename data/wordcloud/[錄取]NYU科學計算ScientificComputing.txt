@@ -1,0 +1,126 @@
+
+希望這篇文章，能夠給猶豫的人一些勇氣，去抓住自己的夢想。
+
+Admission:
+NYU, MS in Scientific Computing
+UIUC, PhD in Atmospheric Sciences (w/funding)
+UCSC, MS in Scientific Computing And Applied Mathematics (SciCAM)
+Santa Clara University, MS in Computer Sciences (2016 Spring)
+
+Rejection:
+Stanford, MS in Computational and Mathematical Engineering (ICME)
+University of Michigan, PhD in CLaSP
+Stony Brook University, PhD in SoMAS
+Colorado State University, PhD in Atmospheric Sciences
+University of Wisconsin Madison, PhD in Atmospheric Sciences
+University of California-Irvine, PhD in Earth System Sciences
+...
+
+Decision:
+NYU, MS in Scientific Computing
+
+Background:
+Education
+2010-2012 MS in Atmospheric Sciences, NTU
+(GPA 3.9/4.3)
+
+2005-2010 BS in Atmospheric Sciences, with minor in Mathematics, NTU
+(GPA 3.3/4.0)
+
+Test scores:
+GRE:   V143/Q167/A3.0  (Dec 2015)
+TOEFL: R20/L20/S22/W24 (Nov 2015)
+
+Research and Work Experiences:
+Research Assitant, Dept. of Atmospheric Sciences, NTU (Jun 2013-Jul 2016)
+Graduate Research Assistant, Dept. of Atmospheric Sciences, NTU(Jul 2008-Jun 2012)
+
+Publications:
+1st author on JAMES (2016)
+2nd author on Computers and Fluids (2011)
+international conference presentations x5
+
+Letters of Recommendation
+2 from NTUAS
+1 from NCAR
+
+申請動機:
+
+大學時，本科大氣科學的成績不算出眾，反而對平行計算和數值偏微分方程有興趣。
+研究方向希望運用高效能計算來模擬複雜的天氣系統。在大學將畢業時，出了一場意外，
+加上英文一直是我的罩門，選擇沒有申請國外研究所，順勢進入研究所。研究所主要工作
+是發展全球海洋環流模式。退伍之後，再藉由平行計算和數值分析的能力，回到系上幫助
+現在老闆發展對流模式。
+
+在大氣研究圈打滾幾年，一直想要申請，卻又無法解決英文問題。直到2015夏天，到
+美國參加科學計算相關的研討會，除了發現美國提供了舞台，讓人有機會使自己的夢想茁
+壯；也發現心裡還是比較喜歡數值偏微分方程的觀點思考大氣問題。因為看到了這些，覺
+得不能再讓自己的夢想被澆熄，不得不解決自己最棘手的英文問題。
+
+準備過程
+
+退伍之後，研究助理的工作沒間斷。第一年(2013)認真做研究準備投稿，希望增加自
+己履歷的內容。投稿內容大概到第二年(2014)年底告一段落，後來陸續修正投稿內容，大
+約在2015年中投稿，2016年初被接受。2014年底雖然在整理研究成果，慌亂中仍申請三所
+PhD，不幸全部槓龜。以下是2015申請時的準備狀況。
+
+TOEFL/GRE
+
+從高中開始英文一直是罩門。大學申請時補來欣的GRE和托福，後來就仗勢著曾補過
+習，不想再參加其他補習班，直到2015年夏天痛定思痛參加SK2，雖然最後成績還是沒有
+達到90分，至少通過一部分學校的入學門檻。GRE則是有閱讀以前和網路上的資料，沒有
+再另外補習。
+
+SOP/CV/推薦信
+
+撰寫CV時，不知道如何安排各種經歷的順序。心想只要把所有有利資料列出來，就能
+增加自己被看到的機會。後來經過高人指點，把重要的經歷放在明顯的位置，內容盡可能
+用簡潔的文字敘述清楚。讓人快速瞭解你的能力，才是CV的功用。
+
+如果研究方向確定，建議將選定題目作為主軸開始發揮，第一段敘述問題，包括自己
+如何看這個問題的面向。第二段提供自己解決的方向，包括細節及預期的研究的方向。接
+下來的內容，敘述過去的經歷如何應用在選定的題目上。這部分除考驗知識外，也考驗說
+故事的能力。完成後我有請老闆和在美國的同學幫我看邏輯，也請英文母語的表妹幫我順
+句子。
+
+　　我覺得SoP是檢驗自己申請目標的重要過程。2015年申請時，我的SoP一直在理想中被
+老闆和同學不斷修正。這個不斷被修正的過程，讓我知道自己的想法和現實有多少落差。
+也是因為這樣，讓我體認到心中的理想似乎不太適合在傳統的大氣系中實現。
+
+推薦信請現在的老闆、碩班老闆和碩班口委幫我寫推薦信。建議可以一個表格，內容
+包含申請的學校的方向和死線，讓老師比較容易掌握什麼時候要開始寫。
+
+選校
+
+由於今年是背水一戰，依照興趣排列分別是跨領域的MS、有目標教授的大氣科學系
+PhD以及亂槍打鳥大氣科學PhD。
+
+第一類的Program沒有寄信跟教授聯絡，完全憑藉研究背景申請，最後獲得兩個
+admission。第一類的Program第一志願是Stanford ICME。做功課時有和gcs1302聊過，憑
+藉著當時的印象才去搜尋NYU的相關資訊，就順便把這個Program列入清單當中，沒想到會
+錄取。錄取之後去查US News和跟老闆討論，才知道Courant Insititue是美國應數界排名
+第一的Program。
+
+第二類的Program大約有四到五所學校，大致上是美國有再發展全球環流模式的大學。
+申請過程中有寄信給有興趣的教授聯絡，大部分的教授都有回信，但不見得有正面結果，
+其中一間因為托福未達學校門檻無法得到獎學金而被拒絕。
+
+第三類的Program雖然沒有有興趣的教授，可能是因為能力和一般申請者不同，所以
+有一些老師寄信來詢問有沒有興趣去念。並且接受其中兩位線上面試，UIUC的老師看中我
+的高效能計算能力，經過詳談後有發Offer給我。另外UCI的老師因為我的興趣和他不太相
+同，所以沒有進一步聯絡。
+
+在選擇offer時，在UIUC和NYU間做抉擇。究竟要選擇獎學金還是選擇夢想呢。雖然許
+多人嘗試說服我，領獎學金不代表要做老闆指定的題目。最後，我選擇和興趣比較接近的
+科學計算Program，並且打再申請Courant的PhD Program。儘管申請的路和規劃的不一樣，
+但我覺得現在的結果是最棒的。
+
+後記
+
+進入大學時，就有留學的打算，沒想到十年之後才能寫這篇錄取文。從碩士班到助理
+這段期間，我時常懷疑自己不適合作研究，或是我的研究方向沒有未來。這樣的猶豫，讓
+我好幾度想放棄現在的研究，甚至放棄寫到一半的論文。所幸在退伍後能夠到現在的研究
+室工作。感謝老闆開啟了我不同的視野，也讓我能夠堅持理想到現在。
+
+　　我的經歷稱不上優秀，但希望能夠鼓舞到還在猶豫要不要留學的你。
+

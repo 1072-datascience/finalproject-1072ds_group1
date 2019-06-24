@@ -1,0 +1,62 @@
+
+前言
+
+有鑒於留學版上絕大多數都是CS以及EE的申請者，希望可以po篇有關於機械生的錄取文章
+，給未來要出國念書的機械人一些申請上的幫助。
+小弟加上身旁同學共有六筆資料，背景皆為112 ME，申請時的心路歷程應該跟大多數人
+一致，以下將提供我們的申請結果給大家參考！
+(排版傷眼請見諒)
+
+申請者資訊
+
+三圍/加分事蹟申請學校錄取學校
+
+同學Ａ   3.98/100/320     MS:UW, UWM,
+多次書卷獎,      UW, Northwestern, UWM,CMU, UIUC,
+校內獎學金       CMU, UIUC, Stanford, UCLA,NorthwesternUTAustin, Cornell
+
+同學Ｂ   3.77/96/324      MS: Ga-Tech, Stanford,UCLA
+Conference paper Berkeley, UTAustin (all ME)
+(1st author),    UCSB (ECE)
+校內獎學金       PhD:
+UCLA (ME), U Penn (ESE), UCSD (MAE)
+
+同學Ｃ   3.7/101/320      MS:UM, CMU, UIUC
+亞培實習,UCB, Stanford, CMU, UM, UCLA,UCSD,
+校內獎學金,      Cornell, UTaustin, UIUC,Columbia
+RAColumbia, UCSD
+
+同學Ｄ   3.66/93/324      MS:UCSD, TAMU
+上銀實習Stanford, UCB, UCLA, UCSD, TAMU,UW
+（主管推薦信）    UTAustin, UPenn, UW, Cornell
+
+
+同學Ｅ   3.58/100/327     MS:UM
+Conference paper UCB, Ga-Tech, CMU, UM, UCLA,
+(Co-author、2nd-author) Purdue, Cornell, UTaustin, UIUC,Stanford
+
+同學Ｆ   3.34/100/318     MS:UW, UCSB
+
+Conference paper UCB, UCLA, UCSB, UCSD, UCD, UCI,
+(Co-author、2nd-author) Stanford, UW, UTAustin, USC, CMU,
+  (Co-author、2nd-author) Stanford, UW, UTAustin, USC, CMU,Columbia
+
+
+心得
+
+1.
+ME名校相較於競爭激烈的CS/EE而言GPA的range確實比較寬鬆,但是GPA永遠是申請條件中
+比重最重的，而且遠大於其他條件。
+然後應該不至於太擔心停修帶來的影響，我們通通都停修過（羞）
+2.
+一些耳聞對台灣申請者比較喜愛的名校(UIUC,UM,CMU,TAMU)，只要成績有到歷屆的標準，
+把握度真的會比較高。很多台灣學生都有上UM!
+而學校的申請名額往往跟當地政府政策有很大的關係，例如SD從去年開始擴編，不然
+以前去念ME的人幾乎都是一脈單承
+3.
+如果並非家徒四壁，SOP可以給專業的修改。畢竟每個學校領域的強項不一樣，
+如果你的經歷跟裡面教授有MATCH到被錄取的機會也會增加，
+花點錢給人潤稿我覺得是有效的，與其省這個錢不如讓錄取率增加一點。
+
+
+

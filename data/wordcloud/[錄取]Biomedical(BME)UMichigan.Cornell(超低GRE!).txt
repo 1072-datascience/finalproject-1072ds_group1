@@ -1,0 +1,192 @@
+
+"給GRE 很低的人，給想要跨生醫工程領域的你"
+本篇特色和重點有兩個: 第一，將著墨在GRE 成績或是某項成績較差的人，
+如何也可以成功達陣名校博班。
+第二，由於板上電機/物理跨生醫工程領域的文章少的可憐，甚至諸多學校
+的BME PhD連一篇文也沒有，希望藉此可以多提供一些最新的訊息給各位。
+
+Track
+Biomedical Engineering (biosensors, lab-on-chip, bio-optics)
+Electrical Engineering (biophotonics, electronics, optical devices)
+
+Admissions:(ALL PHD as of 3/5)
+BME, University of Michigan, Ann Arbor(4+years fellowship,stipend $28500)
+BME, Cornell University: (5 years fellowship+RA, stipend $32100)
+BME, Purdue University: (fellowship+ RA)
+BME, University of Maryland, College Park: (fellowship+RA, stipend $28000)
+EE,  University of Washington, Seattle: (funding unknown)
+BME, SUNY- Stony Brook University: (fellowship+RA, stipend $27000)
+
+Rejections (PhD)
+EE, Princeton;  EE, UCLA;  ECE, UIUC;  MSE, UT Austin
+
+Pendings (PhD)
+ECE, Duke; ECE, Rice;  MedE, Caltech; ECE, UToronto
+
+Interviews 後面會交代清楚  本篇重點!
+More than 20 times: UT, UW, UM, UCLA, UIUC, Cornell,
+UPenn, UMD, UTo, USC  UMICH,  PSU…
+
+Education:
+National Central University-BS in 光電 (2010) GPA: 3.6/4.0; rank:4
+National Taiwan University-MS in 光電 (2012) GPA: 4.1/4.3
+
+Standardized Test Scores: (你沒看錯 GRE一路下滑)
+GRE V143, Q162, Total:305, AWA 3.0 (2011.8)
+GRE V146, Q158, Total:304, AWA 3.5 (2014.9)  重頭努力補習過後
+GRE V143, Q160, Total:303, AWA 3.5 (2014.10) 加報真經班後再戰
+TOEFL iBT96 (R25/L25/S22/W24)  (2014)
+
+Research Experience
+* Research Associate  研發替代役(Sep 2012 -- July 2015)
+Molecular Imaging Center, National Taiwan University/ Hospital
+* Graduate Research Assistant (Sep 2010 -- Jun 2012)
+Institute of Photonics and Optoelectronics, National Taiwan University
+
+* Intern Project, (Jan 2012 --Mar 2012)
+Biomedical Optoelectronics Center, Medicine School. NTU
+* Undergrad Research Assistant (Sep 2007-- Jun 2009)
+EE/Optics department Dual Program, National Central University
+
+Honors and Awards
+2012   GARMIN Outstanding Student Fellowship
+2010   Best Leadership and Fellowship Student Award(Only 1)
+2010   BestStudent Poster Award,College of Science, NCU
+2010   Honorary Certificate of Interdisciplinary Research in Science
+2008   Student Research Fellowship (National Science Council)
+2008   Outstanding Student Award of the Year
+2007   Outstanding Student Award of the Year
+2007   Presidential Award (1st place)
+2006   Presidential Award (2nd place)
+
+Publications( 11 journals + 10 conferences)
+1st-authored SCI journal x4  (IEEE Photonics, Optics Lett., JBO)
+2nd-authored SCI journal x4 (APL, OE, IEEE)
+3rd-authored SCI journal x3
+1st-author international conferences x6
+
+Recommendation Letters
+NCU: JI Chyi. 還有多位年輕老師/ NTU: S.C Lee, C.K. Sun
+NCKU: 醫學院教授/ Univ. of Toronto: R.Reisz院士
+
+=============================================================================
+本篇作者其實和前面那篇  ''Stanford EE 給萬年助理的你'' 是朋友，  我們
+年紀過程相仿，一路也很坎坷，但結果告訴我們終究是值得的。 我本來碩士班
+畢業就想直接出去，礙於一些兵役問題，後來決定在台大多耗三年當研發替代役。
+這個決定大家都反對，只有我家人支持! 因為我爸爸他當年也是多待了六年，才
+出去，但因為六年多發了很多篇PAPER，所以才申請的上更好的名校。 秉持一樣
+的精神，由於我本科光電 (EE)，出國想念生醫工程 (BME)，才決定換跑道在台大
+生醫單位做 生醫工程相關研究-萬年研究助理。這個過程很痛苦掙扎，在這板上
+也觀望五年了，每年放榜季節就會很難過，看到同學都快學成歸國，心酸只能往
+肚裡吞。
+
+最後我申請了14間，一半EE一半BME，結果BME的全部上壘! 還都拿到fellowship。
+對美國來說BME科系其實不大喜歡收亞洲學生，畢竟是他們尖端保護的科系，名額
+更是少得可憐情況，我卻有這樣感人的成果... 我只能說多這三年辛苦， 一切都
+值得。
+
+至於申請要領，怎麼選校，寫CV和SOP，我不多加描述，畢竟大同小異。我想特別
+強調的是，假設你是電機/機械/光電背景，想要申請生醫工程，最好是有不同領
+域的研究經歷，要是有PAPER更好! 這樣你就會有兩種能力，兩種技術，兩種專業
+，才夠說服BME的老師收你! 至於為什麼我會錄取呢? 有兩大關鍵:
+
+第一 : 夠強的研究背景和 PAPER著作，這一點我相信是申請PHD很重要的項目。
+對於我這種GPA不漂亮，GRE悽慘的學生，要就要把研究著作/經歷衝得非常漂亮!
+從碩班就可以開始，先求有就好，而且兩個領域你都有發表過文章的話，就是
+最直接證明你有跨領域的研究能力。
+
+第二 : 善用研討會。我在去年6月爭取去美國參加CLEO光電研討會，算是數一數二
+重要且大規模的發表會。這種在美國的研討會，多半美國大咖都會出席。在我要參
+加之前一兩個月，我本來就已經有個申請/教授/lab清單，因此鎖定七八個教授，
+把CV寄給她，跟他表達自己目的，希望可以在研討會碰面。 基本上有機會face to
+face 選學生，一般教授更樂意，所以回信率超高，我也順利在研討會愈導我心目中
+的幾位有名的教授。談一談之後，有幾個老師甚至帶我去吃飯，說要保持聯絡，因
+此我之後就善用這個機緣。 針對碩士班學生 或是當研究助理的你，一定要把我
+這樣的機會。人說見面三分情，對國外老師更是適用。
+
+
+GRE
+
+我的GRE過程真的很可憐，先說 其實我小時候在國外長大(台灣籍) ，理論
+上英文底子非常好，但GRE就是考不好。 補習也補，該做也做，該背也背，檢討
+過很多次一樣沒起色，是我最大致命傷。 我GRE成績連亞洲平均都沒有，甚至Q平
+均才159 根本是丟理工人的臉!  我很執著要一考再考，一共考四次，加上補習，
+報銷掉共六萬元，最後一次抱某國真經班，結果考更爛!  但最後結果證明，基本
+上PHD 不太重視GRE 這種成績，甚至連門檻沒有也沒差。 要是你有夠強的研究背
+景就是最大的利器。當然有的學校很硬，例如UT Austin, UPenn, UCLA。
+網頁多看仔細一點，但其實要是真的有老師要力保你，通常不大會有意外。
+
+硬要說準備GRE方法，我實在覺得有沒有補習不重要，有那些精華講義，加上字彙的
+力量，多做練習應該就夠了。
+
+
+Interview 非常重要!
+老實說，我覺得我申請這麼順利就在於我連絡老師非常積極，有很好的CV，
+但更重要就是你要怎麼寫信去聯絡老師。 你不能寫得很籠統，只表達對他有興趣
+拉等等， 你要開宗明義就寫說我多有特色，我寫這封信給你是因為我認為我對你
+LAB可以發揮我所長，我多獨特才對! 而且寫信不是等到12月 1月才在寫，你應該
+在 9.10月前就可以寄信給老師。 我一共寄出過30封信，大約20個回應並且skype
+interview。 記得 ~ 在這過程中，當然是老師挑你，但也是你挑老師!
+
+你提早寄信，提早爭取機會，提早看清楚他的LAB，他的個性，這可以幫助你篩選
+學校! 因此我最後連絡上的20間 也只有投出去10間，這個過程真的讓我針對領域看
+得更清楚，選擇可以更篤定。 至於到時候 12月底真正投出去申請後，   我才又
+再寄出第二輪的 問候/提醒信。 提醒連絡過的老師你真的有興趣，已經投出去了
+，希望他們多關注你一下，這個真的很有效。 還可以搭配 Happy New Year 時間
+點超方便的!
+
+我，最特別的經歷就是到 Univ. Michigan BME 參加了invited on-site interview.
+一般國際生第一輪都不太容易被邀請，因為機票貴，加上名額少。 這次真的是
+因為在CLEO遇到一個賞識我的老闆，一路支持我 力保我到底，才幫我爭取到這機會。
+結果我還真的唯一一位國際生去面試的。 過程有興趣以後要申請UM的人再聯絡我
+就好。我只能說 這是我第一志願，卻這麼幸運，真的是三生有幸。
+
+SOP and CV
+其實就我個人經驗來說， 我覺得CV重要性是SOP十倍。 因為根據我面試的十幾間
+來說，很明顯他們根本就沒看過我SOP。 幾乎都是從看CV被吸引到，進而去跟你聯絡。
+因此我還是覺得， 怎麼寫出一篇 漂亮又有說服力的信給老師， 比SOP有用。 當然該
+怎麼去整理你的CV呢?  我覺得包裝很重要，步要出現太多什麼 help 學長，assist...
+這種研究經歷和內容不吃香。 要就要有自信一點， 不是要你過度誇張或欺騙，但要夠
+醒目 清楚 有條理，讓人感覺你經驗很多，而且是很有實力的，會上鉤的廣告單這樣。
+將來如果有需要參考的，歡迎私下寄信索取CV 討論。
+
+
+Picking BME Programs
+其實BME在美國真的各家差異很大。有的專攻生醫材料為主， 有的偏向生醫光電
+，生醫電子。這些不是我說一說就好，申請前都要上網去看的非常仔細，不只一次，
+至少每個老師網頁三次以上，才能挑出你最適合的學校。 我覺得BME有一個很棒的特色
+，那就是幾乎各學校，只要錄取PHD的都是保證四到五年RA/fellowship fundings.
+他們不允許有學生自費念BME，因此名額當然相對少，但要是你擠的進去，真的是一
+大利多。
+
+板上幾乎沒有看過 錄取文是UMichigan BME,  UMaryland BioE, Cornell BME.這三
+間當然以UM最難上，錄取過程複雜，聲譽最好。 由於學校有很強大的醫學院和工
+學院，因此這樣的BME我個人覺得是最理想的。UMICH 強在 tissue engineering,
+biosensors/bioelectronics. 老師基本上有很大的決定權，但你還是要經過很多個
+老師的面試才會錄取。 Cornell 則是長春藤名校，表面上好像是committee 制度
+，但其實老師是有影響力的。這一間的生醫光學 生醫影像應該是最強的，喜歡這
+一塊的可以努力拼看看，獎學金非常優渥。 至於UMD 排名中等一點，專注在bio-chip
+/ biomaterial 居多，但錄取也都是保證基本上有錢。UCLA BE，門檻高，卻是少數
+幾間不一定有錢，這樣念BE感覺滿可憐的。
+
+
+講難聽一點，自己要有自知之明，不要只會問，自己多下功夫，  把所有top50學校
+每個老師網頁，系上規定，申請條件，還有甚至修課模式都要看三遍! 你自然而然
+就會做出一張大清單，自己就會知道要加強什麼。 只要你GPA 還有個3.4+，我覺得
+就算其他方便不好，都可以靠研究補強!
+
+
+Conclusions
+我很幸運，一路都跟到大咖的老闆，但其實我推薦也總共找了9個老師分攤掉LOR
+。我跟到大咖的老闆好處，我不覺得是因為推薦信多有用，畢竟其實我申請的人也不
+見得聽過他是誰， 但我覺得是這些大咖老師，給我很多3C: Challenges, Chances,
+and Confidence。
+
+我覺得與其說靠老闆，不如靠自己。再優秀的背景，也要靠包裝把自己行銷出去，懂
+得隱惡揚善，爭取所有機會，主動出擊，才會是致勝關鍵。 想要申請BME不是一條簡
+單的路，想要出國申請到 PHD更是一件難事。
+
+最後，多待在台灣這幾年，這種猶豫和徬徨其實很難受，但還好我身旁永遠都有支持
+我的家人朋友，和給我機會的恩師。謝謝你們～　當然還有，謝謝這個留學板。 雖然
+留學板常讓人望塵莫及，但相信自己，機會就是你的!
+

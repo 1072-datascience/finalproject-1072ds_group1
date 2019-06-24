@@ -1,0 +1,293 @@
+
+ACCEPT: UIUC (University of Illinois at Urbana-Champaign)
+
+REJECT: Stanford, UCB (Berkeley), Columbia, Cornell, Maryland
+
+PENDING: Michigan, UT-Austin, GIT (Georgia Institute of Technology)
+USC (University of Southern California),
+
+DECLINED(已回絕對方Skype要求): UMass (University of Massachusetts Amherst)
+
+DICISION: UIUC
+
+以上全部目標都是 PhD, Computer Science
+(UCB, Michigan是EECS; Austin是ECE; GIT是College of Computing)
+
+BACKGROUND
+
+M.S., GINM(網媒所), NTU, 2012  (GPA 3.9/4.0; Rank unknown)
+B.S., CSIE(資工系), NTU, 2009  (GPA 3.9/4.0; Rank 4/100)
+
+STANDARDIZE TEST SCORES
+
+GRE: 480/800/4.0 (Taipei; Jun. 2008)
+TOEFL: 110 L/S/R/W:30/23/28/29 (Nov. 2009)
+107 L/S/R/W:29/23/30/25 (Aug. 2011)
+
+PUBLICATION
+
+NONE!
+Rejected by Globalcom 2009
+Rejected by Infocom 2012
+Accpected by WCNC 2012 but later withdrew due to funding issue
+Rejected by ICME 2012
+Rejected by Sigcomm 2012
+
+RECOMMENDATIONS
+
+1 from master advisor, EE Dept.(我實際上的老闆)
+1 from master advisor on record, CS Dept. (掛名老闆 因為我是資訊學群)
+1 from course lecturer, Psychology Dept.
+(補充: 後兩位也一直以來有參與指導我的研究 並不是只有掛個名字就算了)
+
+WORKING EXP
+
+Server Administrator, Network and System Lab, NTU, 2011-2012
+
+Programmer and System Manage Assistant, High Performance Computing Division,
+Computer and Information Networking Center, NTU, 2008-2009
+
+
+HONORS
+
+Garmin Scholarship, 2011
+Honorable Mention, ACM ICPC Taipei Regional, 2008
+Connected Life Special Prize, Yahoo! Open Hack Day, 2008
+CyberLink Elite Scholarship, 2007
+Presidential Awards*5 (書卷獎), NTU
+Learning Partners from Dean's List Project (榮譽教務長計畫), NTU, 2006-2008
+
+
+不厭其煩的打出各校全名是有原因的
+
+我大一就決定要出國念研究所了 當初來到StudyAboard板看到一堆校名縮寫 霧煞煞
+
+以下我也會盡力寫得讓毫無背景知識的小朋友也能看懂
+
+這是我第二次申請
+
+第一次是大學畢業就申請了 連托福都是當兵時考的 (偉哉 海技渡假村)
+
+投了13家 有碩有博 安全學校是Maryland 最後 全 軍 覆 沒
+
+事後分析原因 各方專家(老闆 老闆的教授朋友 大學長 有申請經驗的同學)
+
+直指問題出在 我沒有找專題教授寫推薦信
+
+至於為什麼我沒找 很可怕 不要問
+
+若有NTU CSIE學弟欲知詳情 也不用問了
+
+對沒錯就是他你聽到的傳聞都是真的不要再踏上我的後塵阿阿啊
+
+非NTU的讀者看不懂 我只能說 學術路上請慎選領路人
+
+不要以為自己書卷很屌 就獨排眾議跑去勇者鬥惡龍
+
+做研究不比讀書考試 緣分 機運 前人的提攜 等等 重要性不下自身努力
+
+往事講到這裡結束 接下來分析今年的成果
+
+我沒有publication 一篇都沒有 NONE!
+
+但我聽老闆的建議 把我的失敗都寫進申請文件裡
+
+甚至引用review comment的內容寫在我的SOP裡 (當然是隱惡揚善)
+
+我覺得申請時 把自己放在國外教授的角色來看自己的資料 一切就會明朗很多
+
+如果你是教授:
+
+Q1. 你會怎麼看SOP/PHS?
+
+Q2. 怎麼看研究經歷(包含發表與競賽等)?
+
+Q3. 怎麼看GRE & TOEFL成績?
+
+Q4. 怎麼看在校成績?
+
+我的回答是這樣
+
+A1. 我才懶得看
+
+A2. 跟我的吻合度越高越好 我才懶得從零開始培養學生
+
+A3. 系辦都訂出標準了 能pass的都算堪用 要是真的有疑慮 我不如自己Skype
+(就算我懶得花時間 我也可以叫個native speaker的學生幫我Skype 都比ETS強)
+
+A4. 字這麼小我才懶得看你修過那些課/除了名次稍有參考價值外小島大學的給分都是屁
+
+看到這邊你就知道該用什麼心態來準備資料了
+
+A1幾乎是典型的教授心態 也怪不得他們 上千份你怎麼看?
+
+除了該年度負責彙整申請資料的小助理教授以外 你幾乎不用期待任何人會看到你的資料
+
+就算是那些你在申請系統裡標註"有興趣"的教授也一樣
+
+所以你唯三的希望是
+
+H1. 被動等待推薦信引起對方興趣
+
+H2. 瘋狂寄信
+
+H3. 直接殺到國外去找他
+
+乍看H1似乎操之不在我 但我要說 如果時光能倒流 我還是能努力
+
+努力的點並不是讓教授的文筆變好或讓教授更愛你這種方法
+
+而是 選擇對的教授來混熟
+
+這裡的"對" 並非指的是官大學問大 而是要兼顧國外教授在乎的點
+
+A2: "我要收跟我做一樣的研究的學生"
+
+應用在推薦信上就是 "我要有同行推薦的學生"
+
+這位同行不能只是很空泛的"一樣做網路" 或"一樣做演算法"
+
+而是要"一樣做網路的無線感測網路的MAC層的protocol的安全性的分析"
+
+很難找 對, but guess wut
+
+申請從來就不簡單 從幾千人中靠主觀判斷 你連自己的資料被好好看過的機會都不簡單
+
+H1需要長期經營 而且需要很早就決定要跟國外哪個教授 再回頭找match的系上教授推薦
+
+(當然你也可反過來 以"能拿到誰的推薦"來決定目標是國外的誰
+不過這樣可能就跟自己的興趣有差了)
+
+所以H2(寄信)是多數人適用的方法 但是 不用我說你也知道
+
+全選->delete 我們這些申請者的精緻e-mail就都進垃圾桶了
+
+所以寄信有幾個要點
+
+1. 避開信潮
+
+絕對不要在聖誕連假期間(剛好在投資料deadline後)寄信
+
+並不是因為怕對方放假收不到
+
+而是怕對方收假後才開信箱 發現有500封未讀信件 其中400封是申請者寄來的
+
+你說你是教授你會怎辦? 當然是search "applicant" -> delete all
+
+如果你的信能在對方坐在電腦前的時候剛好寄到 那是再完美不過
+
+否則 你的信混在他一大早check e-mail的50封昨夜寄來的信中 那下場也不會太好
+
+2. 破題 扼要
+
+強調你們研究上的共通點! 以我的經驗/結果來說
+
+豐功偉業不如相同的研究經驗或相關的專業背景知識重要
+
+除非你是大學學歷 那當然要強調"我有研究經驗了!"或"我有修相關課了!"
+
+如果是碩士 那這些都是對方預設你一定要有的
+
+不需要洋洋灑灑條列你那些3rd author的papers
+
+你申請的是真正的研究機構 不是台灣只會計點數的的xx科大
+
+真的要列這些東西 不如你架個網站 貼個連結 想深入了解的人自然會點
+
+千~~萬不要附加檔案 這是很多教授甚至會在自己的網站上特別註明的
+
+因為信箱都要被灌爆啦
+
+3. 不要預設對方看過你任何申請資料
+
+包括推薦信! 不要預設對方看過你的推薦信!
+
+你在你的研究內容的結尾可以加上 "plz refer to the recommandation of XXX"
+
+一方面提醒他 我有XXX罩 (當然前提是XXX符合A2)
+
+二方面這是你自信心的展現: 用過的人 有口皆碑 我超強
+
+請做好心理準備 你的信可能10封裡只有3個人回
+
+其中一封是罐頭 另一封是信箱無效退件 最後一封是教授的秘書叫你不要再寄了
+
+不要被打倒了 諸君
+
+不妨這樣想 這也是我自己發明的哲學
+
+"OOO就像買樂透
+
+買了不一定會中
+
+但不買一定不會中" 與大家共勉
+
+最後的H3: 直接殺去國外
+
+我不想花太多篇幅講這個 因為我自己也沒有用這招
+
+我有同學真的跑了趟美國 主動拜訪了一堆教授 回來後沒多久說了一句名言
+
+"可以不要再發ad 給我了嗎? 一直要拒絕你們我也很尷尬"
+
+well, 但他真的是個人才 所以會全壘打也要考慮他其他諸多優點
+
+我個人認為與其打著算盤靠H3 不如在台灣好好做研究發表
+
+讓自己在conference上露臉 即便是個poster也好 也是廣告自己的好機會
+
+比任何天花亂墜的SOP都要有效
+
+大概就是這樣
+
+喔最後補充一點: 不要妄想背紅寶書 會死人的 GRE不值啊
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc)
+◆ From: 123.204.66.187
+→ sharon831:恭喜!!                                                03/17 01:14
+推 nba1090:強者恭喜!                                               03/17 01:14
+※ 編輯: kcir            來自: 123.204.66.187       (03/17 01:20)
+推 chieher:恭喜                                                    03/17 01:24
+推 swallow0130:原PO超強!!!恭喜呀!!!請客請客~                       03/17 01:45
+推 frank11118:強者!!!! 精心分享推!!!                               03/17 01:48
+推 genghiskii:神人推                                               03/17 01:51
+推 Organizer:cong                                                  03/17 01:55
+推 lester1019:恭喜!!  我知道惡龍是誰  XD                           03/17 03:37
+推 ron0908:恭喜!! 最近的心得文都很有趣XD                           03/17 04:35
+推 scan33scan33:推推推～                                           03/17 04:37
+推 yuhan210:中肯文 不推不行 恭喜恭喜                               03/17 04:48
+推 wengogo:推 歡迎來UIUC                                           03/17 07:18
+推 chiahsing:恭喜啊！中肯文！特別是大推最後一句。                  03/17 08:04
+推 starmovie:恭喜阿!!                                              03/17 09:25
+推 fallwind:uiuc歡迎你！  超強！                                   03/17 09:52
+推 therequiem:恭喜!                                                03/17 09:55
+推 gaspard52:超中肯文, 恭喜!!!                                     03/17 10:18
+推 Brenner:好久沒認真看完一篇錄取心得，讚!XD                       03/17 10:37
+推 urbunny:推! 恭喜                                                03/17 10:51
+推 TassTW:你終於上啦!                                              03/17 11:16
+推 kzvito:恭喜！也覺得文章講得很懇切(∩_∩)                        03/17 11:30
+推 chingkung:恭喜~                                                 03/17 11:32
+推 GixKuo:請客請客!                                                03/17 11:43
+推 osooo:推好文!!                                                  03/17 12:06
+推 yuwks:恭喜 這篇是好文！！！                                     03/17 12:47
+推 cooper76:恭喜!今天剛好才去參觀你們很新很不錯的系館XD            03/17 13:25
+推 hcsoso:恭喜!!!                                                  03/17 14:05
+推 hakusin:學長恭喜阿!!                                            03/17 14:09
+推 leetzuwen:偉哉 海技渡假村 我也是專業訓考的 XD                   03/17 14:23
+推 dsfaghjkl:學術路上請慎選領路人 :)                               03/17 15:08
+推 purincess:推原po~~!                                             03/17 19:26
+推 selfabuse:congrats!!                                            03/17 19:59
+推 chupiggy:腰瘦 最後一句一箭穿心 XDDD 還是恭喜啦!!!               03/17 20:20
+推 gomibako:準備去玉米田了！XD 好文XD                              03/17 20:43
+推 Lputin:恭喜~                                                    03/17 23:51
+推 rexabbitz:恭喜阿~~~~~~                                          03/18 08:28
+推 regent2:excellent! welcome to UIUC!                             03/18 11:46
+推 mokoko22222:整篇中肯啊ＸＤ恭喜！！                              03/18 14:04
+推 ckhonor:恭喜!                                                   03/18 18:17
+→ drq:恭喜!                                                       03/19 01:00
+※ 編輯: kcir            來自: 123.204.98.28        (03/19 23:44)
+推 eshiland:恭喜~                                                  03/21 10:31
+推 txdyorgc00:原PO超強 推啊!                                       03/21 12:51
+推 CieloCot:恭喜!                                                  03/22 18:38
+推 weiwenhsu:蠻中肯的~~~恭喜                                       03/23 06:09

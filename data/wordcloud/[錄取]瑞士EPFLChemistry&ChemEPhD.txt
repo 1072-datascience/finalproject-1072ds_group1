@@ -1,0 +1,161 @@
+
+Admission: 瑞士聯邦洛桑理工 (EPFL)
+EDCH PhD  (chemistry and chemical engineering)
+
+A. 前言
+
+這篇主要分享自己申請瑞士PhD的經驗
+我是先聯絡好教授才開始跑流程
+所以真正申請的只有EPFL一家
+（太懶XDDD）
+
+我還很菜，如果有錯誤還請前輩幫忙指正！
+
+B. 背景
+
+NTUMSE BS GPA 89.1/100
+NTUMSE MS GPA 4.22/4.3
+
+國科會大專生專題 研究創作獎
+   書卷獎*1
+
+publication:
+Macromolecules (2nd)
+Chem. Comm. (3rd)
+
+1 patent
+3 conference posters (1 with award)
+
+TOEFL 101
+GRE V/Q/AW 152/168/3.0（這program GRE成績不一定要）
+
+LOR *3 （都系上教授）
+
+C. 聯絡教授
+
+EPFL找PhD position有兩條路
+一條是先找好教授喬好（師徒制）
+一條是跟美國一樣，先申請program再找advisor
+可參考 http://phd.epfl.ch/edchapplicants
+
+（不過像ETHZ是跟教授喬好就好囉）
+
+1. 找誰
+
+當然就是去各系所的網站挖
+除了看自己喜歡領域的PI
+也可以多注意open position，vacancy，job offer等等關鍵字
+有時會貼出公告
+
+EPFL: http://emploi.epfl.ch/page-33205-en.html
+EPFL ISIC: http://isic.epfl.ch/open_positions
+ETHZ: https://www.ethz.ch/en/doctorate/finding-a-place.html
+EMPA: https://apply.refline.ch/673276/search.html?lang=en
+
+我當時大概每小時就很強迫症的刷一下XD
+
+但也不代表沒有公告徵人就沒有
+有興趣的還是可以寄個信確認一下囉
+
+2. 信的內容
+
+標題是Prospective PhD student
+內文大概三段
+
+(1) 簡短自介，表達對他的興趣
+(2) 簡述專長/研究經驗和對他group可能的貢獻/連結
+(3) 確認有沒有vacancy
+
+（信有附上CV）
+
+（當然啦，套詞套的太嚴重應該沒人會想理你，我覺得第二段要多花點心思）
+
+我自己認為第一封信不需要太長
+畢竟教授們應該也沒太多時間看XD
+如果他真的有vacancy也對你有興趣
+我想他應該就會願意花點時間進一步聯絡你了
+
+3. 結果
+
+11月中開始寄信
+9封中5封完全沒音訊
+3封感謝信表示沒vacancy（都一天內就回）
+最後1封就是現在找到的這位
+在12月中聯繫上後大約十天後skype interview
+
+D. interview
+
+一開始十幾分鐘都是他跟我介紹他的研究
+（大概因為是新教授，連網站都還沒架好XDDD）
+中間我有問一些問題
+他回答都蠻詳細
+
+分享幾件特別的事
+
+1. 講到我是NTU畢業時
+他特別提到他以前同事有位NTU畢業的學長，優秀至極
+也因此他對NTU印象蠻好的
+
+感謝前輩（跪
+
+2. 對方問我有沒有興趣做模擬
+（我過去主要做polymer synthesis和x-ray scattering）
+我老實回了我相關經驗只有修過一門分子模擬
+但如果有機會我願意試試
+
+他回說我不用太在意，其實PhD都是從頭學
+就算學生的研究經驗和他不match，他覺得也沒什麼關係
+（再次強調是「他」覺得，不代表所有XD）
+
+3. 他問了PhD畢業後的打算
+我說我想要走學術
+他分析說那跟新教授（像是他自己XD）算是不錯的選擇，因為
+
+(1) 新教授有升等壓力
+一定會push學生產出paper
+這樣學生的publication list可以因此成長不少
+（他承認學生拿到學位前的壓力也相對大XD）
+
+(2) 新教授的研究得要開創新領域
+因此前幾批學生勢必也會成為該領域的pioneer之一
+
+(3) 另外他學界的connection也不錯
+未來若想去他以前PhD/postdoc的group他也可以幫忙喬
+
+也想走學術的板友可以參考看看
+
+最後我問了關於TA的事
+還有實驗室的狀況
+結束這回合
+
+skype interview結束後隔天我（很假掰地）寄信又問了一些研究和申請的問題
+不過他lag了十天才回就是了XD
+
+E. EDCH program
+
+我最後趕在1/15 deadline完成申請的流程
+1/28 接到教授通知accept
+1/30 收到官方的錄取信
+現在正在喬之後要on-site interview去正式確認advisor
+對方會負責機票和住宿
+要給20~30min的talk（跟MPI一樣）
+
+聽那位教授是說on-site interview比較像是形式上的相見歡(?
+因為我算是已經確認advisor了
+這個過程感覺是設計給直接申請program但還沒確認advisor的學生
+
+至於實情如何......
+之後再來板上報告XD
+
+F. 結語
+
+（不小心打得有點長XD）
+
+整個過程最煎熬的大概就是寄信的那段時間
+我覺得我運氣算很好的
+我看前人分享說8x封信正常，破百也不用灰心orz
+畢竟你也沒辦法控制你有興趣的PI有沒有錢養你
+能做的只有盡量調適自己的心情，繼續出發
+
+希望這篇能幫助到有需要的人！
+

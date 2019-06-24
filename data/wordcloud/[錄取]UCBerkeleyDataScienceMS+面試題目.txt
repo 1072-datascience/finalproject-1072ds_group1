@@ -1,0 +1,148 @@
+
+
+代 PO 文
+
+申請原因及背景
+
+從生科投入資料科學
+
+從大學就開始投入生物資訊領域,除了修本科生科的課程,在大學也修統計, 程式的課程
+也有加入不同背景的實驗室做暑期研究計畫, 跟專題研究，包含統計，資訊，生物領域。
+
+為了要把資訊的能力學好，大學加入生物資訊實驗室,有跨領域專題研究,也去補習班
+學程式語言及CS基礎課程
+
+申請的原因除了精進自己資料科學的能力外,也想找到更能發揮專長的工作
+
+
+為了準備考試及申請的費用,一邊工作,兼家教,剩下的時間去補GRE,整體的準備時間
+比較倉促
+
+
+
+錄取學程
+UC Berkeley Data Science MS
+可以完全線上學習，符合我需要一邊上班，一邊能上課的需求
+
+
+Education
+NTU Life Science
+GPA: 3.58/4.3
+
+
+Test Score
+TOEFL: 97
+GRE: 316
+
+
+Experience
+台大醫學院研究助理
+生技公司(現職)
+
+
+Conference
+發表大學的研究成果
+1.The Keystone Symposia-Epigenetic and Metabolic Regulation of Aging and
+Aging-Related Diseases, USA
+2.The 31th Joint Annual Conference of Biomedical Science, Taiwan
+
+
+Recommendation Letter
+畢業一陣子了,我提前快半年先拜訪教授,跟他們聊申請的動機跟決心
+
+-NTU 暑期專題教授*1(統計背景)
+-NTU 大學加入的實驗室教授*1(資訊背景)
+-NTU 當研究助理時的老闆*1(生物背景)
+-生技公司 主管*1(生技背景)
+
+
+
+
+
+
+
+
+心得:
+
+英文考試
+可以多參考板上大家的準備心得,我的分數不算太好,簡短的分享一邊上班
+一邊準備的經驗
+
+GRE
+北車字x帝國補習，推英文題庫班，對上班族來說,能用更有效率的準備考試
+
+TOEFL
+自修+多刷題
+刷題網站: 超能學(https://www.superlearn.com/index.shtml)
+口說:托福口說模板
+Q1&2: https://www.youtube.com/watch?v=S4lzrCpndC0&t=87s
+Q3:https://www.youtube.com/watch?v=J-n_nOBDLd4&t=21s
+Q4:https://www.youtube.com/watch?v=xMUWevT3o8A
+Q5:https://www.youtube.com/watch?v=O2dU1JqlWS0
+Q6:https://www.youtube.com/watch?v=2bow59J2HU4&t=529s
+
+
+
+研究
+大二-暑期研究:生態+統計
+大三,大四:神經生物＋生資
+研究助理:神經生物
+
+
+
+SOP
+是錄取的關鍵，建議要提前 2 個月準備，跟朋友還有老師多修改幾次,我最後有送
+英修,編輯有提供幾個重要的建議,供大家參考
+[B
+1.是否具備在申請的學程中所必需的技能？
+2.畢業後，是否具備讓自己在專業領域取得成功的能力和態度？
+3.這個學位是否會增強自己已經掌握的專業知識和技能？
+4.什麼原因讓你決定在現在的職涯中犧牲時間和金錢,去尋求學位？
+5.為什麼對此學校特別感興趣？
+
+-第一段: 點出選擇讀 Data Science 的原因，這個program可以幫助我完成目標
+-第二段: 研究經驗-大學在實驗室的研究內容並發表在美國研討會
+-第三段：工作經驗-改善原有演算方式
+-第四段：工作經驗-跨業務及研究的領域,建構更能帶來效益的演算法
+-第五段：選本校的原因(客制化)
+
+
+
+CV
+排版跟內容都很重要，CV的配色隨著各學校網站的常用色系而調整
+
+我用下列幾個大標
+-Education
+-Skills and Techniques
+-Work Experiences
+-Research Experiences
+-Grants and Awards
+-Publication
+
+
+
+面試:
+在面試前,我先參考板上Berkeley的面試題目
+https://www.ptt.cc/bbs/studyabroad/M.1457147655.A.302.html
+及朋友面試的題目,先把答案打好,
+包含自介,研究內容,選校原因,對哪類課程最有興趣,團隊合作經驗,課外活動經驗,
+面試時,有一邊看小抄,一邊面試,會講比較順,比較不緊張
+
+線上面試約15分鐘(用zoom) 台灣時間凌晨三點
+
+題目
+1.介紹自己跟資料科學相關的背景
+2.描述足夠的物件導向程式能力 基礎的電腦科學背景知識 ex:線性代數, 資料結構
+3.在讀這個program 的時候 會一邊工作嗎
+4.一邊工作一邊讀書時 如何平衡時間
+5.工作的主管會說我的優勢是什麼
+6.工作的主管會說我需要加強的地方是什麼
+7.提供自己團隊合作的經驗
+8.有沒有課外活動
+9.讀完碩士後 自己5~10年的目標及規劃
+10.覺得自己的背景如何活化或為 Berkeley 的學程帶來什麼新的想法
+
+
+
+最近再找碩士獎學金的申請,有推薦的可以留言給我
+

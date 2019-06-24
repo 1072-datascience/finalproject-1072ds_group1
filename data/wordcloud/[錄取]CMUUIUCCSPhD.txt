@@ -1,0 +1,154 @@
+
+Research Interest:
+
+Pattern Recognition, Computer Vision, Machine Learning
+
+Results:
+
+CMU CS PhD - Machine Learning Department (no interview)
+
+-> 2/4 (?) official acceptance
+
+UIUC CS PhD (1.5 hrs interview)
+
+-> oral acceptance in early November/ 1/21(?) official acceptance
+
+Rejection:
+
+UW CSE PhD (no interview)
+
+
+MIT EECS PhD (no interview, several emails back and forth)
+
+Berkeley CS PhD (no interview, several emails back and forth)
+
+CMU CS PhD - Computer Science Department (with 20 minutes interview)
+
+CMU CS PhD - Robotics Institute (no interview, several emails back and forth)
+
+Decision:
+
+最後決定去CMU
+
+Background:
+
+NTUEE 09/2010 - 06/2014
+GPA 4.17/4.30
+Ranking 9/198
+Courses:CS的課只修過一門影像相關的課/一門計算機結構，簡單說從修課來看，完全沒
+有CS背景
+
+Award:
+3 times Presidential Award
+Department Representative to Receive Undergraduate Diploma
+Best Tourism App Award, Chunghwa Telecom Hami Apps Competition
+Bronze Medal & Outstanding Paper Award, Altera Innovate Asia FPGA Design Compe
+tition
+Bronze Medal Award, Taiwan Semiconductor Manufacturing Company (TSMC) Elite Camp
+
+Publications:
+
+申請時：
+total 9 submitted/accepted publications, including 3 top conferences on
+Computer Vision/ Machine Learning (2 1st author)
+
+Recommendation Letters:
+
+一封來自中研院老師
+一封來自大學專題教授
+一封來自大學導師
+
+Working Experience:
+
+空軍新竹基地 政戰綜合科 少尉政戰官 08/2014 - 07/2015
+中研院 資訊創新中心 研究助理 08/2015 - present
+留學補習班 TA 05/2010 - 02/2012
+
+心得:
+
+1. Qualification
+
+我是大四時，決定要念CS，並且在大四下決定挑戰PhD。但是我幾乎沒有去修CS相關的課
+，這是我非常非常後悔的
+尤其是我想念的東西與Machine Learning高度相關，身在台灣大學這麼好的學校裡，隔
+壁資工系教授開了超級多好課，我卻一門也沒修，可是後悔也來不及了
+對於想申請CS的我來說，這無疑是一大缺憾，因為據我了解，需多學校會希望CS申請者
+有CS背景
+
+另外，因為申請的是PhD，必須要證明有研究的潛力，而我在大四畢業時的條
+件很不出色，因此決定在當完兵去中研院做RA增進自己的研究能力與發表。不過很慶幸當
+實做的這個決定，這關鍵的半年，讓我能夠回答我為何要念PhD、唸的是什麼、未來要做
+什麼，當然研究能力也有相當大的提升
+
+我想，既然我要唸的是PhD，那我就要去我想唸的學校、有興趣的實驗室，因此我希望我
+能成為一個qualified 的 applicant
+
+Computer Science的PhD非常的競爭，別的領域我不知道，但對於computer vision來說，
+有2~3篇top conferences的applicant真不在少數，要能脫穎而出一定要下很大的功夫。
+建議要申請CS方向的PhD的人，有機會一定要在research上多著墨一下，我覺得這比GPA、
+Toefl、GRE成績重要多了
+
+2. 與國外教授聯絡
+
+我還滿積極的寄信給所有我有興趣的教授，分別有一位UIUC教授、一位Berkeley教授、二
+位MIT教授、一位CMU教授有回我信，但只有來自UIUC的教授有密切的信件來回，最後也說
+會收我/也真的有收我，因此最後回絕了UIUC的admission真的滿心痛的
+
+我覺得聯絡教授這件事可以做，但是效果好不好真的看運氣+個人造化了....畢竟我們不
+是身處在美國，加上國外教授真的都超忙的，而且條件好的學生他們也都看多了，回信與
+不回信其實不用那麼期待
+
+不過有時間的人還是可以聯絡一下教授，起碼提升了參與感
+
+3. interview
+
+我有來自UIUC與CMU的interview，UIUC的interview很久，大約一個多小時，什麼都問了，
+也包括了小聊天。CMU的interview大約20分鐘，全程interview都是在聊research。其實
+interview前我完全沒準備，不過我相信只要對自己research的東西很懂，應該不會卡
+詞之類的問題
+
+4. 選領域/SOP/CV
+
+我申請時，將SOP裡面的內容寫成100% computer vision，而且教授我百分之百只提到做
+computer vision的教授，後來我發現大錯特錯。因為其實我的申請條件放到
+世界的角度來說還稱不上頂尖，另外我的paper方沒有那麼computer vision，反而頗
+machine learning的，我覺得這也是為何CMU是ML department收我而不是RI department
+收我的原因(CMU 裡做vision的大都在RI department底下)。此外另一個例子就是，CMU的
+interview時，對方教授也問我為何會把RI department放在第一順位，因為他從我的發表
+並沒有看到太多computer vision的影子
+
+建議大家在寫SOP時，不要把想走的領域寫死，可以寫得open一點，不過我也不是寫SOP的
+專家，我也不太知道怎樣的SOP別人才會喜歡
+
+我的CV如: https://goo.gl/REYa97 (關了權限)
+
+新版CV放在個人網頁上：https://yaohungt.github.io/cv/hubert_cv.pdf
+
+大家可以參考一下
+
+5. 總結
+
+要申請到心目中理想的CS PhD，最簡單也最困難的方式就是努力的做研究，讓國外的教授
+有想收你的衝動
+然後聯絡教授/SOP、CV寫好一點/英文考好一點我覺得都是次要
+
+感想:
+
+唸PhD對我來說是很重要很重要的決定，其實最一開始只是想說怎麼周圍很厲害、很聰明
+的學生怎麼都會選擇唸PhD，那我也試試看好了！不過就在準備申請的過程中，也著實產
+生了極大的興趣，因此就更篤定要念PhD了，另外一點就是我覺得我自己沒有特別聰明，
+寫code可能寫不贏別人，如果只是以CS的MS畢業，以後當個軟體工程師，那在coding的
+過程，我獲得的成就感可能不會特別大，也因此更篤定了想念PhD的想法了。
+
+我當兵前的申請條件真的很不好，不過能在當完兵半年後就申請到CMU這種夢幻的PhD，
+撇開極大的運氣成分外，是真的投入非常大的努力。我曾經1個半月內體溫在正常溫度
+到猛然上升到39度狂發燒，原因只是過度勞累
+勉勵大家不要怕累，連我這種沒有CS背景的，都能申請上CS PhD了，忍一下就過了
+
+感謝：
+
+感謝的是我的家人，無敵感謝/愛你們
+感謝我在中研院的指導老師/大學專題教授的各種指導，以及分別帶我的兩位學長
+感謝同屆一起申請的同學
+感謝共事過的研究夥伴，你們最棒了
+

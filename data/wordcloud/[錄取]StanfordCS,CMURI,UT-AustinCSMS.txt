@@ -1,0 +1,182 @@
+
+Results & Background:
+
+Admission
+
+Stanford CS MS, CMU SCS RI (Robotics Institute) MS, UT-Austin CS MS
+
+Pending
+
+Harvard CS PhD
+
+Rejection
+
+CS PhD: Stanford, Brown, UIUC, Maryland, Columbia, MIT, UW, UT-Austin
+EE PhD: Caltech, Berkeley, Michigan
+
+Decision
+
+如果Harvard給我我就會去
+不然目前是 Stanford > CMU > UT-Austin
+還在猶豫, 希望大家給一些意見~
+
+Background
+
+NTU EE BS (minor in Mathematics) 2008-2012, GPA: 3.76/4.0
+
+Test Score
+
+GRE   (08/2012)   V: 150 Q: 170 AWA: 3.0
+TOEFL (09/2012)   R/L/W/S: 30/30/25/23, total: 108
+
+Award
+
+Lam Research Thesis Award, Lam Research Corporation, 2012
+
+Publication
+
+4 IEEE conference papers (1st*2, co-1st*1, 2nd*1)
+1 IEEE Transactions and 1 conference paper submitted (both 1st authored)
+
+Recommendation Letter
+
+1 from NTU EE
+2 from Academia Sinica
+
+Working Experience
+
+Research Assistant at Academia Sinica     (2012-present)
+
+
+
+心得:
+
+選校
+
+我選校的方法和大部分人差不多, 就是拿US News的排名出來
+然後一間一間用google查 "校名 Computer Vision"
+(Computer Vision 是我的研究領域)
+通常都會查到一個Computer Vision專屬的網頁
+再大概看一下每個教授發的paper有沒有興趣
+
+申請時我的目標是PhD, 但是只要可以同時申請MS的我就會申請
+所以最後選PhD的標準就是有沒有比我當時最想去的MS(CMU Robotics)想去
+
+
+檢討
+
+雖然很高興能拿到想去的MS, 但是EECS PhD應該是全滅了
+所以對想申請PhD的人來說, 這篇文也可以當成被拒文來看 XD
+
+以下幾點是我覺得如果重新申請我會想要改進(而且可以改進)的地方
+
+1. GRE
+
+- 當初考完是覺得沒很好, 但也沒特別想重考
+但是這幾個月每天看gradcafe上面Computer Science的錄取
+大部分的人V和AWA都比我高
+所以有空的話, 我覺得能考到 V >= 153, AWA >= 3.5 是比較好的
+(印象派, 僅供參考)
+
+2. sGRE/CS background
+
+- 這點我不太清楚影響, 但是在錄取UT-Austin CS MS之後
+我才發現他其實有修課背景的要求
+像是Architecture, OS, Compiler這些是希望你錄取前就有修過
+如果還沒修的話, MS畢業前要修完, 或是要考CS sGRE > 90%
+
+而我是都沒修過, 當然sGRE也沒考
+我會覺得對於沒有修上面提到的課的人, sGRE應該會對申請有幫助
+
+3. SOP
+
+- 現在重新看我的SOP, 改進空間還蠻大的
+當初也是寫得蠻趕, 12/11 Stanford Deadline前才寫好初稿
+
+http://nlp.stanford.edu/~rkarthik/DAGAP.pdf
+這份文件講的是Stanford CS MS的錄取過程 (應該是, 我沒全都看)
+如同這個文件的3.4提到的, SOP是Statement of "Purpose"
+而大部分的SOP並沒有做到這點 (包含我)
+
+我目前的寫法大概就只是加長版的CV, 把我做過的Project講得更詳細
+對於為什麼想念PhD & 為什麼想念該校 & PhD想要做甚麼研究, 都只有短短帶過
+
+我想也跟當時的心情有關, 那時算是有點遇到研究的瓶頸, 所以整個寫不太出來
+如果能想清楚自己要的是甚麼, 我想這部分可以做得更好
+
+
+TOEFL/GRE
+
+這邊我就不花空間寫了, 如果對我的心得有興趣, 可以到TOEFL/GRE版看, 我都有寫心得
+
+
+推薦信
+
+相信很多老師都會要求要學生先寫推薦信草稿, 以下是我覺得對我有幫助的文件
+http://www.hhmi.org/resources/labmanagement/downloads/letter.pdf
+http://isites.harvard.edu/fs/html/icb.topic58474/Verba-recs.html
+好像是在精華區找到的 (?), 有點忘了
+
+
+專題
+
+大學部如果要發paper的話, 我覺得最重要的是你跟的老師有沒有意願讓你發paper
+一個簡單有效的挑專題方法, 就是看看前幾屆的學長姐的情況
+基本上老師帶專題的風格是不太會有變化的
+
+在這裡不是說要以此為挑專題的唯一標準
+像我自己跟的第一個專題, 老師太大咖沒空帶大學部, 是由博班生在帶
+這種基本上很難發到一作的paper
+但是帶我的學長很照顧我, 從零開始教我做研究/看paper/寫MATLAB
+啟發我對Computer Vision的興趣
+對我接下來做研究有很大的幫助, 真的很感謝他!!
+另外, 挑有興趣的專題也是很重要的, 不然會過得很痛苦
+
+
+
+感謝&感言:
+
+首先最感謝的當然就是我的三位指導老師 (也是幫我寫推薦信的老師們 !!)
+沒有他們帶著我做研究, 發paper, 我想我根本沒膽申請
+再來是要感謝我做第一個專題帶我的學長
+如果不是他, 我也不會發現原來世界上有這麼多神奇有趣的東西
+還有就是申請時幫我看CV, SOP, 回答我一堆奇怪問題的學長同學同事朋友們~
+也很感謝有NTUEE Chain這樣的制度, 希望可以延續下去~
+
+其實大一大二的時候, 從來沒想過自己會繼續走EECS的路
+上課沒甚麼興趣, 生活重心也不在課業上
+直到大二下修了系上一位大師的課, 才發現其實signal processing相關的東西蠻有趣的
+不過一開始還不敢想要跟專題, 因為覺得自己太弱了
+最後讓我下定決心要開始做專題的, 是教授在最後一次上課的演講中說的一句話
+"多作加法, 少做減法"
+有興趣的東西，覺得還不錯的東西就多去接觸
+不要因為覺得自己有甚麼不會就不去嘗試
+
+大概就這樣~
+如果還有甚麼想問的, 也歡迎寫站內信/推文問我, 我會盡量回答~
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc) 
+◆ From: 112.104.11.236
+推 resay543:推  好厲害~~                                           03/29 20:25
+推 jparry:推                                                       03/29 20:56
+推 sleeeve:目前都上碩士  funding機會就低  有PhD比較好  不過這樣    03/29 20:59
+→ sleeeve:資歷  還不給PhD  美國真的這麼缺錢?                      03/29 20:59
+推 ron0908:推推  恭喜恭喜  希望你有好消息XD                        03/29 21:09
+推 pandakuo:推!!!                                                  03/29 22:33
+推 fifenall:太猛                                                   03/29 22:44
+推 auilove:推 Computer Vision!!                                    03/29 23:03
+推 fred1810:推                                                     03/29 23:26
+推 chieher:恭喜，一定會有好消息                                    03/30 00:21
+推 f28525:推!!                                                     03/30 00:32
+→ Organizer:cong                                                  03/30 04:03
+推 swallow0130:RI有機會拿到funding+做得好也有很高機會能之後上PhD!  03/30 12:28
+推 dumbolover:好厲害! CV就去RI了巴!!                               03/30 12:31
+推 HSPHHPM2HP:神!! RI耶!! 恭喜!!                                   03/30 13:51
+推 sean2449:其實Harvard CS 2月就給AD了xd他Reject用postal超慢       03/30 19:28
+推 k24618099:好厲害喔XD~ 看GRAD CAFE stanford cs蠻多強者都申請phd  03/31 00:08
+→ k24618099:結果被拒絕還拿MS FUNDING... 也都有發表IEEE            03/31 00:09
+推 dododog168:你猛翻!!!                                            03/31 11:58
+推 han960691:推 強大!                                              12/08 01:47
+推 Tyrannus: cong you finally got stanford cs phd admission        02/07 15:44

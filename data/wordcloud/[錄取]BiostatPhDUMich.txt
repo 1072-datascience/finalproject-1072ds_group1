@@ -1,0 +1,76 @@
+
+我知道版上很多生統跟統計的前輩，請各位大大手下留情了。
+
+Program: Biostatistics PhD, Fall 2017
+
+Admission:
+UMich      - Biostatistics   (4/3，都什麼時候了。只申請自己家)
+
+Decision:
+還在猶豫
+
+Background:
+BS in Chemistry, minor in Econ, NTU (2008-2013)
+GPA: 3.89/4.00(from WES)
+
+MS in Biostat, UMich (2015-2017)
+GPA: 4.0/4.0
+2nd Year TA (full funded)
+
+Test Score:
+沿用MS
+
+Recommendation of Letters:
+3 from UMich Biostat
+
+==============================================================================
+
+其實這篇是假錄取真發問。我覺得大概會有很多人想打我。
+
+兩年前有幸拿到UMich biostat MS。
+然後進來之後，默默發現很多人聽到我是UM Biostat MS，
+就會接著問: 那是不是要讀博士
+發現原來我們家是有真的愛自己的碩士的
+(另外，我很推薦我們家生統，第二年不少國際碩士生拿到全獎)
+(招生的頭頭有說，他覺得他把我們碩士養得很好啊)
+
+所以去年也想說自己MS混的不差，去年暑假跟著做genetics也還可以可以
+所以也就跟著送了自己家博士的申請(另外的原因就是不用多考托福)
+在經過三個月的拖磨之後，終於備取上博士
+
+
+目前猶豫的點在於，不知道這個博士到底有沒有必要。
+如果要去藥廠，博士的確這是必要的。
+但是我個人目前的規劃是(還沒有博士之前)，先在醫院工作再往其他產業。
+(大家都愛data scientist)
+
+在info session上跟一些科技業大公司(Apple, A9, Google)data scientist聊過
+發現他們認為博士跟兩年工作經驗可能不會差太多
+(我不知道是真是假......。我也問他們兩年的經驗，是指要處理哪種資料。他們也說基本
+上沒有什麼限制。)
+(也有一些學長也承認現在很多data scientist其實可能只是logistic regression)
+
+另外，最近面了幾個醫院的生統職，發現有醫生想臨床上用genetics的資料跟一些machine
+learning，然後也想從SAS移到R甚至是python。讓我完全心花怒放啊。
+(然後也默默發現自己流行病學真的是太弱了。)
+
+
+回到原本的博士，目前想跟的教授就是做從cs出來做Machine learning的老師。加上其實
+我對於ML其實還是抱持著某些程度上的懷疑。還是想把自己在這方面的數學跟理論搞好一
+點。然後也想再把之前暑假沒辦法做的一些方法(tSN和SNN-Cliq)好好改進。
+
+簡言之
+PhD
+Pro: 更多的時間來充實自己的流病跟ML理論。(當然還有C++ coding
+Con: 還要待五年的安村啊......
+
+工作
+Pro: 待在安村的時間好像可能可以短一點
+Con: I am not really comfortable with using ML as a black box
+
+最後的最後，我是真的有推UM Biostat MS。
+雖然整個課程的確需要轉型，但是我真的得說They did train us really well.
+我真的非常慶幸自己當初選的是Biostat而不是Stat
+
+感謝看完我的騙p幣廢文
+

@@ -1,0 +1,196 @@
+
+一直以來都有心想要好好把我奮戰兩年的申請博士之路跟大家分享
+畢竟當初也受過許多前輩的幫助
+無奈一直沒有時間 前陣子好不容易把一個conference的東西趕完
+利用空檔把自己的經驗整理一下
+希望對大家有幫助
+在寫正文之前還是要先感謝這段時間支持我的實驗室同學及老師
+還有父母跟老婆
+因為我是基督徒 所以也要感謝教會的同伴和我相信的神-主耶穌
+
+言歸正傳 先把我的CV簡要的寫一下
+
+大學: 清華生科
+GPA: 3.84
+碩士: 交通生資
+GPA: 4
+publications: 4 journal paper (一篇第二作者 二篇第三作者 其他掛名)
+IELTS: 6.5
+
+申請信投遞數: 超過120封
+你沒看錯 因為我是申請歐洲的學校
+他們的申請方式與一般英美學校有很大的不同
+雖然我申請的時間持續了兩年
+不過我的數量也實在太多了
+這兩年每天都受到拒絕信與家人朋友們期待與勸退的壓力
+由此可知 我的申請過程有多坎坷
+
+申請過,有參與面試的學校與研究機構:
+Center for non-coding RNA in Technology and Health (RTH), University of
+Copenhagen, Denmark
+BIOMS: Center for Modelling and Simulation in the Biosciences, University of
+Heidelberg, Germany
+Department of Plant Molecular Biology, University of Lausanne, Switzerland
+RWTH Aachen University Hospital, Germany
+Computational Molecular Biology, Technion, Israel Institute of Technology,
+Israel
+Computational Molecular Biophysics, University of Goettingen, Germany
+Department of Genome-Oriented Bioinformatics, Technische Universitaet
+Muenchen, Germany
+The Hartmut Hoffmann-Berling International Graduate School of Molecular and
+Cellular Biology (HBIGS), University of Heidelberg, Germany
+Centre for Genomic Regulation (CRG), Barcelona, Spain
+Department of Bioinformatics, Biozentrum, University of Wuerzburg, Germany
+Institute for Biophysical Chemistry, Hannover Medical School, Germany
+DAAD scholarship, Germany (這個我準備超久 結果居然....)
+Institute for Molecular Infection Biology(IMIB), University of Wuerzburg,
+Germany
+
+最後錄取學校:
+Institute for Biophysical Chemistry, Hannover Medical School, Germany
+Computational Molecular Biology, Technion, Israel Institute of Technology,
+Israel
+Institute for Molecular Infection Biology(IMIB), University of Wuerzburg,
+Germany
+
+因為第一個需要同時作實驗和生物資訊 太累 故不選
+第二個要我補交GRE成績才能入學 沒準備 故不選
+第三個老師強大無比 加上我一直想作一點RNA的研究
+而且發生許多巧合 我起初只看到他的廣告
+看了覺得蠻有興趣 加上他的publication不錯 就投了
+skype談完後感覺蠻好的
+他後來跟我說會把我的申請信交給教授本人
+我才只到跟我面談的是postDoc不是教授本人
+之後他跟我說非常巧的教授現在就在台灣中研院有演講
+於是我就殺到台北與他當面談
+後來我查了他的資料才知道這家伙強爆了
+也就是這樣的巧合 我被錄取了
+
+歐陸學校與英美學校的不同:
+
+1. 歐陸學校不管大學排名:
+歐陸的學校主要是看你是哪個老師手下出來的
+每個學校有每個學校的強項
+而研究機構更是不同 他們會跟學校合作
+學校就幫他們發學位 如此而已
+所以看排名來評斷歐陸大學是很蠢而且會錯失許多機會
+就如CRG 幫他發學位的是University Pompeu Fabra
+在世界排名200多吧
+但是CRG裡面的教授都是妖怪 Nature, Science, Cell 發一堆
+我當時有被邀請過去面試
+去面試的學生最常說的就是 他們怎會都發 Nature, Science, Cell
+甚至一堆學生的第一志願就是這裡
+我最後上的學校 University of Wuerzburg 在台灣聽過的人應該不多
+但是他在生物領域絕對有全德國前五名的實力
+而我老闆是EMBO的member
+也是American Academy of Microbiology
+和 German Academy of Sciences Leopoldina
+所以有志申請歐陸學校的同學
+別再看排名了
+打開與你興趣相符的研究室網站 看他們在作啥 publications如何吧
+
+2. 歐陸學校沒有固定的招生時間
+他們常是把職缺放在自己網站上 所以有空可以去查一查
+或是注意各學校和研究機構的international program的時間
+這就比較像是統一招生的感覺了
+也有個網站naturejob可以參考
+許多需要PhD or postDoc的老闆會在上面發廣告
+最後一招就是毛遂自薦 直接寄申請信給研究室主持人看他有沒有興趣了
+這也就是我寄了超多申請信的原因
+基本上 回信率大約是30% 有機會面試 10%
+
+3. 歐陸學校的好處
+個人覺得不比英美差多少 當然前提是要在不錯的老師手下
+另外就是不用擔心經濟問題
+歐陸的博士其實是工作 是領薪水的
+若是老師沒錢養你 他也不會錄用你
+我現在領的錢 足夠我跟老婆在德國的開銷
+而且許多研究室都合作的很緊密
+很有機會到EMBL 德國的馬普所 法國的institut pasteur 西班牙CRG 英國劍橋
+這些著名研究機構作短期研究或合作
+
+準備資料
+
+基本上該要有的大概就是那些
+我準備了CV, 高中到研究所的英文畢業證書和英文成績單
+碩士論文和Publication
+ielts成績(申請歐陸學校非必要 但我認為英文檢定考一下是很有幫助的)
+最好準備自己想一個proposal 會有極大的加分效果
+而且申請DAAD時 也正好可以用
+不過我並沒有將proposal跟申請信一起附上
+而是對方要我提出自己的想法計畫時 我才寄給他
+但跟申請信附上應該也蠻好的
+
+面試經驗
+
+面試有兩種
+一種是對方邀請你過去面試
+這種通常是對方會包你的食宿及機票 非常賺
+幾乎免費的旅遊
+另一種就是skype面試
+準備方式大同小異
+我個人而言 難的不是問題本身 而是英文
+尤其是專業詞彙有時還是不很懂
+加上歐陸的人常有口音問題
+不過這還是可以克服的
+我都是先看看對方的研究內容 作一點功課
+然後自問自答 把答案講到熟練
+當然一定會問的一般性問題自然是要滾瓜爛熟的
+當你講多了 信心就來了 也就比較不會緊張
+還記得到CRG面試時 有英國人說我的英文很好
+一下子我的信心就來了
+應對起來也就更順了
+
+心理調適
+
+申請歐陸學校跟英美不大一樣
+所以會蠻常受到拒絕信的 像我幾乎每週都在收拒絕信
+千萬不要認為是自己太差
+通常拒絕的原因都是因為對方沒有經費
+或是領域不合 也就是我不是對方想找的人
+還記得在跟一位作Computational Biophysics的教授面談時
+他居然問我許多物理和數學的問題
+我沒一個答的出來
+面試時問這種與研究無關的教科書問題已經是很希奇的事了
+居然還問我非生物的問題
+最後只好一路微笑到最後
+過一天就收到拒絕信啦
+不過想想沒上也好 因為領域差太多 往後會非常辛苦
+所以被拒絕決不失去信心是很重要的
+在申請的過程想必會有許多壓力
+能經得起考驗的才是夢想
+在國外讀書真的很辛苦
+若非真有夢 我想也不需要出國
+在國內可能還比較開心
+但有夢想 堅持下去 就會成功
+像我這樣坎坷都能成了
+機會總會出現的
+
+最後 希望大家都可以申請到自己夢想中的學校
+
+--
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc) 
+◆ From: 132.187.246.207
+※ woodtwoday:轉錄至看板 global_univ03/06 04:17
+推 ijsfkira:恭喜 歐陸真的不用管排名 研究風氣個人覺得比起美國沉穩   03/06 05:26
+→ ijsfkira:很多 喜歡對只想專心作學術的人會是好地方                03/06 05:27
+→ ijsfkira:只是關於第三點...有些人選學校往往考慮到畢業之後的事    03/06 05:27
+→ ijsfkira:相比之下 美國還是有它的好處                            03/06 05:27
+推 Organizer:嗯恭喜                                                03/06 07:56
+推 lolowowing:相當詳細的分享，恭喜：）                             03/06 08:26
+推 RayHouston:感謝分享~                                            03/06 18:52
+推 jabari:恭喜^^符滋堡的酒好喝 肉好吃                              03/07 16:21
+→ lilychichi:恭喜 是個很漂亮的城市 要去其他地方也很方便^^         03/07 23:33
+推 sternum:德國大學不是不重視排名，是排名的好看才會拿出來說嘴，    03/08 08:35
+→ sternum:慕尼黑和海德堡校方都說自己在世界排名是德國第一          03/08 08:36
+推 orlis:符茲堡的酒好喝+1                                          03/08 23:37
+→ kromax:歐洲很多是"研究機構"跟"(教學單位)大學"完全分離的 要判斷  03/11 15:11
+→ kromax:好壞是看"研究單位"跟"教授"至於"大學"只有掛身分學籍用處   03/11 15:13
+→ kromax:基本上跟研究生毫無關係 有點像中研院實驗室跟其他大學      03/11 15:18
+→ kromax:還有歐洲教授權力很大 錄不錄取原則上他自由心證(當然他拿   03/11 15:35
+→ kromax:自己名譽下保證) 他決定錄取 那你缺學分 英文不好條件不足   03/11 15:37
+→ kromax:都不會是問題 他會擺平 不過你的畢業也是他自由心證就是     03/11 15:39
+推 waleic:恭喜! 也感謝推文中的各位分享,喜歡歐陸的學術研究風氣      04/04 08:22
+推 elenar:推推                                                     05/14 13:56

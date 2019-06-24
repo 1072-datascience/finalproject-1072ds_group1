@@ -1,0 +1,157 @@
+
+Program:
+2015 Fall MS in CS or related
+
+Admission:
+Northeastern UniversityCS MS (01/29)
+Columbia UniversityCS MS (03/18)
+Carnegie Mellon UniversityMITS  (03/20)
+University of California, Irvine    CS MS (03/25)
+Stony Brook UniversityCS MS (03/27)
+University of Southern California   Data Informatics (03/31)
+University of Southern California   Cyber Security Engineering (05/19)
+
+Rejection:
+University of Wisconsin--MadisonCS MS (02/13)
+University of Illinois Urbana-Champaign MCS   (03/16)
+Georgia Institute of TechnologyCS MS (03/28)
+University of Wisconsin--MadisonCS PMP (04/01)
+Cornell UniversityCS MEng (04/02)
+
+Background:
+NTU BS in EE 3.73/4.0
+NTU MS in EE 3.93/4.0
+
+Standardized Test:
+TOEFL 108 R/L/S/W: 30/28/23/27
+GRE V 158 Q 170 AWA 4.0
+
+Publication:
+2 Conference paper both 1st author
+1 Journal paper 1st author
+
+Work Experience:
+2~3 years software engineer
+
+Honor:
+None
+
+Letter of Recommendation:
+- Master's thesis adviser
+- Course lecturer A
+- Course lecturer B
+
+--
+
+心得:
+
+TOEFL, GRE:
+可以參考我在專板的心得文
+主要是2013/10~2014/03讀GRE
+2014/04~2014/06讀TOEFL
+客觀來講算不錯的成績，少數學校直接卡分數，所以能拼高就拼高
+而且這也是少數自己還能努力的條件了
+
+Letter of Recommendation:
+像我這種在學校時沒有出國念頭，也不會特地去跟教授們打交道的
+想到要找誰寫推薦信就很困擾。除了自己的碩班指導教授，剩下兩個
+人選也只能從不太認識的修課教授裡找了。修課教授主要是找課程偏CS，
+而且人也很nice比較可靠的教授。其中某位教授似乎太久沒有幫忙
+推薦留學了，他一開始還以為只要我把草稿先給他，再去找他拿紙本
+的推薦信就好。
+
+其中adviser要我給大綱，lecturer都是要我給草稿。時程上我是
+八月底開始聯絡教授們，11月從系統發出通知請他們上傳推薦信
+不過教授們大部份都是到12月中deadline前一次上傳完
+
+評價起來我的推薦信應該只能算中等
+
+SOP/CV/LoR:
+SOP我從七月寫到九月。我寫好第一版後給一位Stanford EE MS畢業的
+同學改(超感謝)。改完後我自己再修一修，之後給translator板找到的
+hemels改。hemels是UW畢業的CS Phd，價格合理，會照需改的程度定價。
+另一個優點是CS出身比較懂SOP內CS相關的部分。CV我也請他順便改了，
+提供CV也能夠幫助他修改SOP內容。修改大概花了3天，非常快
+
+LoR我找TopAdmit，優點是速度超快，改完後還有一份文件詳細地說明
+每一段他改了什麼以及為什麼要那樣改。缺點是比較不懂CS相關的內容
+
+我的SOP/CV內容應該只能算中等，畢竟非CS出身，能夠寫的Project會
+比較少。工作項目以外，我也只能寫多年前的課堂Project和某個自己
+上架的iOS app
+
+SOP/LoR的寫法我就不贅述了，前面很多錄取文都很棒可以參考。
+
+選校:
+EE MS工作後想申CS MS的宿命就是被擋雙MS，另一個是prerequisite課程
+修不夠。因為已經拿了EE MS所以UC系列幾乎不能選，這部分請自己主動問
+系辦。不過我也覺得你真的很想投就硬投看看吧XD
+
+Northeastern University:
+保底校，coop做得不錯(us news排第一)，地點在Boston也是個科技業
+發達的地方。一畝三分地裡的院系介  绍板有NEU的介紹，可以參考看看
+
+Columbia University:
+重複MS的救星，無論是重複EE或重複CS都很有機會。而且收的人多
+基本上是持續地發ad和rej，當有人放棄ad，就有機會遞補，不像很
+多學校是一次把ad和rej發完。Columbia應該比較看三維，但是也蠻
+多不確定性的，可能會看到三維低的被錄取，比較高的卻被拒。
+系辦看起來蠻認真且在乎學生的，收到錄取幾天後系辦小姐就開了個
+Linkedin Group在裡面回答大家的問題。
+
+Carnegie Mellon University:
+我申的Program是連續上三學期(fall,spring,summer)，每學期學費
+25,000美金(學費就寫在錄取email裡了)。是一個很新的項目，今年似
+乎是第4屆，每屆收不超過10人。課程內容很偏CS，而錄取的條件
+看中資安背景。申請系統上寫需要交professional experience文件，
+敘述中有鼓勵申請者強調自身在資安方面的背景。特別的是30學分
+的Practicum，我問過系辦，往年Practicum的題目都偏資安
+
+University of California, Irvine:
+我寄信問過他們收不收已經有EEMS的，系辦回復: You are welcome
+to apply, but we do not often admit students who have a closely
+related MS degree. 然後我就申請了...。Irvine聽說是個好地方，
+Asian比例是UC系列中最高的 https://youtu.be/int3lFioTtU
+
+Stony Brook University:
+系辦是說他們不收已經有CS MS的，所以EE MS可以。申來當保底而已...
+
+University of Southern California:
+USC的CS Dept開了一堆program，但是他們只有Scientists and Engineers
+這個Program收轉專業的人。(純粹小道消息)
+
+這Program缺點是37學分，其他都是27學分。
+USC有個福利就是繳一次申請費可以申請Viterbi工學院下的5個program。
+我錄取的Data Informatic是去年才開的program，似乎是來一個收一個。
+而USC的SOP和LoR都是optional，我投了5個，只有CS General有給SOP和
+LoR。如同上面講的，CS General是不收轉專業的人，我只是不信邪...
+
+University of Wisconsin--Madison:
+一份申請文件可同時申請帶獎的MS和自費的PMP，PMP是開給有工作經
+驗的人，也是蠻新的program。但就一畝三分地看到的結果，有不少錄取
+的人是沒有工作經驗的，而像我卻GG了。
+
+University of Illinois Urbana-Champaign:
+網站有寫他們不收有MS的人 (I cannot find the src for now, so don't
+trust me on this)
+所以我是硬投。然後這個program感覺很競爭
+
+
+Georgia Institute of Technology:
+除了想抱怨他們申請系統很爛以外不知道要說什麼...
+
+Cornell University:
+CS MEng at Ithaca感覺人收超少，Cornell Tech還收比較多。
+如果你大學是商業競賽之類的強者可以考慮看看Cornell Tech，
+他們很重entrepreneurship, leadership之類的經驗。
+而ECE MEng聽說就收很多人，不在乎program名稱可以考慮申請ECE
+上了後再修CS的課就好
+
+感謝:
+感謝上帝安排這樣美好的旅程。也感謝身邊提供幫助的朋友同學，還有板上
+被我寄過站內信詢問的板友們。某個上Ivy League CS Phd的戰友，也快來
+分享一下心得吧XD
+
+如果有任何申請相關的問題都歡迎站內信問我~ Thanks
+
+

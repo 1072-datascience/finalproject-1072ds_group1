@@ -1,0 +1,180 @@
+
+想去美國工作但是沒身分? -> 先去念個書吧!!
+
+Program interest:
+CS > ECE > EE, only MS
+
+Admission:
+UC Davis CS 3/6
+Stanford ICME 3/16
+CMU ECE SV campus 3/18
+Texas A&M ECE 3/17
+
+Rejection:
+CMU RI Computer Vision, Machine Learning, MRSD
+UC Berkeley EECS MEng
+UIUC MCS
+Columbia EE
+UC Irvine CpE
+
+Pending:
+(total 20 - admission 4 - rejection 7)
+Purdue ECE (office: pending due to low TOEFL), Purdue CS, Purdue CIT
+UT Austin ECE/CS
+USC EE
+UC Irvine ICS
+UPenn MCIT
+UC Santa Barbara CE
+
+Decision:
+Stanford ICME
+
+Background
+4 years of working experience in Top IC design house, software engineer
+台清交 電資領域 MS, GPA 3.88/4.00
+台清交 電資領域 BS, GPA 3.92/4.00
+GRE: V143/Q168/AW3.5
+TOEFL: R26/L25/S22/W21 = 94
+
+Recommendation letters:
+Boss of my previous team, director, PhD of UMich
+MS thesis advisor
+college advisor
+
+Special experience:
+BS 書卷*4, UIUC exchange program 1 semester
+1-year TA fellowship, TA experience: Calculus-1, Probability & Statistics
+
+Publications:
+2 pending US patents, 1st author
+IEEE conference, 5th author
+1 US patent, 3rd author
+MS thesis
+
+Technical reports:
+all about my MS work: 2 on slideshare, 1 presentation and 4 demo videos on
+youtube, personal website
+
+這篇目的只有兩個:
+1. 取之於社會用之於社會, 爬板這麼久了, 希望把自己有價值的心得分享出來
+2. 希望鼓舞更多台灣工程師工作幾年後(存到200W以上現金),
+重新追逐當年放棄的美國夢, 越晚跨出這步, 機會成本只會越來越大!!!
+對於讀者的要求只有一個:
+1. 小弟目前還在職, 主管會看FB, 猜到我是誰請不要在FB上與我相認,
+謝謝您保留我的隱私自由
+
+以下我只說明我認為值得提起的準備過程, 其他部份其實板上前輩都提供非常豐富的資源
+了
+<<準備心得與策略>>
+1. 申請文件:
+這邊要先說最高指導原則(from an UMich PhD):
+申請不好的人一定是兩個東西有出問題, 1.履歷, 2.推薦信
+身為一個爆肝工程師, 每天回家都是11點以後的事,
+所以文件準備不能跟一般學生一樣慢慢從0開始
+
+SOP:
+拿學長姐弟妹有上top20的, 各段拼貼排列組合後,
+把技術細節的描述部分挖掉, 填上自己的
+丟所有學校的program時, 只改校名/program名,
+對於喜歡一點的學校, 花個兩個小時爬一下faculty page,
+看哪個老師有涉獵相關領域,
+把3-5個教授名字加進去SOP裡說想去他們的group
+
+推薦信:
+推薦作法是自己寫完給老師改, 因為老師學生太多畢業太久,
+根本不記得我做了什麼
+推薦信也是跟學長姐弟妹收集, 找出口吻或切入點差異最大的三封,
+把技術和表現部分挖掉, 換上自己的
+PS: 不建議要求老師針對不同學校給不一樣的推薦信版本,
+老師能每次準時submit就要知足了, 有分版本的話, 萬一給錯學校反而更糟
+PS: 推薦人建議找一路上最有代表性的人, EX: thesis advisor, 前老闆等等
+
+履歷:
+履歷重要的原因是, 他就是整份申請文件的縮影, 我想第一印象就靠這個了
+個人建議可以修修改改個一兩年!!! (沒錯就是一兩年!!)
+讀讀美國大學知名實驗室的member的CV, 給在美國念書/工作的人看看,
+請他們務必鞭大力一點!! 「寫得真好」這種沒幫助的comment就不用說了
+會說要改這麼久的原因是, 你永遠會發現有一些東西還可以表達得更有吸引力
+(EX: 數據化具體貢獻 from A->B, save how much, 更大膽的用字)
+要把所有有價值的info sort過並且塞進2-page不是一件容易的事,
+太貪心內容太多導致字太小/排版太滿反而搞砸
+常常是想個幾天或是整理之前的東西, 工作上又做一個新project,
+就發現有一些文字又可以更大(ㄗㄨㄟˇ)膽(ㄆㄠˋ)了
+
+2. 英文考試:
+學生有的是時間但沒錢, 上班族既然沒留停離職, 就是有錢沒時間,
+多考幾次吧, 套一句前人的話: 卡刷下去就會念了
+我總共考了TOEFL 4次, GRE 3次, reschedule/cancel不計其數,
+去年8-11月幾乎是每個月都要考一次GRE一次TOEFL
+建議英文準備重心是: TOEFL > GRE Q >> GRE AWA, GRE V
+
+TOEFL: TOEFL一定要先顧,
+我會丟這麼多間(原本預計是25個program...)也是因為TOEFL不到100,
+放眼望去, TOEFL不要求>100的屈指可數,
+所以導致幾乎各校都不達標的我, 只好海投了,
+我有達標的好像只有 TAMU ECE, Purdue CIT, Northwestern CS
+舉例: Purdue ECE直接說我TOEFL不達標, 等達標的成績到了再幫我送review
+Columbia EE submit 3天後reject, 我猜連教授審查那關都沒到吧
+有多少reject是因為系辦工讀生先把TOEFL<100 filter掉的, 就不得而知了
+
+GRE: Q一定要逼近滿分,
+因為這是唯一較好準備的高中數學英文版,
+多數的學校沒有設門檻只是會放歷年申請者平均來嚇嚇你,
+試想一個履歷上吹噓自己理工背景有多強多強的人,
+連基本的高中數學都考不好, 怎麼說服committee??
+英文單字爛我覺得還說得過去, 畢竟那些艱深的單字不會,
+不代表無法看原文書或是做研究寫論文
+寫作相較V是比較好準備的, argument跟論說邏輯有關係, 重點是挑他語病,
+多看BBS戰文會有所啟發 XDDD
+
+3. 申請program策略:
+美國CS工作好找導致CS program門檻也高, 這大家都知道,
+但是根據自身工作/面試經驗 與 美國朋友工作經驗, 要找SW Eng的工作,
+只要是EE/CS/CE/ECE..., 甚至ME等系所背景, 都可以,
+重點還是如何shape自己的履歷上的相關經驗, 有沒有練題庫, 面試表現等等
+所以我的申請策略是: CE, CIT, ECE(沒CS搶) > CS(太搶) > EE(念過了XD),
+目的就是不要與他人正面衝突, CS這個名字太貴,
+我寧可上前面一點的學校, 放棄CS這個title, 偷偷修課偏CS就好
+
+
+<<雜七雜八心得>>
+1. 在台面試美國工作, 飛去美國 on-site interview
+其實直到前年4月美國H1B送件截止之前, 我都在台灣與美國公司phone interview.
+我的策略是假裝人已在美國, 只是沒有身分(甚至模糊帶過)
+相關的做法是:
+a. 找個美國信的過的朋友, 地址借寫在履歷一下(其實根本用不到)
+b. 申請個美國電話號碼, 在台灣用skype or Google hangout接
+(如果台灣申辦有問題, 可以請朋友從美國幫你申請)
+c. 打好behavioral interview question, 問到哪題就回哪題,
+很多recruiter知道我沒身分就說byebye了,
+我有騙過我有綠卡, 不過大家都說這樣就算面試上最後誠信度也打折扣
+d. coding考試題庫要練
+小弟有幸的拿到一兩間公司的on-site interview,
+還直接飛去美國on-site, 最後還是不幸落敗,
+只能說沒練熟題庫, 履歷寫得再好看都沒用 XD
+有一個面試官直接講明, 那張紙只是帶你來到這, 接下來都跟那張紙無關,
+都是看臨場了
+
+2. 找工作找不到 -> 改申請美國學校
+其實一個很掙扎的點是,
+「都已經拿過碩士寫過論文, 離開校園四年了, 怎還要回去念書?
+台灣頂尖碩士實力不輸美國阿」
+「念書花錢還放棄工程師收入, 機會成本加成起來一年差距300萬以上? 」
+這個問題如果把時間看長遠就不太需要計較了,
+將來回首60年的人生,
+應該會覺得當年因為在乎一年半的課程而放棄美國夢是很蠢的事,
+人生閱歷不能只用時間衡量
+況且我相信只要是有儲蓄習慣的人, 死前要多個數百萬應該不是問題,
+死了裝備都是要噴出來的
+看到板上很多學長們比我工作年資還高, 甚至都有小孩了, 都毅然決然出國念書,
+更堅定告訴自己這不是一條險路!
+況且第二次回學校念書了, 很清楚自己要的是什麼, 反而更積極於自己的方向,
+期許自己跟一般大學畢業生不一樣
+畢竟工作過了, 大家對你的期待不會只是很高的GPA而已
+取得名校教授當推薦人, 校友同學的人脈, intern建立好口碑(業界推薦人?)
+有緣有機會的話把課程project作好放作品集甚至發專利,
+感覺都比一個孤單的高GPA更吸引人
+
+最後祝福所有今年申請上美國學校的人去開創自己的美國夢吧!! 
+也希望更多人加入我們, 永遠不嫌晚!!
+

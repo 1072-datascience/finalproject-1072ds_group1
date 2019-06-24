@@ -1,0 +1,275 @@
+
+
+
+Admission:
+
+U Chicago, PhD in Economics (off the waitlist, fully funded)
+
+Waitlists:
+
+UC San Diego, Cornell
+
+Rejections:
+
+MIT, Princeton, Yale, Stanford, Berkeley, Chicago Booth, Columbia,
+Stanford GSB, Northwestern, Michigan, Wharton (Applied Econ),
+Chicago Harris (Public Policy), NYU, Brown, UCLA, Duke, Maryland
+
+Background:
+
+    B.A/S. in Economics & Chemical Engineering, NTU (2008-2013); GPA:87.58/100
+M.A. in Quantitative Methods in the Social Sciences (QMSS)
+(Economics conc.), Columbia University (2014-2016); GPA:3.91/4.0
+
+Selected coursework:
+
+NTU: Engineering Mathematics (incl. differential equations),
+Linear Algebra, Probability, Advanced Statistics, Advanced Calculus
+Columbia University: Advanced Micro/Macro/Econometrics, Stochastic Process,Abstract Algebra
+
+University of Zurich: PhD Micro
+
+Awards:
+
+Presidential Awards, NTU x 3
+
+Experience:
+
+Research Associate, Econ Dept., University of Zurich (2016/6-2018/6)
+Research Assistant, Econ Dept. & Earth Institute, Columbia (2015/9-2016/5)
+Research Assistant, Econ Dept., Harvard University (2015/6-2015/9)
+Second Lieutenant, Air Defense Missile Command (2013/8-2014/7)
+Undergrad Researcher, Dept. of ChemE, NTU (2012/9-2013/5)
+
+Publication:
+
+None
+
+Letters of recommendation:
+
+MIT x1 (current RA supervisor)
+Harvard x1 (former RA supervisor)
+Columbia x1 (former RA supervisor/master's thesis advisor)
+University of Zurich x1 (lecturer of PhD Micro)
+
+Computer:
+
+Stata, R, Matlab, Python, ArcGIS, QGIS
+
+GRE/TOEFL:
+
+GRE: V:159 Q:168 AWA:4.5
+TOEFL: 114 (R:30 L:28 S:27 W:29)
+——————————————————————————————————
+
+Introduction:
+
+今年是我第三次申請Econ PhD了。
+
+在4/15大限的前一天收到了UChicago的錄取 (off the waitlist)，很戲劇
+化地，這也是我唯一拿到的ad。沈澱了一陣子後，想來分享過去這幾年我在
+申請經博的路上的經歷，除提供一些資訊外，也希望能帶給某些還在找/追
+尋興趣的人一點繼續前進的勇氣。
+
+由於過去的心得文已涵蓋大部分申請所需的資訊，這裡盡量不再重複。下面
+的段落大致照時間順序，我會先敘述背景跟動機，接著分享我在美國及蘇黎
+世當研究助理 (RA) 的經歷，申請資料的部分我會挑幾個點補充，最後是結
+論與致謝。
+
+Background:
+
+我的大學生涯基本上是在理科與經濟之間往復擺盪。從高中就一直喜歡物理
+化學的我，學測意外的上了經濟系，由於不想就這樣放棄理工，大一時加簽
+了普物普化，大二開始雙修化工系。然而，在一個個實驗課中，我漸漸了解
+到自己並不喜歡實驗室的工作性質，經濟學則越唸越有興趣。家教的過程也
+發覺自己對教學滿有熱情，因此當時想說可以試試申請博班。畢業後服兵役
+的期間，我第一次申請Econ PhD (2014 fall)。
+
+這次的申請 (14 programs in the top 30) 全軍覆沒，事後回想一點不意
+外，當時除了成績之外乏善可陳，尤其沒什麼經濟研究的經驗，也不清楚自
+己有興趣的領域。最後誤打誤撞錄取了 M.A. in QMSS at Columbia
+University (Columbia GSAS 允許申請人免費填一個碩班的第二志願，如果
+博班沒上的話資料會被轉送至該碩班審查)。由於學費及生活費都滿貴，當
+時猶豫了許久，最後決定去唸的背後，大半是考量到畢業後直接工作也是個
+選擇，非得念博不可。
+
+讓我真心決定走上經博這條路的契機，是在出國後的第一年暑假，我去了
+Harvard 的經濟系做了三個月的 full-time RA (細節後述)。雖然以前念經
+濟系，然當時光是兩個系的必修課，就已沒有太多額外的時間選經濟系比較
+重研究的課，於是很慚愧地，我直到當時才真正了解實證研究(identification,
+etc.)。也是這時才發現第一個自己有熱情的領域：development economics。
+暑假結束後，我開始準備第二次申請 (2016 fall)。
+
+這次，我的一封推薦信來自 Harvard 的老闆, 兩封來自 Columbia 經濟系
+的老師 (lecturer x1, RA supervisor x1)。當時只申請了11個 top
+programs (all US Ph.D.)，心想如果沒上就再去累積點研究經驗再申請，
+結果依舊失敗了。還未收到所有的拒絕信，我已著手找full-time RA的職
+缺，最後很幸運的拿到了Povery Action Lab (J-PAL) 的 offer，這也是當
+時申請的眾多職位裡最想去的。算是因禍得福吧，過去這兩年，我更確信自
+己未來要走的路，與想成為的模樣。
+
+Motivation (should I do a Econ PhD?)
+
+講到這裡，我想岔出來說一下是哪些因素讓我更確信自己想要唸Econ PhD。
+或許有些人像我當初，不太確定自己適不適合念經博，更甚者，不知道自己
+喜不喜歡經濟研究。我其中一個老師 (Dina Pomeranz) 發過一則twitter，
+裡面列了一些她覺得值得參考的點 (有一些也許適用特定領域)，這邊摘錄
+幾點：
+
+1. Are you deeply interested in questions of societal & economic
+development?
+2. Do you like getting your teeth into things until you get to the
+bottom of an issue?
+3. Do you want a career doing research (in or out of academia)?
+4. Do you enjoy long stretches of self-directed/independent work?
+5. Do you either enjoy math or have the patience to work through it?
+6. Are you a good writer and do you enjoy polishing texts?
+7. Are there jobs that excite you for after PhD outside of academia?
+(If not you'll be super stressed during PhD & potentially unhappy after)
+
+決定要不要唸經博時，最重要的考量不是數學能力。如果你對經濟研究有點
+興趣，想試試看這條路，我非常建議申請前累積一兩年的RA經驗。跟著老師
+做研究與自己寫term paper/thesis不同的地方在於，除更了解怎麼做研究以
+外，也能比較清楚一個以經濟研究為主的職涯適不適合自己。就實證研究來
+說 (然並非只限實證研究)，從想法激盪、處理資料到資料分析的過程，即便
+非常厲害的老師也常有撞牆期，像是做了好幾個月甚至幾年的東西最後發現
+行不通。一篇paper的產生都是經過不斷的修正方向與一點一滴累積的結果，
+若沒有足夠的熱情與耐心，可能堅持不下去，或是不知為何而堅持。而這也
+正凸顯了big picture 動機的重要性，亦即你想成為怎樣的人。舉例來說，
+發展經濟學家希望透過研究來啟發與引導公共政策，進而從各個面向改善貧窮，
+這些自我實現的過程往往是激勵與支持一個人度過研究困境時的力量來源。
+
+RA experience:
+
+在Harvard的RA經驗，不只影響了我的生涯決定，也幫助我找到下一個RA的
+機會。想在美國找研究助理的人，可以參考之前ccvc的一篇文，裡面有滿詳
+細的介紹，我這邊再補充一些個人經驗：我當時是在Harvard經濟系的網頁
+上看到該職缺，直接聯繫教授後，收到兩個資料分析的測驗 (Stata and R)，
+最後是跟教授Skype interview。
+
+那年暑假，我們研究團隊有大概10個左右的RA，當時的一些中國人同事在美
+國做RA的方式讓我印象非常深刻，他們直接用旅遊簽自費飛過去，目的就是
+推薦信，甚至還有大學生休學一學期來做RA (因為簽證問題每幾個月要回中
+國一次)。後來，許多人用這封推薦信申請研究所或下一個研究助理職缺。
+
+我現在的研究工作，是在 Abdul Latif Jameel Poverty Action Lab (J-
+PAL) 的網站上找到的。J-PAL affiliated 的教授們如有研究助理的需求，
+會在上面貼出職缺，有興趣的申請者可以在J-PAL的網站上填資料 (CV,
+cover letter, LOR, etc.)，檔案會被存在系統供教授搜尋。另外一種比
+較有效率的方式，是直接針對你有興趣的職缺提出申請。
+
+前陣子我剛好在幫忙雇用下一屆的研究助理，這裡介紹一下流程。J-PAL的
+系統會粗略的做第一階段的篩選，之後我們會從通過篩選的人中挑出一些進
+行第一階段面試 (與現任RA)，挑選的依據跟申請PhD應該差不多，就是看學
+術背景、推薦信與研究經驗。進到這關的人通常有個碩班，或是大學雙修數
+學與經濟。而推薦信與研究經驗的重要性更不用多說，過去如果做過RA然後
+有老闆的推薦信的話會很有幫助，因為那是衡量一個人會不會是好研究助理
+的依據。
+
+第一階段面試滿短，大概半小時，主要目的只是更了解彼此，除非表現特別
+差 (不知所云之類)，通常會進到下個階段: 資料分析測驗 (data test)。
+目前經濟學界還是普遍用Stata居多，因此大都會給一個Stata test，但也
+會因應project的需求給你其他程式的測驗，像是當年我做的另一個測驗是
+用Matlab。最後一關一樣是跟教授面試。
+
+以今年我們的經驗來說，data test是最關鍵的一環，因為大部分的人都在這
+裡被刷掉。從申請人的答案中，我們可以滿容易的看出他的研究經驗，這會
+反映在coding 的能力(and style)、對經濟研究的理解，以及計量知識上。
+英文學術寫作能力也會納入考量。有趣的是，data test 的成績分佈似乎跟
+PhD申請人背景的分佈非常相近：很多人表現都不錯，但會有幾個人 (3~5%)
+特別突出。要脫穎而出到最後一關，除了把答案寫對之外，於處理與分析資
+料的過程必須非常謹慎，討論研究的方法與結果時也得提出需要注意的地方
+與缺漏。
+
+通常只剩幾個人進到最後一關跟教授面試，這時錄取率約有1/3。面試中會問
+一些研究相關的問題，像是看到一個數據或現象，你會怎麼解讀，又像在一
+個情境下你會如何檢驗因果關係，有些問題則類似統計與腦筋急轉彎，我有
+聽過有人問德國坦克的問題 (German tank problem)。老實說，要在短時間
+內想出一個好的 identification 也不容易，不過，更重要的是發想的過程、
+臨場反應與人格特質，後兩者其實滿主觀的。
+
+今年J-PAL的研究助理缺非常競爭，我們這個project今年招兩個人、收到超
+過一百份申請，最後被挑選出來做data test 的大概20多人，8人進到最後
+一關面試。歷屆 (含今年) RA placement的部分，有去了Berkeley, BU,
+Brown, Columbia, Michigan, Princeton, UC Davis, Yale 等等，也有想
+先唸碩班的人去 Harvard MPAID。
+
+Application:
+
+Process
+MIT 的老師跟我分享過他過去在MIT與Stanford 當ad committee的經驗。他
+說，每年800~1000份的申請，經過第一輪篩選後約莫剩3、400 份，那些人
+在各方面都非常優秀，對經濟也非常有熱情，那些申請文件會被分下去給各
+個committee審查，每一個審核人得在短時間內 ("3 seconds", quoted)
+掃過你的申請，然後決定要不要給下個人再看三秒，如此這般逐一篩選淘
+汰，可以想見，整個過程是非常隨機的。
+
+GRE
+重要性：Q>AWA>>V。瑞士的老師說，Q最好考到滿，沒有170的話許多頂尖的
+學校甚至看都不看。另外有個說法是至少要考到門檻 168。雖然我的情況是
+只有168還是被Chicago錄取了，但我不知道滿分的 counterfactual 是什
+麼。我約莫是在暑假結束才開始考GRE，因為五年前考過一次Q169 所以沒有
+太擔心，沒想到五年後一路考了四次直到deadline，Q卻卡在168上不去。因
+此建議早點把GRE考滿起來放，跟deadline賽跑的壓力不小。
+
+Transcript
+一個殘酷的事實是，許多美國的學校對於台大(經濟)的成績單持保留態度。
+兩年前申請時，Columbia有個老師跟我說，我大學的成績單訊息含量不大，
+因為他不知道/不相信台大課程的難度與給分標準。他建議我找一個台大的
+老師 (ideally someone people heard of) 幫我的成績背書，印象中他當
+時說台大只聽過林明仁 (可能因為領域關係)。有趣的是，板上那些最後上
+了top school 的人，大都在美國修過PhD-level 的課來幫他們的學術表現
+背書。相較之下，其實很多美國的申請人不會先修博班的課，頂多是像我在
+Columbia修的那種進階的大學部課程，不過那些也是以數學證明為主、滿紮
+實的課就是。
+
+如果你沒有機會以交換的身份去美國修幾門進階課程的話，我建議申請前先
+念個紮實的學術導向的碩士 (e.g., LSE, Barcelona, Boccooni, etc.)，
+我尤其推薦那些在歐洲的碩班，它們每年都會送一些前段的學生到 top PhD
+programs，那些碩班已經建立了 reputation and connection，如果你可以
+在其中脫穎而出，我相信對你的申請 (不管是博班還是RA) 都會很有幫助，
+且它們較美國的碩士相對便宜。
+
+LOR
+可以把推薦信的信息分成兩個象限，分別是 how good you are and how
+informative the letter is. 一封理想的推薦信不只要說你非常棒，也需
+要提供細節來支撐你如/為何棒 (我相信 John Nash 是個outlier)。我覺得
+經濟研究與這個學術職涯有許多數學能力以外的面向，因此衡量一個人未來
+能不能成為傑出的經濟學家應該也需要各方面的資訊。
+
+在決定找誰寫推薦信時，你可以直接問老師他能幫你寫到多強，然後你再從
+中選三個，不要覺得不好意思問。
+
+SOP
+有些老師說SOP不太重要，some even said that you just don't want to
+say anything stupid. 如果只有一分鐘掃過你的申請資料，我想審查委員
+應該無法太仔細看SOP。因此，最想發揮的部分應該在前兩段交代。我猜想
+SOP可能只會在最後一輪，得從幾個差不多的人中挑一個時，才會發揮作用。
+
+你可以在SOP裡面提幾個你有興趣的老師，有些學校會把你的資料轉交給他
+們幫忙審核與排序。但你不需要寫該老師在做什麼研究來說明你為何對他興
+趣，因為沒必要跟本人解釋他自己的研究。
+
+Conclusion:
+
+過去這幾年算是個自我實現的預言吧。當初沒來由的相信自己能夠去間好學
+校，即便失敗還是堅信著，兩年後再試又失敗，依然不放棄。今年申請的結
+果陸續出來後，只有收到waitlists 讓我難過了一週，然而，心情稍微平復
+後，覺得自己還是很喜歡現在做的事，還是很想試試教職這條路，於是已決
+定續留一年RA，把背景較弱的部分補強後再申請一次，沒想到UChicago最後
+給了我這個機會，除了幸運之外，有一部份也是因為自己從不放棄吧。當你
+相信自己，每天不間斷的朝這個方向努力，有一天突然回頭看，會發現自己
+成長了許多。
+
+或許有些人會覺得訝異，我有這麼好的推薦信，ex-ante 結果卻沒有想像中
+好。我並沒有一個好的解釋，我的推薦人也很驚訝，甚至連Chicago 的 Ad
+committee 在open house 時也訝異的問我原因。我想，整個申請的過程是
+非常、非常隨機的吧，因此，不要因為一次的失敗與挫折就懷疑自己，但也
+別忘了成功的偶然性，事後來看，我只是比其他人幸運一點罷了。
+
+一路走來，要感謝的人太多太多。自己能夠奢侈的去美國念碩士，除了家人
+之外，也感謝五年前幫我寫推薦信的台大的老師們。更不用說之後遇到的老
+師們，看著你們，我更確信自己想往何處去。期許有一天，自己也有機會與
+能力幫助任何需要被幫助的人。
+
+

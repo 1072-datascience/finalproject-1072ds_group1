@@ -1,0 +1,281 @@
+
+每個人的背景及所處的因緣條件不一，
+所以一直覺得有些申請上的經驗並不能當通則，
+但是考慮到自己想走的方向在台灣甚或是在整個生物學界內並不普遍，
+為了多多鼓勵有志氣的學弟妹們一起朝"發展生物系統的定量理論"這條路上邁進，
+所以還是 po 這篇文章當作一個 primer, 希望能吸引到更多的 polymerases XD
+（歡迎寄站內信討論問題，不過現在還在服役中，不太能馬上回覆）
+
+Field: 
+Biophysics, Quantitative/Computational/Systems Biology
+
+Admission: 
+UCSF iPQB--
+1/18 interview invitation;
+1/26, 2/11, 2/18 Skype interviews;
+3/9 wait list;
+4/13 admission offer (tuition/fee waiver + 30k stipend).
+
+UTSW DBS--
+2/25 admission offer (tuition/fee waiver + 28k stipend);
+3/17 Skype chats.
+
+UCSD Biological Sciences--
+1/12 interview invitation;
+1/28 Skype interview;
+2/17 admission offer (tuition/fee waiver + 29.5k stipend).
+
+Withdrawal after interview or interview invitation: 
+UC Berkeley Biophysics--
+1/12 interview invitation;
+1/29 Skype interview.
+
+Dartmouth MCB--
+2/10 interview invitation;
+2/26 Skype interview.
+
+UT Austin CMB--
+3/10 interview invitation.
+
+Rejection: 
+Princeton QCB (2/23), Harvard Systems Biology (3/5),
+Cornell Tri-I CBM (2/17), MIT CSB (1/20),
+Stanford Biosciences (1/24), Duke UPGG (3/2), UCI MCSB (4/19)
+
+Pending: 
+UCSD BSB
+
+Decision: 
+UTSW DBS
+
+Background: 
+2009 B.S., NTU, Life Science (major), Mathematics (minor)
+overall GPA: 3.97/4.00
+2011 M.S., NTU, Institute of Biochemical Sciences
+overall GPA: 4.00/4.00
+
+Test scores: 
+GRE--
+550/800/3.5 06/11/2011 台灣 台大
+700/800/4.0 07/20/2011 菲律賓 Makati
+sGRE BIOCHEM--
+720 (98%) 11/13/2010 台灣 台科大
+TOEFL--
+30/29/17/27/103 10/16/2011 漢口街地球村
+29/27/18/25/ 99 10/30/2011 漢口街地球村
+
+Research experience: 
+Institute of Biological Chemistry, Academia Sinica, 2007–2011
+# biochem/imaging/cytoskeleton 2007–2010
+# optics/super-resolution imaging/autophagy 2010–2011
+
+Publication: 
+# 5th author in Mol Microbiol (F1000 recommended)
+
+Honors and awards: 
+2003 全國高中生物學科競賽二等獎
+2004 中區高中科展優勝
+2004 IBO 備選國手第二
+2005 IBO 備選國手第一
+2005 吳健雄科學營創意海報獎
+2008 國科會大專生專題研究獎學金
+2009 書卷獎六次，院長獎
+
+Recommendations: 
+1 from 中研院生化所碩班第二年老闆
+1 from 中研院統計所研究員
+1 from 台大生科教授（分攤三分之二）
+1 from 中研院生化所研究員（分攤三分之一）
+
+心得：
+
+這一路走來，有許多的偶然與必然。
+
+從小就對周遭各式各樣的動植物有一種特殊的感情，
+但直到上高中時仍沒有很確定要當個生物學家。
+高一上在同學的慫恿下考了中研院生命科學資優生培育計畫，不小心備取上了，
+雖然那一年數十個週末在中研院並沒有真的學到什麼，
+但是因為它，我這個鄉下小孩得以拿到一本影響我相當深遠的 Campbell,
+以及參加一連串的專題演講和對高中生相當新奇的分生實驗室見習，
+那些日子所受的衝擊，使我開始試著整理自己對生物學的感覺與想法，
+還有培養自己查找及閱讀原文文獻的能力。
+在台灣這種教育體制與環境下，當時在班上生物考試的成績並不算頂尖，
+所以學校生物科的老師們也沒有特別注意到我，
+直到高一下參加校內的生物學科競賽跌破眾人眼鏡拿到第一，
+接下來在高二上中區賽拿到第二，全國賽拿到二等獎，才得到多一點的資源。
+即便如此，學校老師並不太熱中於競賽上，對我的態度是支持但放任自由發展，
+一個人獨自摸索，在 IBO 初賽因為 Campbell 沒背熟而沒進複賽，
+但憑著全國賽的門票還是得以參加決選進而拿到備選國手的資格。
+現在回想起來這一些競賽最大的意義在於
+讓我可以在高二下就確定能保送台大生科，
+因而有比較充分的理由推掉學校與家裡要我唸台大醫科的壓力，
+此外我在那一年裡多了很多自由閱讀的時間，
+確立發展生物系統的定量理論是我一輩子的目標，
+就是起因於當時看了《連結》，進而回去讀《複雜》、《渾沌》，
+甚至 Barabsi 那年發表在 Nat Rev Genetics 的 Network Biology:
+Understanding the Cell's Functional Organization.
+
+進台大以後，一切還是得靠自己摸索。
+台大生科相當傳統，前些年更連基因體與系統生物學學位學程都沒有，
+（暫且先不討論現在這個學程帳面上有幾個人是真正在做 systems biology）
+原本自己的規劃是想 double major CSIE, 但種種因緣最後選了數學，
+也因為這個選擇，犧牲了很多娛樂的時間在讀數學上，不過辛苦是有代價的，
+儘管現在還不太有能力獨立做一個真正漂亮的 modeling & analysis,
+可是至少我不害怕看到式子，有能力慢慢推導，甚至欣賞裡頭深邃的美麗。
+至於生科本行，台大生科還是有很多優秀的老師和課程，
+讓我對生物系統各個階層有更深的瞭解，
+我相信即便在今日這種分子生物當頭、甚至其他領域跨入生物學的年代，
+對生物的感覺和扎實的認識與瞭解仍是重要的基石，
+舉例來說，我不相信一個沒有認真觀察過植物的生長發育、
+動手解剖過植物那暗藏秩序的組織結構的人，能成為一個好的 plant dev biologist.
+
+在中研院的四年半時光，不敢說獨立完成了什麼值得拿出來好好提一下的研究，
+而且多少並不完全符合我的興趣，其間更發生過換實驗室的悲劇，
+但是在前後兩個實驗室裡，我想我還是有在慢慢朝目標靠近，儘管相當迂迴。
+加入第一個實驗室是被前老闆研究的蛋白質在 E. coli 裡的 oscillation 吸引，
+不過後來發現已經有滿多人在 model 它的動態了，而且老闆是 biochemist,
+進實驗室後主要還是在玩另外兩個系統，偶爾協助學長姊分析 data 跟提供看法，
+2008 年我們實驗室研究的兩種蛋白質上了同期 Science,
+（不過是別人家出產的 articles XD）
+對我是相當大的激勵，因為那些實驗事實上我們也有能力做得出來。
+然而當時老闆選擇的主力方向不太受外面的大頭支持，
+data 也不夠扎實成熟，投稿上困難重重，
+科學上的問題和人們個性的問題混雜著，種下之後換實驗室的遠因，
+儘管後來兩個大頭實驗室在 Cell 跟 Nat Struct Mol Biol 的文章
+都支持我們原先的結論。
+在碩一升碩二的暑假換實驗室是相當冒險的決定，
+但是在後來的老闆的信心加持，以及實驗室學長姊以及同學們的協助與支持下，
+還是用不到一年的時間，一起弄好實驗室的 optical setting,
+架電腦設系統，寫好分析程式，試了一些 preliminary conditions,
+得到一些 data 完成了碩班論文。
+這些經驗對一個生物出身的人並不是很常見，
+應該對我在申請這方面的 programs 有一點加分作用。
+
+關於留學考試的準備 GRE 板和 TOEFL_iBT 板有很多有用的資訊跟討論，
+不再贅述，不過在此還是建議需要服兵役的人，這些考試最好在入伍前完成，
+我的 TOEFL 是上成功嶺之後才開始練的，沒有時間練 speaking，
+因此造成了悲劇，雖然分數靠其它 sections 拉抬，
+但有些學校還是會看單項分數。
+
+關於申請文件的準備，我是在11月幾個有限的週末時間完成的，
+不過我也不建議這樣做。雖然沒有真的動筆寫，但是我很清楚自己要寫些什麼，
+以及在各領域神人會集的復興崗裡，有許多優秀的範本可以參考切磋，
+所以雖然下筆時還是遇到很多障礙，但總能在一次週末分別完成 SOP 跟 PHS,
+SOP/PHS 的風格應該是見仁見智，
+我寫我想表達的、自認為可以讓人感動的東西，
+但我老闆並不是很喜歡我的風格，
+我有照他的意思略作語句調整但沒有段落新增，
+或許這是東岸學校普遍拒絕我的原因。
+
+關於 interviews 和選校--
+在一月中的兩個週末回家時先後看到三家 UCs 的 interview invitations,
+其實相當意外，因為一直擔心自己會因為 TOEFL speaking 被系辦挑掉了，
+收到 invitations 後，因為服兵役不能去on-site,
+所以開始認真的逛學校系所實驗室的網頁，讀幾篇有興趣的 papers,
+盡量回復當兵後退化的聽力和語感，以及寫信連絡有興趣的教授。
+跟很多生物領域的申請者不一樣，我是確定有 interview 後才開始連絡的。
+很多人覺得在申請時連絡有一定幫助，不過我想應該還是要看學校系所，
+但我可以分享我的經驗，有 invitations 之後教授都有回信XD
+
+除了 UCSD 外， Berkeley 和 UCSF 都可以排很多場 1-1 interviews,
+我想 interview 的關鍵還是在於展現你的熱情和激發他的熱情，
+大部份的 interviews 都聊了四、五十分鐘到一小時，
+對台灣學生來說或許有時會有表達和理解上的小問題，但這都是 minor factors。
+
+這些 interviews 最大的收穫是，
+可以知道實驗室正在進行的 projects 或是老闆頭腦裡的 ideas,
+有一些很有趣的點子或方向都是我從來沒想過的，
+每次想到之後有機會把這些東西做出來都會讓我熱血沸騰。
+
+Dartmouth MCB 和 UT Austin CMB 因為是申請清單上的備案，
+所以在有更好的選擇下就先放掉了。
+
+Berkeley Biophysics 我真正有興趣而且做得好的實驗室不多，
+加之跟系辦確認之後他們今年度還是經費拮据，可能要自己帶 funding,
+或是等等看四月之後有沒有天降甘霖，為了不造成她們的困擾，
+於是我也就爽快的先發卡了。
+
+UCSD 給我 offer 的是 Division of Biological Sciences,
+Bioinformatics & Systems Biology 事實上沒錢一直 pending。
+雖然自己有興趣的實驗室們兩個 programs 都有掛，
+但是 DBS 對於 biophysics/systems biology 的課程規劃不理想，
+而且 UCSD engineering 的 flavor 比較重，不太是我真正想要的，
+所以也只好在 deadline 前夕發卡了，
+回想申請前 UCSD 就已經屬於我的 dream schools 之流，
+真的沒想到竟然有發卡給 UCSD 的一天…
+
+關於 UCSF iPQB 和 UTSW DBS 的抉擇，
+可以先參考 #1FYMhqz9 和 #1FYYVjt1
+
+UTSW 剛開始在我做 PI screening 時其實 ranking 在中等而已，
+但是 UTSW 有幾個實驗室像 Altschuler & Wu, Suel 等等是我很喜歡的，
+而且他們的師父像 Rong Li (Harvard, now @Stowers),
+Michael Elowitz (Caltech) 也都在screening 的 top favorites 中，
+在我確定他們兩個實驗室今年都會收學生，
+而且跟 Altschuler & Wu 聊得滿開心的狀況下，我開始動搖，
+認真地說，那時候 UCSF iPQB 還沒給我 offer XD
+不過因為我自己面試完直覺是會給…所以才會這樣考慮。
+
+發卡給 UCSF iPQB 是一個相當艱難的決定，
+SF/Bay Area/CA 的學術、產業、自然環境，
+Mission Bay 的實驗資源，以及 UCSF 的風氣…
+還有我爸一直覺得不唸排名在前面的學校相當奇怪 orz
+
+不過這一路上都是依自己的感覺在走，anyway,
+正如 Polar Express 車長在片尾所說的，
+One thing about trains: It doesn't matter where they're going.
+What matters is deciding to get on.
+真正的挑戰還在未來:)
+
+致謝：
+
+本來想一個一個詳列，但需要感謝的人太多了，就感謝天罷XD
+Hmmm, 還是來個分類感謝好了。
+感謝家人從高中時不諒解到現在放寬心接受我的生涯規劃，
+台大生科、台大數學、中研院生化所眾多師長的教導與提攜，
+兩個實驗室裡大家的支持與陪伴，
+許多同學朋友與學長姊無私的幫助與經驗分享，
+板上ColdP, notaildog, oplz, neomarkusan, setu 等人的意見分享，
+政訓中心 100-1T 一起為留學打拚的眾多強者的經驗交流；
+陪我渡過當兵與準備申請資料這段期間的三本精神食糧--
+Nick Lane 的 Life Ascending，
+韓少功的隨筆集，
+Wislawa Szymborska 的 Poems New and Collected;
+一路上碰到的各種繽紛有趣的生物們，
+傳承佛陀清淨教法的 Ajahn Chah, Thich Nhat Hanh, 還有聖嚴師父，
+你們讓我找到真正的快樂以及有動力繼續前進:)
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc)
+◆ From: 1.168.121.190
+※ 編輯: gymnosperm      來自: 1.168.121.190        (04/26 19:51)
+推 EagleSoul:Congrats!                                             04/26 19:46
+推 jdgcranna:Congrats!                                             04/26 20:05
+推 f52cya:   Congrats!! 加油!                                      04/26 20:17
+推 CieloCot:恭喜你！！學長你太棒了 加油！！:D                      04/26 20:27
+推 Pteridophyta:恭喜阿                                             04/26 21:13
+推 asdScott:恭喜:P                                                 04/26 21:14
+推 qubit:Congrats!                                                 04/26 23:22
+推 notaildog:恭禧! (原來你也在復興崗啊...)                         04/26 23:28
+推 frank11118:Congrats!                                            04/26 23:50
+推 ron0908:恭喜!                                                   04/27 00:22
+→ larryeipi:推！                                                  04/27 00:37
+推 CrazyMoon:恭喜!                                                 04/27 00:59
+推 neomarkusan:恭喜恭喜!                                           04/27 01:01
+推 dodockft:恭喜~~                                                 04/27 01:35
+推 RiverClyde:我好像知道你第一個老闆耶! YLS?                       04/27 02:44
+推 Organizer:cong                                                  04/27 03:27
+推 JimmyHou:似乎是森多同組的同學xdd                                04/27 03:45
+推 kirastrike:恭喜!!                                               04/27 07:43
+推 seahorn:恭喜學長!!                                              04/27 09:03
+推 wjho:恭喜啦!!!                                                  04/27 09:06
+推 jack3172:推生化所!! 學弟你的故事我聽了好多次!!                  04/27 09:29
+推 chen31:原po是個強者! 加油囉! 德州據點!                          04/27 11:00
+推 dodo5575:恭喜!!清楚地知道自己的目標,而做了這樣的選擇,很了不起   04/27 11:07
+推 ColdP:雖然我對這領域也不熟，不過我室友是Nick的學生，而他的紅粉  04/27 13:32
+→ ColdP:知己是Suel的學生，來之後有機會也可以跟他們聊聊......      04/27 13:33
+推 ga014528:恭喜~po人很好~XD                                       04/27 16:20
+推 biolenz:恭喜！第二個老闆是楊老師？                              04/27 23:09
+推 terryisgood:恭喜~~                                              04/28 21:09
+→ gymnosperm:老板的猜測是正確的，我沒修過森多耶（殘念...）        04/29 09:01
+※ 編輯: gymnosperm      來自: 111.253.168.128      (05/04 23:24)

@@ -1,0 +1,105 @@
+
+碩班從不是我的人生規劃之一，學士畢業後直接進入職場，在兩年半的工作時間體認
+到自己學術知識的不足(混沌大學時期lol)及語言能力的停滯不前，於是邊工作邊準備
+TestDaF，幸運考過後決定一鼓作氣直接申請德國研究所。其實碩士會想到德國，
+除了想換換環境、深入異國文化外，另一方面也是希望能真正應用到所學的外語能力，
+即使之後找工作也能讓自己多一項技能。
+
+- Zulassung/Acceptance
+Universitt Konstanz → 05. July
+Albert-Ludwigs-Universitt Freiburg
+(1. Sustainable Materials Functional Materials  2. Chemistry) → 06. July
+TU Dresden → 07. July
+Philipps-Universitt Marburg → 24. July
+TU Berlin → 08. Aug
+(除了Uni Freiburg申請兩個不同學程外，其他都是Master-Chemistry)
+
+- Ablehnung/Rejection
+Freie Universitt Berlin → 04. July
+RWTH Aachen → 19. July
+Georg-August-Universitt Gttingen → 02. Aug
+Karlsruher Institut fr Technologie → 02. Aug
+TU Darmstadt → 24. Aug
+
+→基本上都是因為同一主因被拒：台灣的大學課程不完全符合德國該校的大學學程，
+因此提供的學士學位無法被完全認可。（各國一樣科系的學程本來就會多少在名稱
+或是內容上甚至學分上有些微不同出入，但申請德國傳統碩士學程基本上非常看重
+這一塊，若沒達到他們核對的標準，皆無法通過。
+此部分強者z7832222的錄取文章[德國化學碩士FU Berlin]分享的很詳細，可參閱。）
+（當然，我個人GPA不高也會是原因之一.......）
+
+- In Bearbeitung/In process
+Humboldt-Universitt zu Berlin (寫信確認no results before end of August)
+
+- Entscheidung/Decision
+TU Berlin
+
+- Education background
+NTHU - B.Sc Chemistry : GPA 3/4.3 (German grade 2,5)
+Exchange program: Friedrich-Schiller-Universitt Jena, Germany 2012-2013
+
+- Working experience
+研發中心: department of bio-materials and energy , 2.5年
+
+- Languages
+German:
+TestDaF ( Taipei 19.07.2016)
+讀TDN4/聽TDN4/寫TDN5/說TDN4
+Gthe Zertifikat B2 ( Taipei 12.05.2014)
+讀17/聽12/寫18/說21.5
+English:
+2011 TOEFL-iBT 83/120
+因申請德語學程大致上沒特別要求英語檢定，故沒再考一次托福，
+直接拿已過期很久的附上撐撐場面.....
+
+- Letter of recommandation
+1. 公司部門主管（協理）
+2. 大學時一位系上教授
+雖然申請德語學程並沒有要求推薦信，但還是都一起附上了。
+個人私下認為有加到分（畢竟成績不優...）
+
+- Schalorships
+none.... 申請宗倬章德國碩士獎學金，第一階段即被秒殺...
+(關於這部分的detail也可以參考z7832222的錄取文章[德國化學碩士FU Berlin])
+
+instead, 只好藉著工作的微薄存款加上教育部留學貸款.......
+鑑於較少看到有人分享德國碩申請教育部學貸部分，在此特別提一下遇到的困難：
+申辦教育部留學貸款有一項必需文件為入學許可（須標示入學期間「起迄日」）
+德國碩士的入學許可在此處可能會有一點小問題，大部分學校給的
+Zulassungbescheid上只會提到你在獲得2017/18 Wintersemester的入學許可，
+有些學校會再附上本學期的時間（例15.10.2017-31.03.2018）
+但問題來了，我收到的任何一間入學許可上都沒有標示碩士的完整休業時間（例如2年），
+所以當我第一次繳交入學許可時，是被留學貸承辦人員打槍的，他們明確指出若沒看到
+入學許可上有修業的起迄日的話是無法申辦的，因會牽扯到他們計算寬限期的時間等等。
+跟學校聯繫得到的回應是入學許可上沒有完整的修業年限是正常的，每個人的學期規劃
+不一樣，而且每學期的開學時間網路上也都找得到，故無法提供其他的入學許可文件。
+經過不斷打電話聯繫，終於找到一位承辦人員另外寫了一個confirmation letter內
+含我於該校化學碩士理論上的修業時間（2年），並提到我「理論上」的畢業時間，
+附上此文件及入學許可後才被留學貸承辦人員接受。
+
+申請文件介紹(每家大同小異，在此舉出我有繳交過的)：
+- CV & letter of motivation
+- 高中畢業證書、成績單 & 學測or指考成績單
+- 大學畢業證書、成績單
+- 語言檢定（視德語或英語學程而定）
+- 工作經驗證明
+基本上大部分學校都會要求以上部分文件影本公證，這部分我當時是找德協，不過
+聽說現在德協似乎不是很願意做？但德協網頁上有說可以找民間公證單位認可。
+
+我這次申請的學校中有5家是透過uni-assist，分別是HU-Berlin, TU-Berlin,
+Freie Uni Berlin, TU Dresden及Uni Marburg 透過uni-assist申請的好處是只要
+寄出一份文件即可。要注意的是文件寄送時間要抓好。
+RWTH Aachen, Uni Konstanz, Uni Freiburg, Uni Gttingen及KIT則是獨立
+依照各個截止日寄送申請文件。
+這次的紙本文件寄送都是透過郵局EMS，每份包裹平均NTD 390，基本上都是五個工作天
+就寄到，沒有寄丟。
+
+等待簽證核發期間還困在柏林找房難找的窘境中（跨海找房真的非常困難）...
+如果有人有知道柏林WG出租的小道消息，還煩請不吝丟站內信給我了...
+當然，若有申請方面的疑問，也歡迎詢問喔。
+
+最後真心感謝版上前輩們的申請文章及考試經驗分享，
+也感謝曾站內信回答過我有關德國環境及碩士申請的前輩們！
+
+
+

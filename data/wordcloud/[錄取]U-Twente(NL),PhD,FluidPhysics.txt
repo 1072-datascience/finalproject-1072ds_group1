@@ -1,0 +1,99 @@
+
+
+前言
+在這個版得到許多寶貴的資訊和經驗分享，也想將自身經驗回饋。
+希望能對以下背景的人有幫助：
+-工作一段時間後想要念博
+-想要申請歐洲的學校
+-沒有太多申請學校的預算
+-熱流領域
+
+申請概述&結果
+Research Interests:
+Fluid physics: multiphase flow, wetting and capillary force, droplet dynamics
+
+Application list & Results:
+大概從去年12月開始陸續開始寄信，農曆年間拿到最後的offer
+-Max Planck Institute for Polymer Research, Interface Physics-No position
+-U-Twente, Polymer Engineering, elastomer 3D-printing-Rejection
+-Karlsruhe institute of technology, Thin Film Technology-無聲卡
+-ESPCI Paris, Physics & Mechanics of Heterogeneous Media-無聲卡
+-KTH, Fluid and surface group-無聲卡
+-TU-Eindhoven, Applied Physics-Admission
+-KTH, Wallenberg wood science center-Admission
+-U-Twente, Physics of Fluid group-Admission & Decision
+
+Application Information:
+前面很多前輩已經分享過，這邊簡單分享我的經歷。
+歐洲的博班申請沒有固定的時間，基本上就是看學校or實驗室網頁開的職缺(會有很明確
+的題目)，準備好自己的資料email給教授即可。當然也可以嘗試open application直接詢
+問教授，是否有尚未公告的其他機會
+-CV
+-Motivation letter
+-Transcript
+-Papers or thesis
+-Reference list (我遇到的教授們大多希望自己寄信詢問，不希望拿我提供的推薦信)
+
+錢的方面，不需要繳學費，且大部分有公告的開缺都是有薪水的，就我看到的薪資落在
+1500~3000歐/month (德國比較低, 瑞典比較高)。
+
+Background
+-NTUME 學士, 碩士(熱流), GPA 3.9/4.3
+-TU-Berlin exchange student (純修課, 碩班口試後去的)
+-1st author of 2 journal papers(碩論題目)
+-畢業後在品牌廠當機構工程師兼issue san接近2年
+
+心得
+關於動機：
+其實之前從來沒有想念博班，一方面覺得碩班的研究離應用好遠(but我是有興趣的)，一
+方面想證明自己不只能當讀書人，也可以在業界實務中打滾。在消費型電子廠擔任機構工
+程師，接觸到各式各樣的製造技術，學會和台灣、中國各種供應商談判應對搏感情，也訓
+練出扎實的多工、跨國跨部門溝通、解緊急issue能力。我很喜歡現在的工作，喜歡那種
+自己投注心血的產品上市、社群裡熱烈討論的興奮感。但比起這種興奮感，在工作一年多
+之後，發現自己仍然想要專注深入的研究。希望受到更扎實的訓練，能夠用影像及實驗數
+據分析、並用model描述自己有興趣的物理現象。當然這些東西可以在台灣讀在職專班，
+或是去工研院達成(?)，但也是想離開自己熟悉的地方，一邊和世界各國的人交流、一邊
+追求那種對未來的不確定感。
+
+關於申請過程：
+KTH跟Twente這兩個缺是我最後投遞的，也是覺得最有興趣的兩個職位。想跟大家分享一
+下有趣的過程。
+
+KTH Wallenberg Wood Science Center
+WWSC是瑞典專注在森林材料的研究機構，在幾個大學裡都有跨領域的研究中心，從前端樹
+木纖維萃取，到後端的新材料合成。我申請的這個職位，是掛在流體力學實驗室下面，用
+微流道的flow focusing設計，合成奈米纖維素，變成高強度、生物可分解的新材料。研
+究的重點是Process中的流固耦合分析。
+
+他們的面試非常用心，還委託專業的人資公司。第一關是人資電話面試，簡單聊聊
+確認動機跟溝通能力。第二關是人資面試，有先告知幾種重要的soft skills，要我在面
+試前先思考，由過去的經驗說明自己具有這些能力。面試當下人資的問題非常犀利，闡述
+太模糊的時候，他們會馬上提醒，要我更確切的回答他想知道的問題。問完一輪覺得更了
+解自己了呢XDD 第三關是教授面試，出乎意料的，他們並沒有問我碩士研究或相關技術問
+題，反而是聊天和再次確認動機。最後一關是推薦信，他們會寄信給名單上的人詢問。拿
+到offer時，他們還邀請我先去瑞典逛一逛實驗室(最後沒去)。
+
+U-Twente Physics of Fluids group (PoF group)
+這是一個龐大的research group，博士生接近40人，博後也有20多位。研究範圍結合理論
+、實驗、和數值分析。我有興趣的Droplet & Bubble實驗是重點研究項目。寄資料給PI幾
+天後進行skype面試，一樣沒有問太多過去的研究內容，主要是確認動機跟第一印象。在
+我答錯大PI問的基本流力問題之後(@@)，也跟幾個會密切指導我的年輕教授閒聊。我本身
+並不會他們常用的實驗方法，但他們認為有基本的認識就行，進去之後很多人都可以教我
+。原本覺得要GG了，結果兩天後收到offer。
+在跟大PI互動過程中，覺得很受尊重跟重視，他也仔細叮嚀要我先看過他的研究概況跟論
+文，認真思考後再作出決定。
+
+過年假期都在思考這兩個offer。一邊離應用比較近，一邊是比較有興趣的基礎研究。經
+過在家踱步三千回、並和碩班老師談過之後，決定還是要選有興趣的、基礎的研究，因此
+選擇PoF。結果隔天名字就被放到實驗室網頁的成員裡面了XD
+
+結語
+面試的時候被問，最近也常常被問：會不會後悔先工作? 機構工程師的工作經驗，對於博
+士的研究有沒有幫助? 從知識技術上來看，真的沒什麼直接相關。但工作兩年期間學到
+的工作方法和溝通能力，以及看事情的廣度，是直接投入學界很難獲得的經驗。我相信每
+件事情都環環相扣，不會有一段時間是真正浪費或可惜的，關鍵在於當下是否全力以赴。
+
+下個月要出發了。我很幸運不用供養家人，也很魯沒有什麼牽絆XD，因此能夠嘗試追逐夢
+想。希望申請的經驗能幫助到後面的人。U-Twente博士生在接近一年時會有一個資格審核
+，希望那時候能留下來，再次分享荷蘭讀博的心得。
+

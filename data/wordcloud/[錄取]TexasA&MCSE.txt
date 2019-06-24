@@ -1,0 +1,105 @@
+
+Program:
+2014 Fall MS or PhD in CS/CE
+
+Research Interest:
+Wireless Network, Delay Tolerant Network
+
+Admission:
+Texas A&M University Computer Engineering MS with thesis(3/18)
+University of Texas at Dallas Computer Science PhD stipend+tuition waiver(3/6)
+University of Florida ECE MS with funding(一年之後可以轉PhD 6/7)
+
+Rejection:
+Purdue ECE PhD via email (2/25)
+GaTech CS PhD via email (3/5)
+OSU CS PhD via website (自己查詢發現)
+UIUC ECE MS via email (4/2)
+
+Pending:
+ 以下應該都全死 申請策略錯誤
+All in PhD
+UT ECE, UMN CS, UCSD ECE, MSU ECE, UMich CSE, USC EE
+
+
+Decision:
+Texas A&M University
+
+Background:
+NCU Communication Engineering BS (Overall GPA: 3.82/4.0, Major GPA: 3.78/4.0)Rank:3/50(提早一年畢業)
+Test Score
+
+Toefl: 112(R:28 L:30 S:26 W:28)
+GRE:   V153 Q168 AWA 3.0
+
+Recommendation Letters:
+3 from NCUCE faculty
+
+Work Experience
+Freshmen English TA
+替代役
+
+Publication
+1 IEEE Conference 3rd Author (Best Student Paper Award)
+
+Honors & Awards:
+一個國泰世華獎(XDD)
+
+心得
+
+○為什麼出國
+
+我三歲時候就跟著我爸爸到美國居住，我爸當時在CMU攻讀PhD，我也理所當然跟著他在
+匹之堡生活了三年。回國之後就讀了雙語部直到國中轉回台灣正常的教育體制。所以
+我國小的同學在我上大學時，幾乎都是出國讀名校。MIT、Harvard、UCLA、UT Austin...
+反正就是一堆名校，榜單貼出來時我很羨慕他們。但因為我家裡經濟原因不准許我出國讀
+大學，所以就留在台灣讀。但我爸爸也答應我，只要我有能力出國讀研究所，他會資助我
+後來長大之後，發現我能盡量不用他們的錢就不要用，所以當TAMU錄取我時，我豪不猶豫
+就答應會去TAMU了(兩年不到兩百萬台幣)。
+
+○選校策略
+
+跟學長和老師們討論過，他們都說想念PhD就直接申請PhD。最後證明這根本差點害死我！
+我既非台大或是有MS學歷，國外名校怎麼可能會願意給我錢讀PhD呢？全部學校裡也只有
+排名70的UTD有給我PhD。
+
+10月初我就開始瘋狂寄信給各個我有興趣的學校老師。寄了十幾封只有四五封回，拒絕和
+客套佔了一半。OSU阿三教授直接回信說「I have only heard of NTU. How is Central
+University compared to that?」他居然還忘了打National....。比較正面的回信就只剩
+UT-Austin和UTD。
+
+UTD的那位老師(非常大咖)，我本來是聯絡他在Cornell的信箱，沒想到他跑到UTD，然後問
+我有沒有興趣，我也當然就跑去申請UTD，中間不停的有來信。後來就拿到AD。
+
+UT-Austin的老師感覺就是一位非常nice的老師，你寄得每一封他都很認真回信，有興趣
+想知道這位老師可以站內信。
+
+TAMU一剛開始我寄信說我想讀PhD，老師都沒有理我。直到3月初發現我除了UTD以外都沒
+有AD，心理開始有點慌了，馬上開始寄信問系辦可不可以改成MS，只有TAMU給我改，其他
+都說要重新申請或者不給申請兩個學位。我又重新寫信給那位老師(隔了三個月)，說明我
+想進去他實驗讀MS並且可以先自費，之後希望能轉PhD。老師就馬上回信說我跟他興趣很
+合。然後又進入毫無消息的兩個禮拜，我當時也想說GG了，準備讀UTD了。沒想到有天晚
+點名完，我回去刷GMAIL，發現老師寄信來說我上了!!!!!我還記得那天是3/18號。我帶著
+興奮又難過的心情入睡，興奮的是我終於可以去一所TOP20的學校，難過的是那天學運開
+始我卻無能為力。
+
+建議想申請EE/ECE/CS/CE 的人可以現去看看 www.edulix.com 這個印度人的留學網站。
+裡面資訊多到一種誇張的境界。連一些黑暗學校他們都很了解，每個學校的習性他們也都
+懂。假如我當初申請前就知道這個網站，我就不會傻傻丟PhD....
+
+
+感謝
+
+首先要再一次感謝我的女友無時無刻的支持和陪伴。感謝我高中損友們大便、彭彭、小彥
+、小閔、浮雲、MODEL、JEFF、A捷、阿光、喇叭，給了我許多建議或陪我喝酒發瘋、還有
+一位最近因為學運關係被無限期停休的鎮暴替代役阿淵，謝謝你從我高中失敗就一直鼓勵
+我，也恭喜你考回你的台大母系。感謝我父母願意支助我讓我能緣出國夢。感謝TFAITH跟
+我分享許多留學資訊。感謝中央資管的同學眼鏡和PUPU在我服役期間陪我重訓。感謝品中
+學長和Jay學長幫我解答許多留學和Lab問題。感謝中央通訊系胡誌麟老師和徐佑豐學長讓
+我大三就能進實驗室並順利發Paper。感謝中央語言中心謝明慧老師給我機會當TA和分享他
+出國留學的經驗。
+
+感謝留學版提供了這麼多資訊。
+
+最後，祝大家和未來要留學的人能都上自己的DREAM SCHOOL!
+

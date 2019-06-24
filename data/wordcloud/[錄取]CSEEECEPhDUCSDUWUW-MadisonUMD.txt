@@ -1,0 +1,310 @@
+
+Program:
+PhD in CS EE ECE, Fall 2016
+
+
+Research Interest:
+Computer Vision, Machine Learning, Multimedia
+
+
+Admission:
+˙UCSD
+ECE PhD   w/ 3 yrs Dean's fellowship1/23
+˙UW-Seattle   EE  PhD   w/ 4 yrs funding1/30
+˙UW-Madison   CS  PhD   w/ 4 yrs TAship + 1st yr CS scholarship       2/4
+˙Maryland     ECE PhD   w/ 2 yrs TAship + 1st yr Dean's fellowship    2/17
+˙UMich
+ECE MS    (applied for PhD, accepted into Masters)      3/17
+
+
+Rejection:
+˙UW-Seattle   CSE  PhD2/9
+˙Stanford     EE   PhD2/23
+˙CMU
+RI  PhD/MS2/25
+˙MIT
+EECS PhD3/3
+
+
+Pending:
+˙UIUC CS PhD
+˙Cornell CS PhD/MS
+˙Columbia EE  PhD/MS
+˙UCLA CS PhD
+˙USC CS PhD
+//expect to be rejected..
+
+
+Decision:
+It's hard to make decision.. Narrow down to UW-Seattle and Maryland.
+Suggestions are welcomed!
+
+
+Education:
+MS in CS, GINM, NTU, 2012-2014
+GPA: 4.18/4.30
+
+BS in ECE, NTUST, 2008-2012
+minor degree in Applied Linguistics
+Major GPA: 3.97/4.0
+Overall GPA: 3.94/4.0
+Rank top 5% (5/112)
+
+
+Publication:
+2 IEEE Transactions papers
+9 IEEE/ACM conf. papers
+1 Domestic conf. paper
+papers include:
+˙IEEE TPAMI (top journal, reviewed to be major revision)
+˙IEEE TIFS'15 (good journal, my MS thesis)
+˙CVPR'16 (top conf., submitted and accepted recently)
+˙CVPRW'15 (top conf.'s workshop, deep learning in computer vision),
+˙ICMR'15, ICASSP'15, ICPR'14, ICIP'13, SIGGRAPH Asia'13, etc.
+more details can be found in my cv.
+
+
+Awards:
+˙Yahoo Research Grant (USD26,600), 2015-2016
+˙碩士論文獎佳作, 中華民國影像處理與圖形識別學會, 2015
+˙黃俊雄佳作論文獎, 中華民國影像處理與圖形識別學會, 2015
+˙ICASSP Travel Grant, IEEE Signal Processing Society, 2015
+˙Best Paper Award, IEEE Int’l Conf. Internet of Things, 2014
+˙第一名, 獎金五十萬, 第八屆由田機器視覺獎, 人臉,性別,年齡及表情辨識, 2013
+˙國科會大專學生研究計畫, 2011-2012
+˙Best Student Paper Award, IEEE Int’l Conf. Signal and Image Processing
+Applications, 2011
+˙Presidential Award, 5 times, Dept. ECE, NTUST, 2008-2012
+
+
+Experience:
+˙Research Assistant, Institute of Information Science, Academia Sinica
+(09/2014-now)
+˙Co-Principal Investigator, Academia Sinica and Yahoo Collaboration Project
+(12/2015-now)
+˙Research Engineer, Advanced Digital Sciences Center, UIUC's research center
+at Singapore (Summer 2015)
+˙Software Engineering Intern, E-Commerce central science team, Yahoo Taiwan
+(Summer 2014)
+˙Research Assistant, CSIE/GINM, National Taiwan University (09/2012-06/2014)
+˙Teaching Assistant, CSIE/GINM, National Taiwan University (09/2013-01/2014)
+
+
+Letters of Recommendation:
+1 from NTU CSIE (MS advisor)
+1 from Academia Sinica (MS co-advisor)
+1 from 北京清華大學 (Project supervisor at Singapore)
+1 from Yahoo (Internship mentor)
+
+
+Test Scores:
+GRE: V141 Q163 AWA3.0
+TOEFL: R24 + L24 + S23 + W23 = 94
+嗚嗚嗚...
+
+
+
+0. 前言
+申請的過程受到留學版和許許多多人的幫助鼓勵，最後能得到這樣的結果，心裡是滿滿的
+感激。決定獻醜分享自己的心得看法，如果大家有什麼問題，歡迎站內信或email給我，
+希望可以幫助到大家!
+
+
+1. 大學四年  找到自己的興趣
+我一直相信興趣和成就成正比關係。剛考上大學時，一直覺得應該要多多嘗試找到自己的
+興趣。除了大學該有的社團聯誼夜衝夜唱，我也很廣泛的學習各種東西，然後才慢慢收斂
+找到自己喜歡的東西。台科電子的授課還算廣，從計算機，到數位類比電路，到光電半導
+體等等都有。大一大二就把各領域主要的intro課程修過一遍，讓自己有點初步的感覺。
+後來慢慢覺得自己對計算機領域比較有sense，又對影像處理、電腦視覺的東西特別喜歡
+。所以從大二下開始，除了電子系必修，有規劃性的把資工必修課逐步修完，像是資料結
+構、演算法、作業系統等等等。
+
+在大二下的同時，我也提早開始做專題，跟老師討論決定做3D電腦視覺與棒球球路預測的
+東西，整整做了一年。因為提早做專題，有更多時間把它寫成paper投稿出去。後來很幸
+運投上一篇paper並得到best student paper award。
+
+興趣使然，因為覺得英文很重要，所以其實從大一就有規劃，讓自己每學期在身心還能負
+荷的狀態，再多修點語文課，從簡單的字彙、閱讀，到修辭、翻譯、演講訓練等等。
+
+當時為了準備推甄國內研究所，大二大三拚老命的把分數考高，盡可能維持系排名，很幸
+運最後GPA維持得還算可以!
+
+
+2. 碩班兩年  把興趣化為自己的專業
+推甄上碩班後，一直期許自己在實作和理論上做好做滿。綜觀台大資工，我覺得每一堂課
+都是扎扎實實。就我當助教的PR這堂課來說，探討了許多分類和辨識，課堂上考試上都充
+滿機率和數學推導，而final project則是很實務應用，當年我跟學長設計一場人臉辨識+
+汽車偵測的比賽，看誰測的準。班上同學大都會實作改良近年top conf.的方法，像是一
+場沒有滿分的競賽，大家只有好、更好、再更好!
+
+碩班兩年就這樣修了很多這種課，披星戴月在系館度過無數的夜晚，徹底操練了自己的
+coding能力。最後似乎培養出一種兵來將擋，水來土淹的自信，不管老師指派再怎樣困難
+的任務，都相信自己可以成功!
+
+在研究方面，除了自己的碩論研究之外，我也廣泛跟許多學長姐合作，像是多媒體互動、
+VR、IoT、HCI的project，讓自己對其他領域的東西也能略懂略懂，因為廣泛合作才誕生
+許多三作四作的paper。
+
+
+3. Why PhD?  業界與學界的探索
+一直到碩班快畢業，還是不知道自己未來應該要往學術還是業界走，因為兩者我好像都可
+以XDDDD
+
+因為自己是一個喜歡嘗試才下定論的人，也覺得20幾歲就應該不斷嘗試找出人生方向，所
+以我選擇流浪一年XD 去了許多地方旅行，也去Yahoo實習，去中研院做研究，後來又去新
+加坡做短期project。
+
+在過程中，我發現業界經常會面臨一些棘手的問題，因為project週期較短，通常會選擇
+apply現有技術來解決問題。在學界則是經常針對假設性的題目，設計新的方法或不同理
+論來改善優化結果。於是我告訴我自己，我要把業界遇到的問題引入學術界，我要把象牙
+塔裡的理論帶回真實世界，我相信這樣可以帶領科技進步更多更多。很認真的花了一些時
+間遊說Y和老人院，最後很感謝長官老闆的支持，給我這個小鬼一個機會，促成了一個產學
+合作案!
+
+於是2015年變成了我最快樂也最勞累的一年，我們針對一些很有意思的議題，開發各種新
+技術，並且越做越深、越做越好，所以才一連串發了好幾篇paper，有些東西也真的正式
+上線。經過不同的探索，才慢慢發覺，比起apply現有技術到實務上，我更喜歡探索未知
+，覺得創造新技術來解決問題是更有意思的事情! 最後發現自己是真心喜歡做研究，才
+決定出國念PhD! 才開始念GRE..
+
+
+4. Test scores
+因為我很晚才開始準備這些考試。邊工作邊準備這種考試，想當然就是很爛
+所以我的心得是--要在對的時間做對的事。學生時期就專心念書，出社會就認真工作。
+邊工作邊備考，實在吃力不討好!
+
+
+5. 選program
+這幾年computer vision越來越紅，幾乎變成CS最競爭的領域之一。可能因為門檻低，有
+什麼新想法都可以做，實務應用又廣。除了CS以外，EE和ECE也都有老師在做CV。ML或統計
+系的教授，也會把他們的專業apply到CV上。所以我沒有很設限一定要丟哪個系，而是看有
+沒有喜歡的教授
+
+另外，也想分享一份computer vision教授大補帖給大家，雖然這份資料有點舊，有些老師
+可能換學校了，但還是值得給大家參考!!
+https://www.csie.ntu.edu.tw/~r01944012/Vision-Research-in-US.pdf
+
+
+6. 蒐集資訊
+我一直相信第一手資訊是最真實的，所以我有寄信請教在美國念書的學長姐。打聽哪個老
+師風評比較好，聽聽教授最近在做什麼新project，某某教授是怎樣的人, etc.
+譬如就發現在美國的教授會常常跑來跑去!有人在columbia做研究，但下學期要去
+uw-madison教書。某教授正在facebook，但下學期可能回去cornell。
+
+這些資訊最後都變成我的申請戰略，既然知道了POI的最新project，套磁和SOP就可以把
+那些新的研究方向考慮進去。網頁上查不到的即將回鍋的大咖教授&熱血新教授，也可以
+套磁聯絡看看 //有個面試就是這樣取得!!
+
+
+7. 聯絡教授
+因為英文沒有考好，一直擔心資料會被系辦阿姨直接丟掉。所以我非常非常非常積極的聯
+絡教授，那怕教授只是多喵兩眼我的cv，都有可能是我的機會。
+每間學校我大概聯絡了2~3個老師。我的信一共分三段: 第一段說明自己哪裡畢業，正在
+申請該校PhD。第二段簡短介紹自己的豐功偉業，目的是為了讓教授覺得彼此的研究興趣
+真的很match。最後一段詢問教授今年是否收人，希望未來可以一起做研究。信尾附上CV
+的連結 (不要用附加檔案，開個CV還要下載有點煩)。最後，內容盡量保持精簡扼要。
+
+寄出信後，我大概只收到四成的回信，剩下應該都被已讀不回。沒收到回應也別氣餒，那
+些知名教授，每年大概會收到數千封這樣的信，也不太可能每封都回，但看到好的學生應
+該還會記下來(?) 換個角度想，當全世界的對手都在聯絡教授，結果我還在家刷fb當呼吸
+的肉球，好像也不太好，所以還是寄信聯絡教授好了..
+透過套磁，我爭取到跟兩個老師skype面談。跟A教授聊了快一個小時，最後A教授很高興
+說要收我，但後來一直沒拿到AD。另一個B教授開宗明義說是commitee做決定，但是聊完
+後他說他可以試試跟commitee推薦我，最後有拿到AD。
+
+除了寄信聯絡，我覺得參加conference直接跟教授當面聊也是值得一試。記得當時我在
+ICASSP oral presentation時，有個老師一直舉手狂問我問題，雖然當下覺得這個人怎麼
+這麼XXX，但還是很認真回答他。報告結束後那個老師主動跑來找我，才得知他是
+UW-Seattle的教授。只是當時我很笨，沒有立馬表明想要念PhD，錯失大好機會...
+
+
+8. CV/SOP
+老師審資料基本上一定會看你的CV，我覺得CV無敵重要，排版一定要務必小心，好的排版
+帶你上天堂，壞的排版帶你.....總之要盡可能讓CV看起來專業，幸好現在Latex有很
+多美美的模板，我就網路上找個喜歡的模板，然後把自己的資料貼進去。寫CV是一個很花
+功夫需要一直微調的事情，用字方面可以盡量用正面的好字。譬如盡量不要用implement這
+個字，會讓人覺得你只是幫忙打雜實作的小咖。用design, create, innovate讓人感覺你
+有把自己的新思維放進去，整個程度就高起來了。寫完後我有找學長姊幫忙看過，來回重
+新修改許多次。
+
+
+SOP老實說我不太知道怎麼寫比較好。只覺得SOP字字珠璣，而且寫了好幾版本都還是不滿
+意，所以建議大家可以提早開始寫，才有比較多時間修文章。最後我的SOP比較像是自傳
+型的SOP，寫得平平普普通通，我架構大概是如下:
+1. 楔子-寫個小故事引出為什麼想讀PhD
+2. 大學的表現
+3. 研究所的研究
+4. 業界學界的研究和見聞
+5. 未來想做的研究 (包含幾句的POI客製化)
+
+
+9. 推薦信
+我覺得推薦信找跟你比較熟，會真心推薦你的老師就可以了。至於推薦信的內容，我覺得
+主要是要強調自己的研究潛力，用專題或paper或一些實例來佐證說明自己真的很有做研
+究的潛力。另外在申請的時候，記得要waive看推薦信內容的權利，這樣推薦信才會有公
+信力。
+
+我推薦信一共找了四個老師，都是一起合作研究超過一年的老師。這四封都是自己先擬稿
+，再給老師看。我也有整理一份school list給老師，包含申請的學校、科系、deadline
+，這樣老師上傳的時候也比較好操作。
+
+第一封是請我的碩班老闆幫忙，內容主要強調碩班兩年的研究成果、課堂成績表現、TA表
+現等等。因為碩班老闆的推薦信算是特別重要，這封要寫得特別strong才行。
+
+第二封是請中研院的碩班共同指導老師寫一封，內容除了碩班兩年的研究，還有後來在中
+研院做RA的成果，展現做研究的潛力資質。當時寫完草稿，老闆還說我寫得太少，主動要
+幫我寫更多更strong。當下聽完真的超級感動QQ
+
+第三封是請Yahoo實習的mentor，內容是講實習做的project，以及產學合作的研究成果，
+強調我的研發能力、領導能力
+
+第四封是請新加坡的老闆幫忙，主要是講在新加坡做的研究成果、獨立研究能力、跟不同
+國家學者的合作、環境適應和語言能力等等。
+
+四位老師都不限制推薦信的封數，幫我寫了快20封的推薦信，真的很感謝很感謝老師QQ
+
+
+
+10. Open house
+這次我一共參加了三家學校的open house，認真覺得這種visiting event真的非常值得參
+加，學校為了吸引學生，會讓你吃好喝好住好。除了可以當面跟POI討論未來的研究方向，
+可以參觀了解每個LAB在做什麼，還可以跟學長姐打聽各種情報，最重要的是visit完就對
+這間學校比較有感覺，就不是單單看網站上US Ranking那個數字，而是可以有更多資訊幫
+助自己做出最後decision。這趟visiting也讓我發現我真的很不會用英文social，真的要
+加油了嗚嗚
+
+插一個題外話
+這次參加UCSD的visiting，發現到場的我們大家都沒有funding，才驚覺這個visiting像是
+個變相的面試! 要我們在短短幾天盡可能的impress教授。event結束後教授們才開會討論
+funding要給誰，真的太心機!
+
+
+
+
+12. 結語
+其實一開始評估我覺得自己在GPA和研究都表現還算可以，但是英文實在考太爛，所以申
+請的時候很崩潰，一直覺得會全滅。最後能得到這樣的結果，心裡是充滿了感激。也許我
+的故事可以激勵大家，千萬不要因為覺得自己某些部分沒做好，就先放棄自己! 如果自己
+先放棄了，比賽就結束了。
+
+年輕的流浪是一輩子的養分，在經歷了許許多多的酸甜苦辣，才讓我更加了解自己，才讓
+自己的心態更成熟了點。仔細想想，我真的繞了好大一圈，才決定要出國念PhD，但這次我
+會毫不猶豫，全力以赴!
+
+感謝很多人一路走來的陪伴和幫忙，沒有你們就沒有今天的我。謝謝許多學長姐不厭其煩
+地幫我解惑，謝謝身邊許多朋友借我參考資料又叮嚀我許多申請細節。謝謝老師在我的人
+生道路上給我許多建議和方向。謝謝我的家人給我永遠的支持鼓勵。謝謝老天給我這個機
+會，讓我可以到地球的另一邊繼續追逐夢想挑戰自己。
+因為要感謝的人太多了，就奉上這篇心得文吧!
+
+最後，附上我的資料給大家參考，cv和網頁裡有我的email
+有什麼問題都可以寄信給我，只要有空我就會回
+CV: https://www.csie.ntu.edu.tw/~r01944012/Kevin_LIN_CV.pdf
+Web: http://kevinlintw.weebly.com
+
+祝大家申請順利，找到適合自己的學校和老師!!
+
+
+
+
+

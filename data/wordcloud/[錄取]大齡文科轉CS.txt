@@ -1,0 +1,140 @@
+
+原本覺得自己條件很差沒什麼值得分享的  但受到本版幫助良多 考慮一番還是決定提供
+數據回饋版友 目的在於鼓勵條件不好 大齡申請者可以勇敢追夢
+
+大幅度轉CS(尤其是文科)而且已經畢業的人  還是建議老老實實重補大學課 不然就算申
+請上也會讀得很痛苦 而且碩士GPA不到3.0有可能會被退學
+
+本篇心得主要是想要推薦Oregon State的online CS BS課程 詳細可以滑到最下面看心得
+
+如果有美國身份 或是人在台灣純粹想要美國學歷 也可以考慮讀美國的online CS MS
+e.g. UPenn
+https://onlinelearning.seas.upenn.edu/mcit/
+
+Program:
+
+2016-2019 MS in CS (總共申請了4次 每次profile都不一樣)
+
+Admitted:
+
+    USC CS general (decision)
+USC CSDS
+USC CSSE
+UCR CS
+UTD CS
+Oregon State CS
+CSU Fullerton CS
+...
+
+Rejected:
+
+UIUC MCS
+Cornell Tech CS (Interviewed)
+Purdue CS
+JHU CS
+NYU CS
+NYU-Tandon CS
+Northwestern CS
+UChicago CS
+Boston CS
+TAMU CS
+UCSC CS
+SJSU CS
+.....
+
+Background
+
+美MS UIUC商科 GPA  3.6
+美BS Oregon State online CS GPA 3.6 (10門課 沒畢業) 2016-2018
+台BS 私立大學文科 GPA  3.1
+
+TOEFL
+
+Waived/85-90(更好的成績都過期了)
+
+GRE
+
+148/164 3.5
+
+Related Courses  (GPA 3.6)
+
+Introduction to Computer Science I (C++)
+Introduction to Computer Science II (C++)
+Discrete Structures
+Data Structures (C)
+Analysis of Algorithms (Any language)
+Computer Architecture and Assembly Language
+Operating Systems (C)
+Introduction to Usability Engineering
+Web Development (HTML/CSS/Javascript)
+Introduction to Databases (SQL)
+
+推薦信
+
+1 美UIUC商科 講師
+2 Oregon State online CS 講師
+
+Publication/Honor/無
+
+Experience
+
+非上市公司 外貿業務將近10年
+
+心得
+
+為何要轉CS? 想移民美國 估計能在美國找到工作 薪水還不錯的就CS吧
+
+從2015/7月開始決定從0開始轉CS一直到了2019 才有相對理想的結果 因為自己年紀
+比較大的關係 有全職工作 雖然有美國碩士學歷 但是英文底子仍舊不好 也沒有辦法再多
+花時間去把托福跟GRE考好 成績慘不忍睹 當年考GMAT後來又再考GRE真的很令人崩潰 另
+外沒有相關工作/研究經驗 推薦信也是硬去找了三個美國講師 也不是教授 都不熟 因此
+這些心得略過
+
+本篇心得主要是想要推薦Oregon State的online CS BS課程 我知道很多網友轉CS主
+流是去隨班附讀 另外也有很多人建議在台灣考研究所 但是OSU這個program非常好申請
+也不用推薦信 有托福成績 申請基本上就會過了 在你還不確定可以轉CS成功前 還可以保
+留你現在的工作
+
+另外最大的好處是你可以用最快的時間開從0開始研讀CS專業科目 在家裡就可以上課 而
+且有學分有成績 可以提早開始適應美國文化(不過同組報告的時候英文不好會很慘)
+以我申請的過程 我認爲這個degree可以被當作在美國讀過正統大學的效用  ex: 我拿到
+了Cornell Tech的面試機會 聽說只有台大跟美BS才有面試機會(可以請拿到面試版友多多
+提供數據) 最後失敗我估計是自己英文不夠好&當時專業知識不夠扎實吧
+
+不過這個program 也是有缺點的 課程沒有線性代數 偏硬體的課都只有簡單帶過 像
+computer architecture等知識點比較缺乏 也沒教Java/Python 都要自己上網課去補 全
+靠學校基本也是行不通的
+
+如果自己經濟上許可 還是滿推薦的 我花了60萬 10門課在這個program 不過讓我從文科0
+為以申請的角度來看 大學CS major GPA重要性 >> 其他   若不是時間拉得太長 我真的
+很想把這個program讀畢業
+
+我看版上網友說分享可以用其他更快的方式轉到CS或是類似CS program 大部分背景都是
+EE/其他工科/三圍高的人   三圍一般水平的文科生可能還是要老實點先多修大學課
+
+學校網址(15門課畢業 1門課3個月 Quarter制)
+https://ecampus.oregonstate.edu/online-degrees/undergraduate/computer-science/
+
+非官方討論區
+https://www.reddit.com/r/OSUOnlineCS/
+
+另外對岸有位大陸同胞也有在討論這個OSU program心得 沒唸碩士就找到工作了可以參考
+一下
+https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=452402&extra=&pa
+ge=1
+
+
+
+
+其他
+
+人身在美國  校友推薦 都對申請學校有一定的幫助 不過前提是自己有沒有先過了最
+低標準 想想自己優勢是什麼 臉皮要夠厚
+
+我覺得美國對我來說的魅力就是這樣 只要肯努力 人人有機會 而且有很多條路可以通
+不敢說自己都是正確的 應該也不是最佳解 只是分享另一個轉CS比較崎嶇的經驗給大家參
+考 歡迎網友良性討論
+
+此篇心得主要針對於申請研究所 離找到工作也還很遠 應該是另一條不同準備方向的路
+等找到工作再po一篇心得吧
+

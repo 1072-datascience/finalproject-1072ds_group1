@@ -1,0 +1,226 @@
+
+本週四收到了通知，順利錄取了Georgia Tech (GT)的 Online Master of Science in Co
+mputer Science (OMSCS) program
+
+這個Program由於很新與其純線上(不發F1，沒有OPT)所以在台灣沒有什麼名氣，或應該說
+國際學生普遍都沒有興趣
+
+這次藉這個機會分享一下申請過程和資料，順便看看能不能釣出一些學長姐獲釋同學XD
+
+
+那麼照慣例先上基本資料
+
+
+Application& Admission
+
+Online Master of Science in Computer Science (OMSCS), Georgia Tech (GT)
+
+
+Eduction
+
+B.S in Psychology, NTU (GPA:3.76, major:3.91)
+
+Master of Human-Computer Interaction+Design, University of Washington (UW) (GP
+A: 3.71)
+
+
+Leave of absence, Medical Science and Technology, TMU (GPA: 3.41)
+
+Exchange student, Japanese Language and Culture Center, Doshisha University (G
+PA: 3.81)
+
+
+Publication
+
+1 x first author conference poster (psycholinguistics)
+
+
+Experience
+
+User Researcher, Microsoft, Redmond (4 months, present)
+
+Design Research Intern, Ratlab LLC, Seattle (6 month)
+
+Usability Engineer Intern, Dell, Taipei (6 month)
+
+兼任研究助理, EPA Lab@NTU (1.5 year)
+
+替代役，台中奇歷兒少之家 (1 year)
+
+
+Awards
+
+Travel award (APCV, 就那篇conference paper)
+
+Exchange student scholarship (台大理院)
+
+Best AR Overall (AT&T VR/AR Hackathon - Seattle)
+
+The Best VR Experience: Humanitarian Assistance and Disaster Relief (Seattle V
+R Hackathon IV)
+
+The Most Intuitive/User and Noob Friendly Award (Vive-jam Collegiate VR Hackat
+hon at Foundry10)
+
+The Best Business Model (Global Service Jam - Tainan)
+
+
+Test Score
+
+不用GRE
+
+TOEFL我Waive掉了，但是系統上顯示學校還留有我2015年申請HCI program的資料所以貼
+一下
+
+Total 102 (R28 L28 S24 W22)
+
+
+Recommendations
+
+1 x NTU Dept of Psychology Professor (Principal investigator of EPA Lab)
+
+1 x UW HCDE Senior Lecturer (Program director of MHCID)
+
+1 x UW IE Professor (Founder and Principal Investigator of Ratlab LLC) - Fathe
+r of Virtual Reality
+
+
+關於OMSCS
+
+OMSCS是喬治亞理工學院(Georgia Institute of Technology, GT)於2013年所成立的線上
+CS碩士班
+
+這個Program在成立之初美國國內有不少討論，但對於國外包括台灣，因為純線上課程無
+法申請F1和OPT所以自然不在留學生的考慮範圍內
+
+OMSCS的特色有三
+
+由GT開課而且直接隸屬於其College of computing下:
+在過去很多雖然也有很多大學開設線上碩士課程，但要不是開課學校本身就是專注於線上
+教學的，要不就是線上學位隸屬於Professional and Continuous Education或是Extensi
+on部門下， OMSCS算是第一個由名校開設並和On-Campus學位由同一個Department負責的P
+rogram，並與Udacity和AT&T合作
+
+嚴格的審查標準與上課規範
+線上學位很多都被認為是非正式，雖然有審查，但是多半不對GPA設門檻也不要求要推薦
+信。OMSCS在申請上完全比照On-Campus，不只要成績單、SOP、托福和Resume，還要三封
+推薦信，Background Statement以及3.0以上的GPA。由於收的學生較多，所以錄取錄約20
+-30%(參考一下GT On-campus約2X% CMU約20%，Stanford約18.4%)，不過Drop Rate也有約
+20%
+
+上課方面，OMSCS主打所有修課難度比照On-Campus，所以如果修一門3學分的課就至少有
+近10小時的workload，考試的時候需要安裝監控的軟體，每堂課也會有助教透過Skype回
+答學生問題。當然，就學習的氛圍和資源是比不過On-Campus，也不清楚其他線上碩士課
+程的狀況，但根據我查到的資料，其扎實度和難度是遠遠超過MOOC的。
+
+低廉的學費
+最後也就是最重要的吸力，就是極度低廉的學費。一般來說非研究路線的碩士課程學費都
+十分得驚人，我所拿的UW MHCID一個學分要1000鎂(還是Quarter Credit)，便宜一些的也
+要500以上，但是OMSCS每一門3學分的課只要510美金，等於一學分170元。這也是當時造
+成話題的最大原因。畢竟就算是公立大學in state的學生完成一個Master少說也要18,000
+左右，而OMSCS只要不到7,000
+
+當然了，身為一個純線上課程，其公信力自然會受到質疑，目前來說OMSCS的定位比較偏
+向井上添花，很多來申請的學生都已經是工程師，只是希望可以進修，多數人似乎也是在
+職進修拿個碩士這樣。但是由於這個課程在規劃和授課上十分嚴謹，引此網路上有不少由
+學生所組成的團體，包含開課評價、講義筆記、讀書會資訊等等都有。Reddit也有專門的
+討論串，算是稍微地彌補了一些沒有辦法On-Campus上課所損失的學生間交流機會吧
+
+另外直得一提的是，OMSCS的學生如果願意飛到學校一趟，是可以拿到學生證也可以使用
+校內設施和參與Career Fair喔。
+
+
+推薦信
+
+由於在申請時我才剛開始在Microsoft工作不久，所以覺得找上司寫不是一個好方法，因
+而轉往找學校裡的教授們幫忙，但我在找人時也策略性的尋找可以說明我不同能力的人。
+
+第一封是由我過去在台大心理系的知覺實驗室的教授撰寫，這部分是著重於過去在學校的
+學術研等以及心理學背景的能力。第二封則找了我在華大MHCID program的Program Direc
+tor寫，著重於UX相關以及設計方面的能力。最後一封則找了我在華大專題的一位教授寫
+，因為我在畢業之後也有繼續在Lab工作甚至當助教，所以請教授專注於我在VR程式開發
+，比賽，教學以及研究設計的經驗。
+
+以結論來說因為有上，所以這個策略應該算是成功吧
+
+
+SOP
+
+好了，我就不再幫它打廣告了，畢竟我也還沒開始上課Orz，還是分享一下SOP的寫法吧。
+
+在聯絡好教授們確定可以幫我寫推薦信之後，我開始著手撰寫我的SOP。相較於其他本科
+系或是以CS為志願的人，我在CS本科上的可寫經歷不多，幾個Hackathon和小Project的經
+驗就要拿來和上過大量CS課程甚至已經在業界當工程師數年的人比較實在是太過不利了，
+除此之外，學校也要求另外一份Background
+Statement來說明經驗(這份文件我就簡單的提了大學修的三門程設相關的課以及我參加Ha
+ckathon與在學校開發VR程式的經驗)，所以我轉換了我的著墨點，著重於我為什麼要來這
+個Program而非我的CS相關經歷。比較特別的一點是，我從頭到尾都沒有提到”我想成為S
+DE”或是“我將來要繼續深入對於CS的學習”，而是強調“我沒有要往CS走的打算，但是
+CS專業會大大的提高我身為一名User
+Researcher的視野和工作能力”。我認為我的成績和資歷沒有什麼特別的地方，所以如果
+說有什麼東西影響了我的錄取，那大概就是我的推薦信和SOP吧。我自我感覺良好的認為
+或許是因為大家都是”我要念CS找工作或是往CS發展”，這時一封對往CS發展沒興趣但又
+渴望CS知識的信，或許正好對上了這個Professional Program的胃口吧
+
+第一段：用現在科技進步十分快速做引言，說到自己現在的職位與觀察到的東西，並說明
+為了設計出最好的使用者體驗，充分理解人類行為、科技、與兩者的互動是必須的
+
+第二段：接續前一段，這邊我主要說明自己在設計研究一些針對新科技的使用者模式時的
+想法並以做作的VR/AR Project為例。說明理解這一些科技背後的原理如何可以讓我的研
+究與設計更近一步
+
+第三段：這一段則返國來討論到如果CS作為一個輔助，將如何將使用者研究與設計提升到
+新的高度，我舉了一些ML的應用比方說PaintChainer和AutoDraw，並期許自己在了解這個
+東西的，能夠將這些學門轉變成能夠支持互動設計的技術，近一步提升設計的效率與品質。
+
+第四段：說明為何要選OMSCS以及我要選Interactive Intelligence track，並重申這個T
+rack如何讓我可以成為一個更好的UX Professional，並強調因為我有一些不同的背景，
+可以帶給同儕一些不同的觀點，希望可以加入OMSCS這個團體作為一個橋樑連接CS和UX兩
+種專業
+
+
+致謝
+
+感謝各位教授的幫忙以及強者我室友幫我看過SOP，和留學版的幫助。順利錄取之後也代
+表未來兩年的週末大概就這樣消失了。不過我覺得能夠繼續學習是一件很幸福也很有意義
+的事情。等到修完一些課程之後，或再來這裡和大家分享，文末附上申請動機給有興趣的
+人參考。
+
+
+準備與申請
+
+我從小就一直對電腦非常有興趣，但說也奇怪，我沒有一刻想說自己要成為一名工程師，
+電腦語言什麼也完全沒有碰過(如何解windows上的bug倒是學了不少Orz)，這一直到我大
+二結束休學重考(本來在北醫醫技)上了台大心理系之後才稍微有所改變。
+
+在我心理大二時，第一次跑到電機系修了計算機程式，這是我學的第一個程式語言。畢竟
+和電機的大家都不認識，修課時可謂孤立無援，每天為了寫作業焦頭爛額，最後還是只拿
+到75.......不過這也算是踏出了我的第一步，讓我知道了原來會寫程式和不會寫程式，
+可以做到的事情是天差地遠。
+
+(題外話，我大四時本來抱著混點學分......阿是複習的心態修了電機系開設的兩學分計
+算機程式“通識“課。結果老師第一堂課先教數學歸納法，第一個作業是用python寫出Re
+cursion和Sort，Python語法隻字不提因為自己回家查就好，最後變成了我花了最多時間
+的課......後來有一半的學生停修了......)
+
+話雖然此，我還是沒有成為工程師的打算。
+
+大學畢業之後，因為對結合心理學和CS的領域有興趣，我申請到了華盛頓大學的Master o
+f Human-Computer Interaction and Design program，當時VR正紅，對於我這個Gamer暨
+科技愛好者來說是求之不得的研究主題。結果我的畢業專題是VR project，並且和學校的
+研究VR的教授Thomas Furness做了一些研究一路到畢業之後還跑回學校擔任VR課的助教。
+這些專題和研究都是使用Unity，所以十分諷刺的我到這時才又真真正正的開始寫Code，
+但老實說因為我是學User
+Experience的，寫Code用Unity的目的不過是創造出一個可以運行的Prototype來做一些使
+用者研究，因此什麼執行效率優雅的程式碼什麼都我都不是很在意。但是，漸漸地隨著參
+加一些VR相關的活動以及看到了公司開發新的科技，我開始覺得對於一個待在科技業的研
+究人員來說，能夠理解這個技術是如何被設計出來，知道其極限與可能性，更進一步的預
+測其可能被應用的領域，將可以大大的提升我做使用者研究的廣度與深度，而這一點也激
+起了我對想往CS領域進修的念頭。之後就像大家一樣，我搜尋了各大學校的Program，但
+有一點不同的是我並沒有想成為SDE，而是希望在
+我現在的專業上更進一步補充CS相關的知識，也因此學費低，可以在職進修，又有不錯聲
+譽的OMSCS就成了不二的選擇。在經過一番思考後，就決定提出申請了。
+
+最後，如果有同Program的學長姐或是同學請出個聲XD，有問題也歡迎提問，如果我沒回
+多半是我忘了，請不要猶豫多寄一次吧。
+

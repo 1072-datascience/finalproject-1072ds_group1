@@ -1,0 +1,507 @@
+
+從 Master 到去年暑假申請 PhD 結束這段時間（2017 八月中完成申請）以來受到許
+多台灣 HCI 社群裡老師、同學、夥伴的協助。希望這篇文章也能給予志在申請 HCI
+當中 CS/Technical 相關的 PhD Program/position 的大家一些幫助。
+
+
+我的申請著重在 conference paper 的發表(尤其是 UIST)，而申請的幾所皆為歐洲學
+校。也因此本文比較可能僅會對： (1) CS 背景相關申請 HCI PhD program、(2) 有
+目標在碩班發表 CHI/UIST paper、(3)對於歐洲學程、申請過程、芬蘭生活有興趣的大家
+稍微有所幫助。
+
+
+本文會包含以下數個段落：(1) 基本背景、(2) 碩班的一些心得、(3) 實驗室選擇及
+SOP、(4) 面試過程、(5) 實驗室介紹以及芬蘭經驗、(6) 一些歐洲博班/碩班的介紹與
+推薦。
+
+
+網誌版：
+https://deephci.wordpress.com/2018/12/26/phd-application/
+
+
+I. 基本背景
+
+Program:
+Human-Computer Interaction
+PhD Program, School of Electrical Engineering, Aalto University, Finland, 2018
+
+
+Research Field:
+HCI, especially Computational Interaction and Touch/Haptic Techniques
+
+
+Admission & Decision:
+Aalto University, Finland
+
+
+Pending/Discussion:
+Max Plank Institute for Informatics, Germany
+University of Copenhagen, Denmark
+KAIST, Korea
+
+Rejection:
+None
+
+Education:
+BBA in Information Management, NTU. GPA = 3.65(overall), 3.86 (CS) out of 4.3
+MBA in Information Management, NTU. GPA = 3.93 out of 4.3
+
+Publication:
+2 x 1st author at User Interface Software and Technology Symposium, full paper
+1 x 2nd author at User Interface Software and Technology Symposium, full paper
+1 x 1st author at Siggraph Asia, Emerging Technology
+1 x 4th author at UbiComp, poster
+
+Paper Review:
+CHI Paper: 2016, 2017
+TEI Paper: 2017; TEI Poster: 2017
+Augmented Human Paper: 2017
+MobileHCI Paper: 2017
+
+Talks:
+TAICHI 2017: Top HCI Conference Paper
+Introduction to Haptics (invited lectures for HCI courses)
+Empirical Methods for HCI (workshop)
+Introduction to HCI (workshop)
+
+Organizing Workshops:
+Hot-Cute-Interaction 2017 (7-days research-oriented workshop in NTU)
+
+Teaching Assistant:
+Introduction to HCI
+
+Others:
+Academic Achievement Awards (GPA top 5%), National Taiwan University
+Best Implementation Award, Student Innovation Contest, UIST 2016
+Co-organizing OpenHCI 2016 (a student-organized HCI workshop)
+Student Volunteer for Siggraph Asia 2017
+1st Prize and Best Creative Award, HackNTU
+Teaching Assistant of Computer Architecture / Gaming Programming
+
+Letters of Recommendation:
+None (原本要找兩位碩論指導教授、台大修課教授、實驗室學長/後來TUE教授，
+但後來都沒有麻煩到老師們。)
+
+Test Scores:
+None (錄取之後、在入學之前有考托福 105 到達入學門檻)
+
+
+
+II. 碩班的經歷分享
+
+由於我的博士班實際申請期間算短（投出第一封申請信到確定實驗室兩個月以內），
+或許更值得一提的是小弟碩士期間的經歷。十分幸運能在碩班加入一個很完善的研究
+環境，在台大陳炳宇老師的實驗室中有許多傑出的博士後、博士生學長們（包含
+詹力韋、梁容豪、黃大源、史丹利等老師、陳奕麟博士、以及蕭Joey學長）的指導
+中成長很多，另外在台大陳彥仰老師的高等人機互動課程中與 Mike Chen老師有多次學
+習的機會。跟著這些優秀的老師、學長，開了眼界、知道人機互動領域主要的
+Conference 有哪些、什麼是好的研究、什麼是我們要追求的。也很快找到在研究
+中的熱情。希望能成為獨當一面的研究者、發表對世界有影響力的論文。
+
+之後算是挺幸運，碩班期間有了幾篇 UIST publication、參加了幾次 CHI/UIST，
+也 review 了一些論文，在這些過程中慢慢認識 HCI 也培養出一些研究技能、
+在碩班的最後也辦了一個總結這些技能的工作坊。希望我在這段過程中學習到的一些
+經驗能夠轉換為你使用。
+
+
+a. 儘早參與 End-to-end 的研究過程
+
+在 HCI 的研究裡 end-to-end 是指「點子、建構 Research Topic、實作、系統驗證、
+使用者實驗、寫論文、上台報告」這個流程。這是一個了解自己適不適合繼續
+PhD 的關鍵過程：當你從頭到尾進行過一次，不論論文有沒有發表成功、
+不管多疲勞、你知道你還渴望探索更多，恭喜你，你已經通過成為
+PhD (permenant head damage)  candidate 的第一關了。
+
+當然完全從零建立出自己的 research topic 需要一點時間的累積。建議 CS 背景有志
+在 master 期間發表在 CHI / UIST 的人在尋找 Master 指導老師的時候一定
+要挑能夠在研究路上給予協助的指導教授！
+
+或許有兩個值得讓你評估的點：
+1. 這個教授（實驗室）近幾年有沒有持續在好的 Conference 發表論文、
+2. 這個教授（實驗室）跟其他教授（實驗室）有沒有交流與接觸。
+
+當然很推薦上述我所提及的老師們，
+此外，TAICHI 會出現的老師們的實驗室也都是非常值得加入的對象：
+http://taichi2018.nctu.edu.tw/#committee
+
+
+b. 掌握好時間、修好課
+時間的掌握非常重要：好好瞭解自己、限縮自己的興趣、修重要（有用、前瞻）的課。
+目標是能夠建立「屬於自己的專長」。
+
+有兩種情況要盡量避免，第一種是「沒有建立深度的能力」：
+這就是我的狀況，在碩班期間我非常偷懶、幾乎沒有在課堂上面學到任何有用的東西，
+所有研究所需要的都是在實驗室跟學長們手把手學會的。雖然在碩班期間有順利發表
+論文、但也限縮了自己未來能夠探索的範圍。也因此我目前博士第一年的時間幾乎都
+花在學習跟修課上。
+
+第二種狀況是「沒有留給自己足夠的時間從事研究」：這個也是蠻多人的狀況，我一定
+要提醒大家，在 PhD 申請之道上有 Publication 在近幾年幾乎是進入知名實驗室/大學
+的必帶條款（CHI/UIST 尤其 UIST）。
+另外，連同上述 a 點，如果有研究經驗也能讓你更了解自己究竟適不適合繼續進入研究
+的世界。
+
+
+c. 參加 Conference（上課、參加 workshop、建立 connection）
+如果可以，參加好的 Conference （例如 CHI/UIST/CSCW/UbiComp），而且好好利用
+這個機會。小弟每次參加 conference 一定把課選到滿。（論文報告可以之後
+線上聽、想找作者討論可以利用休息時間。）每年的 CHI 都有非常好的課程，可以
+見到大師把多年累積的研究方法壓縮在三個小時裡、或是接觸到非常前瞻的東西
+（很多 CHI 的課程根本不會在大學裡見到）。
+
+在 CHI conference 有兩門實在很想推薦大家去的課程（希望他們還有繼續開）：
+1. Empirical Research Methods for HCI (I.S. MacKenzie)：
+經典 HCI 研究方法總結，大師中的大師。
+2. Computational User Interface Design (A. Oulasvirta)：
+有 ML, Deep Learning 基礎的人能夠學到 AI-assisted Design 的基礎方法。
+
+另外 UIST 在今年第一次舉辦了 UIST School，個人覺得非常精彩、完全免費超乎
+想像。包括 P. Baudisch 的研究室帶來很多前瞻的研究，A. Schmidt、H. Ishii 也都
+有演講。他們未來應該還會繼續舉辦，推薦未來有機會參加 UIST 的人去（免費）參加。
+
+
+
+上課、參加 Workshop 還有一個很重要的是給予你一個機會去認識不同的人，
+這也帶到了參加會議真正真的非常確實很重要的事情：建立 connection。
+有人說參加會議是認識很有名教授的最好機會，這點我同意（但不是必須），
+另也兩群人也非常值得你去認識：
+
+1. 你想要申請的實驗室裡的其他 Postdoct 跟 PhD 學生：
+他們是投出申請之前能夠給予最多實質幫助的人，包括先大致上讓你知道實驗室
+有沒有經費養你、流程是什麼、可以先準備什麼、這個實驗室未來會想要什麼樣的人
+進來。我在正式申請之前也得到非常多各國 PhD 好友的幫助。
+
+2. 跟你理念相同（又差不多階段）的研究者：
+他們是你未來甚至一生的潛在合作夥伴，每次參加會議其中一個目標就是讓自己被更多
+一點人認識、也認識更多一點人。對我來說英文能力是個障礙，但每次參加會議都能感
+受到自己的交友圈又稍微拓寬了一點。
+
+
+
+d. 舉辦 Workshop
+如果可以的話，請舉辦/協辦/參與 Workshop 推廣自己對 HCI 的認識、介紹自己的研究
+工具、跟其他人交換你的研究理念。台灣這幾年有非常多優秀的老師引進了豐富的
+HCI 知識，社群也逐漸成熟。但跟蓬勃發展的 CHI 社群（每年幾千篇論文）相比、
+仍然還有非常多成長的空間，舉辦工作坊（分享、探討、創造）是一個非常有意義的
+活動。
+
+在碩班期間讓我最得意的一件事情是，在最後的暑假和實驗室夥伴們一同舉辦了一個為
+期七天的工作坊，討論了怎樣從零開始構思一個研究主題、討論了 empirical methods
+如何結合幾個最新的互動主題（Haptics, VR, Robot）變成完整的研究、討論了要怎樣
+讓研究能夠登上 UIST。有一部份是從 CHI 的課程借來修改、一部分反映最新 UIST 的
+研究主題、一方面是辛苦原創的、還有一部分找了很多實驗室 / 業界的同學來分享
+非常多樣的主題。
+
+準備這個工作坊的過程，也讓一直以來吸收到的許多知識、技術、方法終於有了統合
+在一起的契機。
+
+去年工作坊的規劃：
+https://hocuin2017.wordpress.com/schedule/
+
+
+總結前述 a,b,c,d 四點，我想說的是，或許準備申請 HCI 領域的 PhD 最實際的方法
+就是「先培養自己成為一個（實質的） PhD 學生」。
+什麼是 PhD 學生？撇除有沒有學生證之外，就是具備「創造研究主題、完成研究、
+發表論文、傳遞自己的熱情與知識、結交研究上的夥伴」等等能力。這些投資相信會是
+值得的。
+
+
+
+
+III. 實驗室選擇
+
+探索並了解自己的興趣、定位，在 HCI 領域中決定要申請哪些實驗室非常重要，因為
+我們是個多學門、多研究方法、多主題、什麼都有什麼都不奇怪的領域。越早了解自己也
+能在面試、撰寫 SOP 的時候有很大的幫助（絕對不要到了動筆寫 SOP 的時候才在想要
+怎麼介紹自己啊！），我想要將對自己選擇實驗室的過程分成三個階段來討論。
+
+a. 根據有興趣的題目/方向
+這一點大家都會在研究的過程中慢慢探索出個所以然，但我想要稍微提醒的是，如果
+你是 HCI 中比較 technical 那方的研究者，應該要注意的是主題的替換非常的快、
+常常幾年內 CHI/UIST 就長得截然不同了。要盡量尋找一些能夠讓你在博班期間還不會
+退流行的題目/方向。
+
+
+b. 決定自己要如何 shape HCI
+除了了解自己想要做什麼題目之外，我也會建議想要進入 HCI 偏 CS 部分的大家了解
+HCI 的歷史，然後從更長遠的角度決定自己要貢獻在 HCI 的哪個部分、自己要帶給 HCI
+怎樣的未來。當我依據我的研究興趣限縮可能申請的實驗室之後，大約還剩下 6 個實
+驗室。當中可以簡單分為兩種，一種是 Modelling HCI 為基礎的實驗室、另一種則是
+追求創新界面的實驗室（打從有 HCI 以來，不就是 Modelling-based 跟
+Invention-based 的競爭嗎？）。經過短暫的思索與猶豫之後，我最終加入了相對
+小眾很多很多的 Modelling 路線，我也認同 Computational Interaction
+的理念是現在 HCI 世界需要的。
+
+當中有很多複雜的思索的過程，簡單來說，我（如同很多 HCI researcher 一樣）理解
+現在 HCI 的困境：我們的論文（尤其是 CHI）缺乏核心、有一個 big hole
+[Kostakos, 2016]，HCI 到底是要 hard science [Newell & Card, 1985] 還是
+soft science [Carroll & Cambell, 1986]? 我們的論文一年一年追求不同的主題但缺
+乏連續性 [Oulasvirta, 2016]。就連 HCI 這個詞至今都沒有嚴謹的定義
+[Hornbk, 2017]、我們究竟是一個 Discipline 還是只是「很多 Disciplines 聚會
+的場合 ？」[Blackwell, 2015]。而許多 Disciplines 之間缺乏共同的價值觀，我們
+要如何發展出一致判斷論文價值的標準 [Oulasvirta, 2016] ？
+
+更實際一點的問題包括，HCI 當中許多優秀論文來自其他領域的基礎、但很難講出 HCI
+為基礎發到其他領域的論文（或許還是有、但我不確定比例有多高）、CHI 的
+citation 量較其他 computer science conference 還要低等等。
+
+在思考這些問題該如何解決的過程中，我逐漸認為「發明可以帶領 HCI 前進」的理想
+太過樂觀，而轉向 HCI 最缺乏的是新一代的數學模型與理論的想法（當然並不是說其
+他發展不重要，只是對我來說比較認同基礎模型的缺乏）。或許從這邊開始、我們可
+以慢慢解決以上的 HCI 的問題，因而我決定投入 Computational Interaction 的研究。
+
+我的思索過程可以替代為你的，如果你確定要走上 HCI Research 這條路，
+你為 HCI 的未來的貢獻在哪裡？你想要如何定位自己？ 這些問題都會在某個時刻需要
+你嚴肅的回答。
+
+
+c. 教授強度
+比起選學校，選對教授對 PhD 學生重要太多太多太多了，而教授/實驗室發表 Paper 量
+或許是一個可參考之指標（不是絕對啦！但可以為其一指標）。當然，這一點跟前兩點
+比較起來相對不重要很多，請大家也不要只挑會發論文的實驗室申請。
+
+不用謝了，以下網址可以看到近四年 CHI paper 教授/實驗室的發表排行：
+http://www.kashyaptodi.com/chi2018/authors
+http://www.kashyaptodi.com/chi2017/authors
+http://www.kashyaptodi.com/chi2016/authors
+http://www.kashyaptodi.com/chi2015/authors
+
+
+
+IV. SOP 撰寫
+
+自我介紹 --- 10%
+修過重要的課/技能 (strongly related to my research field) --- 10%
+研究經驗 --- 60%
+其他專業活動（paper review, workshop, TA, student volunteer, talk） --- 5%
+我加入這個實驗室之後想做什麼研究 --- 10%
+長遠來說，我想成為怎樣的研究者 --- 5%
+
+強烈建議不要浮誇、言不及義，為了避免審查的 PhD 尷尬癌爆發，請認真踏實的介紹
+自己就好了。兵家大忌是寫出比天高的動機卻看不到相符的成績/發表/產出。審查看
+到這種 sop 都會很想撞牆啊！絕對不要浪費文字歌頌一些沒有實質內容的動機
+（拜託不要歌頌 HCI 的重要啦！也不要亂講自己被什麼東西感動到怎樣），難道
+審查的 phd / 教授們不會發現你在找內容填塞嗎 XD
+
+也請盡量不要寫出太廣泛的目標，例如「想要用科技幫助人類的心靈健康」、「想要
+提升虛擬實境的體驗」之類的，這都幾乎等於沒寫啊、任何一個人都可以花幾個小時
+寫出類似的段落。
+
+我建議不要套用任何模板、不要模仿任何人。好好利用每一個字，讓讀者認識你過去
+的努力、你累積至今的能力、你未來對自己的規劃，如果每一段、每一句都是你特有
+的經驗、別人沒有的（連掰都掰不出來），這就是夠好的 SOP 了。
+
+
+
+
+V. 面試過程
+
+我申請的學校當中有三所在歐洲、一所在韓國，因此並不是大家比較熟悉的美國申請
+體系，歐洲基本上就是跟教授聯繫，教授會自己提出希望你提供的資訊（CV,
+publication list, transcript, 推薦信, etc），然後你就跟他面試，如果他決定
+收你，那你要做的就是通過學校要求的基本入學條件即可。以下且讓我以不同實驗室
+來分段說明面試經過。
+
+
+a. Antti Oulasvirta（Aalto University）的面試分三次：
+第一次為教授（Antti）面試：(1) 我們先分析與討論三篇實驗室的論文，當中有一篇
+我真的完全不懂、也果斷承認了，對於另外兩篇（一知半解的情況下）我嘗試以
+CHI Reviewer 的角度審視、給予未來發展的建議。(2) 教授詢問我 PhD 期間給自己
+怎樣的目標，我回答之後他也告訴我、他期許 PhD 學生完成的目標。(3) 教授跟我介
+紹實驗室現況、學校狀況、實驗室成員等等。
+
+第二次為 Postdoc 面試：Postdoc 問了(1) 我過去的研究流程為何。(2) 我最有信心
+的三個技能。(3) 我在過去研究過程碰過的三個問題以及解法。(4) 我自己加了一項
+跟他介紹我碩班最後辦的工作坊、包含有哪些題材、我覺得這跟未來研究有什麼連結。
+這次面試是我覺得最有把握的一關，準備的很充分也對答自在。
+
+第三次又是教授面試：這次 Antti 只有一個主要的問題、我有沒有準備好加入這個
+實驗室的研究路線。之後我提出了幾個問題（他認為 HCI 未來幾年什麼是重要的、
+為什麼 HCI 現在需要 Computational Interaction、我的修課計畫他有沒有什麼
+建議），他的回答都很不錯、我完全感覺到他對整個 HCI 世界有很系統的認識。
+或許這個部分對他來說也很重要，他也從我問問題的過程理解我在意的是什麼。
+之後他就說要給我 offer、要我在一個期限之前回覆是否要接受，接著就是芬蘭介紹、
+赫爾辛基介紹、校園導覽了。
+
+
+b. Jrgen Steimle（Max Plank Institute for Informatics）的面試分成兩個階段：
+第一階段為教授（Jrgen）面試：教授詢問了 (1) 我過去的研究主要的技術與心得
+是什麼。(b) 加入這個實驗室之後我會想要做什麼。(3) 長遠來說想要成為怎樣的研究
+者。 (4) 介紹實驗室的現況、他對博士生的期許，問我是否喜歡這樣的規劃。
+
+第二階段為 Postdoc 面試：很可惜我並沒有經歷這個階段，在這個面試之前我就決定
+接受 Aalto University 的 offer 因而跟他們取消。
+
+
+c. Kasper Hornbk (Uni. of Copenhagen) 在收到我的申請信的時候都很快回覆對
+我有興趣，但需要先找到給我的 funding 再跟我約面試。Geehyuk Lee (KAIST) 也是
+類似狀況，他收到我的申請信後很快回覆有意願給我 position，但他要找尋到
+funding 才能給保證。後來我就決定接受 Aalto 的 offer，因而沒有跟他們面試或
+討論到。
+
+
+決定了 Aalto University 之後我就非常鬆懈，一直到入學期限一個月前才想起原來
+還有一個托福 92 的門檻，在爆讀三週之後還好也有到達門檻（105），由於準備非常
+不充分、沒有太多心得值得分享。在台灣順利申請入學而後才飛到芬蘭、到達後第一個
+工作天就去簽工作合約。不確定歐洲是不是都如此，但在芬蘭 PhD Student 是一份
+工作，無任何學費、每個月會有固定的薪水（超微薄啦XD 比當地的工程師少多了）。
+基本上跟美國的狀況很接近。但在入學跟 funding 取得的手續上簡單一些。
+
+另外，我完全沒有被要推薦信，即使有些實驗室網站說申請信需要附上推薦信、
+但結果就是沒有人跟我索取，因此並沒有麻煩到碩班指導教授們。
+
+
+
+
+VI. 實驗室的簡介及芬蘭生活
+
+我們實驗室核心是 Computational Interaction，簡略來說我們
+「結合 cognitive model 與 AI technique 建構數學模型，並用
+optimization methods 來自動化 interaction design」這樣的流程與方法。
+主要目標是追求可用在 HCI 的創新數學模型、互動設計、最佳化的方法與結果。
+
+敝實驗室有 9 個 postdoc、3 個 PhD student、數個 research assistant、
+project assistant，這些成員來自世界各地，芬蘭、德國、西班牙、法國、韓國、
+波蘭、俄羅斯、荷蘭、日本、印度、伊朗、台灣、中國等等。
+
+成員來自五種背景：認知科學、人工智慧/機器學習、機械控制、作業研究、傳統 HCI。
+postdoc 跟 PhD student 每個人都有很單獨的研究主題，但都環繞在
+Computational Interaction 這個理念/方法上。Antti 本人是個非常親和、同時做事
+非常講求效率以及系統的教授，跟每個實驗室成員都有非常頻繁的接觸與討論。
+
+
+想了解更多我們實驗室在做什麼可以參考這兩個影片：
+
+Optimizing human-computer interaction:
+https://www.youtube.com/watch?v=RXMDNdA4asQ
+
+Computational design thinking:
+https://www.youtube.com/watch?v=I2XF2_NR2ps
+
+敝實驗室page：
+https://userinterfaces.aalto.fi/
+
+
+
+芬蘭生活的優點：
+芬蘭人很平和、注重每個人的差異、尊重每個人的選擇。教授們都非常容易相處，
+即使我的指導教授是一個講求效率、幫學生設定很多目標的人，也從來不會感受到
+他給的壓迫。他也會很時常（像是慣例一樣）問我喜不喜歡現在的題目、認不認同
+這個規劃。確保每個人都是在做自己有興趣的事情，這是令我感到舒適的一個重要原因。
+
+此外，芬蘭人大多都具備流暢英文能力，幾乎每個人都很溫和、禮貌、友善，也因此對
+外國人來說是很友善的環境。市容乾淨整潔、到處都是公園、森林跟湖泊，到歐洲其他
+國家旅遊也很容易。另外芬蘭社會福利發達（重視假期、醫療全部免費、沒有遊民）、
+人權觀念先進。
+
+最後實在想提一點，芬蘭人就跟其他北歐國家一樣平均顏值很高，金髮藍眼、高大苗條，
+因為我在電機學院裡所以認識的女生很少 QQ，但認識的男生大多好看、個性優，
+第一天住在 airbnb 就被隔壁鄰居的兒子給帥到、內心小鹿亂撞了好久，後來發現這就
+是平均芬蘭人的長相。到現在，就算是電機系裡的芬蘭宅宅有些穿的好像從男一舍跑
+出來的、還是常常會被他們給帥到。
+
+
+
+芬蘭生活的小小缺點：
+這邊生活主要的缺點在於冬天太冷且陽光太少了（尤其陽光少的部分）。七、八月的
+時候每天晚上只有四個小時，每個人都跟我說要珍惜夏天「Because winter is coming」
+那時我還沒有什麼概念，到了 11 月之後都看不到陽光就懂了。並不是沒有日出，
+理論上每天還是會有大概 4 個小時的白天、但太陽總像從很遙遠的地方緩慢的出發、
+到達赫爾辛基總會變成模糊的一團白霧狀，從 11 月開始就像進入一個很漫長的晚上。
+但我不怕，在台大的七年宅宅歲月被困在實驗室裡也沒曬到多少太陽，早就做好不見
+天日的準備了。
+
+除此之外。芬蘭人的食物跟台灣有點落差，學校餐廳每天都供應馬鈴薯跟沙拉，馬鈴薯
+大概有 38 種變化。這邊的日式料理超級雷、全赫爾辛基最出名的拉麵店（Fat Ramen）
+超級無敵雷、會冒泡還苦苦的不知道加了啥。芬蘭的壽司店也很雷，明明壽司跟生魚片
+就不能沾美乃滋、芬蘭人還是會沾美乃滋，我就跟他們講不是這樣弄的、他們照樣這樣
+吃。芬蘭還有一個世界出名的黑暗食物 --- 鹹甘草（salmiakki），一種又鹹又苦還有奇
+怪味道的東西，芬蘭人很愛、還混到各種食物裡面（冰淇淋、餅乾、蛋糕、威士忌）。
+不過就跟大部分留學生一樣，只要你會自己煮飯，其實這些都不是問題，超市可以買到
+決大部分你需要煮飯的食材，如果找不到、也大概可以在亞洲超市找到。
+
+
+
+
+VII. 歐洲一些 HCI 相關學程與推薦
+
+a. 除了敝實驗室之外、還有幾個教授（實驗室）也在經營
+Computational Interaction 相關（以及更多）的研究，對此領域有興趣且想申請
+PhD 學生的人可以考慮：
+
+Otmar Hilliges (ETH Zurich):
+https://ait.ethz.ch/people/hilliges/
+
+Xiaojun Bi (Stony Brook University):
+http://www.xiaojunbi.com/
+
+John Williamson (University of Glasgow):
+http://www.johnhw.com/
+
+Per Ola Kristensson (University of Cambridge):
+https://www-edc.eng.cam.ac.uk/people/pok21.html
+
+Andrew Howes (University of Birmingham):
+https://www.cs.bham.ac.uk/~howesa/
+
+
+b. 此外，有幾個碩士學程我也想推薦給有意願到歐洲攻取碩士的各位：
+
+HCI Program in Aalto University:
+https://bit.ly/2BGVD5N
+這個 Program 也是由我的指導老師 Antti Oulasvirta 主導，主要的核心就是
+Computational User Interface Design，歡迎 CS 背景的大家來申請。
+
+EIT Program:
+https://masterschool.eitdigital.eu/
+這個 Program 包含了歐洲許多知名的科技相關大學，兩年的 Program 待在兩個不同的
+國家/大學，認識幾位歐洲/中國的朋友就是申請這個學程、當中一年來
+Aalto University，他們都蠻推薦申請此學程。
+
+Computer Science in Aalto University:
+https://www.aalto.fi/department-of-computer-science
+Aalto University 的 Computer Science 雖然不像他的
+Art & Design (world rank 9) 那麼出名，但也在歐洲排名第 7 之類的，
+當中尤其是 ML/AI 領域是重點發展項目、老師特別多，相關課程就有 8 門左右，
+如果對 ML/AI master program 有興趣、又想申請歐洲學校的人，可以考慮 Aalto。
+其他的我也沒有了解過，可能就比較不好推薦了。
+
+
+
+VIII. 結語
+
+最後給在 PhD 申請之路途上的大家一些微薄鼓勵。
+CHI’18 的時候我在休息時間（其實是酒吧）堵到兩位 HCI 大師 Hiroshi Ishii
+跟 Scott MacKenzie，分別問他們一個同樣的問題：「能不能給一個 new PhD student
+一個最重要的建議？」
+
+他們的答案充分體現出他們的個性和研究方法，
+五分醉的 Ishii 回答「Pursue the highest peak」、
+七分醉的 MacKenzie 則說「One small step at a time」。
+
+或許總結起來就是 HCI Researcher 共同的處境吧：每個人都仰望著高山、然後一小步
+一小步謹慎地向前。如果你覺得申請之路很漫長、看不到盡頭似的令人疲憊，
+那我保證，其他人也都是這樣（這樣算安慰嗎？）
+
+不論是在 PhD 申請期間、博士初期、中期、口試前一天、Postdoc、總算當上教授、
+拿了 8  次 CHI best paper 之後，我認識的 HCI Researcher 們都在不斷追求新目標、
+拓展人類知識的極限、挑戰更大的困難。即使永遠爬不到那個 highest peak，
+但我們還是堅持在那邊、有了一點小小的成果就急著跟其他人說嘴、Paper 被 reject
+就一起抱怨 reviewer 沒見識。也因為我們堅持著，讓一切有所不同。
+
+我保證，這條路上你並不孤單。
+
+
+如果對敝實驗室之 Postdoc / PhD position / Student Summer Internship
+有興趣，歡迎來信詢問（想知道芬蘭美食地圖也可以）：
+yi-chi.liao@aalto.fi
+
+
+--
+
+The world was so recent that many things lacked names, and in order to
+indicate them it was necessary to point. -- One Hundred Years of Solitude
+
+The enchanting charms of this sublime science reveal only to those
+who have the courage to go deeply into it. -- Carl F. Gauss
+

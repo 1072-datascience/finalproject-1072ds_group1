@@ -1,0 +1,334 @@
+
+流行病學與生物統計在台灣是大家比較不熟悉的學門，有幸申請結果還不錯，提供給有興
+趣的人參考，抱歉我廢話比較多，請將就挑著看吧:)
+
+Program
+Epidemiology PhD, Biostatistics PhD
+(都申請PhD, 有些學校offer MS admission)
+
+Admission
+˙Johns Hopkins U., Epidemiology PhD (concentration: genetic Epi)
+100% tuition waiver for year1-2; 85% tuition waiver for year3-4
+50% tuition support for year5 if needed
+Mary Meyer Scholarship(NIH-funded stipend): total~$30K
+
+˙Harvard U.,    Epidemiology PhD (concentration: genetic/molecular Epi)
+full tuition grant for the first two years
+
+˙UC Berkeley,   Epidemiology PhD
+˙UCLA,
+Epidemiology MS   (turned down this offer early in Feb.)
+˙U of Michigan, Biostatistics MS  (fast-track MS/PhD plan available)
+
+Rejection
+Biostat PhD: Hopkins, Harvard, U of Washington(Seattle)
+Epi PhD: U of Michigan, U of Washington
+(其實UM和UW在這兩個programs都規定要有MS degree才能申請PhD，聽了advisor建議都
+丟丟看，沒想到中了一個biostat MS)
+
+Pending: none
+
+Decision
+Harvard, Epidemiology PhD
+
+Test Score
+GRE: V720, Q800, AWA 3.0(06/2011)
+TOEFL: R28  L27  S24  W25  Total: 104  (08/2011)
+
+Background
+˙09/2006 - 06/2011
+BS in Public Health & BS in Biochemical Science and Technology(生化科技),
+National Taiwan University(雙主修)
+GPA: 3.95/4.00(WES), Rank: 1/~50
+
+˙09/2011 - present
+MS in Epidemiology and Preventive Medicine, NTU
+
+Honors/Awards
+˙Phi Tau Phi(2011)
+˙Presidential Awards*4(書卷獎)
+
+Research Experiences
+˙08/2009 - 06/2010 Studies on special topics in Public Health(專題)
+˙04/2009 - 08/2010 Project: “Impact of chronic diseases on the prognosis
+of endodontic treatment” (paper published)
+˙11/2010 - 12/2010 Project: “A nationwide survey on children myopia
+prevalence in Taiwan”
+˙07/2011 - 10/2011 Summer research project at NTU center of genomic medicine:
+"Mixture modeling on DNA methylation array data"
+
+Internship and work experience
+˙07/2004 - 08/2004 Dr. Chen-Yang Shen's lab, Institute of Biomedical Sciences,
+Academia Sinica
+˙07/2008 - 07/2009 Dr. Chien-Jen Chen's lab ,Genomics Research Center,
+Academia Sinica
+˙07/2009 - present Dr. Chuhsing Kate Hsiao's lab, College of Public Health,
+National Taiwan University
+˙07/2009 - 08/2009 Summer intern at Center Weather Bureau
+˙09/2011 - 01/2012 Course TA
+
+Publication
+Journal paper*1, co-author (SCI)
+
+Letter of Recommendation
+1 from current advisor
+2 from 上述兩位中研院老師，都有在他們實驗室待過
+
+
+大一暑假去了一趟美國後就下定決心要出國唸書，本來只想交換學生或是出國唸Master，
+對唸博班不是那麼確定，因為一開始想像的學術生活很苦悶平淡，對一心嚮往自由、可以
+到處趴趴走的職業的我來說，不免對做研究有些害怕，但這兩年來跟著指導教授做了幾個
+研究計畫，以及唸了碩班之後，大大改變了之前的刻板印象，倘佯在學問之海對我來說很
+愉悅、充滿了驚奇，當然也常有追不上他人的慌張與壓力，但慢慢體會professor真的是
+自由度很高的工作(套句某生科院老師的話: 連校長也不敢管你XD)，對研究的熱情逐日累
+積，也確定了未來的研究方向，加上老師一再"慫恿"說要出去唸博士要趁早，就默默掉入
+這個坑了XD
+
+
+<大學期間>
+仔細想想我大學時期做的事還真不少。大二開始雙主修生化科技，相對修課很重，但對生
+物很有興趣並不覺得特別累。大二時修了現在advisor的生物統計之後，開啟對統計的熱
+情，相對於數學，統計的世界對我來說是彩色的，並且應用的層面更廣，大三生大四時便
+找了蕭老師開始做生統專題。其實那時候什麼都不懂，閱讀、尋找文獻、寫程式、跑
+simulation等等全都是第一次，很大的部分是靠當時碩班學姐的幫忙，從懵懵懂懂到逐步
+理解，學到最多的是對於生統研究整個logic thinking的訓練。
+
+蕭老師的專題生都要參與lab meeting，沒想到一晃眼已經待了快三年，期間又陸續和老
+師做了一些研究計畫，大部分擔任資料分析、程式撰寫的角色，很實際的把公衛系所學運
+用到實務，並和老師討論如何闡釋分析結果、改善研究方法等等。在生技系學到最多的則
+是lab and seminar courses，他們的訓練真的蠻紮實，生物背景知識的充足讓我在之後
+閱讀生統或流病paper時能有更全面的理解。大二的暑假則是有機會到中研院基因體中心陳
+建仁老師實驗室工讀，我主要是幫忙收案歸檔的工作，在那裡大大見識到流病學家的能力
+與責任，是全新的衝擊與啟發。
+
+大五時生技系的課剩下一些選修，我把握時間先修了一些流病所的課程，遺傳流行病學
+(genetic epidemiology)開啟了新的研究興趣，雖然一開始真的聽不太懂，但是愈接觸愈
+有趣，當時期末的mini review就變成現在的研究主題了。感覺起來好像大學時期都在做正
+事，其實不然，如果是這樣我大概會瘋掉吧哈哈~大一大二的時候的確是乖寶寶，參加了一
+兩個社團，和好朋友們都很認真唸書，但從大三開始變老鳥就學壞了，是翹課大王，很愛
+到處趴趴走，但一定會要求自己成績達一定水準，為了出國做準備。
+
+
+<申請學校名單>
+主要參考USnews與NRC的公衛排名申請學校，在USnews top 10的學校中，就我知道的，
+Columbia以diverse MPH programs聞名，Emory最出色的是social and behavioral
+science，而U Minnesota太~~冷了，UNC-Chapel Hill則是因為很笨的原因沒有申請
+，所以最後申請的就是上述六所學校的Epi PhD，其中四所學校另外申請了Biostat PhD，
+共十個programs。
+
+
+<GRE & TOEFL>
+兩大版都有很多神人心得，以下僅簡單分享。GRE的部分紅寶僅背了2/3就放棄，接著把11
+張摸得滾瓜爛熟，真的很有幫助。TOEFL接著GRE考，也許是單字量大增，順利的考過門檻
+，其中我覺得聽力最重要！亞洲人閱讀普遍都沒問題，而speaking與writing考題都要用
+到聽力的能力。我考前幾個月就陸續開始聽podcast，當成習慣，美劇也看很兇(嘗試關字
+幕)，我想這些都是實力的累加。
+
+
+<CV & Personal statement>
+CV綜合網路各方sample後生了一個自己最滿意的版本，給指導教授看過、文法語句等沒問
+題後就定案了。Personal statement則是參考Fiona大的網頁解說，盡量寫得"灑狗血"，
+自己check過幾次就送出了，沒有另外請人修改，但只有UC Berkeley和UM有要求這部分，
+不太知道有沒有加分~
+
+
+<Statement of Purpose>
+是的，這部分就是大魔王關卡了，所有人都說它最重要，但我很不怕死的只留快一個月給
+它，因為還有研究所的課業和準備公費留考(雖然最後槓龜了)。
+
+說是一個月，但我前兩個禮拜主要在參考網路及版上過去相關領域錄取文的SOP寫法，自
+己修修改改列了多次大綱，再用關鍵字寫下每一段要講的重點。我自己比較特別的是，我
+沒有真正看完一份其他人的SOP(我知道很多人會看了十幾二十份後再開始寫)，大概是個
+性使然吧，我很怕會陷入別人既有的框架，而寫不出自己的味道，不過還是強調這只是我
+的方式，每個人有所不同；另外我也從Henryliu與xination大的網誌受益良多。我從打稿
+開始就用英文寫，沒有先寫一份中文SOP再翻譯，除了避免中文化英文，也想把握這個練
+習的好機會(可以從上面test score看出我writing不夠好)。
+
+後兩個禮拜把完整SOP生出來的過程，實在是把腦子和腸子都絞乾了(對不起很不衛生)，
+難怪大家都說要留兩個月搞定Orz 不過這兩個禮拜的時間我幾乎一刻都沒放過，早上一睜
+開眼腦袋就開始運轉SOP的內容，打字、google文法對錯、重複check語句順暢度、段落之
+間邏輯性...，每天重複一樣的routine，每天能寫完一段就不錯，隔天還得不斷修改字數
+語句，那陣子眼睛酸到時常流眼油xd，也錯過了PH95的第一次同學會(那時正在圖書館水
+深火熱當中T.T)。
+
+接著一個多禮拜將SOP定稿，剩下的時間陸續請了三個人幫我修改。一位是所上美國回來
+的博班學姐(Jessica thank you so much!!)，接著送到Final Draft修改，我的editor是
+Rose，很推她的速度，一天就幫你按字數改好，而且附上很清楚的解釋，不過Rose的改法
+只是幫你稍微潤飾與文法修正，不會改成非常華美的句子，當下看到其實有一點失望:P，
+但後來想想覺得這樣很好，因為就算改完還是自己的東西:) 第三位是xination大，其實
+本來只是抱著試一試的心態，沒想到他一天內就回覆了，真的太感謝>< 打開附件發現一
+片紅字整個人驚了一下，他給的都是很中肯、犀利的意見，大致上是形容詞太多、具體例
+子太少的評語，對我來說是當頭棒喝，接著花了一天的時間中幅修改成我覺得ok的樣子，
+由於時間不夠就沒有再請人幫忙看了。
+
+Submit前就是依照各學校去客製化特定段落，關於有興趣的教授，除了提到他們網頁上列
+的項目外，我另外從google scholar找他們歷年來的paper主題，綜合歸納寫入文章內。
+
+字數的部分，申請的學校僅Harvard有600 word limit，雖然Rose有幫我修成600字的版本
+，但後來依x大意見增寫了很多specific的東西，最後自己努力了許久刪減到640字(真的
+是極限)，結果仍然有錄取，所以我想規定都有些彈性的:)
+
+
+<Transcript update>
+申請的學校中UM有要求碩班成績單的電子檔，因此2月初碩一上的成績一出來後我就趕緊
+掃描email過去，其他學校雖然沒有要求，也一併寄送了，結果得到的feedback都很不錯
+，我想也都有納入審查，之後申請的人也許可以參考。此外，申請過程中我並沒有聯絡國
+外教授，因為當時還沒有很完整的研究主題，怕多說多錯、顯示自己的不足，但我想主動
+一點還是會加分。
+
+
+<忐忑的等待期>
+錄取過程有點柳暗花明，一開始先收了三封rejection letters(第一封還在大年初三ㄎㄎ
+)，有些是預料中但還是很難過><(對了，欲申請生統博班的人真的要有很強的數理背景或
+研究能力，不然真的非常非常困難!)，沒想到之後陸續迎來一封封錄取信，2月底前就全
+部放榜，放榜時間和gradcafe的results都蠻吻合的。其中Hopkins與UM有要求interview
+，其他學校則是直接錄取。
+
+和Hopkins老師的skype interview還算順利，是一位很親切的華裔女教授，首先跟我介紹
+genetic epi 各老師的研究topic，接著問的問題包含"你覺得Epi和Biostat的差別是什麼
+?", "你期望在Hopkins學到什麼?", "你目前的研究方向與內容?", "你之前在中研院和分
+析資料的經驗?", 最後是我的提問時間，為時大概15min，我只記得我keep talking以免
+冷場，但事後很懊惱有些地方沒講到重點。
+
+UM則是phone interview，完全沒有事先用email約時間，第一次在晚上七點多打到手機但
+我沒接到，聽了留言後隔天整天抱著手機，結果是在晚上快九點打"家裡電話"，那時正和
+家人在客廳看八點檔(我表姐說我很誇張XD)，幸好電話是我接到，其他人一聽到我轉成英
+語模式隨即從沙發跳起，關掉電視，躲到房間內，那個畫面現在想起來還是覺得好笑XD
+第二次的interview果然比第一次順的多，問題大致雷同，並多問了"你熟悉的統計軟體
+?", "你的programming能力?"等等，最後提醒我大部分申請人都要先有MS degree，口氣
+很nice，我心裡大概就有底了。後來聽advisor說跟我interview的Dr. Michael Boehnke
+是很有名的生統教授，實在覺得很幸運，當時真是有眼不識泰山:P
+
+
+<錄取原因?>
+現在的敘述語氣好像很平靜，但當時收到一家家錄取的心情真的是狂喜，因為他們都是很
+棒的學校!! 事後與指導教授討論接到admission的原因，除了基本的test score不錯，主
+要包含雙主修(生物背景夠強、有lab experience)、undergrad成績好(我一直以為申請博
+班這不重要)、參與研究計畫並具有生統分析資料經驗，以及現在研究的主題是他們感興
+趣的；這些對於申請流病博班應該都是很有利的經歷。另外我想interview也為我加分了
+不少。
+
+
+<選校: Hopkins vs. Harvard>
+It was like the hardest decision ever!
+兩所都是我的dream school，在public health也都是leading institute，Hopkins一向
+有很崇高的reputation，Harvard則是...嗯各方面都很吸引人:P  一個禮拜內連續收到這
+兩所的錄取真的是不敢置信，隨後而來的funding也都不錯，尤其Hopkins的獎學金一再加
+碼(上面列出的funding package是他們所提供的最大support，只有兩位博班學生獲得，
+我是其中一個)，Hopkins的老師與行政人員也對我很好，原本做決定(是否要去唸)的
+deadline是3/9，我在3/8收到了Mary Meyer Scholarship的通知，接著他們主動幫我延了
+一個禮拜的decision due date(3/16)，一直到3/15 genetic epi faculty還寫信給我
+"hope to meet you in the near future"...，對於他們的kindness我真的無限感謝:))
+
+其實公衛學院國外回來的老師們大部分都是從這兩所學校畢業的，在選校期間我詢問了多
+位老師，與兩校current students的意見，包含學校course, research, interested
+professors, job opportunity...等，其實愈問愈困擾，因為都很好^^"
+
+最終決定的關鍵是未來指導教授，Harvard有幾位老師的研究和我目前做的東西比較相近
+，風評也都不錯，我想這是博士生最主要的concern。(當然說完全不考慮學校與城市本身
+的魅力是騙人的:P)
+
+
+<心得與感謝>
+申請過程很煎熬、很累，加上我並沒有一起準備出國的夥伴，很多事找不到人討論，真的
+有些寂寞，那段時間一向樂觀的我也不免產生許多負面情緒，對自己極度沒自信，好在壓
+力釋放也是挺快的，看個影集、游個泳、睡個覺或玩個board game就能適時紓壓。
+
+最最感謝的是家人與指導教授的鼓勵與支持。其實前年就想申請了，但當時與家裡沒有溝
+通好，也起了不小爭執，多花了一年證明自己，也覺得好險有這一年，進入碩班、修了一
+些很棒的課，也更有研究上明確的目標，才能寫出convincing的SOP、順利申請上理想學
+校。蕭老師從一開始就知道我有出國計畫，也一直是最支持的人，對我課業、生涯的規劃
+都有莫大的幫助，她說很替我開心但也很捨不得，當下真的很想哭，不知該如何回報。也
+很謝謝Lab裡的全能學長姐們，不厭其煩的讓我問問題，在你們身上學到好多專業知識！
+
+我最親愛的笨小孩、張Ling與屁屁寶，Isbel、Bickey、Autumn、陳Danni與全兒，以及一
+輩子都會默默支持我的好朋友H，還有好多好多人，謝謝你們在這段期間的所有打氣與幫忙
+，我會更珍惜這些得來不易的友情:)
+
+出國唸博班是另一個巨大挑戰的開始，其實我不覺得一定國外畢業比較厲害，個人努力程
+度仍佔決定性因子，碩班這一年就認識許多很強大的博班學長姐，反而覺得還有很多沒和
+他們學到就離開好可惜~ 期許自己能證明出國的價值，將來做的研究能真正為台灣公共衛
+生與國際衛生帶來些許貢獻！
+
+最後很謝謝留學版的所有資源與前輩們的珍貴分享，希望大家都能錄取滿意的學校^^
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc)
+◆ From: 220.136.183.168
+※ 編輯: Annefeng        來自: 220.136.183.168      (03/19 22:09)
+推 yuhung:恭喜!! :)                                                03/19 22:10
+推 AllenHuang:學成回來救台灣!                                      03/19 22:16
+推 ladykin:恭喜!//替UofMinnesota平反一下,MN絕對排不上雪城,只不過   03/19 22:22
+→ ladykin:雪量不多,但是偶而真的爆冷是真的:P                       03/19 22:23
+→ ladykin:(前室友以前就是念NY雪城大學;她說雪城的雪是會大到只看    03/19 22:31
+→ ladykin:到車頂..認不出自己的車:P 而MN的雪淹到輪胎一半就大亂了)  03/19 22:31
+推 RiverClyde:恭喜!^^                                              03/19 22:32
+→ Annefeng:haha 謝謝樓樓上的平反! 不然我真的是誤會了;)            03/19 22:36
+※ 編輯: Annefeng        來自: 220.136.183.168      (03/19 22:41)
+推 JeffMathis:恭喜!! 我也是申請Epi PhD 可是狂被Reject              03/19 22:42
+→ JeffMathis:可能托福不夠好吧QQ                                   03/19 22:42
+推 therequiem:好厲害!                                              03/19 22:48
+推 ahot:正確的選擇!Harvard有David Hunter在,以後你應該很多機會接觸  03/19 22:49
+→ ahot:NCI的合作計畫,但是提醒你,Harvard那邊還是以dry lab為主      03/19 22:50
+→ ahot:Peter Kraft,Alkes Price等全部都是statistical genetics      03/19 22:50
+→ ahot:想要做genetics做得好,最好還是要加入wet lab不然以後會吃虧   03/19 22:51
+→ Annefeng:回樓上，你說的就是我選擇Harvard的理由!我是有wet lab經  03/19 22:52
+→ Annefeng:驗但不喜歡做實驗的人xd                                 03/19 22:52
+→ ahot:如果可以去Harvard depart. genetics rotate會開你的眼界      03/19 22:53
+抱歉剛剛忘了用修改回文，很謝謝你的分享!我會keep in mind:)
+※ 編輯: Annefeng        來自: 220.136.183.168      (03/19 22:54)
+→ ahot:不然genet epi只是 genetics 裡面的小眾的小眾,恭喜           03/19 22:53
+→ ahot:想走statistical genetics去選epi?你是不是選錯了?            03/19 22:55
+→ ahot:那就多修一些數學課吧,真的做stat genetics好的你去看看都是   03/19 22:56
+→ ahot:數學系,物理系，統計系畢業的!去看看Mark Daly願不願意收妳吧  03/19 22:57
+抱歉我想我並沒有說清楚，我目前是偏epi不是genetics，但很感謝你的提醒!
+※ 編輯: Annefeng        來自: 220.136.183.168      (03/19 23:04)
+推 hankboy:恭喜                                                    03/19 22:59
+推 yoyoyoisme:恭喜!雙修生技好厲害:D主修生技都覺得很重了:P          03/19 23:49
+推 neomarkusan:恭喜呀!                                             03/20 00:04
+推 allintch:恭喜!!!!   好強!!                                      03/20 00:21
+推 henri:天才                                                      03/20 00:38
+推 tuna7639:太強了吧                                               03/20 00:45
+推 milkdad:恭喜!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  03/20 00:56
+推 lihsin:推推推 :D 超強                                           03/20 01:04
+推 hayoyoha:推推~~~~                                               03/20 01:08
+※ 編輯: Annefeng        來自: 220.136.183.168      (03/20 01:14)
+推 davidlu:推!!! 我的同學是神人                                    03/20 01:17
+推 rememberiu:恭喜!!! 支持你趕快回來貢獻~ 你太棒了!                03/20 01:30
+推 patrina:推推推！！！！！！ 恭喜妳>////////<                     03/20 01:37
+→ Organizer:cong                                                  03/20 01:51
+推 hsichinglee:恭喜啊!!                                            03/20 02:17
+推 FREDERICK117:推!!                                               03/20 03:02
+推 zone0076:總有一天會覺得一切都是值得的....                       03/20 03:27
+推 sylvialee:恭喜恭喜！順便推公衛、推蕭老師^^                      03/20 04:32
+推 ray0527:Welcome to Harvard!!!                                   03/20 06:42
+推 LITTLEN:建議還是得多修一些數學系的課比較好...恭喜~~             03/20 08:06
+推 ktchen2012:恭喜！蕭老師耶~                                      03/20 08:21
+推 clickjhan:推推!! 恭喜~                                          03/20 09:33
+推 SWdoom:恭喜!                                                    03/20 09:57
+推 ahot:你選的是molecular/genetic epi這大概是最不像epi的學科       03/20 10:11
+→ ahot:要不然就是要數學很好,要不然就是要熟練molecular genetics    03/20 10:12
+推 alamond:親愛的 我一直在等你的心得文 恭喜你!! 等你來Ann Arbor玩  03/20 10:14
+→ ahot:的技巧,這領域跟epi根本沒啥關係,我相信你會發現你自己的路    03/20 10:15
+→ alamond:順推PH95!!XD                                            03/20 10:15
+推 ivyfai:恭喜妳!!! >////<                                         03/20 10:37
+推 CrazyMoon:恭喜, 好厲害                                          03/20 11:24
+推 kickbb112:恭喜妳~~~實在太厲害了!!!                              03/20 11:38
+推 sqark912:好強啊~~~~~~~~~~~~~~~學姐太厲害了!!                    03/20 13:03
+推 grace6349:恭喜妳!!!!                                            03/20 13:57
+推 PCby:恭喜                                                       03/20 15:04
+推 Vipasyin:推～                                                   03/20 15:52
+推 gn01914712:推學姐 超強^^                                        03/20 17:33
+推 luluchun:好努力的過程,果然成功的背後都是不簡單的!               03/20 20:03
+→ selfabuse:congrats!!                                            03/21 01:54
+推 ting963:恭喜學姊!! :)                                           03/21 10:44
+推 clamface:來朝聖一下....XD                     (研究室的某學長)  03/21 19:57
+推 dodockft:恭喜~                                                  03/22 00:04
+推 tiniwiel:推!!!!!看了很勵志!!!恭喜~~~~~                          03/22 12:03
+推 philip77:幫推   太強大了                                        03/22 21:51
+推 mdlcm:恭喜                                                      03/23 11:26
+推 dadandog:原PO正妹                                               03/30 18:57
+推 bear20031:恭喜!    我只是路人...                                04/26 16:57
+推 qaz963747:推推                                                  02/24 15:00
+推 shell123: 恭喜畢業囉~~~~~~                                      05/25 07:40

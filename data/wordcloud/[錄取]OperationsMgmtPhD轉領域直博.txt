@@ -1,0 +1,184 @@
+
+Here’s to the ones who dream, foolish as they may seem.
+
+從大三開始就在留學板潛水，雖然在這期間申請目標變換幾次，但今年總算把崎嶇的申請
+之路走完，也在前幾天等到最想要的offer，很幸運有機會跟大家分享！雖然很懶又不知
+從何說起，但商博的資訊不多也從板上得到很多資訊，所以還是努力把心得打完了，希望
+能給希望商博、直博、轉領域的人參考！
+
+Program:
+PhD in Operations Management (OM), Information System (IS)
+
+Admission:
+2/24 PhD in Information System, School of Computing, National Singapore
+University
+4/08 PhD in Operations Management, Fuqua Business School, Duke University
+
+Rejection:
+4/04 NYU (interviewed, rejected from waitlist)
+Without interview: MIT, Chicago, Columbia, UPenn, UCLA, GaTech, Northwestern
+(非常慘烈又夢幻的名單XD)
+
+Withdrawal:
+4/11 PhD in OM, HKUST after an interview
+
+Pending:
+Cornell University
+
+Decision:
+Duke University (5rys tuition waiver + stipend)
+
+Background:
+BBA in Accounting, National Taiwan University 2011-2016
+Exchange Student, Guanghua School of Management, Peking University 2014-2015
+GPA: 3.99/4.3 (Ranking: 34/133) 名次全距超過100 lol
+
+Relevant Courses:
+Mathematical Analysis I & II, Stochastic Process, Linear Algebra, Information
+Economics, Advance Statistics I & II
+
+Test Scores:
+GRE 2016/09/04 V157(75%), Q168(95%), AWA3.5(42%)
+TOEFL 2016/10/29 R30, L28, S22, W28, Total 108
+
+Publication:
+2 National Conference
+2 Working Papers
+
+Honor:
+Presidential Awards X3
+
+Experience:
+Research Assistant (Econ Dept) 2016.10 - Present
+IEDO Lab (IM Dept) 2015.06 - Present
+Actuarial Intern (Reinsurance Company) 2015.04 – 2016.07
+
+Recommendation:
+臺大資管系孔老師 (修課、研究、實驗室指導老師)
+臺大經濟系陳老師 (研究助理計畫主持人)
+實習公司精算師
+
+(感謝三位長官樂意推薦還沒有限制推薦信的數量Orz)
+
+--
+我覺得整體而言，我的申請經驗不容易被複製，因為太多不利申請的因素(會計背景、轉
+兩次領域、太晚確定目標、學士直博)，但很幸運受到很多的人幫助與啟發，尤其是rrro
+大大，如果沒有您的帶領，我沒辦法走完申請OM PhD這一條路。最後準備的策略沒有太大
+失誤，背景也大致達標，研究領域也打中了一些教授，所以在如此慘烈的狀況下還是讓我
+拿到一間非常好的offer。如果大學能夠重來一定可以表現得更好，但我不後悔經歷了這
+些。
+
+另外我的申請是以OM為主，IS只有申請新加坡國大是因為聽了他們的說明會覺得是個很好
+的program可以試試看，沒想到收到early offer…三月初就拒絕他們的offer，但仍然謝
+謝NUS Prof. Huang的建議與鼓勵，I just got admission from top USA university！
+
+先從SOP說起，板上有相當多神人的文章都有提及該怎麼做了，而我則是受到NTE Alex的
+幫助，當時因為GRE在NTE的幫助下一戰成功又覺得他們的理念不錯，所以決定申請博班弄
+SOP的時候就再次接觸Alex！因為本身轉領域，在構思與鋪陳SOP時我就不打算照網路提供
+給沒有轉專業的建議進行，但實際上一點頭緒也沒有，而Alex此時負責幫我凝聚我的背景
+，讓我的經歷化為說服力十足的轉領域動機。因為要提供足夠多的動機與研究想法，最後
+SOP總共有3頁之多，原本害怕會不會一開始就因為太長就被篩掉，但面試的學校我都很確
+定他們有很認真得看完XD 表示我想在SOP上想傳達的訊息是有效果的，感謝NTE，感謝
+Alex！
+
+從我的申請的經驗來看，能申請上OM PhD重要的因素：數學、研究還有人。
+
+數學：
+從蒐集的資料來看OM其實一直很喜歡收數學背景的，認真查一下在Top 10的學生不乏數奧
+魔人或數學專業，所以允許的話數學課是越多越好，我則是在「尚可接受但仍有不足」的
+等級吧。在大四以前其實是想走精算或財務工程，所以除了系上必修以外就修了很多統計
+、財務經濟的課，甚至還考了北美精算師ASA前三科，自以為覺得具有一定的數學基礎，
+但事實上申請博班這些課程都不算數XD當四年級有想法申請博班時被教授拋了一句「沒有
+高微就不用念博班了」，於是乎大一微積分乙只拿了C的我就硬著頭皮延畢修高微，果然
+小時候不懂事造就了修課很痛苦並且只拿了A- & B- 這般對比各路神手是不怎麼樣的成績
+，但仍然認真覺得這是相當重要的訓練。另外在延畢的時候也抓緊機會修了工工所的隨機
+過程跟線性代數，而這三門課和高等統計就成為在面試時候被問及數學背景時比較能拿得
+出手的課了…然而面試被問到Operations Research類(最佳化、作業研究、非線性規劃)
+的課就真的一門都沒有Orz 現在反思有修過這些課申請結果肯定更好吧！
+
+
+研究：
+這部分最要感謝資管系孔老師願意在我大四尾聲時帶領進IEDO Lab，可以在沒念碩士的情
+況下還有辦法接觸學術研究，當時認為修碩士班(管院、經濟)的課不一定能幫助申請博班
+，但現在想想可能工業工程研究所是個適合準備OM PhD的地方！但幸好還是累計了一些經
+驗，這也是我認為能拿到面試的關鍵，因為NYU跟Duke各都有一個教授與我的研究興趣接
+近完全符合，也只有這兩家發我面試XD 在這方面的反省的話，我認為研究經驗可以幫助
+申請者選校，尤其商博名額特別少的狀況最好有研究方向符合的faculty並且盡可能有產
+出 (paper, conference…)，面試時大部分的時間都會在討論研究上，另外還可以想想如
+何衍生合理有趣的extension。或許我在研究的技巧與工具上還很粗糙，但我想我仍在面
+試的時候讓教授看到了研究的潛力跟熱情吧！最後想要補充的是在全部四間面試中，沒有
+一間問到經濟系研究助理的內容，我認為是因為還沒產出paper或很明確的研究進展，所
+以雖然在SOP提到進行project和數學訓練，不夠吸引目光也是蠻可惜的，所以如果要累計
+研究經驗的話盡可能在申請前就有些成果吧！
+
+
+人：
+我認為除了學術上的指導教授外，跟正在讀商博的人聊聊也是蠻重要的！跟在美國博班學
+生聯繫不僅可以得到更多private information，更在某部分確認自己念博士的想法並排
+解漫長等待時的焦慮。而我要感謝兩位幫助我的台灣人XD第一位是dreampursuit學長，是
+他讓我了解了美國商博的基本生態，也提供我申請時的一些眉角，甚至是告訴我如何要與
+faculty有效的通信，這體現在和Duke通信上有相當良好的氣氛。基本上與學長交流的結
+果是我在申請時更能掌握自己的應對內容、面試技巧、心理狀態，可以說是dreampursuit
+學長push我撐過整個申請季！另外一位就是已經在Duke念OM PhD的wrane學長，我覺得他
+的面試分享相當有幫助，這也導致我很願意在留學板跟大家分享這些資訊，另一部分就是
+跟wrane大大聊了很多關於Duke的事情，從學術研究聊到生活細節，而他提供了一些系上
+對申請生的看法與期待讓我在面試的時候可以更加小心與應對XD 最後則是感謝他在我被
+放在waitlist時還百忙幫我打探消息，終於可以去Duke找你啦！以此來看，能接觸到相關
+經驗的人越多，即使領域或背景不同多多少少都可以得到寶貴的經驗。當然，如果跟當地
+的教授有超猛的連結那當然是再好不過了。
+
+雖然我歸結出三個重要的部分，事實上我也只在三方面都各累積了一些成果。從申請結果
+來看大概就是剛好過了標準(一間US offer)但有相當大的進步空間XD 如果能夠在各部分
+都再取得進展，尤其是修課或是多個碩士學位說不定就有更多的面試與offer，但在經濟
+考量與這幾年累計的心路歷程都使我決定在今年就嘗試申請博班，而我的申請策略就是「
+把握申請商博的隨機性」，申請難度眾所周知，但學生與學校之間具有相當大的資訊不對
+稱，有神人學長說這是signaling game，而我則利用這資訊不對稱來賭一把，在具備合格
+背景的情況賭賭看有沒有學校願意也賭我一把。幸好賭到了XD
+
+總結來說，我的申請反省：
+1.      修更多數學系或工工所相關的課 (代數, 高統推, 實分析,非線性規劃…)
+2.      如果經濟允許，Related US Master非常加分 (今年橫掃OM的是Duke Econ MA)
+3.      研究更加積極與廣泛，不管是在書面文件或是面試都非常重要！
+4.      申請更多間學校，確定不會失學可以減輕很多心理壓力！
+
+如果在我的基礎上再多了這些改進，應該申請季會過得更輕鬆XD
+
+
+最後要來感謝了XD
+
+感謝rrro神，如果要選生涯最重要的老師非您莫屬，雖然我很雷但還是願意carry我，我
+能念博班的這條路幾乎是您替我設想打造的，也是您研究與教學的熱情讓我決定走上學術
+這條路並承擔更多的社會責任。
+
+感謝dreampursuit，從大一認識到現在你待我如親弟弟般XD 雖然你一直說以我為傲，但
+沒有你的幫助我也沒辦法到美國與你共同奮鬥！
+
+感謝wrane大大，時不時受到在waitlist的我騷擾XD 提供我很多寶貴的資訊與鼓勵，然而
+現在要去當你的學弟了還請多多指教！
+
+感謝puk老師與wenkaichung，在經濟系當研究助理的日子著實提升我對數學的思維，使我
+證明技巧更加嚴謹也看了很多有趣的數學書(Set Theory XD)，與你們相處也讓我看到對
+求知的熱情與執著，我們最大的幸運就是有機會追求自己的最愛。
+
+感謝IEDO Lab，大學生涯末期的避風港，和你們相處嘴砲真的是很舒壓的事XD尤其在申請
+低潮時常常就想窩在LAB哪邊都不去，而你們也很NICE的對待失學少年(雖然有offer後就
+一直被嗆Orz)，真心覺得在學校有個地方可以待非常棒QQ
+
+感謝一路以來相信我會有offer的各位好友，尤其是H還有J，我的執念讓我特別想試試看
+台灣學士申請商博可以走多遠，也許很不切實際風險也很大，但我想開一條路給後面的人
+走，前一陣子也在構思如果申請失敗也要發心得文，申請季沒offer的時候真的很低落，
+而你們的鼓勵與嘴砲著實陪著我熬過每個睡不著的夜晚。
+
+最後感謝我的爸媽，容忍我不考會計師，說要考精算師又只考一半，說要去美國念碩士很
+快回來，結果最後要在美國待五年XD 雖然你們總是說沒有給我很多的資源，但我覺得我
+已經非常幸運幸福了，更當然，沒有你們的支持我沒辦法朝著自己的夢想持續邁進。
+
+最後的最後，我想跟大家分享一直當作個板板標的La La Land 台詞
+Mia: Maybe I'm not good enough!
+Sebastian: Yes, you are.
+Mia: Maybe I'm not! It's like a pipe dream.
+Sebastian: This is the dream! It's conflict and it's compromise, and it's
+very, very exciting!
+
+有任何問題歡迎站內我！
+

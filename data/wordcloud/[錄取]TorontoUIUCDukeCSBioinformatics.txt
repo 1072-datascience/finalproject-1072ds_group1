@@ -1,0 +1,257 @@
+
+Program: Computer Science MS/PhD
+
+Research Interests: Machine Learning, Computational Biology
+
+Admission: University of Toronto, MS with RAship (2/17)
+University of Illinois at Urbana-Champaign, MS with TAship (2/28)
+Duke University, PhD with 2 years scholarship (3/3)
+EPFL, MS (3/3)
+UMichigan, MS (3/31)
+Umass, MS (4/5)
+
+Rejection: CMU, UT Austin, Princeton, UW Seatle, John Hopkins, Purdue,
+Umass, UMichigan, UCSD, USC
+all PhD programs
+
+Decision: University of Toronto
+
+Background
+
+Education:
+B.S. in Electrical Engineering and Life Science, NTU 2010-2015
+Exchange, University of North Carolina at Chapel Hill (UNCCH) Fall 2013
+
+GPA: 4.08/4.3, LS: 4.21, EE: 4.05
+
+Standardized Tests:
+TOEFL: R28/L30/S24/W24   Total:105
+GRE: V153(68%)/Q168(95%)/AWA3.0(19%)
+
+Publication:
+None
+
+Research Experiences:
+1. NTU, Department of CSIE, 8. 2014 - 6. 2015
+2. Summer Intern, Microbial Lab, Thailand, 6. 2013 - 9. 2013
+3. NTU, Department of Life Science, 9. 2012 - 1. 2014
+
+Work Experiences:
+政戰預官 8.2015 - 7.2016
+Software Engineer Intern, TripNotice Inc., 1.2014 - 4.2015
+Software Engineer Intern, Office of Academic Affairs, NTU 8. 2014 - 7. 2015
+
+Recommendation Letters:
+One from CSIE research advisor (Not get it)
+One from LS research advisor
+One from professor in related classes (with final project)
+One from intership boss
+
+Awards:
+Five-time Presidential Award recipient
+Dean's Award recipient
+
+---
+
+動機&選領域
+當年考大學時 有電機系跟生科系兩個選擇
+因為當年做過專題以及生物競賽 選擇了生科系
+
+然而慢慢覺得生物念起來不是那麼有趣
+大二決定雙主修電機系 看看當初另一個選擇在學什麼
+進去慢慢修三電二數 才覺得自己喜歡寫程式 數學
+當時剛好也做生物研究做到很沮喪
+在大三那年暑假去完泰國生物實習後 決定離開生科
+
+但是當時我還不知道能做什麼
+修了許多偏向CS的課程
+大三下跟了一個老師做wifi通訊 但是覺得毫無興趣
+然而當時看到交換學生 就申請去了美國UNCCH大四上交換一學期
+
+回來後 很喜歡美國CS實習的風氣
+因此就找了間新創實習公司當intern
+一當就當了一年多 從大四下當到大五下
+
+同時發覺大一大二 生科系的課也快修完了
+決定把雙主修修完延畢
+然而當初我還不確定要念CS的哪個領域 直到大四下上到語音處理的課程
+頓時發現Machine Learning(ML)是如此的有趣
+才在大五上加入一個資工系的老師專題
+(因為大五了專題只剩一年 很難找到老師收我)
+然而最後也沒有做出什麼成果
+
+大五上跟了Coursera的資工系ML課 然後大五下修了一門進階ML課
+就這樣去當兵了
+
+當兵期間在寫SOP時才認真回顧了我複雜的大學五年
+雙主修 電機EE 跟 生科LS
+最後想申請CS念ML
+當過實習 做過生物實驗
+然而在ML上的經驗十分短缺
+
+在10月開始研究學校跟老師時
+原本想做語音辨識 或是視覺影像辨識等 但是慢慢發現這領域太熱門
+研究經驗薄弱的我 肯定毫無上的機會
+
+最後慢慢注意到 ML在生物上是有兩個領域有結合
+第一個是神經大腦的研究
+第二個是基因轉錄及醫療研究
+
+仔細思考後 選擇第二個當作我的SOP領域方向
+
+CV & SOP
+SOP的重要性在網路上大家因人而異，看完了幾個說法是，
+一份好的SOP需要展現非常多東西
+1. 研究: 獨特的研究想法讓你脫穎而出 不管是未來展望或是過去回顧
+2. 過去的事蹟如何連接你現在的研究所，尤其是你有獨特的理由或是背景特殊
+(至於那種無趣的故事像是我某門課拿A 這種我個人傾向不寫)
+
+注意不要寫成冗長的CV版本 像是把某段落寫自己拿了X次書卷獎 Y個A Z名次
+這些CV有寫的就不用寫進去
+兩者應該要是互補的
+
+我SOP修改了非常多的版本 後來仔細思考取捨後 直接把生物研究的經歷用一句話
+代替掉，然後加上(Please see C.V.)
+因為我想著墨在動機 還有在CS上我做的努力還有成果
+以及該學校為何我想去
+
+CMU Commitee的blog 對於CS的申請
+http://goo.gl/cXRYgJ
+
+裡面對SOP的開頭跟結尾都有很好的見解
+http://blog.xuite.net/henrycwliu/wretch?st=c&w=5839768&p=3
+
+研究
+我算是很晚才決定要念Machine Learning
+在申請上算是相當弱勢 建議只能說越早開始越好
+
+推薦函
+推薦函要找你熟識、衷心推薦你、名望好的老師
+在台灣名望好的不多，所以最好是你熟識且衷心推薦的
+可以直接問老師說 "你願意認真推薦我嗎"
+
+推薦函重要性感覺是研究 > 修課 = 實習
+但是能不能讓推薦人 在系統上給你滿分 這件事情也是很重要的
+套我一句實習老闆的說法：「台灣的教授除了少數幾個 國外大部分都不會認識
+所以推薦函基本上加不到分 但是至少要能不扣分 他看過太多推薦函被扣分的例子」
+所以個人覺得 教授願意推薦你的程度 > 名聲
+像是實習的滿分推薦 應該是好過於 研究上的普通推薦
+
+這次推薦函原本只找了3封
+一封資工系專題老師 一封實習老闆 一封修課老師
+最後才臨時找了第四封 我生科系專題老師
+
+雖然早有耳聞 資工的專題老師好幾年沒幫同學寫推薦函了
+但是看到她親口答應我說 今年一定會寫的份上
+加上是最重要的研究專題老師
+因此也只好拜託她寫
+
+然而今年也是一直拖到大概1月中後
+發現無論打電話或是寄信都無果後
+毅然決然 把當時能夠換的全部換成生科系老師
+有些學校還不能網路上更換名單 只能親自寄信去換
+造成非常多的麻煩
+只能說真的要打聽好老師再跟專題阿
+
+擬推薦信稿的話可以參考
+http://goo.gl/LEV0e0
+
+套瓷(Touch)
+就是所謂的聯絡教授 但是多年來這方法似乎有點用爛了
+只能說你的信件要越來越有誠意了
+當兵期間無事就是在研究教授然後丟信件
+
+大概一個學校丟1~2封 大概1X封
+結果多數石沉大海
+或是非常簡短的回答
+
+收到一封JHK老師認真回覆我
+回答她研究的問題 然而她說要看我能不能進到面試階段
+(後來也沒進去)
+
+收到一個UIUC教授直接約面試
+然而大概就聊5分鐘 直接跟我說我應該會上 會給我TA
+簡單講一點點研究 請我補上傳第四封推薦函
+沒有任何面試的成分
+感覺算是一個提早知道結果的概念吧
+
+套瓷信寫法參照 http://goo.gl/O6kMbB
+
+面試
+收到Duke Toronto兩間面試 後來也都有上
+基本上都著重在問你研究的部分
+使用什麼技術 到什麼程度 未來喜歡什麼方向
+
+至於其他的什麼動機 目標 自我介紹 完全沒有用到
+建議放輕鬆聊天 了解面試老師的實驗室
+我有問問看對方老師為什麼會走這領域等
+他也回答得滿開心的 也有回問我
+算是一個好問題吧
+
+選校
+仔細查完領域後 才發現要申請的學校 很少老師在做這一塊
+因此雖然丟了13間 但是真正想去的大概8間 很多是白丟的
+
+當時自信心極其低落 丟到許多後面的學校
+把前面許多學校就放棄不丟 現在想起來是很可惜的事情
+
+最後考慮3間錄取
+UIUC MS, Duke PhD, Toronto MS
+
+在跟實習老闆聊過後 他大力推薦PhD
+PhD才會真正受到老師重視 也不用兩年後重新經歷辛苦的申請過程
+而且PhD dropout拿碩士走人跟碩士一樣
+
+Toronto可以轉PhD
+但是美國畢業工作簽證比較容易
+所以討論後大致決定就是Duke了
+
+然而PO到PTT版上 大家幾乎一致建議我去UIUC
+考慮後就想先把Toronto拒絕掉了
+
+然而寄信回絕當初Toronto跟我面試的教授後
+他的回信很徹底的扭轉我的想法 以下節錄自他的信
+ML (machine learning) and Compbio groups at UofT are by far superior to
+either Duke or UIUC - bigger, more variety of projects in the group,
+higher profile in the respective fields, etc. Duke has a strong stats
+department. In Computer Science they are not so much specializing in ML -
+they have very few people in ML and Compbio.
+UIUC is not really on the map in ML and Compbio - there is probably one
+or two people there, but I don’t know much about them.
+
+因此我就選了UofT了 差點錯過一間好學校
+大力推荐各位未來申請的人 可以把Toronto考慮進去
+
+最後建議大家早點開始研究領域跟學校
+浪費報名費真的滿可惜的
+而且當兵時準備真的會很想死
+
+如果有同領域且想知道選校的一些心得歡迎站內信!
+
+當初選校時特別選一些不要錢的碩士
+發現加拿大很多學校 碩士都不用錢 很適合沒錢的人多申請
+還有UIUC以及CMU ML/LTI/RI碩班聽學長姐說有補助
+以及列在官網上 Princeton跟UW Madison的碩班也是有補助
+給之後的人參考
+
+這邊有一些除了美國外的學校的參考 多倫多也是從這邊注意到的
+http://www.zhihu.com/question/23079324
+
+結語&致謝
+
+轉換領域常常覺得非常辛苦
+成果往往落後別人一大步 外系上課也不認識幾個人
+但是或許這也能變成你的優勢
+就像如果我單純申請ML的話 我想我大概不會有幸被錄取
+而且你更清楚你想要走的方向
+
+祝福更多轉領域的人能夠成功
+
+謝謝當初指導我的學校老師
+謝謝我的實習老闆 在SOP,CV跟選校上給我收穫良多的意見
+謝謝104-1梯的政戰預官們 大家互相討論SOP CV 一起努力真的很好
+謝謝女朋友 陪我度過那段焦急的日子
+謝謝我父母讓我隨意去嘗試各種東西
+最後謝謝一路上其他我沒列上但是支持我的人
+
+

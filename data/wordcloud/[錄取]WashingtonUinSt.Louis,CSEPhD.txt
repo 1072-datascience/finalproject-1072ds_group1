@@ -1,0 +1,111 @@
+
+Program:
+all EE/CS Ph.D.
+
+Admission:
+Washington University in St. Louis, Computer Science & Engineering
+
+Rejection:
+University of Illinois---Urbana-Champaign, EE and CS
+Princeton, EE
+University of Wisconsin---Madison, CS
+Dartmouth, CS
+Northwestern University, EE
+etc.
+
+Pending:
+Johns Hopkins University, CS
+University of Texas---Austin, CS
+Pennsylvania State University---University Park, EE
+  etc.
+
+Decision:
+Washington University in St. Louis, Computer Science & Engineering
+
+Background:
+2010  M.S., 成大電通所甲組  (GPA 4.0)
+2009  B.S., 成大電機系      (GPA 3.49)
+
+Publication:
+2010  IEEE Wireless Communications and Networking Conference  (1st author)
+2011  IEEE Transactions on Computers  (5th author)
+
+GRE:
+2010  6G筆考 V420 Q780 AWA2.5
+2011  新制   V152 Q167 AWA3.0
+
+TOEFL：
+2010  R28 L26 S18 W25 Total 97
+
+Recommendation:
+碩士班指導老師
+研究所修課老師
+台大口試委員
+
+Working Experience:
+2011-      成大電機系助理
+2011;2007  成大電機營程式設計講師
+2010-2011  少尉預備軍官
+2009       物理家教
+2006-2008  長榮中學國中部象棋社指導老師
+2006-2007  成大象棋社社長
+
+
+心得：
+出國留學的念頭大約萌芽於大二大三，已忘記觸發的原因。動機產生的當下若沒有
+紀錄下來，則事後的陳述不免充斥後見之明，因此略過不提。
+
+關於申請學校的準備始於 2010 年初，當時抱持的想法是先考好 GRE，至於 TOEFL
+及其他申請相關事宜等 8 月入伍後再準備。就政戰官受訓的模式而言，我認為這樣
+的規劃可行，只是執行階段比較辛苦一點。在成功嶺受訓期間，於單兵作戰場、手
+榴彈場常有很多等待時間，可用來擬 SOP 草稿。而每週末放假的兩天時間就都花在
+上網查學校資料。當年的二階段訓移師到淡水動員管理學校，平日作息有很多空閒
+時間可用來整理資料，且鄰兵很多人也志在留學，可互相幫忙、打氣。由於是南部
+人，因此週末放假只好悲情地去淡江附近的網咖包台填申請資料。記得當時網咖內
+的人都在打僵屍或放魔法，而自己則在寫 SOP ，氣氛非常特別。
+
+可惜第一年的申請結果全數摃龜。
+
+我認為失敗的原因有三。一是由於當時幾乎都只投最頂級的學校 (e.g., MIT EECS,
+CMU CS, Princeton CS, UCLA CS, Cornell CS, etc.) ，二是由於英文成績不佳
+(TOEFL 口說 18， GRE 作文 2.5)，第三個原因、也是我認為最重要的原因、在於
+當時並不知道自己要的是什麼。當時一方面想走 theoretical computer science、
+一方面又想走 language/compiler，而自己的碩論則是作 wireless networking 。
+自己都定位不明了，想必也逃不過審查委員們雪亮的眼睛。
+
+第二年申請時各方面皆著力更深，因此也幸運地有了好的結果。申請過程中參考了
+非常多的資料，其中不少我認為很值得分享。由於 paper 的格式相當適合用來整理
+reference ，因此寫了一篇名為 "On Ph.D. Admissions in the U.S." 的 paper
+如下，歡迎下載分享，期盼能協助未來的申請者：
+
+https://docs.google.com/open?id=0Bym1mmMzxxBKeGxLeG9sWGY3ZW8
+
+要感謝的人太多了，因此我非常感謝我的母系成大電機，提供多元的環境，讓我有
+機會認識這許許多多的朋友及老師。也很感謝 Internet 的蓬勃，使我能認識更多
+優秀的人，閱讀他們的文章、感受他們的思想。最後我要謝謝我的恩師 Prof. Ssu，
+不論在學術或做人處世上，都給我非常多的啟發。
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc) 
+◆ From: 140.116.72.148
+推 bnsblue:推整理  超認真!                                         04/24 22:57
+→ k7310162002:同是成大人推一個                                    04/24 23:00
+推 ron0908:十分詳盡的整理，推一個!! 希望可以加入新手Q&A區          04/24 23:20
+推 acegikmo:成大推一個!!!                                          04/24 23:37
+推 tseng40:超詳細!推                                               04/24 23:41
+推 Macacaho:用心 推一個!                                           04/25 01:12
+推 jeffrey7:這是成電有名的超哥~大推！　                            04/25 01:57
+推 neomarkusan:恭喜, 感謝你無私地分享!                             04/25 02:00
+推 jeffrey7:超用心的～真是太棒!!!                                  04/25 02:01
+推 andy0873:恭喜恭喜！！推超哥！！                                 04/25 08:56
+推 owentien:恭喜!                                                  04/25 09:52
+推 chiahsing:成大推一個!!!                                         04/25 11:13
+推 flyfish5:好用心!!!!大推!!!!!                                    04/25 11:18
+→ SWdoom:歡迎自由運用:)                                           04/25 17:16
+→ drq:恭喜!                                                       04/25 20:49
+推 THEJOY:那份文件太佛心了!                                        04/26 01:07
+推 kevinlin311:謝謝您的文件!!超詳細                                04/26 13:52
+推 asdScott:超哥恭喜 話說我去搜尋才知道你的ID = =                  04/29 00:49
+推 ETETETET:成電推!!!                                              04/29 02:42
+推 Coffee1989:同是成大推~~文件超用心的!!感謝~~                     05/05 18:31

@@ -1,0 +1,212 @@
+
+由於版上關於加拿大留學文比較少，所以也來分享一下~
+
+Program: all applied for research-based MS CS 2014 Fall
+
+Admission: Dalhousie University MACS (4/2)
+
+Rejection: Simon Fraser U (5/3), York U (5/16)
+
+Pending: Mcmaster U
+
+Withdraw: U of Regina(with some funding)
+
+Decision: Dalhousie U
+
+Background:
+
+2011 Master of Business Administration in Information Management
+National Formosa University
+GPA Overall: 3.92/4.0
+
+2009 Bachelor of Business Administration in Information Management
+National Penghu University of Science and Technology
+GPA Overall: 3.25/4.0, Last60: 3.33/4.0
+
+TOEFL: 90
+GRE: N/A
+
+Work experience:
+
+Research Assistant, Center for Teaching and Learning Development, NFU
+Research Assistant, General Education Center, NPUST
+Research Assistant, Department of Information Management, NPUST
+Campus Youth E-service Volunteer: Bridging Digital Divide, Ministry of
+Education, Taiwan
+
+Honor:
+2009 校內專題競校第二名
+2008 電信加值大賽入圍
+
+Publication:
+
+SSCI Journal*2, International conference*2(Ei*1), all co-author(2nd)
+
+Master thesis
+
+申請經驗：
+
+TOEFL: 自修+補習，有發在TOEFL版，雖然沒達到Dalhousie requirement(差2分)，但還
+是上了，也不用補上語言課程
+
+選校：
+
+一開始是打算申請美國的學校，但考慮到學費問題、funding、安全問題
+就改申請加拿大的學校
+
+打開Maclean's，找醫博&綜合排名前10的學校，在進入各校的admission/department
+page，看自己托福與各項條件是不是符合，如果不符合就直接寫信問系上能不能申請
+
+例如：Queen's就表明托福必需達到他們的要求才能申請，印象中是90吧，但成績剛出來
+時只有87，複查流程也才剛跑，所以就沒申請了QQ
+
+針對可以申請的學校，進入他們的Research/Faculty page，找尋自己研究領域相關的教
+授，研讀論文，想研究問題、未來可能研究方向
+
+而加拿大學程分為Research-based, coursed-based, project-based
+
+Research-based通常會給funding，而修的課比較少，通常是給將來要讀phd的人申請
+這次全丟這個，也成為一個敗筆
+
+Coursed-based & Project-based就幾乎沒funding了，而且修的課會比較多一些，較好錄
+取，從對岸的學生口中得知，連他們教授都不推薦申請研究型，因為實在是太難上，如果
+真想搞研究型，很多學校可以先進去讀修課型or專案型，之後在轉研究型或直升phd！
+
+Dalhousie CS：加拿大醫博排名第7名，我的研究興趣放在HCI，看完Dalhousie CS的網頁
+之後，有2個教授是比較想跟的，但沒寄信
+最後系上將我轉為MACS 1-year project-based program
+並需要下修2門大學課程，分別是演算法與軟體工程
+
+而想轉MSc的話，只需研究所4門課有達到A-，就可以轉申請MSc
+
+York CS：加拿大綜合排名第8名，做HCI的老師也比較多，沒寄信連絡，因為這間實在太
+久結果才出來，之前有寄封信探探老師口風還有沒有收人，結果告知已發了2個offer
+
+SFU CS：加拿大綜合排名第2名，SFU算是在溫哥華CS名聲蠻不錯的學校，綜合排名2013第
+一名，今年掉到第二名，但是系上沒有老師是做HCI，所以改選擇Computer version下的
+機器人領域，完全沒碰過，不過因為那位老師似乎趴數蠻ok的，畢業的學生在就業方面也
+不錯，所以還是啃了幾篇paper硬投，有連絡老師，對方說如果有stronger background,
+就直接申請吧，但sop要清楚寫好，但下場就是Rejection
+
+U of Regina CS：加拿大綜合排名第7名，這間HCI做的老師也蠻想跟的，壞處是系上表明
+即使是研究型的也不保證有funding，所以這間拿來當保底，5月初零晨收到另一位中國籍
+教授的信，說對我有興趣，願意提供funding，但是研究領域不是我的菜，排名與名氣也
+沒Dalhousie好，所以打槍這間學校了
+
+Mcmaster CS：加拿大綜合排名第6名，算是投好玩的，就拼看看，但是到5月中卻沒有結
+果，系上老師大部分是很偏工程理論的，在對岸論壇留學生的看法也是覺得課程太理論，
+而研究領域確實沒有幾個是我想做的，對我來說這間的好處就是名聲好阿，而且在5月初
+時，有問系上如果研究型被reject可否轉申請project-baed，然後過幾天就收到
+project-based正在重新審查…
+
+SOP: 太多神人了，應該沒啥參考價值，但提供各段寫法，基本上因為是research-based
+，所以第四段是針對各校想跟的教授寫的，應該就跟申請授課型的寫法不太一樣了
+
+第一段：直接開門見山說我想做的領域與為什麼想申請這間學校
+第二段：大學學習成果與專題經驗
+第三段：研究所學習成果，並強調發表論文
+第四段：未來想做的領域與研究問題
+第五段：結論與未來發展
+
+Resume: google與ptt了好幾份綜合修改，並請加拿大的朋友幫忙一修再修，非常感謝
+
+Letter of recommendation:
+NPUST *1 from 專題指導教授
+NFU *2, 1 from 指導教授, another from 口委與修課教授
+
+一定要提早找好老師，三份老師都是希望我自己寫，他們在修改，也是網路上找了一些資
+料，少用形容詞，要多舉實證例子，三份都有請加拿大的朋友修改
+
+虎科指導教授說恩~寫的很好，他就沒改了，幾乎全權交給我處理，很感謝
+而大學的其中一位指導教授因為退休了，所以表示無法幫助，好在另一位還沒退休阿XD
+而U of Regina是最麻煩的一間學校，要針對他們的格式列印出來、勾選表格，並親筆簽
+名、掃描上傳，老師們都有額外在附上原本的推薦信
+
+申請心得：
+
+從小就不太愛讀書，只喜歡讀喜歡的科目，所以像是高中時的會計，連當三次阿XD
+
+人家說你這麼愛讀書哦，讀到碩士還要讀，抱歉，就算是在虎科我也沒在讀書阿
+我讀的是PAPER、寫的是程式、做的是研究，差多囉
+
+由於我大學、碩班都讀的是資管，台灣目前的就業環境也ooxx，可能做到死就還是領那麼
+少，所以想趁年輕能出去闖一闖、見見世面
+
+本來是要直接申請PHD，但是加拿大的學校大部分都要求，需要先有cs ms才可以申請phd
+，而我又是資管等於是跨科系了，而有些學校都要求想申請MS CS必須大學必定是CS，如
+果沒有的話…就在去讀一個BS CS吧
+
+看看我的背景就知道，拿的那學位是Business Administration，當下看到英文畢業證書
+都傻眼阿lol
+
+而原本以為靠publication應該可以包上一些MSc，但是必竟做的不是相關的領域，所以我
+想加分不大，而且是掛第二作者
+
+另外資管在加拿大就是屬於管理類/商科的，申請cs就等於是跨科系了阿，管理轉工程，
+而且研究領域又跟我之前的不同，數位學習轉HCI，這也應該是有些學校被拒的關係吧 :(
+
+而Dalhousie CS會要求學生填一張修過課的表，並且要對照他們大一到大四的課程，來比
+較說哪些課是你沒修過的，填那張表真是填到眼花，看過他們大一的課我就冏了，連演算
+法這種課我都沒修過，我就覺得兇多吉少了
+
+而對岸的學生在申請加拿大研究型，都建議要先連絡教授，不過很多都石沉大海啦，見怪
+不怪的，Queen's cs的老師，我寄了很多封也沒回過XD，唯一有回的就是我今年不收學生
+了~冏
+
+在GPA方面，大學時就真的是沒顧好，那時也沒有想出國讀書的念頭，所以就求有過就好
+，有的像統計、網概、國文啦都是低空飛過，隨便考考，沒想到對現在申請學校影響有點
+大XD
+
+也有看到某些文是說學校會比較看重大學的成績，沒辦法阿，亞洲學校ms普遍都給蠻高分
+的，幾乎是80分起跳吧
+
+蠻多加拿大學校都要求至少要3.0 or 3.2以上
+
+Dalhousie在審我的資料方面算是效率很好，完成申請過後兩週就先發了封信說系上將我
+推薦給graduate admission office，但仔細一看，怎麼是1-year MACS，跟我原本申請的
+不一樣阿…
+
+經過詢問，系上回覆說only have strong background would consider to be into MSc
+program
+
+再過兩週後，就收到正式錄取通知
+
+另一方面讓我決定Dalhousie CS的原因就是課程，它的課程對我來說較感興趣，相對來說
+Mcmaster幾乎是沒什麼興趣了
+
+但缺點是Halifax的消費省稅(HST)可說是全加拿大最高，高達15%，所以雖然是偏遠算最
+東部的學校，但是消費似乎跟溫哥華差不多
+
+但好在爬文過後，留學生是可以退稅的，一年大概可以退200多元HST CAD
+
+學費的話，國際學生需要付國際學生費...貴阿~但是好處是在第二年只需付continuing
+fee，學費就不必在加付了，算是不無小補
+
+而Dalhousie屬於研究型大學，又算是蠻早創立的學校，funding方面提供的選擇蠻多的，
+入學之後有蠻多的申請機會
+
+而台灣人似乎讀這間的人不多，在加拿大版詢問之下，有回覆幫忙的是去讀語言的學生，
+但是大陸人確是多的要死阿XD
+
+所以現在有問題都是上QQ詢問他們，而且也有中國留學生學生會來幫助國際學生
+
+當我說我是台灣的學生時，他們很驚訝的樣子，說第一次看到『繁體字』！只有在電視上
+看過台灣人XD
+
+在經過無數的失眠夜晚、奮鬥、等學校通知之後，總算是有一間算是第一志願的學校上了
+。
+
+誌謝：
+
+感謝父母一路上的支持、與金錢幫助，讓我能一直奮戰考不上的托福，上課，申請學校
+
+謝謝Hilda、Sean Fang一直以來提供在加拿大的幫助與修改資料，尤其是還在忙找工作時
+，還能夠持續的幫我修改QQ
+
+謝謝老師們一路上的幫忙、相挺，好讓我最後能申請上想上的學校
+
+也謝謝一路上支持的朋友們，以後來加拿大，哥會好好招待你們的(如果哥發了的話)
+
+
+如果對申請這幾間大學有問題的都可以站內信，我會盡量回答我所知道的部分
+

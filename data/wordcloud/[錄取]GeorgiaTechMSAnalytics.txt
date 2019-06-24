@@ -1,0 +1,105 @@
+
+Decision
+Georgia Tech MS in Analytics: Analytical Tools Track (2/3)
+
+Education
+BA NTU Finance GPA: 3.8/4.0 (2007-2012)
+- Quantitative Finance Program GPA: 4.0/4.0 (2008-2009)
+- Reciprocal Exchange Program—Mathematics, UC Berkeley (2011)
+
+Test Scores
+GMAT  V/Q 35/51Total 720
+GRE   V/Q 151/168Total 319
+TOEFL R/L/S/W 24/30/23/28  Total 105
+
+Work Experience
+Equity Research Associate, HSBC Securities (2013-2015)
+Second Lieutenant, Military Police Officer (2013)
+Financial Engineering Intern, Polaris Securities (2009)
+
+Research Experience
+Biological Programs for Selected Students, Academia Sinica (2005-2007)
+Recipient of the 3rd Place Award in Botany Field, 2007 Taiwan International
+Science Fair
+
+Awards
+CFA Program Partner Scholarship, Chartered Financial Analyst Institute (2012)
+
+Publication
+None
+
+選校邏輯 (Analytics, Data Science相關)
+- 參考NCSU整理的學校名單( http://analytics.ncsu.edu/?page_id=4184 )
+- 參考US News排名－Graduate School綜排與CS/Stat系排
+* Analytics/DS是相對新的領域少排名，CS/Stat是很重要的基礎學科
+- 用excel整理名單做比較，有需要的同學可以站內信跟我聯絡
+- 想偏technical，選擇在工學院下的課程，排除在商學院底下的Biz analytics
+- GT Analytics/Columbia Data Science/NYU Data Science/USC Data Informatics
+
+最後選擇GT，原因是：
+- 籃球名校，可以當Chris Bosh的學弟 (大誤)
+- Under在engineering/biz/computing所，interdisciplinary，選課自由度高。
+提供三個track，偏統計，偏資工或偏商都有得選－選擇偏統計的 analytical tools
+- CS/IE排名很好
+- 私人因素排除紐約orz，反正後來也被兩間紐約的學校中比較想去的NYU拒了xd
+- 第一個拿到offer的學校，覺得被重視(再誤)，而且GT要求很早回覆(三月初)
+
+其他參考資源
+- 留學板上找了許多學長姐詢問申請碩士的建議，謝謝你們
+- 一畝三分地的數據科學版
+
+崎嶇的申請時程
+- 2013.10 決定申請學校，向老闆請長假
+- 2013.11 考完GMAT
+- 2013.12 考完TOEFL，準備申請文件
+- 2014.01 申請到紐約CUNY Baruch財務工程碩士預備課程(pre-master)
+- 2014.03 Baruch的課後，幾經內心交戰決定轉領域(財務工程－>數據分析/數據科學)
+- 2014.03 考完GRE，修改申請文件，投還未截止申請的Columbia Data Science
+- 2014.04 Columbia Data Science 發信來，因為還沒有拿到紐約州政府的核准...
+無法如期設立，詢問是否轉申請Computer Science，等設立後再轉回DS
+- 2014.05 進哥大CS的備取名單，後來在五月底被拒。
+- 2014.11 重新開始申請，未再重新考試，將之前的申請文件略做修改後
+在12月底前投了上述四間學校。
+
+SOP架構
+- 格式：字型-Garamond；字體-12；double-spaced；A4兩頁，約500字
+- 分六段
+- 第一段，申請這個program的動機
+- 第二到四段，舉事例說明應用模型/小程式解決問題的經驗，高中到工作剛好三段
+- 第五段，program-specific
+- 第六段，重申動機
+
+經驗分享
+- 在決定轉領域申請碩士前，曾經寫信詢問留學板上許多前輩建議，在此想特別感謝他
+們。素昧平生卻願意花時間分享經驗給我，真的十分感恩。也因此我在申請前就有告
+訴自己，如果有上要來留學板上分享，對申請學校或者相關領域有想討論的朋友也很
+歡迎寫信給我。
+
+- 對於申請DS/Analytics 學校名單有興趣的朋友，如上所述我有整理一個excel檔。歡
+迎找我拿。
+
+- 建議在校生多拿比較硬的數學/統計課，我自己是按照財金系訂必修選課，微乙、管理
+數學(線性代數)若要申請比較technical/理論性的系所比較沒有競爭力。
+這裡是我自己的相關選課名單，當時我修數量財務學程－
+- Math/Stat
+Calculus (general Mathematics) (b)(1)/(2)      85 A / 94 A+
+Mathematics for Management (Linear Algebra)    97 A+
+Statistics (Ⅰ)(1)/(2)92 A+/ 92 A+
+Advanced Statistics (1)/(2)85 A / 68 C+
+
+- Programming
+Computer Programming Language95 A+
+
+- Quantitative Finance program (數量財務學程的數學/統計課)
+Quantitative Methods in Finance88 A
+Financial Engineering and Computation88 A
+Quantitative Trading Strategies and Simulation 94 A+
+(↑自修Matlab做專題的經驗，在SOP中提及)
+
+- 決定放棄走分析師的路，並且從申請財工碩士轉領域，短短的幾個字，對我來說卻是
+歷經許多煎熬與自我懷疑之後一個非常大的決定。如果有朋友也在經歷一樣的過程，
+或許我的經驗可以給你一些幫助。
+
+- 這段路上要感謝的人太多了，讓我一一找機會向你們道謝。如果我出國了還沒收到我
+的感謝，請跟我講，再從亞特蘭大寄明信片回來好了XD
+

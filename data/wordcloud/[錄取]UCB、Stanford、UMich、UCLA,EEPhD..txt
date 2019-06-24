@@ -1,0 +1,362 @@
+
+
+Program: PhD, MS/PhD in Electrical Engineering (IC design)
+
+Admission:
+˙UC Berkeley  MS/PhD   w/funding (Full tuition + monthly stipend x 1 year)
+˙Stanford     MS/PhD   w/o funding
+˙U Michigan   PhD      w/funding (Full tuition + monthly stipend x 5 years)
+˙USC*
+PhD      w/funding (Full tuition + monthly stipend x 5 years)
+˙UCLA*
+???      w/funding
+˙UCSD*
+PhD      w/funding
+˙UCSB
+PhD      w/o funding
+˙U Columbia   MS       w/o funding
+
+*號為老師寄信說要收並給offer,但在信中我就已經回絕
+*USC是最先寄信聯絡的一間，說我去那邊以後就會直接給我
+中華民國教育部和USC合辦的USC-Taiwan 獎學金。
+*UCLA剛好是NTUEE的校友，現在UCLA EE的系主任寄信來的。
+說如果有興趣去他實驗室的話，會直接給我fellowship。
+  *UCSD也是和UCLA差不多的情況。
+不過Anyway..那個時候已經下定決心了，所以就直接回絕了..XD
+
+Rejection:
+˙MIT
+˙UIUC
+
+Pending:
+˙CIT
+˙GIT
+˙Cornell
+
+Decision:
+˙UC Berkeley
+
+---
+
+Background:
+˙Class for gifted students in Math and Science (建中數理班)
+Chien-Kuo Senior High School,  2004-2007 (CK 59th)
+
+˙BS in Electrical Engineering,
+National Taiwan University, 2007-2011 (NTUEE111)
+˙GPA: 3.98/4.0  (該死的某日本史通識... = =)
+94.87/100 (Major)  93.65/100 (overall)
+˙Ranking: 6/230
+
+Research experience
+˙Analog Design and System Integration Lab,     July. 2009 - August. 2011
+advised by Prof. Liang-Hung Lu
+
+
+Test Score:
+˙TOEFL:  106 (R29 L26 S23 W28) (May. 2011)
+˙ GRE : V720 (98%) Q800(94%) AWA3.5(29%) (Sep. 2010)
+
+Honors and Awards:
+Presidential awards(書卷獎) x 5
+Research Assistant Fellowship from 專題指導教授
+學測滿級分
+IPhO選訓營結業
+
+Recommendation Letters:
+˙專題指導教授 x1 (NTUEE 副系主任)
+˙修課教授     x1 (IEEE fellow)
+˙旁聽課程教授 x1 (NTUME 系主任) <==跑去機械系旁聽課程時認識的
+
+Publication:
+˙None!!!
+(One paper submitted to VLSI 2012 symposium, now under review)
+
+Activities
+台大電機營工作人員 2007~2010 (2010台大電機營教學長)
+榮譽榜小老師(Learning Partner From Dean's List)
+
+現況:
+國軍Online，一條槓的悲情蝴蝶。
+
+---
+
+零、前言
+這一路上真的受到很多人的幫忙，
+也真的非常感謝studyaboard版的版友、前輩們。
+在這邊把申請一路走來的流程，包含大學時的規劃，提供給版友們做參考。
+希望以後在學校內能看到更多台灣的學弟妹們! :D
+
+因為想說盡量把這一路走來的心路歷程，盡可能地跟大家分享，
+所以可能打的有點冗長..XD 還請不要見怪。
+如果只是想看申請資料的準備，可以直接跳到 (四)...@@"
+
+一、動機---大學之前
+
+個人認為，有個強烈的動機，幾乎是申請路上最重要的。
+沒有一個強烈的動機在後面push你，有很多關卡真的很難撐。
+GRE、托福就不用說，把自己當成研究生般地犧牲假日做研究更是辛苦。
+
+我自己的動機是來自於老爸，因為不巧老爸就是UC Berkeley畢業的XD
+---
+
+二、實力準備---大一~大二
+
+個人的意見是，在大一到大二這段時間，
+最重要的事莫過於：找到自己可能有興趣的領域
+以電機系來舉例，電機系共分為10個組別，
+而這10個組別的專業課程，很有可能你大二都還沒碰過任何一堂。
+(大部分的理工科，大二應該還在修系必修，都是比較general的課程)
+因此，要把握所有能讓你了解你以後要走的subgroup的機會。
+舉凡是找老師聊天，找學長詢問，或是參加系上辦的講座，
+當然，如果行有餘力的話，我是覺得能先修一些專業課程更好!
+但這就牽涉到第二個重點，能不能維持住成績？
+這邊就要自己衡量一下了，在越級打怪的時候最好也是維持個好成績。
+
+另外，大一、大二的時間，多拓展一下社交圈，然後玩一下吧。
+因為大三開始，可能玩的時間就很少了XD
+
+
+三、申請前準備---大三~大四
+
+這邊開始要注意的就多了。因為這段時間做的事情，對申請結果影響很大。
+
+1. 找個好專題
+個人覺得這是大三~大四最重要的一件事，也是最影響你申請結果的一件事。
+要考量的點有：
+
+a. 這個專題有沒有創新？還是只是做前人做過的東西？
+
+我自己的case是，我原本就不太喜歡做一些大家都在做的東西XD
+所以我的指導教授在要我挑題目時，我就挑了一個最"怪"的，
+我挑的題目是Thermoelectric Energy Harvesting
+(簡單來說就是做一個熱能轉電能的system)
+相對於現在主流的類比電路如PLL、ADC、RF circuits等..這個題目真是怪透了
+
+但這個題目幾乎直接決定了我的申請結果。
+和我Phone interview的老師們，幾乎都是因為看到我SOP上
+寫的關於我專題研究的經驗，才決定聯絡我的。
+根據他們的說法，是因為他們喜歡那種有辦法independently research，
+有能力去創新，且願意去做novel topics的學生。
+剛好我做的題目夠新，夠奇怪，又是一個人獨立研究
+(其實是實驗室學長們都沒人碰過這個領域..只好自己摸QQ)
+於是便吸引了教授們的目光。
+
+因此，在挑專題時，務必慎選。
+有些教授的專題是直接叫你看一篇Paper，然後implement paper上面的東西，
+那樣的專題，個人認為對申請幫助較小---因為你沒有創新。
+對老外來說，如果專題只是照著paper implement something的話..
+可能他們只會把它當成course project (汗)
+盡量挑那種，老師願意丟給你一個新的題目，(最好是沒什麼人做過的)，
+然後燃燒你的小宇宙給他爆下去，
+過程縱然很辛苦，但結果一定會讓你滿意。
+
+b. 專題指導教授願不願意讓你發paper?
+這也是很重要的一點。以大學生來說，如果能趕在申請前，
+發一篇paper到很好的期刊上，幫助非常非常大。
+甚至就算是paper投出去來不及知道結果，也有幫助。
+我是剛好很lucky， UC Berkeley的教授是我paper的reviewer...XD
+
+c. 專題指導教授的名氣？
+這..很現實..XD，因為這影響到你最重要的一封推薦信。
+
+
+2. 安排你的三封推薦信
+若你要找老師寫推薦信，最好是老師夠了解你。
+因此，最好在大三開始，就有規劃地修課，向你想找的老師...裝熟XD
+比如說我的第二封推薦信，我是大概大二就決定要找這個老師寫。
+因此我大二~大四總共修了這位老師4堂課。
+
+至於這三封推薦信的性質，最好也分配一下，不要重複推薦到你的同一個特質。
+我個人是這樣分配的：
+1. 專題指導教授   --->  推薦自己的研究能力
+2. 修課教授       --->  推薦自己本科的學習能力，以及對本科的充分了解。
+3. 其他領域的教授 --->  推薦自己跨領域的能力，以及勇於探索不熟領域的個性。
+
+不過我的第三封推薦信是有點巧合..XD
+因為當時去機械系旁聽很有興趣的MEMS課程，
+剛好那堂課的老師對我印象還不錯，老師又剛好是機械系系主任，
+於是就找他寫推薦信了。真的很感謝他!
+
+
+3. GRE、TOEFL
+這我想就不多說了，畢竟現在GRE也改制了...XD
+托福的話，我是狂作TPO 加上GRE的底子拼出來的。
+
+4. 挑戰研究所的課程
+個人認為這也是在SOP裡面展現實力的一個好機會。
+因為你可以Claim說雖然只是一個大學部學生，你卻有修研究所課程的能力。
+我在大三~大四期間是總共修了5門研究所課程，不過代價就是賠上一些成績XD
+
+
+四、準備申請資料: 畢業~當兵(假設考預官)
+
+差不多這個時候開始就要準備SOP、CV、PHS這些東西了。
+但因為每間學校的要求以及格式都不相同，會花掉不少時間。
+因此建議是多找幾個要一起申請的朋友們共同準備，可以為彼此省掉不少時間。
+
+在SOP的部份，第一段我是以動機(老爸的影響)切入，
+接著再敘述自己的成績、然後留了幾乎2/3的版面在講研究的部份。
+最後再用老爸向我勉勵的話做結。
+其實相對一些SOP寫的很好的同學來說，我覺得我沒什麼梗QQ
+
+比較特別的是研究經驗在SOP裡面佔的篇幅。
+我在同一個實驗室待了兩年，在這期間除了之前提到的熱電專題外，
+更早之前還有做過RF circuits，
+同時在研究所課程中的course project中也有做到
+PLL、Data Converters、Sensor Interface circuits以及Power electronics，
+我把這些全部寫成我的研究經驗。因此研究經驗看起來就很豐富XD
+
+在CV部份，我是很大膽地寫了一份有點多字的CV，
+內容大致上有： 排名、GRE/TOEFL、Publication(還沒有結果，但我還是先寫了)
+Honor、研究經驗、工作經驗
+其中研究經驗被我塞的很滿。我把我做過的每一種電路都獨立成一個標題，
+並在下面加注子標題描述電路的特徵，比如說：
+
+RF/Communication Circuits Design
+--> Design a band-tunable LNA circuit
+1. The circuit operates from 4.9GHz to 5.5GHz
+2. Single control voltage
+3. Nearly no extra hardware cost is need
+--> Design a band-tunable PLL circuit
+1. The circuit operates from 2.4GHz to 2.48GHz
+2. Loop filter switching technique is incoporated to achieve
+both fast settling time and small steady-state ripple
+
+一開始我也有點覺得這樣寫有點冒險，因為會讓CV變的比較難閱讀。
+但後來很幸運地造成了好結果。
+跟我Phone interview的教授很多都有說，
+從CV上看到我做過很多種類的circuit，覺得我研究經驗還滿豐富的。
+甚至有教授直接拿著我的CV，一樣一樣問我說當時怎麼想到這樣做..之類的。
+因此在這邊個人是建議CV可以寫豐富一點..畢竟你就算有做這個題目，
+但沒有寫出來就沒人知道你做過了XD
+
+PHS(Personal History Statement)的部份，
+在我申請時只有U Michigan和 UC Berkeley需要。
+但後來根據Phone Interview的結果，感覺他們根本沒看過我PHS.. Orz
+所以在這邊就不多說了，有興趣的可以私下寄信來問XD
+
+
+五、步入陰間，等待回信
+
+接下來就要踏入當兵地獄了。因為我是選政戰預官，
+在二階段訓的時候會有不少時間可以準備/修改自己的SOP，
+因此在這段期間仍然持續修改自己的申請資料。
+
+然後就開始準備接信了@@"。
+
+在這段期間，收到的信幾乎都是學校的教授寄信來說對我有興趣這樣。
+然後每個聯絡我的教授都要求要Phone Interview。
+因為當兵的關係，我都回信跟那些教授講說，
+現在在taking compulsory military service，可能只有holidays有空，
+教授也都能體諒。因此在當兵的放假期間，我就接了快7~8通電話。
+(USC、U Michigan、Stanford、UC Berkeley
+
+至於Phone Interview的內容，教授主要都會問你幾個問題：
+1. Tell me about the research you've done.
+2. Why you want to pursue a Ph. D. degree?
+3. What kind of topics you want to do?
+4. Do you have any questions?
+
+因此最好能先準備好，大約2分鐘的講稿來介紹自己的研究內容。
+然後要想想自己的動機，未來想做的題目，還有要準備問教授的問題。
+像我是都會問一些實驗室風氣，正在做的題目，weather..之類的。
+
+我自己感覺是還滿幸運的..Phone Interview完教授的反應似乎都還滿不錯的XD
+所以有talk的都上了。
+
+
+六、總結
+
+不知不覺就打了好長一篇..XD。
+總是想說能盡量提供自己知道的回饋給版友們，結果好像篇幅有點太多。
+但還是覺得有不少地方沒提到的。
+我想，如果還有疑問的話，可以推文或站內信，能幫上忙的我都很樂意幫忙!
+
+在這邊真的要感謝很多人。
+
+感謝老爸，給我一個目標讓我追逐，現在我終於趕上你的背影。
+申請的一路上，也都是靠著你的建議，才能走到今天。
+
+感謝老媽，在申請的過程中，給我的加油打氣，
+幫我準備好吃的食物等我當兵放假回來吃XD
+
+感謝實驗室的學長姐們，以及在實驗室同屆的同學們。
+尤其是Lonick學長，沒有和你們討論，沒有你們的建議，
+我絕對無法完成這個對我申請影響莫大的專題。
+
+感謝一起準備申請資料的同學們，
+沒有你們互相幫忙、互相激盪，也許我就想不到我該怎麼寫SOP。
+特別謝謝宅takuo，雖然你很北爛的不用當兵XD，
+但你真的幫了我們這些在軍中受苦受難的傢伙們很多忙。
+
+
+然後，嗯，當然，最重要的，感謝我最愛的女朋友 :)
+在我要申請時，幫我整理很多的文件，排版，
+幫我找了很多同學Review我的SOP、CV、PHS，
+但這都不是最重要的，最重要的是，
+他陪我度過這陣子(更精確地說是從出生以來)，最苦的當兵日子。
+
+雖然他在我身後默默的說：
+申請三要素：教授、研究、女朋友!
+
+XDDDDDDD
+
+
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc)
+◆ From: 111.248.238.179
+推 hunallen:卷唐推!!                                               03/25 19:19
+推 hunallen:看完之後再膜拜一次~~                                   03/25 19:26
+推 yichishao:推!!!                                                 03/25 19:35
+※ 編輯: CCSam           來自: 111.248.238.179      (03/25 19:49)
+推 atsason:推!                                                     03/25 19:51
+推 andy0873:蝴蝶裡面神人真的太多了！恭喜蝴蝶學弟！！！             03/25 19:56
+推 clark78118:卷唐推!!                                             03/25 19:59
+推 kenkao25:恭喜恭喜!                                              03/25 20:11
+推 ChiKLee:好強...                                                 03/25 20:33
+推 tigerflyer:這太扯                                               03/25 20:44
+推 yuhung:好強，恭喜！                                             03/25 20:45
+推 a3n2n2i6e:學長超強大!!! 恭喜!!!                                 03/25 20:49
+推 kuiper2000:給強大推～大概知道日本通識是哪科....                 03/25 20:54
+推 hsnuyi:m(_ _)m                                                  03/25 20:55
+推 henri:女朋友                                                    03/25 21:03
+推 towelll:    在耳邊悄悄地對原PO說：                              03/25 21:06
+推 ding555:推!好強大！                                             03/25 21:17
+→ sharon831:推!!                                                  03/25 21:19
+推 allen0936:強者!!!! 恭喜你啊!!!!!!                               03/25 21:31
+推 MaxwellLiu:恭喜直屬學弟                                         03/25 21:38
+推 jackie0910:恭喜 這次換我看到認識ID了 去Berkeley繼續稱霸吧       03/25 21:52
+推 Emaciation:童長義或是楊典錕吧，童長義的聽說很硬。               03/25 22:08
+推 Ertkkpoo:請問您所謂的研究所課程是課程識別碼第4碼UDM哪一種呢?    03/25 22:12
+推 su394ji310:好強啊!!!恭喜!!                                      03/25 22:30
+推 pig10:推神手學長～！！                                          03/25 22:32
+推 meteor2003:女朋友愛情推!!你好棒ˊˇˋ                           03/25 22:34
+推 fred1810:神學長推一個~                                          03/25 22:42
+推 jessie123456:推  強者!!!!!  很強悍的氣勢                        03/25 22:48
+推 jdgcranna:很棒的文章!! 未來加油!                                03/25 22:51
+推 subdaphs:推認識你女友ＸＤＤ                                     03/25 22:59
+推 therequiem:好強!!                                               03/25 23:05
+推 starmovie:恭喜阿~好強!!                                         03/26 00:02
+推 anjo8081:也被日本通識陰過XD  學長好強!!! 恭喜:D                 03/26 00:17
+推 FREDERICK117:推!!                                               03/26 00:20
+推 ron0908:Thermoelectric很有趣啊 恭喜歡迎加入Cal.XD               03/26 01:07
+推 janicepan:這個太強大了吧@@ 好厲害!!!!!!!!!恭喜恭喜              03/26 02:03
+推 pandakuo:學長太猛！！！！！！！！！                             03/26 02:15
+推 maxlan22:太神了！！                                             03/26 03:01
+推 frank11118:超級強大                                             03/26 04:59
+推 CrazyMoon:恭喜                                                  03/26 05:07
+推 SWdoom:恭喜!                                                    03/26 07:32
+→ Organizer:cong                                                  03/26 08:47
+推 tomakai:好厲害!                                                 03/26 09:51
+推 will1118:恭喜恭喜                                               03/26 10:00
+推 coolboychiu:你一定被童長義搞死的XD                              03/26 12:31
+推 verysure:大堆卷唐!!!! 恭喜啊~~                                  03/26 13:58
+推 smallmac:推,強者                                                03/26 14:01
+推 firewave1125:恭喜!!!太強大了!!                                  03/26 15:04
+→ samidare:老爸就UCB  這根本是階級複製啊@@                        03/26 20:02
+→ reldahs:樓上這樣說會不會太簡化一切了呢？                        03/28 00:01
+推 chimat0814:卷唐超猛!                                            03/29 20:41
+→ selfabuse:congrats!!                                            03/29 23:34
+推 bluemercury:恭喜！好好珍惜好學校＆好女朋友！                    03/30 05:20

@@ -1,0 +1,79 @@
+
+
+排版比較好讀的版本：https://goo.gl/8XxODu
+
+嗨，發這篇文主要是因為自己轉CS的時候都幾乎沒有看過設計轉CS的分享文，之前求選校
+建議時也有板友來想詢問申請歷程，心想能留下一點紀錄。申請成績很普通，放上來強者
+雲集的版有點不好意思，但希望能給同樣從設計或是其他文科轉CS的人一點參考。
+文長，列一下概要：
+
+Admission
+SUNY Buffalo - CS MS 2/16
+Oregon State U - CS MS in Software Innovation 3/1
+Northeastern U Silicon Valley - CS MS Align 2/28
+U of Pittsburgh - MSIS 3/19
+U of San Francisco - CS Bridge
+Brandeis U - CS MS
+
+Rejection
+USC 37 / UChicago / UPenn MCIT / Georgia Tech / NYU Tandon
+Oregon State U - CS MS in Software Innovation
+----------------------
+
+Background
+NTUST - Commercial Design GPA 3.61
+Supplemental Courses：Programming / Linear Algebra / Calculus / Introduction t
+o Computer Science
+
+Awards
+Computer Graphics Winner, National Skills Competition
+Honorable Mention in Visual Identity, Taipei International Flora Exposition VI
+Contest
+Nominated for Visual Design, Yahoo 4A Commercial Prize
+(都是設計類的）
+
+TOEFL iBT
+R 28 / L 29 / S 24 / W 22  Total: 103
+GRE
+V 153 / Q 163 / AW: 3.0
+
+Publication
+完全沒有
+
+品方面發展，大學時也修了不少相關的課。
+當時薪資還算不錯，不過上海開銷非常高，一個月光房租就飛了5000rmb。每天的工作都
+是在處理Walmart的產品訂單，其實對於設計系畢業想追求創新產品的人來說沒有什麼發
+揮的空間，與其說設計比較像當美工。而且因為業務性質常常在旺季要加班到很晚（還有
+連續2個月沒休過假都在加班的紀錄），薪水也沒什麼要往上調的樣子，並且因為公司其
+他部門都虧錢所以自己達標並沒有業績獎金可以領。公司流動率很大，部門的前輩在兩年
+內就幾乎走得差不多了，導致我這種菜鳥也得上去當PM管生意扛業績（當然，薪水和職稱
+不是PM）。要幫公司衝業績，壓力很大卻又沒有願?[K
+滿A整體趨勢實在讓人感受到貿易只會往下滑，使我對職涯發展非常茫然。
+當時心想既然都可以從設計成功轉業務了，挑戰其他方向肯定也差不到哪去。當時最吸引
+的就是遊戲開發，便開始找資料。一開始找的資料其實方向很雜，從遊戲企劃/設計的MFA
+、遊戲開發的MS甚至到日本的專門學校HAL都有。看著這些琳瑯滿目的訊息感到很振奮，
+並且在當時有些存款，開始計劃辭職準備下一個學程的申請。
+的program。反覆在Quota爬文後決定先從軟體開發入門，往後要轉遊戲開發也不難，尤其
+接觸過iOS後也覺得自己很喜歡寫app，希望日後能以此為業，開始往純CS學校申請。
+選校的一句主要都是參考一畝三分地的多篇轉CS友善名單，不過還是得說這幾年中國轉CS
+的學生真的很多，競爭越來越激烈之外……經驗多了才發現轉CS常常都是CE或Math轉CS，
+不然就是商科畢業後在IT界工作多年囧……純文科轉CS也是有但相對少之外，常常又是轉
+IS或HCI，所以對想轉CS的文科生來說轉CS名單可能要多留意一下是否適合。例如據所知U
+SC37雖然標榜歡迎轉專業，但應該是比較面向理工類的學生，我不知道這是不是被拒的原
+因（當然三圍不夠也是因素啦），供參考。
+
+要不要找代辦？
+個人認為找代辦最好的用途應該是提供選校建議，因為表格只要看得懂英文都可以自己填
+，SOP和CV等那種essay修改公司會比代辦更專業（有間代辦還說他們改SOP的是來台20年
+的中文系畢業老外囧……雖然相信對方很有經驗但又擔心是否舊代辦的“只是幫你翻譯”
+）。不過我自己沒有找代辦的任何服務，等結果時就有點後悔沒去做8000塊的選校，不過
+結果出來後又覺得不找也無妨，所以見仁見智。
+
+綜合心得＆檢討
+其實一開始最難過的是沒上UChicago，他們有iOS專攻學程也有轉專業bridge，起初總認
+為勢在必得，收到Rej的時候打擊頗大。不過第二想上的OSU很快就來了非正式錄取。主要
+喜歡OSU除了開銷較低以外，還因為他新興的Software Innovation Track的內容很吸引我
+夠存款這樣生活，另一方面也感謝家人的包容讓我實踐目標。期間真的有很多次對自己和
+來自他人的質疑，但收到Admission就覺得一切都值得！
+預祝各位都申上理想的學校。有問題可以再私信，排版&文筆不好還請見諒。
+

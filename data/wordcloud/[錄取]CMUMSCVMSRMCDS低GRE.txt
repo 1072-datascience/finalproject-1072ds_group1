@@ -1,0 +1,57 @@
+
+Admission:
+CMU MSCV
+CMU MS Robotics (MSR)
+CMU MCDS
+U of Toronto MScAC
+Columbia CS MS
+UMich CS MS
+
+Rejection:
+CMU MSML
+CMU MIIS
+CMU Joint PhD ML&neuro science
+Berkeley CS MS
+UW CS PhD
+Cornell CS PhD
+
+Pending:
+Stanford CS MS
+UIUC CS MS
+
+陸續收到結果後會為大家更新文章
+
+GRE: 149/168/3.0
+TOEFL: 103
+
+Overall GPA: 4.06/4.3
+Major GPA: 4.23/4.3
+
+Background
+》
+Field of interest: CV&ML
+3個國際競賽得名
+論文：1篇第一作者 1篇共同作者
+4次實習經驗
+演算法TA
+多媒體分析實驗室RA
+
+心得：
+其實我跟大家都差不多所以那些早點做研究顧好GPA的cliche 我就不多說，在這裡我只想
+跟那些以CMU 為目標的人說"GRE 不一定要320！"，我朋友之前就有跟我說過CMU是個很敢
+收人的學校喜歡收特殊的人，所以對GRE 反而不會那麼看重，所以對於那些像廢柴如我GR
+E 刷了三次還破不了320的朋友我只能說CMU 是你最有希望的top school
+
+再來說說我從Stanford Admission committee 打聽來的消息：GRE 的AWA比Q和A都重要！
+其實我第二次考有319可是A只有2.5，最後我毅然決然的選了317/3.0的。雖然不知道選
+另一個分數會是什麼結果，反正我也是信了，AWA很重要
+至於托福的話是口說和寫作最重要
+
+上面講的這些也只是打聽來的小道消息 如果不認同拜託別戰我T_T
+
+最後請問大家如果畢業之後想要找R&D的工作（就是加一些research 的se) MSCV MSR MCD
+S 選哪一個program 比較好呀T_T
+
+還有歡迎2017fall會在匹茲堡的朋友站內信給我，良好的connection 是在異地生存的第
+一條法則^^
+

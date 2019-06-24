@@ -1,0 +1,197 @@
+
+Area of interest
+Data Science, Analytics, Statistics
+
+Program & Admission
+(Mar, 18) Northwestern University, MS in Analytics, 2017 Fall
+
+Wait List
+(Apr, 15) NYU data science (declined on 4/27)
+
+Rejection
+(Feb, 09) NCSU analytics
+(Feb, 18) CMU machine learning
+(Feb, 23) Havard computational science and engineer
+(Feb, 23) GT analytics
+(Mar, 08) UW data science
+(Mar, 09) Stanford statistics (data science)
+(Mar, 09) Columbia data science
+(Apr, 12) UMich applied master program in statistics
+    (Apr, 13) CMU statistical practice
+(Apr, 18) Cornell professional studies in applied statistics
+(Apr, 20) USC analytics
+(Apr, 29) USC data informatics
+
+Test Score
+TOEFL 109 (R30/L29/S23/W27)
+GRE 320/4.0 (V152/Q168)
+
+Education Background
+NTU Mathematics double major in Economics, 2008 - 2013
+no publications
+GPA:
+-3.46/4.3 (Overall)
+-3.71/4.3 (Last 60)
+-3.36/4.3 (Major)
+Rank: 30%
+
+Recommendation Letter
+數學系修課教授
+經濟系修課教授
+現在公司的老闆，也是我的主管
+
+Other Experience
+- 數位廣告公司 三年產品經理和資料分析師工作經驗
+- 大四下 德國烏爾姆大學 交換學生
+
+
+前言
+從前年年底決定申請學校，到今年過年後陸陸續續收到結果通知，留學版一直以來都是我
+申請過程中的好夥伴。我也想要藉由自己申請的經驗，提供日後也想申請相關領域的板友
+一些可參考的資訊。
+
+在大學時期，雖然出國留學這件事不時的在心裡出現，但動機始終不夠強烈到能夠讓我真
+正下定決心。因此，大學畢業後，我選擇先工作，一方面先看看自己學的有哪些東西是可
+以派上用場的，一方面也想要藉由工作找到自己有熱忱的領域。
+
+因為工作的關係，我開始直接或間接接觸到行銷產業裡頭不同種類的公司。有的做廣告聯
+播網（例如Unity Ads）、有的公司利用蒐集到的各種數據幫助行銷主精準投放（例如
+Neustar, Lotame）、有的公司搜集app相關資料幫助開發者瞭解市場（例如App Annie），
+有的公司幫助網站主做網站優化（例如Retention Science, Blueconic）等等。這些大大
+小小的公司商業模式都不一樣，而通常引起我興趣的，都是這些公司如何利用蒐集到的資
+料幫助他們的客戶不論是直接提升獲利或是降低成本。也因為這樣，我開始對資料分析產
+生了興趣，並且在下班之後，線上自學了R / Python，完成了一些Coursera的資料分析課
+程。在這期間，我也盡力將自己學到的東西應用到工作上相關的情境裡頭。
+
+在工作了兩年多後，我決定利用出國唸碩士的方式，一方面更快速的增進自己這領域相關
+的技能，一方面也希望可以看看自己的能耐在哪裡，能不能在畢業後在美國找到相關的工
+作。
+
+申請時程
+2015.11 開始有了出國唸碩士的想法，開始上網查program相關資料後，決定申請2017
+Fall
+2016.04 補Mason GRE平日密集班（推）
+2016.06 考GRE
+2016.08 考TOEFL、詢問並確認教授＆主管推薦信意願
+2016.09 寫出SOP第一份草稿，交給Consulting & Editing Service修改
+2016.09 - 2017.01 修改成多份SOP、寫Personal Statement、繳交14個program的申
+請資料
+2017.01 收到NCSU analytics的面試通知
+2017.03 收到NWU analytics的面試通知，以及月中的錄取通知
+
+選校
+有了明確想念的方向之後，我開始在網路上找有哪些學校有開data science/ analytics相
+關的碩士學位，因為這領域目前很熱門，所以其實在網路上輸入相關的關鍵字，就可以查
+到很多相關的資訊。不過最後全部看下來，我覺得資訊最完整的是在NCSU Analytics的網
+站裡頭（http://analytics.ncsu.edu/?page_id=4184）。他們今年更把所有program的相
+關資訊用tableau呈現，很一目了然。
+
+Data Science本身是Business, Statistics和CS的結合所產生的領域，因此相關的program
+也都是這三個面向以某種方式結合所產生的，有的偏向Business, 有的偏向Statistics,
+也有的是偏向CS。
+我自己本身想要透過碩士來增強的偏向 Statistics 和 CS，但因為過去大學時期沒有修過
+CS相關課程，因此，我選出的program有以下幾種類型
+- 開在Statistics底下，可以另外去修一些CS相關的課，且其課程內容有與產業結合，
+例如：CMU statistical practice, Cornell professional studies in applied
+statistics, UMich applied master program in statistics.
+- 開在CS / Engineer底下，且申請條件沒有特別強調需要CS相關背景，例如：NWU
+analytics, USC analytics, USC data informatics.
+- 本身就是結合Business, Statistics, 和CS所開program，有些直接隸屬於
+Data Science Insitutute底下，例如：GT analytics, NCSU analytics,
+UW data science, Columbia data science, NYU data science.
+
+另外，在查了一畝三分地還有隨意google後，其實還是不知道自己的落點，而我也不想投
+我其實沒這麼想去的學校，因此我最後所有投的學校，都是想去的學校。雖然14個program
+只有上了一間，不過我還是很滿意。
+從結果來看的話，如果真的要猜其他13間拒絕我的原因，我會猜是因為
+1. GPA不夠高
+2. CS能力不夠
+3. 沒有Publication，研究經驗不夠
+
+GRE
+邊上班邊準備GRE真的是蠻辛苦的，為了節省調查學習資源、考試規則、答題技巧等等，
+我有去補MasonGRE的平日密集班，蠻適合要節省時間快速進入考試狀態的人。
+
+
+面試經驗
+我總共收到了兩間的面試，我也分享一下那時候被問到的問題
+NCSU analytics
+- Self introduction.
+- How’s your ability and experience in business writing?
+- Is there anything that you think you can improve in business writing?
+- Plans after graduation, career goal.
+- Do you want to stay in USA after graduation?
+- What thing excites you the most in this program?
+- Regression related quesitons:
+- explain ideas to someone who know nothing about regression.
+- how to measure the result?
+- how to deal with the cases that are with more than 1000 of features?
+- how to select features?
+- how the decide good or bad of the regression model?
+- Cohort related question: how would your colleague comment you?
+good and bad, example
+- What will be the biggest chanllenge that you think you may face in the
+program?
+- Any questions?
+心得：我覺得其實我每一題都回答的還算不錯，但最後還是沒有錄取。或許是我自我
+感覺良好(?
+
+NWU analytics
+- Tell me a little bit about yourself
+- My motivation in pursuing an analytics master degree
+- How do you know this program? and what is the thing that interests you the
+most compare to the other programs?
+- Short Term/ Long Term Goal
+- Do you like to be in a teamwork environment?
+- Do you have any other questions?
+心得：因為前一次的落敗，這次面試我花了更多的時間準備，包含自言自語加上三次
+和顧問模擬面試，實際面試完的時候自己覺得很滿意。
+
+Consulting & Editing Service顧問心得
+我透過我姐的介紹，認識了我的顧問David，主要請他幫忙的部分是修改文章和模擬面試。
+David是美國人，很多年前是在資誠PwC做英文文件相關職務，因為很多同事私下找他幫忙
+看文件，後來他乾脆自己出來做freelancer。他從開始做到現在好像也蠻多年了，現在已
+經回美國去了，還是有蠻多台灣的留學顧問公司跟他合作英文編修。我自己當初在找顧問
+的時候，我覺得自己不太需要選校和申請文件相關的服務，所以對我來說直接找到David是
+個很不錯的選擇。很適合已經知道自己要寫的內容何方向，但需要文章修改和建議的人。
+若有需要，也可以直接聯絡他（lodawei@icloud.com）
+
+修改文章
+每個顧問修改出來的文章都會有不同的風格，我覺得David的風格比較內斂一些，屬於曖曖
+內含光型，他幫我把我自己擬好的文章改得通順之外，還會提供我哪方面如果加入什麼資
+訊會更好的建議。另外一個我覺得很不錯的地方是，David改文章神速，通常寄文章給他之
+後，我都會在24小時內收到他改好的文章，效率極高。
+
+模擬面試
+申請過程中我一共收到了兩間的面試機會，第一間是NCSU，第一次的面試我都是自己自言
+自語另外加上一次我姊姊幫我模擬面試，結果沒有錄取。第二次的面試，我特別找了David
+幫我模擬面試，第一次模擬面試時，我真的是回答的差到不能再差，回答到一半還會辭窮
+，可能是因為David特意準備了很多要“Surprise”我的面試題目，想要讓我更有臨場感。
+他說因為真正面試時，常常面試的人問的問題，不會是我事先準備過的問題。模擬面試與
+其只是把固定的題目順過一遍，他覺得回答一些沒準備過的問題，從中練習和學習臨場反
+應，在真的面試時會比較有效果。David人很好，他一共幫我用線上Skype在一週內模擬了
+三次的面試，而且面試要注意的小細節還有心態上的細節都有特別幫我提點，比如說眼睛
+要看著對方、講話時手勢盡量不要太多(會干擾)、如果真的回答不出來如何化解尷尬...等
+等。我真的覺得如果沒有這幾次的練習，最後面試時不會這麼順利。
+
+SOP
+要把自己過去做過的事情，結合去念書的動機，有條理且有說服力的寫出來，對我來說真
+的不是一件容易的事
+在寫sop的過程中，除了自己絞盡腦汁的寫文章以外，我有參考了念托福時得知的Xination
+大的網誌（http://xination.pixnet.net/blog/post/21739595-%E7%95%99%E5%AD%B8%EF%
+BC%9Asop%E8%A7%A3%E6%9E%90-）
+最後我的SOP大綱如下：
+
+- 描述動機
+- 描述大學時期在課堂上做過的專案1
+- 描述大學時期在課堂上做過的專案2
+- 描述工作時期做過的專案
+- 選擇申請這個program的原因（program吸引我的地方、對哪個教授有興趣）
+- 職涯目標、重申動機、結語
+
+總結
+八月底要出發去展開一連串的燒錢碩士生活了，過程中除了家人以外，很感謝幫助過我的
+教授、主管、版友、同事還有朋友們。申請出國留學整件事其實也是個更加了解自己的過
+程，希望這篇心得文提供的資訊也可以幫助到其他人。當然，有任何問題也歡迎寄站內信
+給我！
+

@@ -1,0 +1,187 @@
+
+我想我的經歷應該還算是蠻特別的，所以po上來跟大家分享
+
+= Admission =
+CMU Robotics Institute, Master of Science in Robotics Systems Development
+(MRSD)
+
+= Rejection =
+MIT Media Lab
+MIT MechE
+CMU MechE
+U Michigan Ann Arbor MechE
+
+All master program
+
+= Education =
+NTU BIME(生物機電) 2008 – 2013
+GPA : 73.18/100 轉成4.0系統好像是2.9
+
+不過因為我申請的學校都收百分制所以就沒轉成4.0系統了，感覺73好像比2.9好看XD
+
+= Test Score =
+TOEFL:  90   R23/L26/S20/W21
+IELTS : 7.5  R9.0/L8.5/S6.5/W6.5
+GRE:    V142/Q159/A2.5
+V145/Q160/A3.0
+
+=Work Experience=
+兼職講師, CAVEdu  http://blog.cavedu.com/
+兼職應用工程師, CAVEdu (Hennes CO. LTD) http://www.cavedu.com/
+
+= Research Experience =
+Undergraduate Researcher, NTU BIME
+- Developed a wearable gait analysis system
+- Designed and controlled of a powered exoskeleton for lower extremity
+- Developed a LEGO atomic force microscope for nanoscience education
+- Developed a low-cost device for measuring plantar pressure distribution
+- Developed an EEG-controlled robot using Emotiv SDK
+
+Undergraduate Research Assistant, NTU PT
+- Developed a portable wireless ankle tracking assessment and training device
+- Developed software for measuring kyphotic angles in radiography
+- Developed software for measuring the length of musculotendinous units in
+ultrasonography
+
+=Publication =
+Journal papers x2 (1 SCI, 2nd author; 1 international journal, 1st author)
+Conference papers x5 (2 domestic conf. + 3 international conf.)
+Books x5 (All in traditional Chinese, 1 contains foreword from a MIT
+professor Dr. Hal Abelson)
+
+=Recommendations=
+NTU BIME x2
+NTU PT x2
+RIOBotics Inc. x1
+
+=Honor/Scholarship =
+2012    1st Place, the 7th Utechzone Machine Vision Prize, Utechzone, Taiwan
+2012    Best Poster Award, 2012 Symposium of Biomechatronic Engineering, Taiwan
+2011    Best Poster Award, 2011 Symposium of Biomechatronic Engineering, Taiwan
+2011    Remarkable Award, 2011 National Student Project Contest, Ministry of
+Education, Taiwan
+2011    Excellence Award, the 4th Field Robot Competition, TIBM, Taiwan
+2011    College Undergraduate Research Scholarships, National Science Council,
+Taiwan
+2011    1st prize, 2011 Competition of Microprocessor, NTU BIME, Taiwan
+2010    The Most Creative Robot Award, the 3rd Field Robot Competition,Taiwan
+
+=Activities =
+至全國各地各級學校(國小、國中、高中、科大)舉辦機器人研習、高中機器人社團指導老
+師…等等，不一一列舉 :P
+
+學習歷程與心得:
+
+從小我就很喜歡自己做東西玩，這樣的興趣與熱情到國中參加樂高機器人社團後更進一步
+
+地被解放，而我也在不知不覺中掌握了基本的程式與機構設計的技巧，並一直持續到高中
+
+。雖然喜歡動手做、熱愛創造，不過高中的我對機器人到底是甚麼其實沒甚麼概念，只知
+
+道自己喜歡做會動的東西而已，也不知道要念甚麼系，只有一次在參加比賽時，有一個大
+
+學教授評審看到我的作品後大為讚揚，並對我說：你以後一定要念機械! 我才隱隱約約覺
+
+得以後好像可以考慮念機械，也因此高三指考時便以台大機械為目標，不過最後分數差了
+
+一些，於是選了生機....
+
+
+上大學後，當初國中社團老師聯絡我，提議要創立一個機器人教育團隊，想找我幫忙，於
+
+是 CAVEdu 機器人教育團隊誕生了，從此開始了到處奔波的旅程。一開始我們以樂高機器
+
+人為平台，出了第一本書，接著就常常接到許多研習的邀請。在這過程中我除了培養了許
+
+多技術與許多相關知識，也同時培養了不錯的表達能力。後來幾年也不只限於樂高，還有
+
+Arduino、Raspberry Pi、Android 結合機器人做相關的應用，而我們的團隊也漸漸茁壯
+
+，出了不少的書，算是小有名氣。
+
+
+
+然而，大學的教育在前幾年則是讓我感到非常挫折，教學常常是理論多於實做、記憶與背
+
+誦多於創意思考，以及考試多於小組專題。我自己是覺得就工程而言，應該是理論跟實務
+
+都很重要，身為一個工程科學的學生只會考試做不出東西實在是很奇怪，而理論基礎則是
+
+可以讓人看得更遠。另外一個問題則是在我們系上有些老師根本不會自己教的科目，也不
+
+想花心思在教學上，有老師跟他教的科目唯一的關聯就是大學有修過。由於我一開始完全
+
+沒有要出國念書的想法，也覺得研究所用考的就好(完全大錯特錯)，所以學習很被動，許
+
+多課常常覺得不有趣就直接放空，所以，我大學被當了 8次，而且幾乎都是必修。不過我
+
+們系上後來這幾年加入了很多優秀熱情的年輕老師，情況改善很多。另外大部分老師其實
+
+也都很好，一方面也是我當初學習的態度跟目標還沒確立，擺爛太嚴重。
+
+
+
+大三時加入實驗室是我學習上最大的轉折點，儘管我有一定的技術能力，但是大三前在學
+
+術上我的實力幾乎是0。在實驗室博班學長的帶領下，我開始找到自己在學術上的興趣，
+
+而實驗室大量的實作也讓我再次找到當初的熱情。我作的主要是人體動作分析以及外骨骼
+
+機器人，由於我投入了大量的時間，加上學長的協助，所以有了不錯的產出，除了國內研
+
+討會都有得獎外，也得到老師的許可投了IEEE 的研討會。在這過程中開始有了想要出國
+
+念的想法，加上常常看IEEE Spectrum 以及 MIT Technology Review等雜誌，讓我有了一
+
+些憧憬，不過真正讓我決定要出國念的，是MIT Media Lab的Dr. Hugh Herr在TED上的演
+
+講(http://ppt.cc/ywDX)，Hugh Herr年輕時是攀岩好手，在一次意外中雙腿截肢，從此
+
+他就開始幫自己做腿，直到現在。他的故事讓我非常感動，我像是粉絲在追星一樣找了幾
+
+乎所有他的演講以及論文(論文是沒有全看啦)，並決定以Media Lab為目標，那時我已經
+
+要大四下，頓時覺得就這樣畢業實在是不夠，因此就直接決定延畢，延畢的一年去物治系
+
+修了肌肉運動學、高等生物力學、動作分析等等課程，也修了像是神經電氣生理學等課，
+
+得到非常大的助益，也幫忙物治系的老師們寫了不少程式跟作了一些計劃，所以多了一些
+
+發表量。
+
+
+
+在申請學校時，除了Media Lab外，也申請了CMU以及U. of Michigan。Media Lab是一個
+
+目標，不過CMU Robotics Institute也非常吸引人，而 Michigan ME則有不少做下肢生物
+
+力學的實驗室。最後只上了CMU MRSD，雖然是就業導向的學位，不過也蠻符合我的需求，
+
+總之我的興趣就是在機電整合與科技輔具，不管是就業或是繼續念PhD，都會朝著這方向
+
+走。
+
+
+
+最後分享我當初為了Media Lab做的網站，裡面有我所有的作品以及研究，我想以我成績
+
+這麼爛，GRE也都亂考(當初想說Media Lab不看GRE所以就沒甚麼在準備就上了)，還可以
+
+有學校念，就是因為有被看到吧，只有CMU有找我面試，而我則特別強調一定要來看我的
+
+網站，根據Google Analytics，他們的確是有來看，也看了蠻久的，那時我就想說應該會
+
+上XD
+
+http://robinhsieh.com/
+
+
+說了這麼多，其實我只想說，常常有人在問這樣的GPA有沒有希望，GRE要考幾分才可以，
+
+我覺得自己的實力自己最清楚，找到自己想要的，然後好好努力吧。
+
+
+感謝台大生機系以及台大物治系，以及所有在這條路上曾經協助過我的人，我會在現實生
+
+活中好好感謝你們的XD
+

@@ -1,0 +1,102 @@
+
+
+Admission
+University of Alberta MS CS
+(with full financial support in the form of TA/RA)
+
+Rejection
+NTU CSIE (推甄當砲灰)
+Cornell CS PhD
+UIUC MS CS
+
+Pending
+U of Toronto MS CS
+UBC MS CS
+Purdue MS CS+Stat
+Cornell MS CS
+Duke PhD CS
+NYU PhD Data Science
+
+Background
+NTU BBA with a minor in CSIE
+GPA: 4.01/4.3 overall; 4.3/4.3 in CSIE (26學分大二大三必修+6學分選修)
+ASU Exchange Program for one semester
+GPA: 4.17/4.3
+
+Honors & Awards
+書卷獎*2
+
+GRE: V157 Q170 AWA3.5
+TOEFL: S24 Total 101
+
+Experience (申請時經歷)
+Data Analyst Intern@本土證券 (1 year)
+RA@NTU Finance (3 months)
+數理金融暑期研習@中研院數研所 (2 months)
+RA@NTU Accounting (6 months)
+
+Publication or CS-related Research Experience
+None
+
+Recommendation
+修課教授 (工管系、工工所)
+隊，原先只是想免費玩香港，但一整週演講活動後，內心也開始覺得CS是個非常有未來的
+方向，除了coding之外還有研究這條路可以走。如果研究做得不錯，可以走學術或是去業
+界做Research Scientist，如果研究做不好、沒興趣，還可以回金融業當Quant Research
+er，這也是我後來決定申請CS的主要原因。
+
+不過因為這樣腳踏兩條船，一直不確定自己想念什麼，導致申請時沒什麼優勢。申請FE，
+我數學課修不夠多。申請CS，我又沒有相關研究經驗。
+
+對我而言，系統、偏硬體、軟工等方面絕對贏不了CS本科生，我也沒什麼興趣。再加上我
+們系有統計、OR方面的課程，算是有一點結合，所以我選擇申請ML/Data Science方向。
+聽港科教授說，研究型碩士系上會依領域平均分配名額，而AI/CV/ML是近期最熱門的項目
+對CS Program來說GT只是門檻，加上我申請的有些學校不用托福或不用GRE，我覺得不需
+要花太多時間在制式化考試上，有過標準就好。TOEFL常見的標準大概是T>=100&&S>=24，
+GRE大部分學校都沒有硬性規定。
+
+<GRE懶人準備法>
+因為時間不夠，GRE我主要拼閱讀，單字呈現半放棄狀態 (朋友送的字彙的力量我只背到L
+evel 5)。
+當時想如果閱讀可以對8成，填空隨便中2成應該就有150以上，考試時填空看到不會的就
+用猜的，時間省下來慢慢做閱讀。大概10分鐘給填空，20分鐘給閱讀，加上超強考試運
+，最後僥倖拿到157。
+
+SOP
+SOP是我花最多時間準備的，參考很多強者的SOP和網路上的資源，寫完後有請在美國的親
+戚幫忙修改文法用詞。我之前有上過台大的學術英文寫作(通識課程)，有幾個重點大概是
+每段落要有主題句、要有specific句子去support your ideas、切勿寫的太空泛。既然是
+申請美國學校，就照美國人的寫作邏輯寫。
+
+我寫的非常中規中矩，把自己動機、相關經歷、興趣都交代清楚，段落大概是：
+1.轉CS原因&為了CS所做準備
+2.研究興趣&相關背景
+3.研究經驗&對我申請CS有什麼幫助
+4.實習經驗&對我申請CS有什麼幫助
+5.為什麼想念該間學校&有興趣的教授
+
+我覺得對於研究型碩士而言 研究經驗/發表 > 推薦信 > CS相關課程成績 > Overall GPA
+&GRE&TOEFL
+除非有某些方面非常突出 (e.g. 數學天才等等)，不然像我這種無研究經驗的平凡申請者
+，教授應該不願意冒險錄取。還好U of Alberta是招生委員會審資料，不然我可能沒學校
+念了XD
+
+U of Alberta
+因為這間學校在台灣名氣不大，我分享一下我找到的資訊。
+UA是加拿大Top 5、QS World Top 100。CS Department非常多老師做AI相關研究，特別是
+在Reinforcement Learning/Game AI。
+每年在AI&ML頂會都發很多papers ( http://csrankings.org/ )，但其他領域就非常普通
+，有四位AAAI fellows。
+
+系上有開一個MSc in Statistical Machine Learning (SML)，申請和錄取都和一般CS一
+樣，如果入學後可以找到SML的教授願意收，就可以轉到SML program。和一般CS差異只有
+修課上的規定，SML需要多修至少一堂數學系的課。
+
+For 想轉CS的學生
+我覺得就是多修CS相關課程，行有餘力可以找教授做研究，
+建議非EE非數學系的輔系生如果想申請研究所，還是拼拼看念完雙主修吧，
+輔系對申請台大碩士似乎沒什麼幫助? (也有可能只是我排名不夠好看)
+國外有些學校會講明非CS學生，也要是EE、數學等相關科系，只有輔修可能就不算。
+謝謝強者同學學長姐們給我的各種建議
+謝謝大家！
+

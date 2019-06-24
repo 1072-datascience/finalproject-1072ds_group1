@@ -1,0 +1,236 @@
+
+代朋友發~
+原文網誌版(內含簽證心得分享)：http://eceryan.pixnet.net/blog/post/221939559
+-----------
+Admission:
+Texas A&M – ECE M.Eng in Power and Energy
+UIUC – ECE M.Eng in Power and Energy Systems
+Ohio State – ECE M.S. in Sustainable Energy and Power Systems / Analog
+Electronic Circuit
+NC State – Electric Power System Engineering M.S.
+CU Boulder – Professional M.S. in Power Electronics
+SUNY Buffalo – ECE M.S. in Energy Systems
+
+Rejection:
+UC Berkeley – ECE M.S./Ph.D. in Energy / Integrated Circuits
+Georgia Tech – ECE Ph.D. in Electrical Energy / Electronic Design and
+Applications
+University of Michigan – ECE Ph.D. in Power and Energy / Integrated Circuits
+University of Washington – ECE M.S. in Power Systems, Power Electronics,
+Renewable Energy, Energy Harvesting
+
+Pending:
+Purdue – ECE M.S. in Power and Energy Systems
+Virginia Tech – ECE M.Eng in Power Electronics / Power and Energy
+
+Decision:
+Texas A&M
+
+-------------------------------------------------------------------------------
+
+Education Background:
+2012.09~2016.06
+National Chiao-Tung University (國立交通大學) – B.S. in Electrical and
+Computer Engineering
+2015.08~2015.12
+University of Illinois at Urbana-Champaign (UIUC) – Non-Degree Exchange
+Student in Electrical and Computer Engineering
+Overall GPA: 3.92/4.30 (3.77/4.00)
+Last 60 GPA: 3.87/4.30 (3.78/4.00)
+
+Honors and Awards:
+1) 大一上學期Presidential Award (書卷獎) – top rated 5%
+2) 大四上學期Full Scholarship offered by NCTU for UIUC Exchange Program (領交
+大獎學金台幣30萬到伊利諾大學香檳分校交換一學期)
+
+Professional / Research Experiences:
+2016.08~2016.09
+國家實驗研究院晶片中心(CIC) 暑期研究專題計畫(6-bit Digital-to-Analog Converter
+設計及下線成晶片)
+2015.08~2015.12
+UIUC交換期間，電力電子期末專題(Isolated DC-DC Flyback Converter)
+2014.09~2015.01
+交大晶片系統設計實驗室 大三專題(Anti-Radiation Integrated Circuit Design)
+2014.09
+台積電(TSMC) 暑期菁英培訓計畫(主要是做Material Science裡面結晶成長相關的)
+p.s. 我在研究經歷上都沒有發paper，所以申請博士班也相對吃虧些
+
+Certificates:
+主要是兩張美國綠建築相關的證照
+2018.04 (我申請學校時履歷上還沒有這張)
+WELL Accredited Professional (國際健康建築研究院Accredited Professional)
+2017.10 (這張在我申請學校時有寫在履歷上)
+Leadership in Energy and Environmental Design (LEED) Green Associate (美國綠建
+築協會Green Associate)
+其他還有兩張Coursera修課的證書，以及在勤智企管顧問公司上滿30堂課的證書(有聽過
+ATC或iTalent的應該會比較了解這個東西)
+
+Work Experience:
+2017.07~Present
+美加文教 GRE/TOEFL助教
+
+Leadership / Student Associations / Other:
+分享UIUC交換
+交大電機系學會兩年
+新竹市陽光國小community service (國外很喜歡學生做community service)
+交大建中北一女校友會迎新總召、隊輔
+
+Test Scores:
+TOEFL: 102 (R: 26 / L: 23 / S: 24 / W: 29)
+心得：聽力那天意外地炸掉了，好險寫作救回來(我用GRE issue的方式寫托福寫作，發現
+滿有用的)
+GRE: 322 (Q: 170 / V: 152 / AWA: 3.5)
+心得：其實理工科學生AWA有超過3分就還OK、verbal過150就有一定水準了(我152這分數
+在面試Ohio State時被教授說很好)
+
+
+-------------------------------------------------------------------------------
+前情提要結束，開始講正經的~
+其實我也算是半個轉領域的，大學時代只有去UIUC交換的期間接觸到power electronics
+和renewable energy
+連大三做的專題都和電力電子沒關係(雖然大範圍也算是IC設計)
+所以能夠申請上在power方面top 10的學校，實在滿懷感激！
+留學必備的TOEFL iBT和GRE這裡就不談論了
+總之TOEFL有過100比較保險，GRE分數盡量能考高就考高！
+
+Statement of Purpose: 
+Statement of Purpose簡稱SOP，硬要翻中文的話勉強翻成讀書計畫吧！這個東西在眾多
+申請文件中是關鍵，幾乎決定了申請者會不會被錄取！因為它展現了申請者的未來學業規
+劃、申請動機等等。在台灣，很多學生是「不知道未來要做什麼」而去念研究所；但要去
+美國念研究所，這種心態完全要不得！如果在SOP裡面沒有充分展現想讀該領域的動機以
+及對未來不管是學習或是就業的規劃，那這份SOP充其量只能說是一篇英文廢話！
+
+在一開頭，就必須闡明想念的領域；讓審查委員認為你是一個有目標有規劃的申請者。以
+我自己的SOP為例，大概如下鋪陳
+開頭：
+簡單講述我在UIUC交換以及國研院晶片中心的經歷，讓我對analog IC以及power
+electronics方面有所接觸和更深認識。接著闡明我想要念該校的哪個研究所、專攻什麼
+領域。開門見山，讓審查委員一開始就注意到我日後的目標
+
+第一部分 Academic Performance： 
+時光倒流回大二，電機系的必修課 ── 電子學，我是修得非常有心得，讓我決定日後要
+走electronics相關的領域。再者，因為我有得過書卷獎(presidential award，學期成績
+前5%)，而且這個書卷獎讓我在大二升大三的暑假得以被台積電選入菁英培訓計畫的成員
+，所以會稍微提一下(更重要的，就是在這個培訓讓我重新認識台積電是走製程相關的領
+域，和我想要的不同；而且在諮詢內部學長姐的建議之下，體認到大三做circuit design
+的專題研究是多麼有用)
+第二部分 Anti-Radiation IC Design at SoC Lab：
+根據在台積電學長姐的建議，我大三時跟系上教授做的專題，奠基了我對電路設計更紮實
+的基礎、激發了我創新的能力、而且專題教授也全力支持我到UIUC交換。這邊注意了，雖
+然我大三的專題領域和現在研究所要修的沒直接相關，但是因為這是很好的歷練，所以應
+該要寫進去！
+第三部分 UIUC Exchange & CIC Summer Project：
+這是整篇SOP的精華，講述我在UIUC交換時，教授們帶領我進入power electronics和
+renewable energy的世界，並且power electronics期末專題和修課同學一起合作(成果備
+受power electronics的教授肯定，還跟我說以一個國際生這樣的成果是很值得讚許)、以
+及renewable energy課程的校外實地參訪，讓我對美國在綠能發展這方面有全新的觀點。
+基於以上這些經歷，我決定了研究所的專攻領域！
+另外，國研院晶片中心的經歷，也讓我在mixed-signal IC的layout以及下線有更為實務
+的經驗(大三專題只是軟體上的作業，這邊是實際製作出晶片)。
+到這邊其實就不難發現，我開頭以及前兩部分都是在為之後鋪陳，到了這部分展開全文的
+高潮！
+第四部分 為何選擇該校&以後想研究的領域(想跟的教授)&課業之外的規劃： 
+在寫這部分之前，就要先上各校的網站做點功課了！博士申請的部分就不談了，碩士部分
+雖然我申請的都是不寫論文的M.Eng(也有的學校是只有M.S.但可以選擇寫或不寫，我也都
+打算不寫)，但我都是找有要做capstone project的program，所以還是會寫想要跟哪些教
+授做研究，以及對每位教授的什麼研究領域特別有興趣。
+接著，明白闡述因為我在台灣缺乏業界實習經驗(都是學術界)，所以也希望能夠利用暑假
+到企業實習，並且列舉我心中的目標。這邊要跟大家分享的是，不要害怕沒有相關的企業
+實習或工作經驗而不敢寫在SOP；正是因為沒有這方面的經驗，所以立志要到美國念書的
+同時，這方面的經驗也要補足。讓審查委員看出你向上追求目標的積極性以及動力！
+
+※總結寫SOP的幾個要點：
+1. 開門見山，在一開頭就讓審查委員明白想鑽研的領域
+2. 段落跟段落之間必須要有非常緊密且相關的連結性；如果發現某段有一種天外飛來一
+筆的感覺，那就可以考慮刪掉了
+3. SOP必須是獨一無二、量身訂製的，一篇好的SOP只適用於「一個人」；如果發現某篇
+SOP套到每個人身上都可以使用，那這SOP就是一坨大便！另外，如果別人試圖效仿你SOP
+的某些句子要套用在他的SOP上面，但發現怎樣就是不通順，那恭喜你，這篇SOP是佳作！
+4. 注意各校系所要求的格式和頁數：我上面舉例的SOP算是我的「完整版」，就是如果沒
+有特別規定頁(字)數或行距，我就會這樣寫(大概是word 12號字、版面窄邊、單倍行距、
+2頁全滿)；倘若遇到特別規定(1.5倍行距、2倍行距、500字以內、不准超過一頁、邊界要
+1英吋…等等的)，那就要特別切重於未來要研究的方向配合過去相關的經歷。以我為例，
+Texas A&M的版本，我就只留下開頭、第三部分(第三部分也只寫UIUC的經歷)、第四部分
+5. 寫完之後，千萬不要急著就上傳送出了；給多一點人過目看看，有沒有什麼不通順的
+地方需要改、以及怎樣寫會更好。SOP絕對不要怕一修再修，修得愈多遍，愈能去蕪存菁
+，變成一篇亮麗動人的文章
+6. SOP在各校有不同的說法，也有人說Personal Statement。如果某間學校只要SOP或只
+要Personal Statement，那SOP等於Personal Statement，請集中火力在學術的經歷和目
+標上；如果兩者都要(像Berkeley和UMich)，那請見下面的Personal Statement敘述
+
+Personal Statement (Personal History Statement):
+簡稱PHS，如果某間學校說只要PHS，那請把它寫成SOP；如果SOP和PHS都要(通常這種學校
+比較少，但UC系統的好像都會要)，那我的建議是：SOP集中在學術的討論，PHS著重在課
+外的經驗(非學術)，兩者切勿重疊！雖然寫的是課外經驗，但也要緊密連結著這些非學術
+的經驗給了你什麼樣的歷練和能力以應用在研究所的學習，以及這些非學術的經驗如何促
+使你想要讀研究所…等等。
+和SOP一樣，PHS的段落和段落必須要有緊密且相關的連結性(不要天外飛來一筆)、一篇好
+的PHS只適用於一個人…等等的規則就不再贅述，反正一樣寫完之後多找些人過目修改！
+
+Curriculum Vitae:
+Curriculum Vitae簡稱CV，硬要翻中文的話就翻成履歷吧！和Resume不同的是，CV可以容
+許超過一頁(Resume就限制在一頁)，但申請學校也最好不要超過兩頁，畢竟真的沒那麼多
+有用的經歷可以寫，我說實在的！最重要的資訊都擺在第一頁(教育背景、GPA、研究經歷
+、得過獎項/證書、專業能力…等等)，讓審查委員可以比較容易看出來申請者的學術表現
+以及專業能力；另外，如果有LinkedIn的帳號，也可以放連結在上面，指不定審查委員有
+時間也會看一下。
+但也不是說課外經驗不用寫，課外經驗還是要寫在CV裡面的！寫了總比沒寫好，因為像有
+的學校就要求申請者不只會讀書，還要有相當的課外經驗(a holistic view)。
+
+聯絡美國教授(套詞):
+基本上聯絡美國教授對於申請碩士來說並非必要，但有聯絡總是好，最差的情況也就是石
+沉大海，教授不回你而已；好一點的，可能是個罐頭信件或是說等申請到了再聯絡這樣；
+而我給超多學校的教授寄信，也就Ohio State和Buffalo的教授有正面回我，雖然最後都
+沒選擇這兩間(Ohio State的私底下面試面了一個半鐘頭，Buffalo是直接信件中正面回應
+這樣)。比較有趣的是，我最終選擇的A&M並沒有在申請時有和任何一位教授聯絡，完全是
+給admission committee審查判決的！
+在寫給教授的套詞信中，除了著重在跟你要研究的領域相關的學術經歷、以及對該位教授
+某某研究領域有興趣之外，也記得要附上CV給教授參考！SOP那些就不用了，沒有一位教
+授有閒時間看落落長的SOP！
+
+推薦信:
+說坦白一點，申請碩班除非推薦信有國際級的大咖，不然基本上就是一種必要的文件但審
+查委員不一定會細看！我自己找教授幫寫推薦信，一開始有考慮給UIUC的Robert Pilawa
+教授(就是那位power electronics的教授)幫寫，但他後來完全沒回應我所以就作罷(當時
+猜想一定是太忙而且應該也忘了我是誰，後來也印證說他那段時間基本上在為跳槽到
+Berkeley做準備)。最後幫我寫的就學校兩位教授，以及一位我在上LEED證照課時認識的
+主辦公司的業務開發部主管！
+找教授/老闆幫寫推薦信，一定要問清楚該教授/老闆是不是需要我們申請者先幫擬草稿，
+以及是不是願意寫全部的學校。在找推薦者時，可以先幫每位推薦者定位一下應該要幫背
+書自己哪方面的能力和表現，這樣也比較好跟推薦者談，他們寫起來也比較有頭緒！
+
+申請時的選校&最終抉擇:
+我是邊申請邊在美加當助教的，也聽那邊的老師說：要念，就要盡量念top 30的，對以後
+不管是就業或繼續念博士才會有相當的保障！申請的學校裡面，只有保底的可能沒有前30
+，其餘的都是電機power領域top 30的學校。在選校時，我特別側重該校電機系有無
+power/energy相關領域，以及該領域的教授數量及研究是如何；也是因為有事先到每個學
+校網站做功課，UT Austin、University of Maryland、UC San Diego在我選校時就被排
+除在外了(只看學校，很好沒錯，但沒有我要的領域或領域資源太少我就打槍了)。
+1月底就收到Texas A&M的錄取通知(12間學校裡面第一個Admission)，這也是我碩士班第
+一志願！之後UC Berkeley和Georgia Tech都陸續拒絕我之後，差不多就做了決定要念A&M
+了！
+這邊稍微提一下為何我會選擇Texas A&M而非UIUC，兩者都是power前10的學校，幫我寫推
+薦信的其中一位教授還特別問到我在這兩者之間的選擇，所以需要特別討論一下：
+1. 我是確認要去Texas A&M之後，UIUC才發錄取給我的
+2. UIUC我日後有想要跟的教授：Robert Pilawa大牛，跑去UC Berkeley了(不知道的可以
+去看一下他的資歷，包準嚇到吃手手、跪到沒膝蓋了)；而且最近我看到UIUC power領域
+的教授，有兩個已經離開了(一個就是Pilawa去了Berkeley，另一個去了UT Austin)，我
+有考慮想跟的只剩下一個教授，說實在沒有繼續待下去的價值了。
+3. 美國土地那麼大，各州資源也是分配不均；念研究所，地點也是要考慮的！對於EE來
+說，德州的工作機會真的是非常之好(伊利諾州的芝加哥重點也是擺在金融產業)，不管是
+暑假找實習或是畢業之後的正職工作，地點都完勝UIUC！和交換時期不一樣，研究所關乎
+到未來很長一段時間的發展，地點不可不慎重考慮
+4. 錢、錢、錢！會影響留學生的日常生活，很重要的一個因素就是錢！既然兩個學校我
+都是錄取碩班都沒獎學金，那當然從學費以及生活費來考量啦！一般美國公立大學的學費
+，大約是一年30,000美金(像UMich可以貴到快50,000的我們就當例外吧)；而Texas A&M以
+其學費廉宜出名，一年只要15,000左右(直接砍半啊，誰能不心動)！而且德州生活費便宜
+(租屋、汽油…等)，相比於其他公立學校，一年下來也能省下不少花費！
+5. 長期的冰天雪地我還真的會受不了，德州給了我燦爛的陽光和溫暖的氣候！
+
+後記:
+申請學校是一場耐力賽，從最初開始寫SOP的第一個字，到去AIT面試完簽證到手，還真的
+要搞上整整一年！感謝爸媽一直支持我走自己喜歡的領域(當然還有那個至關重要的財力
+證明)、朋友之間的資訊交流、交大四年的栽培以及UIUC交換的啟發；最重要的，感謝
+Texas A&M願意賞臉給我入場券，讓我能在自己喜歡的領域發展！祝大家都能申請到自己
+理想的學校！Gig’em！
+

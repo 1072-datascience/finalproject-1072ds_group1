@@ -1,0 +1,184 @@
+
+[Admission]
+
+CMU MISM 16 month track with $6000 merit-base scholarship for the 1st semester
+（2/26）
+
+[Pending]
+
+UC Irvine ICS, UMich MSI
+
+[Rejection] (All MS program)
+
+UW HCDE (2/14)
+UC Berkeley MIMS (1/29 interview, 2/20 rejection)
+CMU IXD (3/7),
+MIT Media Lab (3/11),
+Getech HCI (3/16),
+UIUC CS (3/16),
+Stanford CS (3/26)
+[Decision]
+
+CMU MISM
+
+[Education]
+
+NTU EE BS (minor in civil engineering) 2007-2011, GPA: 3.69/4.0
+
+[Test Score]
+
+GRE (06/2012) V: 147 Q: 168 AWA: 3.0
+TOEFL (09/2012) R/L/W/S: 30/27/25/23, total: 105
+IELTS (12/2012) R/L/W/S: 6.5/7.5/6/6.5, overall: 7
+
+[Award]
+
+國科會大專生研究計劃（但掛的名字是我partner的）
+書卷x1(top 5%是在CE的成績，但下一個學期就轉到EE，所以系上沒發給我)
+總之，通通都是有實無名就對了，但為了充數還是有寫….（冷汗）
+
+[Publication]
+
+journal paper x1
+(both in wireless network, 3rd author)
+
+[Recommendation Letter]
+
+1 from NTU EE專題教授
+1 from NTU EE修課教授
+1 from 公司主管（NTU EE校友）
+
+[Working Experience]
+
+軟體工程師 (2011/9 - present)
+
+
+[各校申請過程]
+在這一年多的工作經驗中，常會討論到網頁頁面的呈現或整個使用流程，
+才開始發現user experience的重要性，並進一步知道HCI這個領域。
+又因為自己本身對health informatics和preventive medicine也很有興趣，所以在選校
+時特別找有相關研究的學校，
+希望可以利用HCI引起大家對健康資訊，和醫療方面的重視。
+故以下想跟大家分享我選校的經過，以及搜集到的相關資訊。
+
+
+MIT Media Lab裡面有兩三個Lab做的研究或產品（尤其是New Media Medicine group），
+完全符合我的理想，
+但是這些research group今年都沒有收學生。不過我還是選了其它次之，但也很有興趣的。
+而且為了這家，我拖拖拖拖到最後，12/2去考雅思（12/15 deadline喔^.<）
+
+Getech HCI 因為之前有看到某篇分享文提及，health information的相關研究很多甚至
+也滿可能有funding，
+加上他的課程配置很多元。鼓勵學生修跨學院的課，
+例如我本身申請的是computing college的HCI，可能就可以多去聽psycology or digital
+media之類的課，
+我相信如果能有這樣背景，對於之後整合性的研究或工作會很有幫助，思考的面向也可以
+比較多元。
+
+Stanford CS是因為我有在coursera上聽一個stanford教授的HCI課，
+並且hci網站上有說很鼓勵學生也去修design school的課或利用它資源我覺得很棒。
+加上網站上也看到最近有發表preventive medicine跟HCI結合的研究成果。
+
+因為我覺得我最明顯的弱點是在GRE上，但是這個program又不看GRE...
+總之當時可能打擊太大，暫時看到這個program腦袋一片空白，想不到其他可以說的Q Q
+不過我有寄信給ㄧ位剛從UMich過去的教授，是做跟psychology還是healthy behavior有
+關的hci project也非常有趣，
+他的回信則是說他沒有決定權之類的制式回應。
+
+CMU IXD 這個program網站上的資訊我覺得沒有很多，但是因為google到的某篇分享文說
+到，
+在seminar or design studio的時候會從各方面來討論design像是哲學，心理等等，非常
+吸引人。
+而且從health care，education各方面人的需求來思考與設計，是不是很誘人嘛….
+為了這個program我還有特地花時間準備profolio（只是內容都是程式設計或mobile app
+，較無和design直接相關的），
+結果又付諸流水 哈哈（乾笑）
+另外sop也很客制化，自己都覺得 天阿 我都好想收我自己阿（挖 自我感覺良好的氣息越
+來越濃厚了XDDD）
+後來的MISM也是copy這份改掉某一段而已?
+
+UCB MIMS 是我第一個想申請的學校，但也是事隔久遠，加上interview後被拒，有一種完
+全是自己搞砸了的感覺，
+所以一想到依然一片空白，忘了我當初愛他的理由XD
+之後我就只好邊看邊掰，我想他應該也聽得很不對味吧Q Q）
+下一個問題是關於application上的short essay，也因為太久以前就寫完了，回憶了一陣
+子才作答。
+總之因為沒有預料到這個program有phone interview，確實是我準備不足。
+記得是禮拜四早上看到interview通知，約禮拜六早上八點interview，由於正在工作，資
+料看得不全，準備得不夠充分。
+
+UCI ICS是看到某個教授的研究深受吸引，
+不過剛好她今年休假，特地在網站上說沒事不要打擾他，所以我就沒特別寄信。
+
+最後終於是CMU MISM了。
+當初會有興趣是因為他有一個area是health informatics，
+另一個原因則是CMU IXD當初就太吸引我，愛屋及烏。沒想到這也是今年唯一收到的AD。
+不過因為他要求申請者上傳一份video essay，我嫌太麻煩，所以是最晚submit的，
+甚至最後還有點懶惰想乾脆不送出了。
+然而轉念一想又覺得，既然都要申請了，當然要各方面都做到最好阿！
+趕緊在最後一天錄了video essay送出。(完全是不良示範XD)
+sop就是用特別客制化的CMU IXD那份再去修改，有幸收到錄取，我的熱忱終於有人感受
+到了T^T
+順帶一提，我在錄video essay時是剛下班洗完澡，穿著睡衣跟家用大外套便開始錄了，
+背景的書桌還有點亂....
+收到ad 之後，為了更瞭解該program以便做決定，於是多google了幾次，才發現放在yout
+ube上的video essay
+回去上班。
+如果更早能計劃好的話，應該可以準備得更完善。把留學考試成績再提高。（GRE其實有
+點難看）
+甚至是從一開始就顧好GPA。（3.69說實在要top school真的不太夠）
+只是若要能更早作決定，表示我需要更早接觸到HCI和相關領域。
+因此有志於再繼續進修的人，如果能多方嘗試必能更早找到自己最想走的路，並且更有目
+標跟動力。
+
+SOP的部分其實我一直有猶豫是否要把自己想走的路寫的很侷限，因為寫死的話我就可以
+針對這個點
+更好地強調我的passion，但又擔心這樣萬一跟program mission不完全match，只跟某個
+教授很合，好像賭太大了。
+對於這點，我覺得很難拿捏，我後來檢討，會不會因為這樣reviewer無法從application
+上看出我的熱忱之類的。
+不過我每個program的sop都有客制化，至少會修掉一兩段。只有UC Berkeley MIMS和CMU
+IXD完全從頭寫。噢 media lab也是。
+
+從申請開始，一直到收到結果，深深覺得留學這種事情真的不是自己一個人就能成的。
+回頭再看，要感謝的人實在是太多了。
+感謝國內國外噗浪團。
+感謝國內國外的電機團。
+感謝所有朋友。
+（還是都不要點名好了XD）
+
+感謝我的家人T^T
+
+真的得之於人者太多！！
+再次感謝留學板上的所有分享文，和各種考試版上的祕技！！
+
+--
+※ 發信站: 批踢踢實業坊(ptt.cc)
+◆ From: 118.160.51.4
+推 benedict0124:同申HCI推！btw it's "video" essay :)               03/30 17:21
+※ 編輯: tinachiu2114    來自: 114.25.90.139        (03/30 20:42)
+→ tinachiu2114:感謝樓上大大 發現四個video裡面竟然就有兩個拼XD     03/30 20:44
+推 jane050177:這豈不是男人嘛！！！！！  歡迎來到cmu！！！！！！！  03/30 21:01
+→ tinachiu2114:太酷了!!謝謝:)我正想說有些問題要來請教前輩您呢~    03/30 21:34
+→ tinachiu2114:而且好久沒看到男人這個字眼了 哈哈                  03/30 21:42
+推 henga:推噗浪團 恭喜發財我要去找妳玩~                            03/30 22:42
+推 Organizer:cong                                                  03/30 23:07
+推 chieher:唉呀呀...如果你是抱著想學HCI的心情來MISM大概會很失望    03/31 01:11
+→ chieher:為什麼不是愛屋及烏申CMU HCI呢？ (搔頭)                  03/31 01:12
+推 rolaiba:6000獎學金還滿強的 恭喜!                                03/31 03:24
+推 sam9595:其實我也覺得照你的敘述 MISM跟你想要的應該有點落差...    03/31 05:46
+感謝樓上chieher跟sam大提醒。
+其實我自己也知道....所以發現結果都來得差不多
+，大概沒機會HCI後 就已經調整完心態了XD
+（是只有一個AD沒得選的人阿 哈哈）
+我有在IXD, MHCI跟MISM考慮過，
+而當初沒有選擇CMU MHCI是覺得他的program mission跟規劃，
+和我從工作經驗學到的技能或觀念重複性比較高。
+既然要投資，我會更想學對自己來說更陌生的東西(所以選擇的是IXD跟MISM)
+雖然不是HCI但也同樣有興趣啦，謝大大們為我擔心：）
+※ 編輯: tinachiu2114    來自: 114.25.91.80         (03/31 08:53)
+推 airen:我也是申請HCI 握手握手 恭喜上榜!!!                        04/01 00:48
+推 chieher:嗯嗯有想好就ok啦. 恭喜!                                 04/01 08:37
+推 r44:恭喜!                                                       04/02 10:04
+→ r44:請問您申請時MISM有要求托福每項都25以上嗎@@                  04/02 10:04
+→ tinachiu2114:不好意思 我不是非常肯定 但印象中應該是有喔~        04/02 22:41

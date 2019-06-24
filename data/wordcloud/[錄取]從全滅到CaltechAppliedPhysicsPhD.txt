@@ -1,0 +1,237 @@
+
+前言
+
+這是一個2017全滅但是2018上Caltech的故事
+版上今年申請物理相關的文似乎不多
+念在我從留學版受益良多
+希望可以藉由這篇文章回饋留學版
+
+我想適合參考這篇文章的對象有：
+1. 背景是綜合性學程的人
+2. 申請物理及材料相關博士班的人
+3. 無發表的人
+4. 三圍中上但還在凡間的人
+5. 申請全滅的人
+
+　　本文不會詳述整個申請流程，畢竟像是申請手續、考試準備等，網路上已有不少教學
+，自認再怎麼寫也無法更詳實。
+　　另外，不少人想知道我全滅的這一年做了什麼關鍵的準備，使結果逆轉。這是相當好
+的問題，但我並不會在這篇文章給出一個明確的結論，因為我自己早就瞪著兩年的申請資
+料比對過無數次，結果還是沒看出什麼端倪XD。個人認為運氣佔80%以上！所以我想最客
+觀的做法，就是把我的資料陳列出來，供大家自行比對及參考。
+
+以下將依序列出我的背景及兩年申請的資料，再分享一些我特別有心得的部份。
+
+
+背景提要：大學
+
+【Undergrad Background】
+BS in 理學院學士班, NTHU
+專長: Physics & MSE
+輔系: CS
+GPA: 4.03/4.3 (Ranking: 1/27)
+
+【Undergrad Research】
+兩岸暑期交流專題@F大物理系(Condensed Matter Experiment)
+
+【Undergrad Awards】
+君政學者
+斐陶斐榮譽會員
+書卷獎x2
+
+申請資料：2017 Fall
+
+【Academic Status】
+2nd year MS student in Physics, NTU
+Research field: Computational Materials Physics (@IAMS, in collaboration
+with experiments)
+
+【Test Scores】
+TOEFL: 109 R27 L30 S26 W26
+GRE: 326 V158 Q168 AWA3.0
+SGRE: 一戰 960 二戰 970
+
+【TA Experience (NTU)】
+Undergrad-Level Quantum Physics, 1 semester
+Graduate-Level Classical Mechanics, 1 semester
+
+【Publication】
+None
+
+【Applying to】
+PhD mainly in Physics and Applied Physics (AP)
+Condensed Matter Theory, Quantum Information & Computing Theory
+
+【Recommendation】
+碩班老闆 x1
+F大專題老闆 x1
+大學導師 x1
+TA老闆 x1
+
+【Rejection (All PhD)】(共14間，都沒有寄信聯絡老師)
+Physics, Stanford
+Physics, UC Berkeley
+Physics, Caltech
+Physics, MIT
+Physics, Cornell
+Physics, UCSB
+Physics, UCSD
+Physics, UMD
+Physics, UMich
+Physics, UIUC
+Physics, Columbia
+AP, Harvard
+AP, Yale
+EE, Princeton
+
+
+申請資料：2018 Fall
+
+以下只列出跟2017不一樣的部分
+
+【Test Scores】
+SGRE: 三戰 970...
+
+【Academic Status】
+NTU Physics MS received
+RA, IAMS (same lab)
+Continued my MS project
++1 ongoing side project in collaboration with the industry
++1 ongoing side project in collaboration with a PhD student in the US
+
+【Posters & Publications】
+1 poster at an international conference
+1 poster at local conferences
+1 co-authored paper in submission
+1 first-authored paper in preparation
+(言下之意：仍然沒有發表QQ)
+
+【Awards】
+Dean's Award, NTU College of Science
+Gold Prize, IAMS Young Researcher Presentation Contest
+
+【Applying to】
+PhD mainly in Physics, AP, and MSE
+Computational Materials Physics, Experimental Condensed Matter Physics
+
+【Admission Results (All PhD)】
+(AD為綠色，REJ為紅色，共15間，
+依各學系的排名由前到後列出，打*號表示有寄信聯絡老師)
+*AP, Caltech, AD
+*MSE, UC Berkeley, REJ
+*MSE, Stanford, REJ
+*AP, Yale, REJ
+*CSEM, UT Austin, AD
+*Molecular Engineering, UChicago, REJ
+Physics, UCSD, AD
+*Physics, UT Austin, REJ
+*AP, Northwestern, AD (+ Data Science Fellowship)
+Physics, Georgia Tech, REJ
+Physics, UCI, AD
+Physics, Rutgers, REJ
+Physics, Brown, WL -> AD
+Physics, CMU, REJ
+*Physics, WUSTL, AD
+Physics, USC, AD
+
+【Decision】
+Caltech
+
+
+心得
+
+【選校策略】
+
+1. 保底就要保夠底，不夠也別怪自己
+　　選校要保底是常識，但從我2017的申請清單可以看出，我當時很狂妄的以top 16
+(UCSD)保底，因為我知道有同學各項成績不如我，但之前上了UCSD。那時天真的以為這樣
+自己穩了，但我忽略了每年的競爭者不一樣、每個人申請的領域不一樣、每年各校開缺的
+情況也不一樣，讓我包括UCSD在內全部被拒。因此如果是想盡快去念PhD人，建議不要像
+我有「某某某客觀條件不如我但是上了XX校，所以我也一定上的了XX校」的錯覺，申請的
+名單可以往後推。像我第二年就把申請排名推到top 60 (USC) (這是推的有的誇張啦…因
+為我第二次真的是抱著必上的決心)。
+　　但，被REJ的因素可能多采多姿，也可能跟實力完全無關。像是就我所知，2017 Fall
+的申請不只是物理領域，似乎不少領域都相當慘烈，很可能是當時的大環境所致。又像是
+今年(2018)University of Utah的Physics PhD招生，因為系上營運的關係，無預警的在
+三、四月時宣布免費退回所有學生的申請。這些事情都是沒有人可以預料的。所以保底這
+種事情，如果已經經過了多方的考量、申請得也很保守，結果還是全滅，那真的是運氣較
+差。人算不如天算，別怪自己，下次站起來繼續戰。
+
+2. 不用妄自菲薄
+　　我申請時有個天真的想像：申請結果的分佈可能是排名<n的學校全部REJ，排名>=n的
+學校全部AD(簡單來說就是像step function)。這邊我特地將2018的Admission Results以
+學校排名為順序列出。可看出分佈相當不規則，與step function相去甚遠。換句話說：
+被後面的學校REJ，也不代表前面的學校不會AD。就像我被CMU拒絕，但是被Caltech錄取
+。這說明申請真的很看運氣，可以不用因為有些條件不完美(像我GRE的Q沒滿，SGRE沒滿
+，GPA沒破4.10，也沒發表…)，就直接放棄申請夢校，還是可以挑幾間來挑(ㄔㄡ)戰(ㄐ
+ㄧㄤˇ)看看的。
+
+3. 寄信的效果
+　　從我第二年的申請結果來看，有沒有寄信跟錄取結果的關聯性似乎沒有很高，效果有
+限。因為不少博班program(尤其是物理領域)都是由admission committee團招，所以即便
+有連絡上老師、而且他對你有興趣，他不在admission committee裡也是無能為力。因此
+寄信大部分的老師都不會回，或是只是很籠統的回覆「I encourage you to apply to
+our program.」例如UChicago的Molecular Engineering PhD，我寄信問了對方一個老師
+，領域很合，對方也說有開缺，結果我submit後兩天(deadline都還沒到)，該program就
+開始發AD了且我沒拿到，最後不意外的吃了REJ。但寄信有一個好處是可以幫忙刪掉一些
+學校及省錢。像是第二年申請時Cornell我只有看到一個領域比較相符的老師，在連寄兩
+次信過去都沒得到回音後，我就把Cornell從我的清單中刪除了。總之，寄信就是一個效
+果有限，但是有時間就可以多嘗試的事。
+
+
+【SOP：如何顯示出你的potential?】
+
+　　之前在準備申請時，時常看到網路上有人說老師們在審資料的時候，是要看一個學生
+有沒有「potential」。過去我總覺得這樣的說法很籠統，也不太懂potential到底是指什
+麼，因此這邊特地整理一下我的看法。
+　　最近有在幫我朋友看SOP，結果我發現裡面只有類似「我把某材料的效能提高到XX%」
+或是「我某某work最後發表在XX期刊」等直白的研究成果。這些都是相當不錯的成果，也
+值得一提，但我認為並不是唯一值得提的東西。能不能做出好成果、發的上好期刊，有的
+時候很看運氣。像是做理論的，一個project通常都要醞釀很久，常常沒有什麼「結果」
+可以秀出來。我想學術圈這樣的生態，admission committee應該也都心知肚明。所以我
+認為，即便是一個未完成、或是成果並沒有很impressive的工作，仍有以下幾個非常值得
+提的點：
+(a) 為什麼這份工作重要?為何值得人去研究?這份工作將如何影響科學、人類社會的發展
+? (這部分其實就像一篇paper裡的Introduction)
+(b) 在這份工作中，你的地位是什麼?為什麼你的腳色不可或缺?
+(c) 在這份工作中，你如何跟他人溝通合作?(如果有的話)
+(d) 你還有尚未解決的問題嗎?你之後打算如何解決? (其實就像一篇paper裡的Future
+Work)
+　　有條理的說明這幾點，可顯示出你對於你的領域有充足的認識，並且對自己的
+project有責任感和榮譽感，我想這些就是所謂的「potential」。當然，不能直接說「I
+am responsible for and proud of my work」(這樣誰都可以寫)，而是要描述你實際做
+了哪些積極的舉動。例如：「為了解決XX問題，我自發性的去修了YY線上課程，並動手設
+計了ZZ實驗流程，並在WW會議上彙報了我的實驗結果，在會議上我與AAA教授討論，得到
+了BB靈感，因此我將來打算用CC方法改良我的實驗….等等等….」。如此讀者便可在字裡
+行間感受到你「責任」和「榮譽」的特質，而SOP中提及的「interest」也可以被大大的
+support。
+　　其實我即便申請了二年，還是自認SOP這方面沒有做的很好(說的頭頭是道，但其實自
+己也不擅長XD)。但從我沒有發表但有不錯的申請結果來看，學校在審申請資料的時候看
+得應該不只是研究的成果。
+
+
+【全滅的路上，有你、有我、有他】
+
+　　全滅真的是非常不好受的一件事。但請記得：很多人都全滅過，你不孤單。網路上的
+一堆神文滑下來，可能會讓人有種「大家都在錄取、只有我在全滅」的孤寂感，畢竟像是
+留學版有「錄取」分類，但可沒有「全滅」分類阿XD。但我認為，全滅的人可能暫時沒心
+情談論這件事情、或是根本沒時間發文因為在忙著二戰。像我2017全滅，也是晦氣罩頂了
+一年，直到2018錄取(+被催稿)了才來發文XD。甚至，我拿到錄取後連絡各校的學長姐時
+，提到自己是二戰才上，還意外獲得一些學長姐共鳴：「我當初也是全滅阿！！」先認清
+這件事情是很普通的一件事，可能就會比較好面對。當然，全滅的這一年，profile要按
+部就班的提升，然後申請策略要檢討和改進，這些都是不可少的。
+
+
+結語&致謝
+
+　　可以得到去Caltech念書的機會，運氣真的非常好，我到現在都還有點不可置信。感
+謝女朋友和家人陪伴我度過這段難熬的期間，並幫助我達成一直以來的目標。感謝幫我寫
+推薦信的貴人老師們，兩年加起來申請了近30所program，請他們寫推薦信時卻都是二話
+不說答應。特別感謝碩班老闆的指導和提拔，我才得以被領入科學的第一道門。
+
+若有人有相關的問題想詢問，歡迎隨時站內信。
+
+【催稿時間】
+敝實驗室還有另外一位今年申請上去德國Julich念書的同學，他的故事可是貨真價實
+的精采絕倫，各位敬請期待！
+
