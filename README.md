@@ -15,8 +15,7 @@ You should provide an example commend to reproduce your result
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
 
-* any on-line visualization Shiny.io website
-  [WEBSITE](https://zihengh1.shinyapps.io/graduate_admissions/)
+* any on-line visualization Shiny.io [WEBSITE](https://zihengh1.shinyapps.io/graduate_admissions/)
 ## Folder organization and its related information
 
 ### docs
