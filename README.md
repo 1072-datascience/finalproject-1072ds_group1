@@ -85,7 +85,7 @@ Here is our demo website link.
 <!--
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__) -->
 * Packages you use
-<img src="./docs/PLOT/ScikitLearn.png" width = 250>
+<img src="./docs/PLOT/ScikitLearn.png" width = 183>
   * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar
   * sklearn, pandas, numpy, matplotlib, jieba, WordCloud 
 <!-- * Related publications -->
