@@ -75,7 +75,7 @@ Here is our demo website link.
     * accuracy
     * precision
     * recall
-    * f1-score
+    * F1-score
 <!-- * Is your improvement significant?
 * What is the challenge part of your project?
   * processing
