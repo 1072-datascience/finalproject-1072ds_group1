@@ -9,6 +9,7 @@
 |陳則明|105703053|
 
 ### Goal
+![UCLA icon](./docs/PLOT/UCLA.png)
 - 預測來自印度的 UCLA 研究所申請者被錄取的機率
 - 申請國外 Top30 碩班的 Prototype
 
@@ -37,6 +38,7 @@ Here is our demo website link.
   * [Proposal3](./docs/proposal3.pdf) -- describe cluster process
 
 ### data
+![Kaggle icon](./docs/PLOT/kaggle.png)
 * Source : [Kaggle DataSet](https://www.kaggle.com/mohansacharya/graduate-admissions)
 * Input format : .csv
 * Any preprocessing?
@@ -82,6 +84,7 @@ Here is our demo website link.
 <!--
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__) -->
 * Packages you use
+![scikit learn](./docs/PLOT/ScikitLearn.png)
   * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar
   * sklearn, pandas, numpy, matplotlib, jieba, WordCloud 
 <!-- * Related publications -->
