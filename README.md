@@ -9,7 +9,7 @@
 |陳則明|105703053|
 
 ### Goal
-<img src="./docs/PLOT/UCLA.png" width = 375>
+<img src="./docs/PLOT/UCLA.png" width = 250>
 
 - 預測來自印度的 UCLA 研究所申請者被錄取的機率
 - 申請國外 Top30 碩班的 Prototype
@@ -85,7 +85,7 @@ Here is our demo website link.
 <!--
 * Code/implementation which you include/reference (__You should indicate in your presentation if you use code for others. Otherwise, cheating will result in 0 score for final project.__) -->
 * Packages you use
-![scikit learn](./docs/PLOT/ScikitLearn.png)
+<img src="./docs/PLOT/ScikitLearn.png" width = 250>
   * shiny, ggplot2, corrplot, leaflet, DT, dplyr, ggradar
   * sklearn, pandas, numpy, matplotlib, jieba, WordCloud 
 <!-- * Related publications -->
